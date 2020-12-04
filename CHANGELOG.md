@@ -5,6 +5,10 @@ Katalog dist zawiera najnowsze, aktualne zasoby przekładu UBG.
 
 ## Zmiany
 
+### Update (2020-11-11)
+* katalog dist z plikiem version.txt oraz wszystkimi plikami (wszystkie pliki wynikowe uzyskujemy z jednego źródłowego pubg.ont)
+* plik [Biblia UBG LOGOS.docx] wygenerowano z [Biblia UBG LOGOS.rtf] przy pomocy LibreOffice ze względu na to, że Logos.com nie importuje bezpośrednio plików rtf.
+
 ### Errata (20201103)
 * aktualizacja pliku pubg.ont (oraz kopia jako pubg-20201103.ont)
 
