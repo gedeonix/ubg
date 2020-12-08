@@ -131,7 +131,6 @@ docx.on('error', function(err) {
 
 index.forEach((item, i) => {
 
-    /*
     let text = model[i]
         .replace(/\r/g, '')
         .replace(/<RX [0-9]+.[0-9]+.[0-9]+>/g, '')
@@ -165,7 +164,6 @@ index.forEach((item, i) => {
         pObj.setStyle('Nagwek2')
         pObj.addText('Rozdział ' + ind.c, { font_size: 18, color: '4E6277' })
     }
-    */
 
     // Werset
     /*
@@ -178,35 +176,6 @@ index.forEach((item, i) => {
     }
     */
 })
-
-// var header = docx.getHeader().createP();
-//header.addText('asd');
-
-{
-    var pObj = docx.createP();
-    pObj.addText('Since ', {font_size: 20, font_face: 'Ravie'});
-    pObj.addText('asd', {back: '00ffff', shdType: 'pct12', shdColor: 'ff0000', font_size: 20, font_face: 'Jokerman'}); // Use pattern in the background.
-    pObj.addText(' you can do ', {font_size: 20, font_face: 'Script MT'});
-    pObj.addText('more cool ', {highlight: true, font_size: 20, font_face: 'Small Fonts'}); // Highlight!
-    pObj.addText('stuff!', {highlight: 'darkGreen', font_size: 20, font_face: 'Lucida Calligraphy'}); // Different highlight color.
-}
-
-{
-    let pObj = docx.createP()
-    pObj.setStyle('Nagłówek 1')
-    pObj.addText('Nagłówek 1')
-}
-
-{
-    let pObj = docx.createP()
-    pObj.setStyle('Nagłówek 2')
-    pObj.addText('Nagłówek 2')
-}
-
-{
-    let pObj = docx.createP()
-    pObj.addText('abc...')
-}
 
 let out = fs.createWriteStream('./dist/Biblia UBG LOGOS.docx')
 out.on('error', function(err) {
