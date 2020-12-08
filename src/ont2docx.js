@@ -105,6 +105,7 @@ docx.on('error', function(err) {
 })
 
 {
+    /*
     docx.createP().addText('')
     docx.createP({ align: 'center'}).addText('PISMO ŚWIĘTE', { font_size: 40 })
     docx.createP({ align: 'center'}).addText('STARY I NOWY TESTAMENT',  { font_size: 18 })
@@ -127,6 +128,7 @@ docx.on('error', function(err) {
     docx.createP().addText('')
     docx.createP().addText('build: 2020-12-07')
     docx.putPageBreak()
+    */
 }
 
 index.forEach((item, i) => {
@@ -155,15 +157,22 @@ index.forEach((item, i) => {
     if (ind.c === 1 && ind.v === 1) {
         let pObj = docx.createP({ align: 'center'})
         pObj.setStyle('Nagwek1')
-        pObj.addText(book.long, { font_size: 22, color: '4E6277' })
+        pObj.addText(book.long/*, { font_size: 22, color: '4E6277' }*/)
     }
 
+    {
+        // let pObj = docx.createP()
+        // pObj.addText('text')
+    }
+
+    /*
     // Rozdział
     if (ind.v === 1) {
         let pObj = docx.createP()
         pObj.setStyle('Nagwek2')
         pObj.addText('Rozdział ' + ind.c, { font_size: 18, color: '4E6277' })
     }
+    */
 
     // Werset
     /*
