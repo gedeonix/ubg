@@ -1,13 +1,11 @@
 {
   "name": "ubg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": "true",
   "description": "",
   "license": "(c) Fundacja Wrota Nadziei",
   "dependencies": {
-    "docx": "^5.4.1",
-    "docx-builder": "^1.0.7",
     "docxtemplater": "^3.19.7",
-    "officegen": "^0.6.4"
+    "pizzip": "^3.0.6"
   }
 }

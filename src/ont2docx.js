@@ -1,8 +1,8 @@
 const path = require('path')
 const fs = require('fs')
 
-const officegen = require('officegen')
-officegen.setVerboseMode ( true )
+var Docxtemplater = require('docxtemplater')
+var PizZip = require('pizzip')
 
 const books = [
     { code: 'Ge', abbr: 'Rdz', short: 'Rodzaju', long: 'Księga Rodzaju' },
@@ -96,38 +96,11 @@ let meta = data.slice(31103)
 
 console.log('[UBG]', index.length, lines.length, model.length, meta.length)
 
-let docx = officegen('docx')
-docx.on('finalize', function(written) {
-    console.log('Finish to create a Microsoft Word document.')
-})
-docx.on('error', function(err) {
-    console.log(err)
-})
+var template = fs.readFileSync(__dirname + "/bible-template.docx","binary")
+var zip = new PizZip(template)
+var doc = new Docxtemplater().loadZip(zip)
 
-{
-    docx.createP().addText('')
-    docx.createP({ align: 'center'}).addText('PISMO ŚWIĘTE', { font_size: 40 })
-    docx.createP({ align: 'center'}).addText('STARY I NOWY TESTAMENT',  { font_size: 18 })
-    docx.createP().addText('')
-    docx.createP().addText('')
-    docx.createP({ align: 'center'}).addText('Pilnie i wiernie przetłumaczone w 1632 roku')
-    docx.createP({ align: 'center'}).addText('z języka greckiego i hebrajskiego na język polski,')
-    docx.createP({ align: 'center'}).addText('z uwspółcześnioną gramatyką i uaktualnionym słownictwem')
-    docx.createP().addText('')
-    docx.createP().addText('')
-    docx.createP({ align: 'center'}).addText('Fundacja Wrota Nadziei')
-    docx.createP({ align: 'center'}).addText('Toruń 2020')
-    docx.putPageBreak()
-    docx.createP().addText('© 2020 Fundacja Wrota Nadziei')
-    docx.createP().addText('Wydawca wyraża zgodę na kopiowanie i rozpowszechnianie')
-    docx.createP().addText('całości lub części publikacji, jednak bez czerpania z tego')
-    docx.createP().addText('korzyści finansowych i bez wprowadzania jakichkolwiek zmian.')
-    docx.createP().addText('Powielanie do celów komercyjnych wymaga pisemnej zgody Fundacji.')
-    docx.createP().addText('')
-    docx.createP().addText('')
-    docx.createP().addText('build: 2020-12-11')
-    docx.putPageBreak()
-}
+let builder = []
 
 index.forEach((item, i) => {
 
@@ -138,47 +111,50 @@ index.forEach((item, i) => {
         .replace(/<RF>([^>]*)<Rf>/g, '')
         .replace(/<HE>([^>]*)<He>/g, '')
         .replace(/<TS>([^>]*)<Ts>/g, '')
-        .replace(/<FI>/g, '<i>')
-        .replace(/<Fi>/g, '</i>')
-        .replace(/\–/g, '&ndash;')
-        .replace(/\„/g, '&bdquo;')
-        .replace(/\”/g, '&rdquo;')
-        .replace(/<PS><i>/g, '<b>')
-        .replace(/<\/i>[.]<Ps>/g, '.</b>')
+        //.replace(/<FI>/g, '<i>')
+        //.replace(/<Fi>/g, '</i>')
+        .replace(/<FI>/g, '')
+        .replace(/<Fi>/g, '')
+        //.replace(/\–/g, '&ndash;')
+        //.replace(/\„/g, '&bdquo;')
+        //.replace(/\”/g, '&rdquo;')
+        //.replace(/<PS><i>/g, '<b>')
+        //.replace(/<\/i>[.]<Ps>/g, '.</b>')
+        .replace(/<PS><i>/g, '')
+        .replace(/<\/i>[.]<Ps>/g, '.')
+        .replace( /(<([^>]+)>)/ig, '')
 
     let ind = index[i]
     let number = parseFloat(ind.b) - 1;
     let book = books[number];
     let name = book.code + ' ' + ind.c + ':' + ind.v
 
+    // console.log(text)
+
     // Księga
     if (ind.c === 1 && ind.v === 1) {
-        let pObj = docx.createP({ align: 'center'})
-        pObj.setStyle('heading 1')
-        pObj.addText(book.long, { font_size: 22, color: '4E6277' })
+        builder.push('<w:p><w:pPr><w:pStyle w:val="Nagwek1"/><w:rPr/></w:pPr><w:r><w:rPr/><w:t>' + book.long + '</w:t></w:r></w:p>')
     }
 
     // Rozdział
     if (ind.v === 1) {
-        let pObj = docx.createP()
-        pObj.setStyle('Nagwek2')
-        pObj.addText('Rozdział ' + ind.c, { font_size: 18, color: '4E6277' })
+        builder.push('<w:p><w:pPr><w:pStyle w:val="Nagwek2"/><w:rPr/></w:pPr><w:r><w:rPr/><w:t>' + ('Rozdział ' + ind.c) + '</w:t></w:r></w:p>')
     }
 
     // Werset
     {
-        let pObj = docx.createP()
-        pObj.addText('[[@Bible:' + book.code + ' ' + ind.c + ':' + ind.v + ']] [[' + ind.c + ':' + ind.v + '|bible:' + name + ']]' + ' ');
-        // pObj.addText('[[@Bible:' + book.code + ' ' + ind.c + ':' + ind.v + ']] [[' + ind.c + ':' + ind.v + ' >> ' + book.code + ' ' + ind.c + ':' + ind.v + ']]' + ' ');
-        // pObj.addText('{{field-on:bible}} ')
-        pObj.addText(text)
-        //pObj.addText('{{field-off:bible}}')
+        let v1 = '[[@Bible:' + book.code + ' ' + ind.c + ':' + ind.v + ']] [[' + ind.c + ':' + ind.v + '|bible:' + name + ']]' + ' '
+        let v2 = '<w:p><w:pPr><w:pStyle w:val="Normal"/><w:rPr/></w:pPr><w:r><w:rPr/><w:t>' + v1 + text + '</w:t></w:r></w:p>'
+        builder.push(v2)
     }
 })
 
-let out = fs.createWriteStream('./dist/Biblia UBG LOGOS.docx')
-out.on('error', function(err) {
-    console.log(err)
+doc.setData({
+    build: '2020-12-11',
+    body: builder.join(''),
 })
 
-docx.generate(out)
+doc.render()
+
+let buf = doc.getZip().generate({type:"nodebuffer"});
+fs.writeFile('./dist/BibliaUBG-logos.docx', buf, (err) => { })
