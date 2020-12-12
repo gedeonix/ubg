@@ -114,6 +114,9 @@ index.forEach((item, i) => {
         .replace(/\”/g, '&rdquo;')
         .replace(/<PS><i>/g, '<b>')
         .replace(/<\/i>[.]<Ps>/g, '.</b>')
+        .replace(/<\/i>[:]<Ps>/g, ':</b>')
+        .replace(/<\/i>, <i>/g, ', ')
+        .replace(/<\/i>: <i>/g, ': ')
 
     /*
     let link = model[i]
