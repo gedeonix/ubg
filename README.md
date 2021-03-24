@@ -31,3 +31,8 @@ Ważne jest to, że dla plików ont mamy 31102 linie wersetów (wg numeracji KJV
  [2]
  jest => 2Chr 6:4 I powiedział: Błogosławiony <i>niech będzie</i> PAN, Bóg Izraelem, który swoimi rękami wypełnił to, co mówił swoimi ustami do mojego ojca Dawida:
  było => 2Chr 6:4 I powiedział: Błogosławiony <i>niech będzie</i> PAN, Bóg Izraela, który swoimi rękami wypełnił to, co mówił swoimi ustami do mojego ojca Dawida:
+
+## Dokumentacja i info zmian (także wprowadzane erraty)
+
+    https://docs.google.com/document/d/179Uk1jZGFy-4xGVB-55p7NFQFcFxLX0UOgyhjNErvLI/edit?usp=sharing
+
