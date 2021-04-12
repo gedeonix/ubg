@@ -61,7 +61,7 @@ data.forEach((item, i) => {
             }
             else {
                 console.log(i, row)
-                out.push('????')
+                out.push(row)
             }
 
         } else {
