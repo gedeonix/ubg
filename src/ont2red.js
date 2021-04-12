@@ -85,6 +85,8 @@ data.forEach((item, i) => {
         else {
             out.push(row)
         }
+    } else {
+        out.push(row)
     }
 })
 
