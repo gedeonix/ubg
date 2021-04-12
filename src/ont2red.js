@@ -3,7 +3,8 @@ const fs = require('fs')
 
 let out = []
 
-let data = fs.readFileSync(path.join(__dirname, '../dist/pubg.ont'), 'utf8').toString()
+// let data = fs.readFileSync(path.join(__dirname, '../dist/pubg.ont'), 'utf8').toString()
+let data = fs.readFileSync(path.join(__dirname, '../dist/pubg-red.ont'), 'utf8').toString()
 if (data.charCodeAt(0) === 0xFEFF) {
     data = data.slice(1)
 }
@@ -11,13 +12,16 @@ data = data.split(/\n/)
 
 console.log('[UBG]', data.length)
 
+/*
 let input = fs.readFileSync(path.join(__dirname, '../src/arch/ubg-old.txt'), 'utf8').toString().split(/\n/)
 console.log('[UBG old', input.length)
+*/
 
 // czytamy kolejne wiersze
 
 let idx = 0
 
+/*
 data.forEach((item, i) => {
     let row = data[i]
     let detect = input[i]
@@ -69,5 +73,19 @@ data.forEach((item, i) => {
         }
     }
 })
+*/
 
-fs.writeFileSync('./dist/pubg-red.ont',  '\ufeff' + out.join('\n'), {encoding: 'utf-8'})
+data.forEach((item, i) => {
+    let row = data[i]
+    let split = row.split(/<[/]?J>/g);
+    if (split.length > 1) {
+        if (split.length === 2 || split.length === 4 || split.length === 6 || split.length === 8 ) {
+            out.push(row + '</J>')
+        }
+        else {
+            out.push(row)
+        }
+    }
+})
+
+fs.writeFileSync('./dist/pubg-red-v2.ont',  '\ufeff' + out.join('\n'), {encoding: 'utf-8'})
