@@ -36,3 +36,6 @@ Ważne jest to, że dla plików ont mamy 31102 linie wersetów (wg numeracji KJV
 
     https://docs.google.com/document/d/179Uk1jZGFy-4xGVB-55p7NFQFcFxLX0UOgyhjNErvLI/edit?usp=sharing
 
+Ezd 10,25
+Eelazar
+Eleazar
