@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="LAM" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Lamentacje</para>
+  <para style="toc1">Lamentacje</para>
+  <para style="toc2">Lamentacje</para>
+  <para style="toc3">Lm</para>
+  <para style="mt1">Lamentacje</para>
+  <chapter number="1" style="c" sid="LAM 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="LAM 1:1" />Ach, jak samotnie siedzi miasto niegdyś tak pełne ludzi! Stało się jak wdowa! Niegdyś wielka wśród narodów i księżniczka wśród prowincji, teraz stała się podwładną.<verse eid="LAM 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="LAM 1:2" />Nieustannie płacze w nocy, a na jej policzkach łzy. Nie ma nikogo, kto by ją pocieszył pośród wszystkich jej kochanków. Wszyscy jej przyjaciele zdradzili ją i stali się jej wrogami.<verse eid="LAM 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="LAM 1:3" />Juda poszedł na wygnanie z powodu ucisku i wielkiej niewoli, mieszka między poganami i nie znajduje odpoczynku. Wszyscy jego prześladowcy dopadli go pośród ucisków.<verse eid="LAM 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="LAM 1:4" />Drogi Syjonu płaczą, bo nikt nie przychodzi na uroczyste święta. Wszystkie jego bramy opustoszały, jego kapłani wzdychają, jego dziewice są smutne, a on sam jest pełny goryczy.<verse eid="LAM 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="LAM 1:5" />Jego wrogowie są zwierzchnikami, jego przeciwnikom szczęśliwie się powodzi. PAN bowiem trapił go z powodu mnóstwa jego występków. Jego dzieci poszły do niewoli przed ciemięzcą.<verse eid="LAM 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="LAM 1:6" />A tak odjęte zostało od córki Syjonu całe jej dostojeństwo. Jej książęta stali się jak jelenie, które nie znajdują pastwiska, i uchodzą bez siły przed tym, który je ściga.<verse eid="LAM 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="LAM 1:7" />W dniach swego utrapienia i swej niedoli Jerozolima wspomina wszystkie swoje kosztowności, jakie miała za dawnych dni, gdy jej lud wpadł w ręce wroga, a nikt jej nie pomógł; nieprzyjaciele, widząc ją, naśmiewali się z jej szabatów.<verse eid="LAM 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="LAM 1:8" />Jerozolima ciężko zgrzeszyła, dlatego została odłączona jako nieczysta. Wszyscy, którzy ją szanowali, gardzą nią, gdyż widzą jej nagość, a ona wzdycha i odwraca się plecami.<verse eid="LAM 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="LAM 1:9" />Jej nieczystość jest na brzegach jej szat, nie pamięta swego końca; dlatego wielce ją poniżono i nikt jej nie pociesza. Spójrz, PANIE, na moje utrapienie, bo wróg się wywyższył.<verse eid="LAM 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="LAM 1:10" />Wróg wyciągnął swoją rękę po wszystkie jej kosztowności. Patrzy, jak poganie, którym zakazałeś wchodzić do twego zgromadzenia, wchodzą do jej świątyni.<verse eid="LAM 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="LAM 1:11" />Cały jej lud wzdycha i szuka chleba, daje swoje kosztowności za pokarm, aby posilić duszę. Spójrz, PANIE, i zobacz, że zostałam znieważona.<verse eid="LAM 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="LAM 1:12" />Czy nic was to nie obchodzi, wszyscy, którzy przechodzicie obok? Spójrzcie i zobaczcie, czy jest boleść podobna do mojej boleści, jaką mi zadano, którą dotknął mnie PAN w dniu swojego zapalczywego gniewu.<verse eid="LAM 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="LAM 1:13" />Z wysoka zesłał ogień na moje kości, który je pokonał. Rozciągnął sieć na moje nogi i zawrócił mnie, wydał mnie na spustoszenie i przez cały dzień omdlewam.<verse eid="LAM 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="LAM 1:14" />Jarzmo moich nieprawości jest związane jego ręką, splotły się i weszły na moją szyję, a to poraziło moją siłę. Pan wydał mnie w ręce wrogów i nie mogę powstać.<verse eid="LAM 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="LAM 1:15" />Pan podeptał wszystkich moich mocarzy, którzy są pośród mnie, zwołał przeciwko mnie gromadę, aby zmiażdżyć moich młodzieńców. Pan, jak w tłoczni, podeptał dziewicę, córkę Judy.<verse eid="LAM 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="LAM 1:16" />Dlatego ja płaczę; z oczu, z moich oczu, ciekną wody, gdyż daleko jest ode mnie pocieszyciel, który by pokrzepił moją duszę; moi synowie są wytraceni, bo wróg zwyciężył.<verse eid="LAM 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="LAM 1:17" />Syjon wyciąga swoje ręce, nie ma nikogo, kto by go pocieszył. PAN pobudził dokoła Jakuba jego wrogów; Jerozolima jest wśród nich jak kobieta oddalona z powodu jej nieczystości.<verse eid="LAM 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="LAM 1:18" />PAN jest sprawiedliwy, bo zbuntowałam się przeciwko jego słowu. Słuchajcie, proszę, wszyscy ludzie, i zobaczcie moje boleści. Moje dziewice i moi młodzieńcy poszli do niewoli.<verse eid="LAM 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="LAM 1:19" />Wołałam do moich kochanków, lecz oni mnie zdradzili. Moi kapłani i starcy zginęli w mieście, kiedy szukali pokarmu dla siebie, aby posilić swoją duszę.<verse eid="LAM 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="LAM 1:20" />Spójrz, PANIE, bo jestem utrapiona, moje wnętrzności drżą, moje serce przewraca się we mnie, gdyż uparcie się buntowałam. Na dworze miecz osieroca, a w domu nie ma nic oprócz śmierci.<verse eid="LAM 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="LAM 1:21" />Słyszą, że wzdycham, ale nie ma nikogo, kto by mnie pocieszył; wszyscy moi wrogowie słyszeli o moim nieszczęściu i cieszą się, że to uczyniłeś. Sprowadzasz dzień, który zapowiedziałeś, a staną się podobni do mnie.<verse eid="LAM 1:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="LAM 1:22" />Niech cała ich niegodziwość przyjdzie przed ciebie; uczyń im tak, jak mnie uczyniłeś z powodu wszystkich moich przestępstw. Wiele bowiem jest moich westchnień, a moje serce omdlewa.<verse eid="LAM 1:22" />
+  </para>
+  <chapter eid="LAM 1" />
+  <chapter number="2" style="c" sid="LAM 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="LAM 2:1" />Jakże zaciemnił Pan córkę Syjonu chmurą w swoim gniewie, zrzucił z nieba na ziemię chwałę Izraela, a nie wspomniał na podnóżek swoich nóg w dniu swej zapalczywości!<verse eid="LAM 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="LAM 2:2" />Pan pochłonął bez litości wszystkie domy Jakuba, zburzył w swej zapalczywości twierdze córki Judy, rzucił je o ziemię i zhańbił królestwo i jego książąt.<verse eid="LAM 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="LAM 2:3" />Odciął w zapalczywości swego gniewu cały róg Izraela, cofnął swoją prawicę od wroga i zapłonął przeciwko Jakubowi jak ogień płonący, który pożera do szczętu wokoło.<verse eid="LAM 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="LAM 2:4" />Naciągnął swój łuk jak wróg, postawił swoją prawicę jak przeciwnik i zabił wszystkich miłych dla oczu. W namiocie córki Syjonu wylał jak ogień swoją zapalczywość.<verse eid="LAM 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="LAM 2:5" />Pan stał się jak wróg, pochłonął Izraela, pochłonął wszystkie jego pałace, zniszczył jego twierdze i pomnożył płacz i lament u córki Judy.<verse eid="LAM 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="LAM 2:6" />Oderwał siłą swój namiot jak ogród, zniszczył swoje mieszkanie. PAN skazał na zapomnienie uroczyste święta i szabaty na Syjonie i w zapalczywości swego gniewu wzgardził królem i kapłanem.<verse eid="LAM 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="LAM 2:7" />Pan odrzucił swój ołtarz, zbrzydła mu jego świątynia, wydał w ręce wroga mury jej pałacu. Podnieśli krzyk w domu PANA jak w dzień uroczystego święta.<verse eid="LAM 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="LAM 2:8" />PAN postanowił zburzyć mur córki Syjonu, rozciągnął sznur mierniczy i nie cofnął swej ręki od zniszczenia. Pogrążył w żałobie baszty i mur, tak że razem omdlewają.<verse eid="LAM 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="LAM 2:9" />Jej bramy zapadły się w ziemię, połamał i pokruszył jej rygle. Jej król i książęta są pośród pogan, nie ma już Prawa i jej prorocy nie mają widzenia od PANA.<verse eid="LAM 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="LAM 2:10" />Starsi córki Syjonu usiedli na ziemi i zamilkli. Posypali prochem swe głowy i przepasali się worami. Dziewice Jerozolimy pochylają do ziemi swoje głowy.<verse eid="LAM 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="LAM 2:11" />Moje oczy osłabły od łez, strwożyły się moje wnętrzności, moja wątroba wylała się na ziemię z powodu zniszczenia córki mojego ludu, gdy dzieci i niemowlęta omdlewają na ulicach miasta.<verse eid="LAM 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="LAM 2:12" />Mówią swoim matkom: Gdzie jest zboże i wino? – gdy mdleją jak zranieni na ulicach miasta i oddają swoją duszę na łonie swoich matek.<verse eid="LAM 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="LAM 2:13" />Kogo na świadka ustanowię? Do kogo cię przyrównam, o córko Jerozolimy? Do kogo cię porównam, abym cię pocieszył, dziewicza córko Syjonu? Twoja klęska bowiem jest wielka jak morze. Któż cię uleczy?<verse eid="LAM 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="LAM 2:14" />Twoi prorocy przepowiadali ci kłamstwo i marność, a nie odkrywali twojej nieprawości, aby zapobiec twojej niewoli, lecz przepowiadali kłamliwe brzemiona przyczyniające się do twojego wygnania.<verse eid="LAM 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="LAM 2:15" />Klaskają nad tobą w dłonie wszyscy, którzy przechodzą drogą; świstają i kiwają głowami nad córką Jerozolimy, mówiąc: Czyż to jest miasto, które nazywano doskonałą pięknością i radością całej ziemi?<verse eid="LAM 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="LAM 2:16" />Otworzyli przeciw tobie swe usta wszyscy twoi wrogowie, świstają i zgrzytają zębami, mówiąc: Pochłonęliśmy je. Oto jest dzień, na który czekaliśmy; znaleźliśmy i zobaczyliśmy go.<verse eid="LAM 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="LAM 2:17" />PAN uczynił, jak postanowił, wypełnił swoje słowo, które zapowiedział w dniach dawnych. Zburzył bez litości, pozwolił wrogowi radować się nad tobą, wywyższył róg twoich przeciwników.<verse eid="LAM 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="LAM 2:18" />Ich serce wołało do Pana. Murze córki Syjonu, wylewaj łzy we dnie i w nocy jak strumień, nie dawaj sobie odpoczynku i niech nie uspokaja się źrenica twego oka.<verse eid="LAM 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="LAM 2:19" />Wstań, wołaj w nocy na początku straży, wylewaj swe serce jak wodę przed obliczem Pana. Podnoś do niego swe ręce za duszę swych dzieci, które omdlewają z głodu na rogach wszystkich ulic.<verse eid="LAM 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="LAM 2:20" />Spójrz, PANIE, i zobacz, komu tak uczyniłeś. Czy kobiety mają jeść swój płód, pieszczone niemowlęta? Czy kapłan i prorok mają być zabici w świątyni Pana?<verse eid="LAM 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="LAM 2:21" />Leżą na ziemi, na ulicach, dziecko i starzec. Moje dziewice i moi młodzieńcy polegli od miecza; pobiłeś ich w dzień swego gniewu, zabiłeś ich bez litości.<verse eid="LAM 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="LAM 2:22" />Zwołałeś zewsząd, jak w dniu święta, moje trwogi, w dniu gniewu PANA nikt nie uszedł, nikt nie ocalał. Tych, których piastowałam i wychowałam, mój wróg wyniszczył.<verse eid="LAM 2:22" />
+  </para>
+  <chapter eid="LAM 2" />
+  <chapter number="3" style="c" sid="LAM 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="LAM 3:1" />Ja jestem tym człowiekiem, który widział utrapienie pod rózgą jego gniewu.<verse eid="LAM 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="LAM 3:2" />Prowadził mnie i zawiódł do ciemności, a nie do światła.<verse eid="LAM 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="LAM 3:3" />Oburzył się na mnie, zwraca swoją rękę przeciwko mnie przez cały dzień.<verse eid="LAM 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="LAM 3:4" />Sprawił, że zestarzały się moje ciało i moja skóra, połamał moje kości.<verse eid="LAM 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="LAM 3:5" />Obudował mnie i otoczył żółcią i trudem;<verse eid="LAM 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="LAM 3:6" />Posadził mnie w ciemnych miejscach jak dawno umarłych.<verse eid="LAM 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="LAM 3:7" />Ogrodził mnie, abym nie mógł wyjść, obciążył moje kajdany.<verse eid="LAM 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="LAM 3:8" />A choć wołam i krzyczę, zatyka uszy na moją modlitwę.<verse eid="LAM 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="LAM 3:9" />Zagrodził moją drogę kamieniem ciosanym, poplątał moje ścieżki.<verse eid="LAM 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="LAM 3:10" />Stał się dla mnie jak niedźwiedź czyhający na mnie, jak lew w ukryciu.<verse eid="LAM 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="LAM 3:11" />Zmylił moje drogi, rozszarpał mnie i uczynił mnie spustoszonym.<verse eid="LAM 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="LAM 3:12" />Napiął swój łuk i uczynił ze mnie cel dla swej strzały.<verse eid="LAM 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="LAM 3:13" />Przebił moje nerki strzałami swego kołczana.<verse eid="LAM 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="LAM 3:14" />Stałem się pośmiewiskiem dla całego mojego ludu, tematem jego pieśni przez cały dzień.<verse eid="LAM 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="LAM 3:15" />Napełnił mnie goryczą, upoił mnie piołunem.<verse eid="LAM 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="LAM 3:16" />Ponadto wykruszył żwirem moje zęby i pogrążył mnie w popiele.<verse eid="LAM 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="LAM 3:17" />Oddaliłeś moją duszę od pokoju. Zapomniałem, co to pomyślność.<verse eid="LAM 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="LAM 3:18" />I powiedziałem: Zginęła moja siła i moja nadzieja, jaką pokładałem w PANU.<verse eid="LAM 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="LAM 3:19" />Wspominam swoje utrapienie i swój płacz, piołun i żółć.<verse eid="LAM 3:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="LAM 3:20" />Moja dusza nieustannie to wspomina i uniża się we mnie.<verse eid="LAM 3:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="LAM 3:21" />Biorę to sobie do serca, dlatego mam nadzieję.<verse eid="LAM 3:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="LAM 3:22" />To wielkie miłosierdzie PANA, że nie zginęliśmy, gdyż nie ustaje jego litość.<verse eid="LAM 3:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="LAM 3:23" />Każdego poranka się odnawia, wielka jest twoja wierność.<verse eid="LAM 3:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="LAM 3:24" />PAN jest moim działem – mówi moja dusza – dlatego mam w nim nadzieję.<verse eid="LAM 3:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="LAM 3:25" />Dobry jest PAN dla tych, którzy go oczekują, dla duszy, która go szuka.<verse eid="LAM 3:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="LAM 3:26" />Dobrze jest cierpliwie oczekiwać na zbawienie PANA.<verse eid="LAM 3:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="LAM 3:27" />Dobrze jest człowiekowi nosić jarzmo od swej młodości.<verse eid="LAM 3:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="LAM 3:28" />Siedzi samotnie w milczeniu, gdyż na niego je włożono.<verse eid="LAM 3:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="LAM 3:29" />Kładzie swe usta w prochu, może jest jeszcze nadzieja.<verse eid="LAM 3:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="LAM 3:30" />Nadstawia bijącemu policzek, jest nasycony zniewagą.<verse eid="LAM 3:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="LAM 3:31" />Pan bowiem nie odrzuca na wieki;<verse eid="LAM 3:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="LAM 3:32" />A jeśli zasmuca, znów się lituje według obfitości swego miłosierdzia;<verse eid="LAM 3:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="LAM 3:33" />Gdyż nie trapi chętnie ani nie zasmuca synów ludzkich.<verse eid="LAM 3:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="LAM 3:34" />Miażdżenie pod nogami wszystkich więźniów ziemi;<verse eid="LAM 3:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="LAM 3:35" />Naginanie prawa człowieka przed obliczem Najwyższego;<verse eid="LAM 3:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="LAM 3:36" />Krzywdzenie człowieka w jego sprawie – Pan nie ma w tym upodobania.<verse eid="LAM 3:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="LAM 3:37" />Któż może powiedzieć, że coś się stanie, gdy Pan tego nie rozkazał?<verse eid="LAM 3:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="LAM 3:38" />Czyż z ust Najwyższego nie pochodzi zło i dobro?<verse eid="LAM 3:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="LAM 3:39" />Czemu więc żali się człowiek żyjący, człowiek – z powodu kary za swoje grzechy?<verse eid="LAM 3:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="LAM 3:40" />Doświadczajmy i badajmy nasze drogi, nawróćmy się do PANA.<verse eid="LAM 3:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="LAM 3:41" />Wznieśmy swoje serca i ręce do Boga w niebiosach.<verse eid="LAM 3:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="LAM 3:42" />Zgrzeszyliśmy i zbuntowaliśmy się, a ty nie przebaczyłeś.<verse eid="LAM 3:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="LAM 3:43" />Okryłeś się gniewem i prześladowałeś nas, zabiłeś bez litości.<verse eid="LAM 3:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="LAM 3:44" />Okryłeś się obłokiem, aby nie dotarła do ciebie modlitwa.<verse eid="LAM 3:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="LAM 3:45" />Uczyniłeś nas śmieciem i pogardą pośród tych narodów.<verse eid="LAM 3:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="LAM 3:46" />Otworzyli na nas swoje usta wszyscy nasi wrogowie.<verse eid="LAM 3:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="LAM 3:47" />Spadły na nas strach i pułapka, spustoszenie i zniszczenie.<verse eid="LAM 3:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="LAM 3:48" />Strumienie wód płyną z moich oczu z powodu zniszczenia córki mojego ludu.<verse eid="LAM 3:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="LAM 3:49" />Z moich oczu bez przerwy spływają łzy, bo nie ma żadnej ulgi;<verse eid="LAM 3:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="LAM 3:50" />Póki nie spojrzy i nie zobaczy PAN z nieba.<verse eid="LAM 3:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="LAM 3:51" />Moje oczy trapią moją duszę z powodu wszystkich córek mojego miasta.<verse eid="LAM 3:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="LAM 3:52" />Moi wrogowie polowali na mnie nieustannie jak na ptaka, bez powodu.<verse eid="LAM 3:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="LAM 3:53" />Wyniszczyli moje życie w lochu i przywalili mnie kamieniem.<verse eid="LAM 3:53" />
+  </para>
+  <para style="m">
+    <verse number="54" style="v" sid="LAM 3:54" />Wezbrały wody nad moją głową i powiedziałem: Już po mnie!<verse eid="LAM 3:54" />
+  </para>
+  <para style="m">
+    <verse number="55" style="v" sid="LAM 3:55" />Wzywałem twego imienia, PANIE, z głębokiego lochu.<verse eid="LAM 3:55" />
+  </para>
+  <para style="m">
+    <verse number="56" style="v" sid="LAM 3:56" />Usłyszałeś mój głos, nie zakrywaj swego ucha przed moim wzdychaniem i przed moim wołaniem.<verse eid="LAM 3:56" />
+  </para>
+  <para style="m">
+    <verse number="57" style="v" sid="LAM 3:57" />Zbliżyłeś się do mnie w dniu, kiedy cię wzywałem, i powiedziałeś: Nie bój się.<verse eid="LAM 3:57" />
+  </para>
+  <para style="m">
+    <verse number="58" style="v" sid="LAM 3:58" />Broniłeś, Panie, sprawy mojej duszy, wybawiłeś moje życie.<verse eid="LAM 3:58" />
+  </para>
+  <para style="m">
+    <verse number="59" style="v" sid="LAM 3:59" />PANIE, widzisz moją krzywdę, osądź moją sprawę.<verse eid="LAM 3:59" />
+  </para>
+  <para style="m">
+    <verse number="60" style="v" sid="LAM 3:60" />Widzisz całą ich zemstę i wszystkie ich zamysły przeciwko mnie.<verse eid="LAM 3:60" />
+  </para>
+  <para style="m">
+    <verse number="61" style="v" sid="LAM 3:61" />Słyszysz ich urąganie, PANIE, i wszystkie ich zamysły przeciwko mnie;<verse eid="LAM 3:61" />
+  </para>
+  <para style="m">
+    <verse number="62" style="v" sid="LAM 3:62" />Słyszysz słowa z warg tych, którzy powstają przeciwko mnie, i ich zamiary, jakie obmyślają przeciwko mnie przez cały dzień.<verse eid="LAM 3:62" />
+  </para>
+  <para style="m">
+    <verse number="63" style="v" sid="LAM 3:63" />Zobacz – gdy siedzą i gdy wstają, jestem treścią ich pieśni.<verse eid="LAM 3:63" />
+  </para>
+  <para style="m">
+    <verse number="64" style="v" sid="LAM 3:64" />Oddaj im zapłatę, PANIE, według dzieła ich rąk.<verse eid="LAM 3:64" />
+  </para>
+  <para style="m">
+    <verse number="65" style="v" sid="LAM 3:65" />Daj im zatwardziałe serce i ześlij na nich twoje przekleństwo;<verse eid="LAM 3:65" />
+  </para>
+  <para style="m">
+    <verse number="66" style="v" sid="LAM 3:66" />Ścigaj ich w gniewie i zgładź ich spod niebios, PANIE!<verse eid="LAM 3:66" />
+  </para>
+  <chapter eid="LAM 3" />
+  <chapter number="4" style="c" sid="LAM 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="LAM 4:1" />O jakże zaśniedziało złoto! Jakże zmieniło się najczystsze złoto! Rozrzucono kamienie świątyni po rogach wszystkich ulic.<verse eid="LAM 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="LAM 4:2" />Szlachetni synowie Syjonu, cenieni jak czyste złoto, jakże są poczytywani za gliniane naczynia, za dzieło rąk garncarza!<verse eid="LAM 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="LAM 4:3" />Nawet smoki dają pierś i karmią swoje młode, ale córka mojego ludu stała się okrutna jak strusie na pustyni.<verse eid="LAM 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="LAM 4:4" />Język ssącego przylgnął do podniebienia z powodu pragnienia, dzieci prosiły o chleb, lecz nikt im go nie ułamał.<verse eid="LAM 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="LAM 4:5" />Ci, którzy jadali wyborne potrawy, giną na ulicach. Ci, którzy byli wychowani w szkarłacie, przytulają się do gnoju.<verse eid="LAM 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="LAM 4:6" />Większa jest nieprawość córki mojego ludu niż grzech Sodomy, co została zniszczona w okamgnieniu, a nie dotknęła jej żadna ręka.<verse eid="LAM 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="LAM 4:7" />Jej nazirejczycy byli czystsi niż śnieg, bielsi niż mleko, ich ciała bardziej rumiane niż rubiny, byli wyciosani jak szafir.<verse eid="LAM 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="LAM 4:8" />Ale teraz ich wygląd jest czarniejszy niż węgiel, nie poznaje się ich na ulicach. Ich skóra przyschła do kości, wyschła i stała się jak drewno.<verse eid="LAM 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="LAM 4:9" />Lepiej jest tym, którzy zostali pobici od miecza, niż tym, co umierają z głodu, gdyż oni giną, będąc przebici brakiem plonów pola.<verse eid="LAM 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="LAM 4:10" />Ręce czułych kobiet gotowały własne dzieci. Były ich pokarmem w czasie klęski córki mojego ludu.<verse eid="LAM 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="LAM 4:11" />Dopełnił PAN swego wzburzenia, wylał swój zapalczywy gniew i rozpalił ogień na Syjonie, który strawił jego fundamenty.<verse eid="LAM 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="LAM 4:12" />Nigdy nie uwierzyliby królowie ziemi i wszyscy mieszkańcy świata, że przeciwnik i wróg mógłby wejść w bramy Jerozolimy.<verse eid="LAM 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="LAM 4:13" />Z powodu grzechów jej proroków i nieprawości jej kapłanów, którzy przelewali krew sprawiedliwych pośród niej;<verse eid="LAM 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="LAM 4:14" />Tułali się jak ślepi po ulicach, splugawili się krwią, tak że nie można było dotknąć ich szat.<verse eid="LAM 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="LAM 4:15" />Dlatego wołano na nich: Odstąpcie, nieczyści! Odstąpcie, odstąpcie, nie dotykajcie! Gdy odeszli i tułali się, mówiono wśród pogan: Nie będą już mogli tam zamieszkać.<verse eid="LAM 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="LAM 4:16" />Oblicze PANA rozproszyło ich, już więcej nie spojrzy na nich; nie ma szacunku dla kapłanów ani nie ma litości dla starców.<verse eid="LAM 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="LAM 4:17" />Aż dotąd nasze oczy słabły z powodu naszej daremnej pomocy. Wypatrywaliśmy czujnie narodu, który nie mógł nas wybawić.<verse eid="LAM 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="LAM 4:18" />Śledzą nasze kroki tak, że nie możemy chodzić po naszych ulicach. Zbliżył się nasz koniec, wypełniły się nasze dni, nadszedł nasz kres.<verse eid="LAM 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="LAM 4:19" />Nasi prześladowcy są szybsi niż orły niebieskie; ścigają nas po górach i czyhają na nas na pustyni.<verse eid="LAM 4:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="LAM 4:20" />Oddech naszych nozdrzy, pomazaniec PANA, został schwytany w ich doły; o nim mówiliśmy: W jego cieniu będziemy żyć wśród pogan.<verse eid="LAM 4:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="LAM 4:21" />Raduj się i wesel, córko Edomu, która mieszkasz w ziemi Us; przejdzie też do ciebie kielich, upijesz się i obnażysz.<verse eid="LAM 4:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="LAM 4:22" />Skończyła się twoja kara, o córko Syjonu; on nie będzie cię dłużej trzymał na wygnaniu. Nawiedzi twoją nieprawość, córko Edomu, i odkryje twoje grzechy.<verse eid="LAM 4:22" />
+  </para>
+  <chapter eid="LAM 4" />
+  <chapter number="5" style="c" sid="LAM 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="LAM 5:1" />Wspomnij, PANIE, na to, co nas spotkało. Spójrz i zobacz nasze pohańbienie.<verse eid="LAM 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="LAM 5:2" />Nasze dziedzictwo przypadło obcym, a nasze domy – cudzoziemcom.<verse eid="LAM 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="LAM 5:3" />Staliśmy się sierotami, bez ojca; nasze matki są jak wdowy.<verse eid="LAM 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="LAM 5:4" />Własną wodę pijemy za pieniądze, nasze drwa za pieniądze kupujemy.<verse eid="LAM 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="LAM 5:5" />Prześladowanie ciąży na naszym karku. Pracujemy, a nie dają nam odpocząć.<verse eid="LAM 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="LAM 5:6" />Podawaliśmy rękę Egipcjanom i Asyryjczykom, aby nasycić się chlebem.<verse eid="LAM 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="LAM 5:7" />Nasi ojcowie zgrzeszyli, nie ma ich, a my nosimy ich nieprawość.<verse eid="LAM 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="LAM 5:8" />Niewolnicy panują nad nami, nie ma nikogo, kto by nas wybawił z ich ręki.<verse eid="LAM 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="LAM 5:9" />Z narażeniem życia szukamy swego chleba z powodu miecza na pustyni.<verse eid="LAM 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="LAM 5:10" />Nasza skóra jak piec zaciemniła się od strasznego głodu.<verse eid="LAM 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="LAM 5:11" />Kobiety na Syjonie hańbiono, a panny – w miastach Judy.<verse eid="LAM 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="LAM 5:12" />Książęta byli wieszani ich rękami, oblicza starszych nie uszanowano.<verse eid="LAM 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="LAM 5:13" />Młodzieńców wzięli do młócenia, dzieci padały pod ciężarem drewna.<verse eid="LAM 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="LAM 5:14" />Starcy w bramach już nie siadają, młodzieńcy przestali śpiewać swoje pieśni.<verse eid="LAM 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="LAM 5:15" />Radość zniknęła z naszych serc, nasze pląsanie zamieniło się w żałobę.<verse eid="LAM 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="LAM 5:16" />Spadła korona z naszej głowy. Biada nam, bo zgrzeszyliśmy!<verse eid="LAM 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="LAM 5:17" />Dlatego nasze serce omdlewa, dlatego nasze oczy są zaćmione.<verse eid="LAM 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="LAM 5:18" />Z powodu spustoszonej góry Syjonu lisy chodzą po niej.<verse eid="LAM 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="LAM 5:19" />Ty, PANIE, trwasz na wieki, twój tron z pokolenia na pokolenie.<verse eid="LAM 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="LAM 5:20" />Czemu zapominasz o nas na wieki i opuszczasz nas na tak długi czas?<verse eid="LAM 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="LAM 5:21" />Nawróć nas do siebie, PANIE, a będziemy nawróceni; odnów nasze dni, jak dawniej.<verse eid="LAM 5:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="LAM 5:22" />Czy odrzuciłeś nas całkowicie? Czy bardzo się na nas gniewałeś?<verse eid="LAM 5:22" />
+  </para>
+  <chapter eid="LAM 5" />
+</usx>

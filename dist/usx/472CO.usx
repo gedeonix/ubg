@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="2CO" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">II Koryntian</para>
+  <para style="toc1">II List do Koryntian</para>
+  <para style="toc2">II Koryntian</para>
+  <para style="toc3">2Kor</para>
+  <para style="mt1">II List do Koryntian</para>
+  <chapter number="1" style="c" sid="2CO 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 1:1" />Paweł, z woli Boga apostoł Jezusa Chrystusa, i Tymoteusz, brat, do kościoła Bożego, który jest w Koryncie, ze wszystkimi świętymi, którzy są w całej Achai.<verse eid="2CO 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 1:2" />Łaska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa.<verse eid="2CO 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 1:3" />Błogosławiony niech będzie Bóg i Ojciec naszego Pana Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy;<verse eid="2CO 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 1:4" />Który nas pociesza w każdym naszym utrapieniu, abyśmy i my mogli pocieszać tych, którzy są w jakimkolwiek ucisku, taką pociechą, jaką sami jesteśmy pocieszani przez Boga.<verse eid="2CO 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 1:5" />Jak bowiem w nas obfitują utrapienia Chrystusa, tak też przez Chrystusa obfituje nasza pociecha.<verse eid="2CO 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 1:6" />Jeśli więc doznajemy ucisku – to dla waszego pocieszenia i zbawienia, które sprawia, że znosicie te same utrapienia, które i my cierpimy; i jeśli doznajemy pociechy – to dla waszego pocieszenia i zbawienia.<verse eid="2CO 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 1:7" />A nasza nadzieja co do was jest mocna, bo wiemy, że jak jesteście uczestnikami utrapienia, tak i pociechy.<verse eid="2CO 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 1:8" />Nie chcemy bowiem, bracia, abyście nie wiedzieli o ucisku, który nas spotkał w Azji, że byliśmy obciążeni ponad miarę i ponad siły, tak że zaczęliśmy wątpić, czy przeżyjemy.<verse eid="2CO 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 1:9" />Więcej, sami w sobie mieliśmy wyrok śmierci, abyśmy nie ufali samym sobie, lecz Bogu, który wskrzesza umarłych.<verse eid="2CO 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 1:10" />On to wyrwał nas z tak wielkiej śmierci i jeszcze wyrywa. W nim też mamy nadzieję, że nadal będzie wyrywać;<verse eid="2CO 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 1:11" />Także przy waszej pomocy poprzez modlitwę za nas, aby dar, który otrzymaliśmy dzięki wielu, stał się dla wielu powodem dziękczynienia za nas.<verse eid="2CO 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 1:12" />To bowiem jest naszą chlubą: świadectwo naszego sumienia, że w prostocie i w szczerości Bożej, nie w cielesnej mądrości, ale w łasce Boga postępowaliśmy na świecie, a szczególnie względem was.<verse eid="2CO 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 1:13" />Nie piszemy wam nic innego, jak tylko to, co czytacie albo rozumiecie. Spodziewam się zaś, że też do końca zrozumiecie;<verse eid="2CO 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 1:14" />Jak już po części nas zrozumieliście, że jesteśmy waszą chlubą, jak i wy naszą w dniu Pana Jezusa.<verse eid="2CO 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 1:15" />Z tą ufnością chciałem przybyć do was wcześniej, abyście otrzymali powtórne dobrodziejstwo;<verse eid="2CO 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 1:16" />A od was udać się do Macedonii, a z Macedonii znowu przybyć do was i zostać przez was wyprawionym do Judei.<verse eid="2CO 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 1:17" />Czy więc tak postanawiając, postąpiłem lekkomyślnie? Albo czy to, co postanawiam, postanawiam według ciała, aby było u mnie „tak, tak” i „nie, nie”?<verse eid="2CO 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 1:18" />Lecz jak Bóg jest wierny, tak nasze słowa do was nie były „tak” i „nie”.<verse eid="2CO 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="2CO 1:19" />Ponieważ Syn Boży, Jezus Chrystus, który wśród was głoszony był przez nas, to znaczy przeze mnie, Sylwana i Tymoteusza, nie był „tak” i „nie”, lecz było w nim „tak”.<verse eid="2CO 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="2CO 1:20" />Ile jest bowiem obietnic Boga, w nim są „tak” i w nim są „Amen”, ku chwale Boga przez nas.<verse eid="2CO 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="2CO 1:21" />Tym zaś, który utwierdza nas razem z wami w Chrystusie i który nas namaścił, jest Bóg;<verse eid="2CO 1:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="2CO 1:22" />Który też zapieczętował nas i dał do naszych serc Ducha jako zadatek.<verse eid="2CO 1:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="2CO 1:23" />A ja wzywam Boga na świadka mojej duszy, że aby was oszczędzić, nie przybyłem dotąd do Koryntu.<verse eid="2CO 1:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="2CO 1:24" />Nie dlatego, że panujemy nad waszą wiarą, ale jesteśmy pomocnikami waszej radości; wiarą bowiem stoicie.<verse eid="2CO 1:24" />
+  </para>
+  <chapter eid="2CO 1" />
+  <chapter number="2" style="c" sid="2CO 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 2:1" />A postanowiłem to sobie, aby nie przychodzić do was znowu w smutku.<verse eid="2CO 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 2:2" />Jeśli bowiem ja was zasmucam, to któż może mnie rozweselić, jeśli nie ten, którego ja zasmucam?<verse eid="2CO 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 2:3" />A to wam napisałem, abym, gdy przyjdę, nie doznał smutku od tych, od których powinienem doznawać radości, będąc pewien co do was wszystkich, że moja radość jest także waszą radością.<verse eid="2CO 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 2:4" />Gdyż w wielkim ucisku i utrapieniu serca, wśród wielu łez pisałem do was nie po to, abyście się smucili, ale żebyście poznali, jak wielka jest moja miłość do was.<verse eid="2CO 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 2:5" />Jeśli więc ktoś spowodował smutek, to nie mnie zasmucił, ale po części – by nie obciążyć – was wszystkich.<verse eid="2CO 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 2:6" />Takiemu wystarczy kara wymierzona przez wielu z was.<verse eid="2CO 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 2:7" />Tak więc przeciwnie, powinniście mu raczej przebaczyć i pocieszyć go, aby przypadkiem zbytni smutek go nie pochłonął.<verse eid="2CO 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 2:8" />Dlatego proszę was, abyście potwierdzili swą miłość do niego.<verse eid="2CO 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 2:9" />Po to też pisałem, aby was wypróbować i się przekonać, czy we wszystkim jesteście posłuszni.<verse eid="2CO 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 2:10" />A komu wy coś przebaczacie, temu i ja, gdyż i ja, jeśli coś przebaczyłem temu, któremu przebaczyłem, zrobiłem to ze względu na was wobec Chrystusa;<verse eid="2CO 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 2:11" />Aby nas szatan nie podszedł; jego zamysły bowiem nie są nam nieznane.<verse eid="2CO 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 2:12" />Gdy zaś przybyłem do Troady, aby głosić ewangelię Chrystusa, a drzwi zostały mi otwarte w Panu;<verse eid="2CO 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 2:13" />Nie zaznałem spokoju ducha, bo nie znalazłem Tytusa, mego brata. Rozstawszy się więc z nimi, wyruszyłem do Macedonii.<verse eid="2CO 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 2:14" />Lecz dzięki Bogu, który nam zawsze daje zwycięstwo w Chrystusie i roznosi przez nas woń swojego poznania w każdym miejscu.<verse eid="2CO 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 2:15" />Jesteśmy bowiem dla Boga przyjemną wonią Chrystusa wśród tych, którzy są zbawieni, i wśród tych, którzy giną.<verse eid="2CO 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 2:16" />Dla jednych wonią śmierci ku śmierci, a dla drugich wonią życia ku życiu. Lecz do tego któż jest zdatny?<verse eid="2CO 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 2:17" />Nie jesteśmy bowiem jak wielu, którzy fałszują słowo Boże, lecz ze szczerości, jak od Boga mówimy w Chrystusie przed obliczem Boga.<verse eid="2CO 2:17" />
+  </para>
+  <chapter eid="2CO 2" />
+  <chapter number="3" style="c" sid="2CO 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 3:1" />Czy znowu zaczynamy polecać samych siebie? Albo czy potrzebujemy, jak niektórzy, listów polecających do was albo od was?<verse eid="2CO 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 3:2" />Naszym listem wy jesteście, napisanym w naszych sercach, znanym i czytanym przez wszystkich ludzi.<verse eid="2CO 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 3:3" />Gdyż wiadomo, że jesteście listem Chrystusowym sporządzonym przez nasze posługiwanie, napisanym nie atramentem, lecz Duchem Boga żywego, nie na tablicach kamiennych, lecz na żywych tablicach serc.<verse eid="2CO 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 3:4" />A taką ufność mamy przez Chrystusa ku Bogu.<verse eid="2CO 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 3:5" />Nie żebyśmy sami z siebie byli w stanie pomyśleć coś jakby z samych siebie, lecz nasza możność jest z Boga.<verse eid="2CO 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 3:6" />On też uczynił nas zdolnymi sługami nowego testamentu, nie litery, ale Ducha; litera bowiem zabija, Duch zaś ożywia.<verse eid="2CO 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 3:7" />Lecz jeśli posługiwanie śmierci, wyryte literami na kamieniach, było pełne chwały, tak że synowie Izraela nie mogli wpatrywać się w oblicze Mojżesza z powodu chwały jego oblicza, która miała przeminąć;<verse eid="2CO 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 3:8" />To o ileż bardziej pełne chwały nie miałoby być posługiwanie Ducha?<verse eid="2CO 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 3:9" />Jeśli bowiem posługiwanie potępienia było pełne chwały, o ileż bardziej obfituje w chwałę posługiwanie sprawiedliwości.<verse eid="2CO 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 3:10" />To bowiem, co miało chwałę, nie miało chwały w porównaniu z tą przewyższającą chwałą.<verse eid="2CO 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 3:11" />Jeśli zaś to, co przemija, było pełne chwały, tym bardziej pełne chwały jest to, co trwa.<verse eid="2CO 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 3:12" />Mając więc taką nadzieję, z całą otwartością mówimy;<verse eid="2CO 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 3:13" />A nie jak Mojżesz, który kładł sobie na twarz zasłonę, aby synowie Izraela nie wpatrywali się w koniec tego, co miało przeminąć.<verse eid="2CO 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 3:14" />Lecz ich umysły zostały zaślepione; aż do dziś bowiem przy czytaniu Starego Testamentu ta sama zasłona pozostaje nieodsłonięta, gdyż jest usuwana w Chrystusie.<verse eid="2CO 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 3:15" />I aż do dziś, gdy Mojżesz jest czytany, zasłona leży na ich sercu.<verse eid="2CO 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 3:16" />Gdy jednak nawrócą się do Pana, zasłona zostanie zdjęta.<verse eid="2CO 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 3:17" />Pan zaś jest tym Duchem, a gdzie jest Duch Pana, tam i wolność.<verse eid="2CO 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 3:18" />Lecz my wszyscy, którzy z odsłoniętą twarzą patrzymy na chwałę Pana, jakby w zwierciadle, zostajemy przemienieni w ten sam obraz, z chwały w chwałę, za sprawą Ducha Pana.<verse eid="2CO 3:18" />
+  </para>
+  <chapter eid="2CO 3" />
+  <chapter number="4" style="c" sid="2CO 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 4:1" />Dlatego mając to posługiwanie, tak jak otrzymaliśmy miłosierdzie, nie zniechęcamy się.<verse eid="2CO 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 4:2" />Lecz wyrzekliśmy się ukrytych haniebnych czynów, nie postępując podstępnie ani nie fałszując słowa Bożego, ale przez ujawnianie prawdy polecamy samych siebie sumieniu każdego człowieka w obliczu Boga.<verse eid="2CO 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 4:3" />A jeśli nasza ewangelia jest zakryta, to jest zakryta dla tych, którzy giną;<verse eid="2CO 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 4:4" />W których bóg tego świata zaślepił umysły, w niewierzących, aby nie świeciła im światłość chwalebnej ewangelii Chrystusa, który jest obrazem Boga.<verse eid="2CO 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 4:5" />Nie głosimy bowiem samych siebie, lecz Chrystusa Jezusa, że jest Panem, a samych siebie, że jesteśmy waszymi sługami dla Jezusa.<verse eid="2CO 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 4:6" />Ponieważ Bóg, który rozkazał, aby z ciemności zabłysnęło światło, ten zabłysnął w naszych sercach, aby zajaśniało w nas poznanie chwały Bożej w obliczu Jezusa Chrystusa.<verse eid="2CO 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 4:7" />Mamy zaś ten skarb w naczyniach glinianych, aby wspaniałość tej mocy była z Boga, a nie z nas.<verse eid="2CO 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 4:8" />Zewsząd jesteśmy uciskani, lecz nie przygnębieni, bezradni, lecz nie zrozpaczeni;<verse eid="2CO 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 4:9" />Prześladowani, lecz nie opuszczeni, powaleni, ale nie zgładzeni.<verse eid="2CO 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 4:10" />Nieustannie nosimy w ciele umieranie Pana Jezusa, aby i życie Jezusa objawiło się w naszym ciele.<verse eid="2CO 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 4:11" />Zawsze bowiem my, którzy żyjemy, jesteśmy wydawani na śmierć z powodu Jezusa, aby i życie Jezusa objawiło się w naszym śmiertelnym ciele.<verse eid="2CO 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 4:12" />Tak więc w nas działa śmierć, a w was życie.<verse eid="2CO 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 4:13" />Mając zaś tego samego ducha wiary, jak jest napisane: Uwierzyłem i dlatego przemówiłem; my również wierzymy i dlatego mówimy;<verse eid="2CO 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 4:14" />Wiedząc, że ten, który wskrzesił Pana Jezusa, przez Jezusa wskrzesi także nas i postawi razem z wami.<verse eid="2CO 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 4:15" />Wszystko to bowiem dzieje się dla was, żeby obfitująca łaska, przez dziękczynienie wielu, rozmnożyła się ku chwale Bożej.<verse eid="2CO 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 4:16" />Dlatego nie zniechęcamy się, bo chociaż nasz zewnętrzny człowiek niszczeje, to jednak ten wewnętrzny odnawia się z dnia na dzień.<verse eid="2CO 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 4:17" />Ten bowiem nasz chwilowy i lekki ucisk przynosi nam przeogromną i wieczną wagę chwały;<verse eid="2CO 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 4:18" />Gdy nie patrzymy na to, co widzialne, lecz na to, co niewidzialne. To bowiem, co widzialne, jest doczesne, to zaś, co niewidzialne, jest wieczne.<verse eid="2CO 4:18" />
+  </para>
+  <chapter eid="2CO 4" />
+  <chapter number="5" style="c" sid="2CO 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 5:1" />Wiemy bowiem, że jeśli zostanie zniszczony ten namiot naszego ziemskiego mieszkania, to mamy budowlę od Boga, dom nie ręką uczyniony, wieczny w niebiosach.<verse eid="2CO 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 5:2" />Dlatego w tym wzdychamy, pragnąc przyodziać się w nasz dom z nieba;<verse eid="2CO 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 5:3" />Jeśli tylko zostaniemy znalezieni odziani, a nie nadzy.<verse eid="2CO 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 5:4" />Bo my, którzy jesteśmy w tym namiocie, wzdychamy, obciążeni, ponieważ nie pragniemy być rozebrani, ale przyodziani, aby to, co śmiertelne, zostało wchłonięte przez życie.<verse eid="2CO 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 5:5" />A tym, który nas do tego właśnie przygotował, jest Bóg, który nam też dał Ducha jako zadatek.<verse eid="2CO 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 5:6" />Tak więc mamy zawsze ufność, wiedząc, że dopóki mieszkamy w tym ciele, tułamy się z dala od Pana.<verse eid="2CO 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 5:7" />(Przez wiarę bowiem kroczymy, a nie przez widzenie.)<verse eid="2CO 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 5:8" />Mamy jednak ufność i wolelibyśmy raczej wyjść z ciała i zamieszkać u Pana.<verse eid="2CO 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 5:9" />Dlatego też zabiegamy o to, żeby się jemu podobać, czy mieszkamy w ciele, czy z niego wychodzimy.<verse eid="2CO 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 5:10" />Wszyscy bowiem musimy stanąć przed trybunałem Chrystusa, aby każdy otrzymał zapłatę za to, co czynił w ciele, według tego, co czynił, czy dobro, czy zło.<verse eid="2CO 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 5:11" />Wiedząc zatem o tym strachu Pańskim, przekonujemy ludzi; dla Boga zaś wszystko w nas jest jawne; mam też nadzieję, że i dla waszych sumień wszystko w nas jest jawne.<verse eid="2CO 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 5:12" />Bo nie polecamy wam ponownie samych siebie, ale dajemy wam sposobność do chlubienia się nami, żebyście mieli co odpowiedzieć tym, którzy się chlubią tym, co zewnętrzne, a nie sercem.<verse eid="2CO 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 5:13" />Jeśli zaś odchodzimy od zmysłów – dla Boga odchodzimy, jeżeli jesteśmy przy zdrowych zmysłach – dla was jesteśmy.<verse eid="2CO 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 5:14" />Miłość Chrystusa bowiem przymusza nas, jako tych, którzy uznaliśmy, że skoro jeden umarł za wszystkich, to wszyscy umarli.<verse eid="2CO 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 5:15" />A umarł za wszystkich, aby ci, którzy żyją, już więcej nie żyli dla siebie, lecz dla tego, który za nich umarł i został wskrzeszony.<verse eid="2CO 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 5:16" />Dlatego my odtąd nikogo nie znamy według ciała, a chociaż znaliśmy Chrystusa według ciała, to teraz już więcej go takim nie znamy.<verse eid="2CO 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 5:17" />Tak więc jeśli ktoś jest w Chrystusie, nowym jest stworzeniem; to, co stare, przeminęło, oto wszystko stało się nowe.<verse eid="2CO 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 5:18" />A wszystko to jest z Boga, który nas pojednał ze sobą przez Jezusa Chrystusa i dał nam służbę pojednania.<verse eid="2CO 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="2CO 5:19" />Bóg bowiem był w Chrystusie, jednając świat z samym sobą, nie poczytując ludziom ich grzechów, i nam powierzył to słowo pojednania.<verse eid="2CO 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="2CO 5:20" />Tak więc w miejsce Chrystusa sprawujemy poselstwo, tak jakby Bóg upominał was przez nas. W miejsce Chrystusa prosimy: Pojednajcie się z Bogiem.<verse eid="2CO 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="2CO 5:21" />On bowiem tego, który nie znał grzechu, za nas grzechem uczynił, abyśmy w nim stali się sprawiedliwością Bożą.<verse eid="2CO 5:21" />
+  </para>
+  <chapter eid="2CO 5" />
+  <chapter number="6" style="c" sid="2CO 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 6:1" />Jako jego współpracownicy napominamy was, abyście nie przyjmowali łaski Bożej na próżno.<verse eid="2CO 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 6:2" />(Mówi bowiem Bóg: W czasie pomyślnym wysłuchałem cię, a w dniu zbawienia przyszedłem ci z pomocą. Oto teraz czas pomyślny, oto teraz dzień zbawienia.)<verse eid="2CO 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 6:3" />Nie dając nikomu żadnego powodu do zgorszenia, aby nasza posługa nie była zhańbiona;<verse eid="2CO 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 6:4" />Ale we wszystkim okazujemy się sługami Boga, w wielkiej cierpliwości, w uciskach, w niedostatkach, w utrapieniach;<verse eid="2CO 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 6:5" />W chłostach, w więzieniach, podczas rozruchów, w trudach, w nocnych czuwaniach, w postach;<verse eid="2CO 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 6:6" />Przez czystość i poznanie, przez wytrwałość i życzliwość, przez Ducha Świętego i nieobłudną miłość;<verse eid="2CO 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 6:7" />Przez słowo prawdy i moc Boga, przez oręż sprawiedliwości na prawo i na lewo;<verse eid="2CO 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 6:8" />Przez chwałę i pohańbienie, przez złą i dobrą sławę; jakby zwodziciele, a jednak prawdomówni;<verse eid="2CO 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 6:9" />Jakby nieznani, jednak dobrze znani, jakby umierający, a oto żyjemy, jakby karani, ale nie zabici;<verse eid="2CO 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 6:10" />Jakby smutni, jednak zawsze radośni, jakby ubodzy, jednak wielu ubogacający, jakby nic nie mający, jednak wszystko posiadający.<verse eid="2CO 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 6:11" />Nasze usta otworzyły się przed wami, Koryntianie, nasze serce się rozszerzyło.<verse eid="2CO 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 6:12" />Nie jest wam ciasno w nas, lecz w waszym wnętrzu jest ciasno;<verse eid="2CO 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 6:13" />Odwzajemniając się więc nam – jak do moich dzieci mówię – rozszerzcie się i wy.<verse eid="2CO 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 6:14" />Nie wprzęgajcie się w nierówne jarzmo z niewierzącymi. Cóż bowiem wspólnego ma sprawiedliwość z niesprawiedliwością? Albo jaka jest wspólnota między światłem a ciemnością?<verse eid="2CO 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 6:15" />Albo jaka zgoda Chrystusa z Belialem, albo co za dział wierzącego z niewierzącym?<verse eid="2CO 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 6:16" />A co za porozumienie między świątynią Boga a bożkami? Wy bowiem jesteście świątynią Boga żywego, tak jak mówi Bóg: Będę w nich mieszkał i będę się przechadzał w nich, i będę ich Bogiem, a oni będą moim ludem.<verse eid="2CO 6:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 6:17" />Dlatego wyjdźcie spośród nich i odłączcie się, mówi Pan, i nieczystego nie dotykajcie, a ja was przyjmę.<verse eid="2CO 6:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 6:18" />I będę wam Ojcem, a wy będziecie mi synami i córkami – mówi Pan Wszechmogący.<verse eid="2CO 6:18" />
+  </para>
+  <chapter eid="2CO 6" />
+  <chapter number="7" style="c" sid="2CO 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 7:1" />Mając więc te obietnice, najmilsi, oczyśćmy się z wszelkiego brudu ciała i ducha, dopełniając uświęcenia w bojaźni Bożej.<verse eid="2CO 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 7:2" />Przyjmijcie nas; nikogo nie skrzywdziliśmy, nikogo nie zepsuliśmy, nikogo nie wykorzystaliśmy.<verse eid="2CO 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 7:3" />Nie mówię tego, aby was potępiać; wcześniej bowiem powiedziałem, że jesteście w naszych sercach na wspólną śmierć i wspólne życie.<verse eid="2CO 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 7:4" />Mam wielką swobodę w mówieniu do was, bardzo się wami chlubię, jestem pełen pociechy, obfituję w radość w każdym naszym ucisku.<verse eid="2CO 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 7:5" />Kiedy bowiem przybyliśmy do Macedonii, nasze ciało nie zaznało żadnego odpoczynku, ale zewsząd byliśmy uciśnieni: na zewnątrz walki, a wewnątrz obawy.<verse eid="2CO 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 7:6" />Lecz Bóg, który pociesza uniżonych, pocieszył nas przez przybycie Tytusa.<verse eid="2CO 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 7:7" />A nie tylko przez jego przybycie, ale też przez pociechę, jakiej doznał wśród was, gdy opowiedział nam o waszej tęsknocie, o waszym płaczu, o waszej gorliwości względem mnie, tak że uradowałem się jeszcze bardziej.<verse eid="2CO 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 7:8" />Choć bowiem zasmuciłem was listem, nie żałuję tego, a mimo że żałowałem (bo widzę, że ten list zasmucił was, chociaż tylko na chwilę);<verse eid="2CO 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 7:9" />To teraz się raduję, nie dlatego, że byliście zasmuceni, ale że byliście zasmuceni ku pokucie. Zostaliście bowiem zasmuceni według Boga, żebyście w niczym nie ponieśli szkody przez nas.<verse eid="2CO 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 7:10" />Bo smutek, który jest według Boga, przynosi pokutę ku zbawieniu, czego nikt nie żałuje; lecz smutek według świata przynosi śmierć.<verse eid="2CO 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 7:11" />To bowiem, że byliście zasmuceni według Boga, jakąż wielką wzbudziło w was pilność, jakie uniewinnianie się, jakie oburzenie, jaką bojaźń, jaką tęsknotę, jaką gorliwość, jakie wymierzenie kary! We wszystkim okazaliście się czyści w tej sprawie.<verse eid="2CO 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 7:12" />Dlatego chociaż pisałem do was, nie pisałem z powodu tego, który wyrządził krzywdę, ani z powodu tego, który krzywdy doznał, lecz aby okazać nasze zatroskanie o was przed Bogiem.<verse eid="2CO 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 7:13" />Tak więc zostaliśmy pocieszeni waszą pociechą. A jeszcze bardziej uradowaliśmy się radością Tytusa, bo jego duch został pokrzepiony przez was wszystkich.<verse eid="2CO 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 7:14" />Bo jeśli w czymś chlubiłem się wami przed nim, nie zostałem zawstydzony. Lecz tak, jak mówiliśmy wam wszystko zgodnie z prawdą, tak też nasza chluba przed Tytusem okazała się prawdziwa.<verse eid="2CO 7:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 7:15" />A jego serce jeszcze bardziej skłania się ku wam, gdy wspomina posłuszeństwo was wszystkich i to, jak przyjęliście go z bojaźnią i drżeniem.<verse eid="2CO 7:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 7:16" />Raduję się więc, że we wszystkim mogę wam ufać.<verse eid="2CO 7:16" />
+  </para>
+  <chapter eid="2CO 7" />
+  <chapter number="8" style="c" sid="2CO 8" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 8:1" />A oznajmiamy wam, bracia, o łasce Bożej, która jest dana kościołom Macedonii;<verse eid="2CO 8:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 8:2" />Iż w ciężkiej próbie ucisku ich obfita radość i skrajne ubóstwo obfitowały bogactwem ich ofiarności.<verse eid="2CO 8:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 8:3" />Zaświadczam bowiem, że według możliwości, a nawet ponad możliwość okazali gotowość;<verse eid="2CO 8:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 8:4" />Z wielkim naleganiem prosząc nas, abyśmy przyjęli ten dar i ich udział w służbie na rzecz świętych.<verse eid="2CO 8:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 8:5" />A postąpili nie tylko tak, jak się spodziewaliśmy, ale samych siebie najpierw oddali Panu, a potem nam za wolą Boga.<verse eid="2CO 8:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 8:6" />Tak, że poprosiliśmy Tytusa, aby tak jak wcześniej zaczął, tak też dokończył u was tego dzieła łaski.<verse eid="2CO 8:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 8:7" />Jak więc obfitujecie we wszystko, w wiarę, w mowę, w poznanie, we wszelką pilność i w miłość waszą do nas, tak i w tym dziele łaski obfitujcie.<verse eid="2CO 8:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 8:8" />Nie mówię tego jako rozkaz, lecz abym przez zapał innych wypróbował szczerość waszej miłości.<verse eid="2CO 8:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 8:9" />Znacie bowiem łaskę naszego Pana Jezusa Chrystusa, że będąc bogatym, dla was stał się ubogim, abyście wy zostali ubogaceni jego ubóstwem.<verse eid="2CO 8:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 8:10" />A w tej sprawie daję wam swoją radę, gdyż jest to pożyteczne dla was, którzy nie tylko zaczęliście to robić, ale już ubiegłego roku wykazaliście chęć.<verse eid="2CO 8:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 8:11" />Teraz więc to, co zaczęliście robić, dokończcie, aby tak, jak była gotowość w chęciach, tak też aby było wykonanie z tego, co macie.<verse eid="2CO 8:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 8:12" />Jeśli bowiem najpierw jest gotowość, jest przyjmowana według tego, co kto ma, a nie według tego, czego nie ma.<verse eid="2CO 8:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 8:13" />Nie chodzi bowiem o to, żeby innym ulżyć, a was obciążyć;<verse eid="2CO 8:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 8:14" />Lecz o równość, aby teraz wasza obfitość usłużyła ich niedostatkowi, aby też ich obfitość waszemu niedostatkowi usłużyła, tak żeby była równość;<verse eid="2CO 8:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 8:15" />Jak jest napisane: Kto wiele nazbierał, nie miał za wiele, a kto mało nazbierał, nie miał za mało.<verse eid="2CO 8:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 8:16" />Lecz Bogu niech będą dzięki, który wszczepił taką troskę o was w serce Tytusa;<verse eid="2CO 8:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 8:17" />Że przyjął tę zachętę, a będąc bardziej gorliwym, dobrowolnie wybrał się do was.<verse eid="2CO 8:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 8:18" />Posłaliśmy razem z nim brata, którego sława w ewangelii rozchodzi się po wszystkich kościołach.<verse eid="2CO 8:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="2CO 8:19" />A nie tylko to, ale też został wybrany przez kościoły na towarzysza naszej podróży w tym dziele łaski, którym służymy ku chwale samego Pana i ku okazaniu waszej gotowości;<verse eid="2CO 8:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="2CO 8:20" />Wystrzegając się tego, aby nas ktoś nie ganił z powodu tego hojnego daru, którym służymy;<verse eid="2CO 8:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="2CO 8:21" />Starając się o to, co uczciwe, nie tylko przed Panem, ale też przed ludźmi.<verse eid="2CO 8:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="2CO 8:22" />A posłaliśmy z nimi naszego brata, którego pilność wielokrotnie wypróbowaliśmy w wielu sprawach, a który teraz jest o wiele bardziej pilny, ponieważ ma do was wielkie zaufanie.<verse eid="2CO 8:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="2CO 8:23" />A jeśli chodzi o Tytusa, jest on moim towarzyszem i współpracownikiem wśród was, jeśli zaś chodzi o naszych braci, są wysłannikami kościołów i chwałą Chrystusa.<verse eid="2CO 8:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="2CO 8:24" />Okażcie im więc przed kościołami dowód waszej miłości i naszej chluby z was.<verse eid="2CO 8:24" />
+  </para>
+  <chapter eid="2CO 8" />
+  <chapter number="9" style="c" sid="2CO 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 9:1" />Lecz o posłudze na rzecz świętych nie ma potrzeby, abym wam pisał.<verse eid="2CO 9:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 9:2" />Znam bowiem waszą gotowość, z powodu której wobec Macedończyków chlubię się wami, że Achaja jest gotowa od zeszłego roku, i wasza gorliwość pobudziła wielu.<verse eid="2CO 9:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 9:3" />Ale posłałem braci, żeby nasza chluba z was nie okazała się pod tym względem próżna, abyście, jak mówiłem, byli przygotowani;<verse eid="2CO 9:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 9:4" />I abyśmy, jeśli przypadkiem przybyliby ze mną Macedończycy i zastali was nieprzygotowanymi, nie byli zawstydzeni my – żeby nie powiedzieć: wy – za tak śmiałe przechwalanie się.<verse eid="2CO 9:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 9:5" />Uważałem więc za konieczne zachęcić braci, aby wcześniej udali się do was i zawczasu przygotowali przedtem obiecany wasz hojny dar, aby był gotowy jako wyraz hojności, a nie skąpstwa.<verse eid="2CO 9:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 9:6" />Lecz mówię: Kto skąpo sieje, skąpo też żąć będzie, a kto sieje obficie, obficie też żąć będzie.<verse eid="2CO 9:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 9:7" />Każdy jak postanowił w swym sercu, tak niech zrobi, nie z żalem ani z przymusu, gdyż radosnego dawcę Bóg miłuje.<verse eid="2CO 9:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 9:8" />A Bóg ma moc udzielić wam obficie wszelkiej łaski, abyście, mając zawsze wszystkiego pod dostatkiem, obfitowali we wszelki dobry uczynek;<verse eid="2CO 9:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 9:9" />Jak jest napisane: Rozrzucił, dał ubogim, jego sprawiedliwość trwa na wieki.<verse eid="2CO 9:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 9:10" />A ten, który daje ziarno siewcy, niech i wam da chleba do jedzenia, i wasze ziarno rozmnoży, i zwiększy plon waszej sprawiedliwości;<verse eid="2CO 9:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 9:11" />Abyście byli wzbogaceni we wszystko ku wszelkiej hojności, która sprawia, że z naszego powodu składane jest dziękczynienie Bogu.<verse eid="2CO 9:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 9:12" />Posługiwanie bowiem w tej służbie nie tylko zaspokaja niedostatki świętych, ale też obfituje w liczne dziękczynienia składane Bogu.<verse eid="2CO 9:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 9:13" />Gdyż przez doświadczenie tej posługi chwalą Boga za to, że jesteście posłuszni wyznawanej przez siebie ewangelii Chrystusa i hojni w udzielaniu im i wszystkim innym;<verse eid="2CO 9:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 9:14" />A modląc się za was, tęsknią za wami z powodu obfitującej w was łaski Bożej.<verse eid="2CO 9:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 9:15" />Bogu niech będą dzięki za jego niewypowiedziany dar.<verse eid="2CO 9:15" />
+  </para>
+  <chapter eid="2CO 9" />
+  <chapter number="10" style="c" sid="2CO 10" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 10:1" />A ja sam, Paweł, proszę was przez łagodność i życzliwość Chrystusa, ja, który, gdy jestem obecny wśród was, jestem pokorny w waszych oczach, lecz gdy jestem nieobecny, jestem śmiały wobec was.<verse eid="2CO 10:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 10:2" />A proszę, żebym będąc obecny, nie musiał być śmiały tą pewnością siebie, którą zamierzam być śmiały wobec niektórych, którzy sądzą, że postępujemy według ciała.<verse eid="2CO 10:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 10:3" />Chociaż bowiem w ciele żyjemy, nie walczymy według ciała;<verse eid="2CO 10:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 10:4" />(Gdyż oręż naszej walki nie jest cielesny, ale z Boga, i ma moc burzenia twierdz warownych);<verse eid="2CO 10:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 10:5" />Obalamy rozumowania i wszelką wyniosłość, która powstaje przeciwko poznaniu Boga, i zniewalamy wszelką myśl do posłuszeństwa Chrystusowi;<verse eid="2CO 10:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 10:6" />Gotowi do ukarania wszelkiego nieposłuszeństwa, kiedy wasze posłuszeństwo będzie całkowite.<verse eid="2CO 10:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 10:7" />Czy patrzycie tylko na to, co jest przed oczami? Jeśli ktoś jest przekonany, że należy do Chrystusa, to niech też weźmie pod uwagę, że jak on należy do Chrystusa, tak do Chrystusa należymy i my.<verse eid="2CO 10:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 10:8" />Choćbym się bowiem jeszcze bardziej chełpił z naszej władzy, którą dał nam Pan ku zbudowaniu, a nie ku waszej zgubie, nie będę zawstydzony;<verse eid="2CO 10:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 10:9" />Aby się nie wydawało, że chcę was straszyć listami.<verse eid="2CO 10:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 10:10" />Mówią bowiem: Listy ważkie są i mocne, ale gdy się zjawia osobiście, jest słaby, a jego mowa godna pogardy.<verse eid="2CO 10:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 10:11" />Kto tak sądzi, niech wie, że jakimi jesteśmy w słowach listów, będąc nieobecni, takimi też będziemy w czynie, gdy będziemy obecni.<verse eid="2CO 10:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 10:12" />Nie śmiemy bowiem zaliczać siebie do niektórych ani porównywać się z niektórymi, którzy polecają sami siebie. Nie mają bowiem rozumu, gdyż mierzą się własną miarą i porównują się sami ze sobą.<verse eid="2CO 10:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 10:13" />Lecz my nie będziemy się chlubili ponad miarę, ale według miary zasad, które Bóg nam wymierzył, miary, która sięgnęła aż do was.<verse eid="2CO 10:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 10:14" />Nie przekraczamy bowiem ponad miarę samych siebie, jakbyśmy nie dotarli aż do was, bo przyszliśmy aż i do was z ewangelią Chrystusa.<verse eid="2CO 10:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 10:15" />I nie chlubimy się ponad miarę z pracy innych, ale mamy nadzieję, że gdy wzrośnie w was wasza wiara, i my wzrośniemy obficie wśród was zgodnie z naszymi zasadami;<verse eid="2CO 10:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 10:16" />Żeby głosić ewangelię poza waszymi granicami, nie chlubiąc się na cudzym obszarze tym, czego już inni dokonali.<verse eid="2CO 10:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 10:17" />Kto więc się chlubi, w Panu niech się chlubi.<verse eid="2CO 10:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 10:18" />Nie ten bowiem, kto sam siebie poleca, jest wypróbowany, lecz ten, kogo poleca Pan.<verse eid="2CO 10:18" />
+  </para>
+  <chapter eid="2CO 10" />
+  <chapter number="11" style="c" sid="2CO 11" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 11:1" />O, gdybyście mogli trochę znieść moje głupstwo! Doprawdy znoście mnie.<verse eid="2CO 11:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 11:2" />Jestem bowiem zazdrosny o was Bożą zazdrością; zaślubiłem was bowiem jednemu mężowi, aby przedstawić was Chrystusowi jako czystą dziewicę.<verse eid="2CO 11:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 11:3" />Lecz boję się, by czasem, tak jak wąż swoją przebiegłością oszukał Ewę, tak też wasze umysły nie zostały skażone i nie odstąpiły od prostoty, która jest w Chrystusie.<verse eid="2CO 11:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 11:4" />Gdyby bowiem przyszedł ktoś i głosił innego Jezusa, którego my nie głosiliśmy, albo gdybyście przyjęli innego ducha, którego nie otrzymaliście, albo inną ewangelię, której nie przyjęliście, znosilibyście go z łatwością.<verse eid="2CO 11:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 11:5" />A uważam, że w niczym nie ustępowałem tym wielkim apostołom.<verse eid="2CO 11:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 11:6" />Bo chociaż jestem prostakiem w mowie, to jednak nie w poznaniu; lecz staliśmy się jawni wobec was we wszystkim, pod każdym względem.<verse eid="2CO 11:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 11:7" />Czyż popełniłem grzech, uniżając samego siebie, abyście wy byli wywyższeni, że za darmo głosiłem wam ewangelię Bożą?<verse eid="2CO 11:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 11:8" />Ograbiłem inne kościoły, biorąc od nich zapłatę, aby wam służyć.<verse eid="2CO 11:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 11:9" />A gdy byłem u was i znalazłem się w potrzebie, nikomu nie byłem ciężarem; mój niedostatek bowiem uzupełnili bracia, którzy przybyli z Macedonii. Pilnowałem się, aby w niczym nie być dla was ciężarem, i nadal będę się pilnował.<verse eid="2CO 11:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 11:10" />Jak prawda Chrystusa jest we mnie, tak tej chluby nikt mi nie odbierze w granicach Achai.<verse eid="2CO 11:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 11:11" />Dlaczego? Czy dlatego, że was nie miłuję? Bóg to wie.<verse eid="2CO 11:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 11:12" />Co zaś czynię, nadal będę czynił, aby pozbawić okazji tych, którzy jej szukają, aby w tym, z czego się chlubią, okazali się takimi jak my.<verse eid="2CO 11:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 11:13" />Tacy bowiem są fałszywymi apostołami, podstępnymi pracownikami, którzy przybierają postać apostołów Chrystusa.<verse eid="2CO 11:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 11:14" />I nic dziwnego, sam bowiem szatan przybiera postać anioła światłości.<verse eid="2CO 11:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 11:15" />Nic więc wielkiego, jeśli i jego słudzy przybierają postać sług sprawiedliwości. Koniec ich jednak będzie według ich uczynków.<verse eid="2CO 11:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 11:16" />Mówię znowu: Niech nikt nie uważa mnie za głupiego; a jeśli już tak, to przyjmijcie mnie jako głupiego, abym i ja mógł się trochę pochlubić.<verse eid="2CO 11:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 11:17" />Co mówię, nie mówię według Pana, ale jakby w głupocie, w tym śmiałym przechwalaniu się.<verse eid="2CO 11:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 11:18" />Skoro wielu chlubi się według ciała, i ja będę się chlubił.<verse eid="2CO 11:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="2CO 11:19" />Chętnie przecież znosicie głupich, sami będąc mądrymi.<verse eid="2CO 11:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="2CO 11:20" />Znosicie bowiem, gdy ktoś was bierze w niewolę, gdy ktoś was objada, gdy ktoś was wyzyskuje, gdy ktoś wynosi się ponad was, gdy was ktoś policzkuje.<verse eid="2CO 11:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="2CO 11:21" />Mówię o hańbie, jakbyśmy byli słabi; lecz w czym ktoś jest śmiały – mówię jak głupi – ja też jestem śmiały.<verse eid="2CO 11:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="2CO 11:22" />Są Hebrajczykami? Ja także. Są Izraelitami? Ja także. Są potomstwem Abrahama? Ja także.<verse eid="2CO 11:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="2CO 11:23" />Są sługami Chrystusa? Mówię jak głupi: Ja jeszcze bardziej; w pracach więcej, w chłostach nad miarę, w więzieniach częściej, w niebezpieczeństwie śmierci wielokroć.<verse eid="2CO 11:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="2CO 11:24" />Od Żydów pięciokrotnie otrzymałem czterdzieści razów bez jednego.<verse eid="2CO 11:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="2CO 11:25" />Trzy razy byłem bity rózgami, raz kamienowany, trzy razy rozbił się ze mną okręt, dzień i noc spędziłem w głębinie morskiej.<verse eid="2CO 11:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="2CO 11:26" />Często w podróżach, w niebezpieczeństwach na rzekach, w niebezpieczeństwach od bandytów, w niebezpieczeństwach od własnego narodu, w niebezpieczeństwach od pogan, w niebezpieczeństwach w mieście, w niebezpieczeństwach na pustyni, w niebezpieczeństwach na morzu, w niebezpieczeństwach wśród fałszywych braci;<verse eid="2CO 11:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="2CO 11:27" />W trudzie i znoju, często w czuwaniu, w głodzie i pragnieniu, często w postach, w zimnie i nagości;<verse eid="2CO 11:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="2CO 11:28" />A poza tymi sprawami zewnętrznymi, w tym, co mi codziennie ciąży, w trosce o wszystkie kościoły.<verse eid="2CO 11:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="2CO 11:29" />Któż jest słaby, żebym i ja nie był słaby? Któż się gorszy, żebym i ja nie płonął?<verse eid="2CO 11:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="2CO 11:30" />Jeśli mam się chlubić, będę się chlubić z moich słabości.<verse eid="2CO 11:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="2CO 11:31" />Bóg i Ojciec naszego Pana Jezusa Chrystusa, który jest błogosławiony na wieki, wie, że nie kłamię.<verse eid="2CO 11:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="2CO 11:32" />W Damaszku namiestnik króla Aretasa otoczył strażą miasto Damasceńczyków, chcąc mnie schwytać;<verse eid="2CO 11:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="2CO 11:33" />Ale przez okno spuszczono mnie w koszu przez mur i uszedłem jego rąk.<verse eid="2CO 11:33" />
+  </para>
+  <chapter eid="2CO 11" />
+  <chapter number="12" style="c" sid="2CO 12" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 12:1" />Wprawdzie nie jest dla mnie pożyteczne chlubić się, to jednak przejdę do widzeń i objawień Pańskich.<verse eid="2CO 12:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 12:2" />Znam człowieka w Chrystusie, który przed czternastu laty – czy w ciele, nie wiem, czy poza ciałem, nie wiem, Bóg wie – został porwany aż do trzeciego nieba.<verse eid="2CO 12:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 12:3" />I znam takiego człowieka – czy w ciele, czy poza ciałem, nie wiem, Bóg wie;<verse eid="2CO 12:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 12:4" />Który został porwany do raju i słyszał niewypowiedziane słowa, których człowiekowi nie wolno mówić.<verse eid="2CO 12:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 12:5" />Z takiego człowieka będę się chlubić, a z samego siebie nie będę się chlubił, chyba że z moich słabości.<verse eid="2CO 12:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 12:6" />Gdybym bowiem chciał się chlubić, nie byłbym głupi, bo powiedziałbym prawdę. Powstrzymuję się jednak, aby ktoś nie myślał o mnie ponad to, jakim mnie widzi albo co ode mnie słyszy.<verse eid="2CO 12:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 12:7" />A żebym zbytnio nie wynosił się ogromem objawień, dany mi został cierń dla ciała, wysłannik szatana, aby mnie policzkował, żebym się ponad miarę nie wynosił.<verse eid="2CO 12:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 12:8" />Dlatego trzy razy prosiłem Pana, aby on odstąpił ode mnie.<verse eid="2CO 12:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 12:9" />Lecz powiedział mi: Wystarczy ci moja łaska. Moja moc bowiem doskonali się w słabości. Najchętniej więc będę się chlubił z moich słabości, aby zamieszkała we mnie moc Chrystusa.<verse eid="2CO 12:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 12:10" />Dlatego mam upodobanie w słabościach, w zniewagach, w niedostatkach, w prześladowaniach, w uciskach ze względu na Chrystusa; gdy bowiem jestem słaby, wtedy jestem mocny.<verse eid="2CO 12:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 12:11" />Stałem się głupi, chlubiąc się; wy mnie do tego zmusiliście. Ja bowiem przez was powinienem być polecany, ponieważ nie byłem mniejszy niż ci wielcy apostołowie, chociaż jestem niczym.<verse eid="2CO 12:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 12:12" />Jednak znaki apostoła okazały się wśród was we wszelkiej cierpliwości, w znakach, cudach i przejawach mocy.<verse eid="2CO 12:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 12:13" />W czym bowiem jesteście gorsi od innych kościołów, jeśli nie w tym tylko, że ja sam nie byłem dla was ciężarem? Wybaczcie mi tę krzywdę.<verse eid="2CO 12:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 12:14" />Oto po raz trzeci jestem gotów przybyć do was i nie będę dla was ciężarem. Nie szukam bowiem tego, co wasze, ale was samych, ponieważ nie dzieci rodzicom powinny gromadzić skarby, ale rodzice dzieciom.<verse eid="2CO 12:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 12:15" />Lecz ja bardzo chętnie poniosę wydatki i samego siebie wydam za wasze dusze, chociaż im bardziej was miłuję, tym mniej jestem przez was miłowany.<verse eid="2CO 12:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 12:16" />Ale niech i tak będzie; nie byłem dla was ciężarem, ale będąc przebiegły, zdobyłem was podstępem.<verse eid="2CO 12:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 12:17" />Czy wyzyskałem was przez kogoś z tych, których do was posłałem?<verse eid="2CO 12:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 12:18" />Uprosiłem Tytusa i wysłałem z nim brata. Czy Tytus was wyzyskał? Czy nie postępowaliśmy w tym samym duchu? Czy nie kroczyliśmy tymi samymi śladami?<verse eid="2CO 12:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="2CO 12:19" />Znowu sądzicie, że się przed wami usprawiedliwiamy? W obliczu Boga w Chrystusie mówimy, a to wszystko, najmilsi, dla waszego zbudowania.<verse eid="2CO 12:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="2CO 12:20" />Obawiam się bowiem, żebym przypadkiem, gdy przyjdę, nie zastał was takimi, jakimi nie chciałbym was zastać, i żebyście wy nie zastali mnie takim, jakim nie chcielibyście; żeby przypadkiem nie było wśród was sporów, zazdrości, gniewu, kłótni, obmów, szemrania, wynoszenia się i zamieszań;<verse eid="2CO 12:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="2CO 12:21" />Żeby, gdy znowu przyjdę, mój Bóg nie poniżył mnie wobec was i musiałbym opłakiwać wielu tych, którzy przedtem grzeszyli i nie pokutowali z nieczystości, nierządu i rozpusty, których się dopuścili.<verse eid="2CO 12:21" />
+  </para>
+  <chapter eid="2CO 12" />
+  <chapter number="13" style="c" sid="2CO 13" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 13:1" />Oto teraz po raz trzeci idę do was. Na podstawie zeznania dwóch albo trzech świadków oparte będzie każde słowo.<verse eid="2CO 13:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 13:2" />Powiedziałem poprzednio i znowu mówię, jako obecny za drugim razem, a nieobecny teraz, piszę tym, którzy przedtem grzeszyli, i wszystkim innym, że jeśli znowu przybędę, nie oszczędzę nikogo;<verse eid="2CO 13:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 13:3" />Skoro szukacie dowodu na to, że przeze mnie przemawia Chrystus, który nie jest słaby względem was, lecz jest mocny w was.<verse eid="2CO 13:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 13:4" />Chociaż bowiem został ukrzyżowany wskutek słabości, to jednak żyje z mocy Boga. I my także w nim jesteśmy słabi, ale będziemy żyć z nim z mocy Boga względem was.<verse eid="2CO 13:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 13:5" />Badajcie samych siebie, czy jesteście w wierze, samych siebie doświadczajcie. Czy nie wiecie o samych sobie, że Jezus Chrystus jest w was? Chyba że zostaliście odrzuceni.<verse eid="2CO 13:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 13:6" />Mam jednak nadzieję, że poznacie, iż my nie jesteśmy odrzuceni.<verse eid="2CO 13:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 13:7" />I modlę się do Boga, abyście nie czynili nic złego, nie po to, abyśmy my okazali się wypróbowani, ale abyście wy czynili to, co dobre, choćbyśmy byli jak odrzuceni.<verse eid="2CO 13:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 13:8" />Nie możemy bowiem nic uczynić przeciwko prawdzie, lecz dla prawdy.<verse eid="2CO 13:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 13:9" />Cieszymy się bowiem, gdy my jesteśmy słabi, a wy mocni; i tego też życzymy, abyście wy byli doskonali.<verse eid="2CO 13:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 13:10" />Dlatego piszę to, będąc nieobecny, abym będąc obecny, nie musiał postępować surowo według mocy, którą mi dał Pan ku zbudowaniu, a nie ku niszczeniu.<verse eid="2CO 13:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 13:11" />Na koniec, bracia, miejcie się dobrze; bądźcie doskonali, pokrzepiajcie się, bądźcie jednomyślni, żyjcie w pokoju, a Bóg miłości i pokoju będzie z wami.<verse eid="2CO 13:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 13:12" />Pozdrówcie się nawzajem świętym pocałunkiem.<verse eid="2CO 13:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 13:13" />Pozdrawiają was wszyscy święci.<verse eid="2CO 13:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 13:14" />Łaska Pana Jezusa Chrystusa, miłość Boga i wspólnota Ducha Świętego niech będzie z wami wszystkimi. Amen.<verse eid="2CO 13:14" />
+  </para>
+  <chapter eid="2CO 13" />
+</usx>

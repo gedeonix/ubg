@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="AMO" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Amosa</para>
+  <para style="toc1">Księga Amosa</para>
+  <para style="toc2">Amosa</para>
+  <para style="toc3">Am</para>
+  <para style="mt1">Księga Amosa</para>
+  <chapter number="1" style="c" sid="AMO 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="AMO 1:1" />Słowa Amosa, który był jednym spośród pasterzy z Tekoa, które widział o Izraelu za dni Uzjasza, króla Judy, i za dni Jeroboama, syna Joasza, króla Izraela, dwa lata przed trzęsieniem ziemi.<verse eid="AMO 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="AMO 1:2" />I powiedział: PAN zagrzmi z Syjonu, z Jerozolimy wyda swój głos; mieszkania pasterzy będą lamentować, a wyschnie szczyt Karmelu.<verse eid="AMO 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="AMO 1:3" />Tak mówi PAN: Z powodu trzech występków Damaszku i z powodu czterech nie przepuszczę mu, ponieważ młócili Gilead narzędziami z żelaza.<verse eid="AMO 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="AMO 1:4" />Ale ześlę ogień na dom Chazaela, który strawi pałace Ben-Hadada.<verse eid="AMO 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="AMO 1:5" />Połamię też rygiel Damaszku i wykorzenię mieszkańca z doliny Awen i tego, który trzyma berło z domu Eden. I lud Syrii pójdzie do niewoli do Kir, mówi PAN.<verse eid="AMO 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="AMO 1:6" />Tak mówi PAN: Z powodu trzech występków Gazy i z powodu czterech nie przepuszczę im, ponieważ uprowadzili wszystkich jeńców, aby ich wydać Edomowi.<verse eid="AMO 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="AMO 1:7" />Ale ześlę ogień na mur Gazy, który strawi jej pałace.<verse eid="AMO 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="AMO 1:8" />Wykorzenię też mieszkańca z Aszdodu i tego, który trzyma berło z Aszkelonu, i zwrócę swoją rękę przeciwko Ekronowi, i zginie resztka Filistynów, mówi Pan BÓG.<verse eid="AMO 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="AMO 1:9" />Tak mówi PAN: Z powodu trzech występków Tyru i z powodu czterech nie przepuszczę mu, ponieważ wydali wszystkich jeńców Edomowi, a nie pamiętali o braterskim przymierzu;<verse eid="AMO 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="AMO 1:10" />Ale ześlę ogień na mur Tyru, który strawi jego pałace.<verse eid="AMO 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="AMO 1:11" />Tak mówi PAN: Z powodu trzech występków Edomu i z powodu czterech nie przepuszczę mu, ponieważ prześladował mieczem swego brata, tłumiąc w sobie wszelaką litość, a nieustannie pałał gniewem, swoją zapalczywość chował na zawsze.<verse eid="AMO 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="AMO 1:12" />Ale ześlę ogień na Teman i strawi pałace Bosry.<verse eid="AMO 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="AMO 1:13" />Tak mówi PAN: Z powodu trzech występków synów Ammona i z powodu czterech nie przepuszczę im, ponieważ rozcinali brzemienne w Gileadzie tylko po to, by rozszerzyć swoje granice.<verse eid="AMO 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="AMO 1:14" />Ale rozniecę ogień na murze Rabby, który strawi jego pałace wśród krzyku w dzień bitwy, podczas wichru w dzień burzy.<verse eid="AMO 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="AMO 1:15" />I pójdzie ich król do niewoli, on i jego książęta razem z nim, mówi PAN.<verse eid="AMO 1:15" />
+  </para>
+  <chapter eid="AMO 1" />
+  <chapter number="2" style="c" sid="AMO 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="AMO 2:1" />Tak mówi PAN: Z powodu trzech występków Moabu i z powodu czterech nie przepuszczę mu, ponieważ spalił kości króla Edomu na wapno.<verse eid="AMO 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="AMO 2:2" />Ale ześlę ogień na Moab, który strawi pałace Keriotu. I umrze Moab wśród wrzawy, wśród krzyku i przy dźwięku trąby.<verse eid="AMO 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="AMO 2:3" />I wytracę sędziów spośród niego, i zabiję wraz z nim wszystkich jego książąt, mówi PAN.<verse eid="AMO 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="AMO 2:4" />Tak mówi PAN: Z powodu trzech występków Judy i z powodu czterech nie przepuszczę mu, ponieważ odrzucili prawo PANA i nie przestrzegali jego przykazań, a dali się zwieść swoim kłamstwom, za którymi chodzili ich ojcowie.<verse eid="AMO 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="AMO 2:5" />Ale ześlę ogień na Judę, który strawi pałace Jerozolimy.<verse eid="AMO 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="AMO 2:6" />Tak mówi PAN: Z powodu trzech występków Izraela i z powodu czterech nie przepuszczę mu, ponieważ sprzedali sprawiedliwego za srebro, a ubogiego za parę sandałów;<verse eid="AMO 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="AMO 2:7" />Którzy dążą do tego, aby w prochu deptać głowy ubogich i drogę pokornych wypaczają. Ponadto syn i jego ojciec obcują z tą samą dziewczyną, aby splamić moje święte imię.<verse eid="AMO 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="AMO 2:8" />I na szatach danych im w zastaw kładą się przy każdym ołtarzu, a wino ukaranych piją w domu swoich bogów.<verse eid="AMO 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="AMO 2:9" />A przecież wytraciłem przed nimi Amorytę, który był wysoki jak cedry, a mocny jak dęby. Zniszczyłem jednak jego owoc od góry, a z dołu jego korzenie.<verse eid="AMO 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="AMO 2:10" />A was wyprowadziłem z ziemi Egiptu i prowadziłem przez pustynię czterdzieści lat, abyście posiedli ziemię Amoryty.<verse eid="AMO 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="AMO 2:11" />I wzbudzałem spośród waszych synów proroków i spośród waszych młodzieńców nazirejczyków. Czy nie jest tak, synowie Izraela? – mówi PAN.<verse eid="AMO 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="AMO 2:12" />Ale wy poiliście nazirejczyków winem, a prorokom rozkazywaliście, mówiąc: Nie prorokujcie.<verse eid="AMO 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="AMO 2:13" />Oto ścisnę waszą ziemię, tak jak ciśnie wóz pełen snopów.<verse eid="AMO 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="AMO 2:14" />Szybkiemu nie uda się ucieczka, mocny nie doda sobie sił i mocarz nie wybawi swojej duszy.<verse eid="AMO 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="AMO 2:15" />A ten, który trzyma łuk, nie ostoi się, i szybki na nogach nie ucieknie, a jeździec na koniu nie zachowa swojej duszy.<verse eid="AMO 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="AMO 2:16" />A najodważniejszy spośród mocarzy ucieknie w tym dniu nagi, mówi PAN.<verse eid="AMO 2:16" />
+  </para>
+  <chapter eid="AMO 2" />
+  <chapter number="3" style="c" sid="AMO 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="AMO 3:1" />Słuchajcie tego słowa, które PAN mówi przeciwko wam, synowie Izraela, przeciwko całemu pokoleniu, które wyprowadziłem z ziemi Egiptu:<verse eid="AMO 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="AMO 3:2" />Tylko was uznałem spośród wszystkich rodów ziemi, dlatego was ukarzę za wszystkie wasze nieprawości.<verse eid="AMO 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="AMO 3:3" />Czy dwóch może chodzić razem, jeśli się nie zgadzają?<verse eid="AMO 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="AMO 3:4" />Czy lew zaryczy w lesie, gdy nie ma łupu? Czy młody lew wyda swój głos ze swojego legowiska, jeśli nic nie złowił?<verse eid="AMO 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="AMO 3:5" />Czy ptak wpadnie w sidła na ziemi, jeśli nie ma pułapki? Czy podniesie się sidła z ziemi, jeśli nic nie schwytały?<verse eid="AMO 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="AMO 3:6" />Czy trąba zadmie w mieście, a lud się nie ulęknie? Czy w mieście zdarzy się nieszczęście, którego PAN by nie uczynił?<verse eid="AMO 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="AMO 3:7" />Doprawdy, Pan BÓG nic nie czyni, jeśli nie objawi swojej tajemnicy swym sługom, prorokom.<verse eid="AMO 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="AMO 3:8" />Lew ryknął, któż się nie ulęknie? Pan BÓG przemówił, któż nie będzie prorokował?<verse eid="AMO 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="AMO 3:9" />Głoście w pałacach w Aszdodzie i w pałacach ziemi Egiptu i mówcie: Zbierzcie się na górach Samarii i zobaczcie w niej wielkie zamieszanie oraz cierpiących w niej ucisk;<verse eid="AMO 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="AMO 3:10" />Nie umieją bowiem czynić tego, co jest prawe, mówi PAN. Zbierają w swoich pałacach skarby ze zdzierstwa i z grabieży.<verse eid="AMO 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="AMO 3:11" />Dlatego tak mówi Pan BÓG: Wróg otoczy tę ziemię i pozbawi cię twojej siły, i twoje pałace zostaną ograbione.<verse eid="AMO 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="AMO 3:12" />Tak mówi PAN: Jak pasterz wyrywa z lwiej paszczy dwie nogi lub kawałek ucha, tak zostaną wyrwani synowie Izraela, którzy mieszkają w Samarii na rogu łoża i w Damaszku na posłaniach.<verse eid="AMO 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="AMO 3:13" />Słuchajcie i oświadczcie w domu Jakuba, mówi Pan BÓG, Bóg zastępów;<verse eid="AMO 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="AMO 3:14" />Bo w tym dniu, w którym ukarzę Izraela za jego przestępstwa, ukarzę też ołtarze w Betel. I rogi ołtarza zostaną odcięte i upadną na ziemię.<verse eid="AMO 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="AMO 3:15" />I zburzę dom zimowy i dom letni, zginą domy z kości słoniowej i dla wielkich domów nastanie koniec, mówi PAN.<verse eid="AMO 3:15" />
+  </para>
+  <chapter eid="AMO 3" />
+  <chapter number="4" style="c" sid="AMO 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="AMO 4:1" />Słuchajcie tego słowa, krowy Baszanu, które jesteście na górach Samarii, które uciskacie biednych i niszczycie ubogich, które mówicie ich panom: Przynieście, abyśmy mogli pić.<verse eid="AMO 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="AMO 4:2" />Przysiągł Pan BÓG na swoją świętość, że oto nadejdą na was dni, kiedy pochwyci was hakami, a wasze potomstwo wędkami rybackimi.<verse eid="AMO 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="AMO 4:3" />I wyjdziecie wyłomami, jedna za drugą, i będziecie rozrzucać wszystko, co jest w waszych pałacach, mówi PAN.<verse eid="AMO 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="AMO 4:4" />Przychodźcie do Betel i grzeszcie, w Gilgal rozmnóżcie przestępstwo; przynoście każdego ranka swoje ofiary, a trzeciego roku – swoje dziesięciny;<verse eid="AMO 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="AMO 4:5" />I spalajcie kwaszoną ofiarę dziękczynną, ogłaszajcie i rozgłoście dobrowolne ofiary, ponieważ tak wam się podoba, synowie Izraela, mówi Pan BÓG.<verse eid="AMO 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="AMO 4:6" />A chociaż dałem wam czystość zębów we wszystkich waszych miastach i niedostatek chleba po wszystkich waszych miejscach, wy jednak nie nawróciliście się do mnie, mówi PAN.<verse eid="AMO 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="AMO 4:7" />Ja też wstrzymałem wam deszcz, gdy jeszcze brakowało trzech miesięcy do żniwa. Spuszczałem deszcz na jedno miasto, a na drugie miasto nie spuszczałem. Jedną część pola zraszał deszcz, a druga część, na którą deszcz nie padał, uschła.<verse eid="AMO 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="AMO 4:8" />I chodzili z dwóch, trzech miast do jednego miasta, aby się napić, ale nie mogli zaspokoić swego pragnienia. A jednak nie nawróciliście się do mnie, mówi PAN.<verse eid="AMO 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="AMO 4:9" />Dotknąłem was suszą i pleśnią. Gdy obfitowały wasze ogrody, winnice, sady figowe i drzewa oliwne przynosiły owoc, gąsienice to pożarły, a jednak nie nawróciliście się do mnie, mówi PAN.<verse eid="AMO 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="AMO 4:10" />Zesłałem na was zarazę, tak jak na Egipt, wybiłem mieczem waszych młodzieńców, pozwoliłem uprowadzić wasze konie i sprawiłem, że smród waszych wojsk dotarł do waszych nozdrzy, a jednak nie nawróciliście się do mnie, mówi PAN.<verse eid="AMO 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="AMO 4:11" />Spustoszyłem was, jak Bóg spustoszył Sodomę i Gomorę, i staliście się jak głownia wyrwana z ognia, a jednak nie nawróciliście się do mnie, mówi PAN.<verse eid="AMO 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="AMO 4:12" />Dlatego tak ci uczynię, Izraelu, a ponieważ zamierzam ci tak uczynić, przygotuj się na spotkanie ze swym Bogiem, Izraelu!<verse eid="AMO 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="AMO 4:13" />Oto bowiem on jest tym, który kształtuje góry, tworzy wiatr, oznajmia człowiekowi, jaka jest jego myśl; on z rannej zorzy czyni ciemność i stąpa po wyżynach ziemi. PAN, Bóg zastępów, to jego imię.<verse eid="AMO 4:13" />
+  </para>
+  <chapter eid="AMO 4" />
+  <chapter number="5" style="c" sid="AMO 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="AMO 5:1" />Słuchajcie tego słowa, które jako lament podnoszę przeciwko wam, domu Izraela!<verse eid="AMO 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="AMO 5:2" />Upadła i już nie powstanie dziewica Izraela. Leży opuszczona w swej ziemi i nie ma nikogo, kto by ją podniósł.<verse eid="AMO 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="AMO 5:3" />Tak bowiem mówi Pan BÓG: W mieście, z którego wychodziło tysiąc, pozostanie sto, a w tym, z którego wychodziło sto, pozostanie domowi Izraela dziesięciu.<verse eid="AMO 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="AMO 5:4" />Tak bowiem mówi PAN do domu Izraela: Szukajcie mnie, a będziecie żyć;<verse eid="AMO 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="AMO 5:5" />A nie szukajcie Betel, nie chodźcie do Gilgal i do Beer-Szeby nie udawajcie się, gdyż Gilgal zostanie uprowadzony do niewoli, a Betel wniwecz się obróci.<verse eid="AMO 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="AMO 5:6" />Szukajcie PANA, a będziecie żyć, aby nie wybuchł jak ogień w domu Józefa i nie pochłonął go, a nie będzie nikogo w Betel, kto by go ugasił;<verse eid="AMO 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="AMO 5:7" />Wy, którzy zamieniacie sąd w piołun, a sprawiedliwość porzucacie na ziemi;<verse eid="AMO 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="AMO 5:8" />Szukajcie tego, który uczynił Plejady i Oriona, który przemienia cień śmierci w poranek i dzień w ciemności nocne; który przyzywa wody morskie i wylewa je na powierzchni ziemi, PAN jest jego imię;<verse eid="AMO 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="AMO 5:9" />Który wzmacnia słabego przeciwko mocnemu, tak że ten osłabiony naciera na twierdzę.<verse eid="AMO 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="AMO 5:10" />Nienawidzą tego, który upomina ich w bramie, i brzydzą się tym, który mówi prawdę.<verse eid="AMO 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="AMO 5:11" />Ponieważ uciskacie ubogiego i zabieracie mu ciężar zboża, to chociaż pobudowaliście domy z kamienia ciosanego, nie będziecie w nich mieszkać; zasadzaliście rozkoszne winnice, ale nie będziecie pić z nich wina.<verse eid="AMO 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="AMO 5:12" />Znam bowiem wasze wielkie przestępstwa i ogromne grzechy: uciskacie sprawiedliwego, bierzecie łapówkę i wypaczacie sprawy ubogich w bramie.<verse eid="AMO 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="AMO 5:13" />Dlatego roztropny milczy w tym czasie, bo jest to czas zły.<verse eid="AMO 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="AMO 5:14" />Szukajcie dobra, a nie zła, abyście żyli. A PAN, Bóg zastępów, będzie z wami, tak jak mówicie.<verse eid="AMO 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="AMO 5:15" />Nienawidźcie zła, a miłujcie dobro i ustanówcie sąd w bramie. Może wtedy PAN, Bóg zastępów, zlituje się nad resztką Józefa.<verse eid="AMO 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="AMO 5:16" />Dlatego tak mówi PAN, Bóg zastępów, Pan: Na wszystkich ulicach będzie zawodzenie, a na wszystkich drogach będą krzyczeć: Biada, biada! I zawołają oracza do płaczu, a tych, którzy umieją lamentować, do zawodzenia.<verse eid="AMO 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="AMO 5:17" />I we wszystkich winnicach będzie zawodzenie, gdy przejdę pośród ciebie, mówi PAN.<verse eid="AMO 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="AMO 5:18" />Biada tym, którzy pragną dnia PANA! Cóż wam po tym dniu PANA? Jest on ciemnością, a nie światłością.<verse eid="AMO 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="AMO 5:19" />Jak gdyby ktoś uciekał przed lwem, a spotkał go niedźwiedź; albo jak gdyby wszedł do domu i oparł się ręką o ścianę, a ukąsiłby go wąż.<verse eid="AMO 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="AMO 5:20" />Czy dzień PANA nie jest ciemnością, a nie światłością? Mrokiem bez żadnej jasności?<verse eid="AMO 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="AMO 5:21" />Nienawidzę waszych uroczystych świąt i gardzę nimi, i woń na waszych zgromadzeniach nie jest mi miła.<verse eid="AMO 5:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="AMO 5:22" />Jeśli bowiem będziecie mi składać całopalenia i swoje ofiary pokarmowe, nie przyjmę ich ani nie wejrzę na ofiary pojednawcze z waszego tuczonego bydła.<verse eid="AMO 5:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="AMO 5:23" />Oddal ode mnie wrzask waszych pieśni, bo nie chcę słuchać dźwięku waszych cytr.<verse eid="AMO 5:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="AMO 5:24" />Niech raczej sąd tryska jak woda, a sprawiedliwość jak gwałtowny strumień.<verse eid="AMO 5:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="AMO 5:25" />Czy składaliście mi ofiary i dary na pustyni przez czterdzieści lat, domu Izraela?<verse eid="AMO 5:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="AMO 5:26" />Przecież nosiliście przybytek waszego Molocha i Kijuna, wasze bożki, gwiazdę waszych bogów, których sobie uczyniliście.<verse eid="AMO 5:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="AMO 5:27" />Dlatego uprowadzę was do niewoli poza Damaszek, mówi PAN, Bóg zastępów, to jego imię.<verse eid="AMO 5:27" />
+  </para>
+  <chapter eid="AMO 5" />
+  <chapter number="6" style="c" sid="AMO 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="AMO 6:1" />Biada beztroskim na Syjonie i pokładającym ufność w górze Samarii; tym, którzy są przywódcami wśród tych narodów, do których schodzi się dom Izraela.<verse eid="AMO 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="AMO 6:2" />Idźcie do Kalne i rozejrzyjcie się, a stamtąd idźcie do Chamat wielkiego. Potem zstąpcie do Gat filistyńskiego. Czy są to lepsze królestwa niż te? Czy ich obszar jest większy niż wasz obszar?<verse eid="AMO 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="AMO 6:3" />Biada wam, którzy sądzicie, że dzień zły jest daleko i przybliżacie panowanie przemocy;<verse eid="AMO 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="AMO 6:4" />Którzy sypiacie na łożach z kości słoniowej, a rozciągacie się na swoich posłaniach; którzy jadacie jagnięta z trzody, a cielce tuczone z zagrody;<verse eid="AMO 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="AMO 6:5" />Którzy śpiewacie przy lutni i wymyślacie sobie instrumenty muzyczne jak Dawid;<verse eid="AMO 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="AMO 6:6" />Którzy pijecie wino z czasz i namaszczacie się drogimi maściami, a nie bolejecie nad utrapieniem Józefa.<verse eid="AMO 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="AMO 6:7" />Dlatego teraz pójdą do niewoli na czele pojmanych i skończy się biesiada hulaków.<verse eid="AMO 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="AMO 6:8" />Pan BÓG przysiągł na siebie samego, mówi PAN, Bóg zastępów: Obrzydła mi pycha Jakuba i nienawidzę jego pałaców. Dlatego wydam miasto i wszystko, co w nim jest.<verse eid="AMO 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="AMO 6:9" />A stanie się tak: Jeśli pozostanie dziesięć osób w jednym domu, i one pomrą.<verse eid="AMO 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="AMO 6:10" />I każdego z nich weźmie jego stryj, i spali go, aby wynieść kości z domu, i zapyta tego, który jest w zakątkach domu: Czy jest jeszcze ktoś z tobą? A ten odpowie: Nie ma. Wtedy powie: Milcz, bo nie wolno wspominać imienia PANA.<verse eid="AMO 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="AMO 6:11" />Oto bowiem PAN rozkaże i uderzy w wielki dom rozpadlinami, a w mały dom – pęknięciem.<verse eid="AMO 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="AMO 6:12" />Czy konie mogą biegać po skale? Czy można tam orać wołami? Sąd bowiem zamieniliście w truciznę, a owoc sprawiedliwości w piołun.<verse eid="AMO 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="AMO 6:13" />Biada wam, którzy się cieszycie, a to z niczego, mówiąc: Czy nie wzięliśmy sobie rogów własną siłą?<verse eid="AMO 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="AMO 6:14" />Ale oto ja wzbudzę naród przeciwko wam, domu Izraela, mówi PAN, Bóg zastępów, który was będzie uciskał od wejścia do Chamat aż do strumienia pustyni.<verse eid="AMO 6:14" />
+  </para>
+  <chapter eid="AMO 6" />
+  <chapter number="7" style="c" sid="AMO 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="AMO 7:1" />To mi ukazał Pan BÓG. Oto tworzył koniki polne na początku odrastania potrawu, a oto był to potraw po sianokosach królewskich.<verse eid="AMO 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="AMO 7:2" />A gdy zjadły trawę ziemi, powiedziałem: Panie BOŻE! Przebacz, proszę. Któż zostanie Jakubowi? Jest bowiem malutki.<verse eid="AMO 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="AMO 7:3" />I żałował tego PAN. PAN powiedział: To się nie stanie.<verse eid="AMO 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="AMO 7:4" />To mi ukazał Pan BÓG: Oto Pan BÓG wezwał ogień w celu sądu, a wchłonął wielką głębię i strawił dział.<verse eid="AMO 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="AMO 7:5" />Wtedy powiedziałem: Panie BOŻE! Zaniechaj tego, proszę. Któż zostanie Jakubowi? Jest bowiem malutki.<verse eid="AMO 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="AMO 7:6" />I żałował tego PAN. Pan BÓG powiedział: I to się nie stanie.<verse eid="AMO 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="AMO 7:7" />Potem to mi ukazał: oto Pan stał na murze wybudowanym za pomocą pionu, z pionem w ręku.<verse eid="AMO 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="AMO 7:8" />I PAN powiedział do mnie: Co widzisz, Amosie? Odpowiedziałem: Pion. Wtedy Pan powiedział: Oto przyłożę pion pośród mojego ludu, Izraela. Już mu więcej nie odpuszczę.<verse eid="AMO 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="AMO 7:9" />Wyżyny Izaaka będą spustoszone i świątynie Izraela zostaną zburzone, i powstanę z mieczem przeciwko domowi Jeroboama.<verse eid="AMO 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="AMO 7:10" />Wtedy Amazjasz, kapłan Betel, posłał do Jeroboama, króla Izraela, taką wiadomość: Amos spiskuje przeciwko tobie pośród domu Izraela, tak że ziemia nie może znieść wszystkich jego słów.<verse eid="AMO 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="AMO 7:11" />Tak bowiem mówi Amos: Jeroboam umrze od miecza, a Izrael na pewno zostanie uprowadzony ze swojej ziemi do niewoli.<verse eid="AMO 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="AMO 7:12" />Potem Amazjasz powiedział do Amosa: Widzący, idź, uciekaj do ziemi Judy i tam jedz chleb, i tam prorokuj.<verse eid="AMO 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="AMO 7:13" />A w Betel już więcej nie prorokuj, bo to jest świątynia króla i dom królewski.<verse eid="AMO 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="AMO 7:14" />Wtedy Amos odpowiedział Amazjaszowi: Nie byłem prorokiem ani nawet synem proroka, lecz byłem pasterzem bydła i tym, który zbiera figi sykomory.<verse eid="AMO 7:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="AMO 7:15" />Ale PAN mnie wziął, gdy chodziłem za bydłem, i powiedział do mnie PAN: Idź, prorokuj memu ludowi Izraelowi.<verse eid="AMO 7:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="AMO 7:16" />Teraz więc słuchaj słowa PANA. Ty mówisz: Nie prorokuj w Izraelu i nie głoś przeciwko domowi Izaaka.<verse eid="AMO 7:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="AMO 7:17" />Dlatego tak mówi PAN: Twoja żona będzie nierządnicą w mieście, twoi synowie i twoje córki padną od miecza, twoja ziemia będzie podzielona sznurem, a ty umrzesz w ziemi nieczystej; Izrael zaś na pewno zostanie uprowadzony do niewoli ze swojej ziemi.<verse eid="AMO 7:17" />
+  </para>
+  <chapter eid="AMO 7" />
+  <chapter number="8" style="c" sid="AMO 8" />
+  <para style="m">
+    <verse number="1" style="v" sid="AMO 8:1" />To mi ukazał Pan BÓG: Oto stał kosz letnich owoców.<verse eid="AMO 8:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="AMO 8:2" />Wtedy zapytał: Co widzisz, Amosie? Odpowiedziałem: Kosz letnich owoców. PAN znowu powiedział do mnie: Nadszedł koniec mojego ludu, Izraela, nie będę mu już więcej odpuszczał.<verse eid="AMO 8:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="AMO 8:3" />W tym dniu pieśni świątyni zamienią się w zawodzenie, mówi Pan BÓG. Będzie mnóstwo trupów na każdym miejscu, w ciszy będą wyrzucone.<verse eid="AMO 8:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="AMO 8:4" />Słuchajcie tego, wy, którzy pożeracie ubogiego, abyście wykorzenili biednych z ziemi;<verse eid="AMO 8:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="AMO 8:5" />Mówiąc: Kiedy przeminie nów księżyca, abyśmy mogli sprzedać zboże? Kiedy minie szabat, abyśmy mogli otworzyć spichlerze, abyśmy mogli umniejszać efę, podwyższać sykl i wagi podstępnie fałszować;<verse eid="AMO 8:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="AMO 8:6" />Abyśmy mogli kupować ubogich za srebro, a nędzarza za parę sandałów; i abyśmy mogli plewy zboża sprzedawać?<verse eid="AMO 8:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="AMO 8:7" />PAN przysiągł na chwałę Jakuba: Nigdy nie zapomnę wszystkich ich uczynków.<verse eid="AMO 8:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="AMO 8:8" />Czyż z tego powodu nie zadrży ziemia i nie będzie lamentować każdy, kto w niej mieszka? Wzbierze się cała jak rzeka i zostanie porwana i zatopiona jakby przez rzekę Egiptu.<verse eid="AMO 8:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="AMO 8:9" />W tym dniu, mówi Pan BÓG, sprawię, że słońce zajdzie o południu, i przyprowadzę na ziemię ciemność w jasny dzień;<verse eid="AMO 8:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="AMO 8:10" />I zamienię wasze święta w żałobę, a wszystkie wasze pieśni w lament. Sprawię, że na wszystkich biodrach będzie wór i na każdej głowie łysina. I będzie w tej ziemi żałoba jak po jedynaku, jej koniec jak dzień goryczy.<verse eid="AMO 8:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="AMO 8:11" />Oto nadchodzą dni, mówi Pan BÓG, gdy ześlę głód na ziemię, nie głód chleba ani pragnienie wody, ale słuchania słów PANA.<verse eid="AMO 8:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="AMO 8:12" />I będą się błąkać od morza do morza, i od północy aż na wschód będą biegać, szukając słowa PANA, ale go nie znajdą.<verse eid="AMO 8:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="AMO 8:13" />W tym dniu piękne dziewice i nawet młodzieńcy zemdleją z pragnienia.<verse eid="AMO 8:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="AMO 8:14" />Ci, którzy przysięgają na grzech Samarii, i mówią: Jak żyje twój Bóg, Danie, i jak żyje droga Beer-Szeby, oni upadną i już nigdy nie powstaną.<verse eid="AMO 8:14" />
+  </para>
+  <chapter eid="AMO 8" />
+  <chapter number="9" style="c" sid="AMO 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="AMO 9:1" />Widziałem Pana stojącego na ołtarzu i powiedział: Uderz w nadproże, aż zadrżą węgary. Rozetnij głowy ich wszystkich, a pozostałych zabiję mieczem. Żaden z nich nie ucieknie i żaden z nich nie ocaleje.<verse eid="AMO 9:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="AMO 9:2" />Choćby się zakopali aż do piekła, moja ręka wyciągnie ich stamtąd; choćby wstąpili aż do nieba i stamtąd ich ściągnę.<verse eid="AMO 9:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="AMO 9:3" />Choćby się ukryli na szczycie Karmelu, odnajdę i wezmę ich stamtąd; a choćby się ukryli przed moimi oczami na dnie morza, rozkażę wężowi, aby ich tam ukąsił;<verse eid="AMO 9:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="AMO 9:4" />Choćby poszli do niewoli przed swymi wrogami, nawet tam rozkażę mieczowi, aby ich zabijał. Zwrócę na nich swoje oczy dla zła, a nie dla dobra.<verse eid="AMO 9:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="AMO 9:5" />Pan BÓG zastępów dotyka ziemi, a ta rozpływa się i płaczą wszyscy jej mieszkańcy. Wzbierze cała jak rzeka i zostanie zatopiona jakby przez rzekę Egiptu.<verse eid="AMO 9:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="AMO 9:6" />On zbudował w niebie swoje stopnie i ustanowił na ziemi swój zastęp; on przywołuje wody morskie i rozlewa je po powierzchni ziemi. PAN to jego imię.<verse eid="AMO 9:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="AMO 9:7" />Synowie Izraela, czy nie jesteście dla mnie jak synowie Etiopii? – mówi PAN. Czy nie wyprowadziłem Izraela z ziemi Egiptu, Filistynów z Kaftor i Syryjczyków z Kir?<verse eid="AMO 9:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="AMO 9:8" />Oto oczy Pana BOGA zwrócone są na to grzeszne królestwo i zgładzę je z powierzchni ziemi. Jednak nie zgładzę doszczętnie domu Jakuba, mówi PAN.<verse eid="AMO 9:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="AMO 9:9" />Oto bowiem wydam rozkaz i przesieję dom Izraela wśród wszystkich narodów, jak pszenicę przesiewa się przetakiem, tak że żadne ziarenko nie spadnie na ziemię.<verse eid="AMO 9:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="AMO 9:10" />Wszyscy grzesznicy spośród mojego ludu od miecza umrą, ci, którzy mówią: Nie dosięgnie nas ani nie zaskoczy nas to zło.<verse eid="AMO 9:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="AMO 9:11" />W tym dniu podniosę upadły przybytek Dawida i zamuruję jego wyłomy; wzniosę jego ruiny i odbuduję go, jak za dawnych dni;<verse eid="AMO 9:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="AMO 9:12" />Aby posiedli resztki Edomu i wszystkie narody, nad którymi wzywano mojego imienia, mówi PAN, który to czyni.<verse eid="AMO 9:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="AMO 9:13" />Oto nadchodzą dni, mówi PAN, że oracz będzie za żniwiarzem, a depczący winogrona za siejącym ziarno; góry będą ociekać moszczem, a wszystkie pagórki się rozpłyną.<verse eid="AMO 9:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="AMO 9:14" />Odwrócę niewolę mojego ludu, Izraela; odbudują miasta spustoszone i zamieszkają w nich; zasadzą też winnice i będą pić z nich wino; założą też sady i będą jedli ich owoce.<verse eid="AMO 9:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="AMO 9:15" />Zasadzę ich w ich ziemi; i nigdy nie zostaną wykorzenieni ze swojej ziemi, którą im dałem, mówi PAN, twój Bóg.<verse eid="AMO 9:15" />
+  </para>
+  <chapter eid="AMO 9" />
+</usx>

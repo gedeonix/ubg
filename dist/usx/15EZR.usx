@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="EZR" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Ezdrasza</para>
+  <para style="toc1">Księga Ezdrasza</para>
+  <para style="toc2">Ezdrasza</para>
+  <para style="toc3">Ezd</para>
+  <para style="mt1">Księga Ezdrasza</para>
+  <chapter number="1" style="c" sid="EZR 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 1:1" />W pierwszym roku Cyrusa, króla Persji – aby wypełniło się słowo PANA z ust Jeremiasza – PAN wzbudził ducha Cyrusa, króla Persji, tak że ogłosił ustnie po całym swoim królestwie, a także na piśmie, co następuje:<verse eid="EZR 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 1:2" />Tak mówi Cyrus, król Persji: PAN, Bóg niebios, dał mi wszystkie królestwa ziemi. On też rozkazał mi, abym zbudował dla niego dom w Jerozolimie, która jest w Judzie.<verse eid="EZR 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 1:3" />Kto więc spośród was należy do jego ludu, niech będzie z nim jego Bóg; ten niech uda się do Jerozolimy w Judzie i niech buduje dom PANA, Boga Izraela – on jest Bogiem – który jest w Jerozolimie.<verse eid="EZR 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 1:4" />A każdego, kto został w jakimkolwiek miejscu, gdzie teraz przebywa, niech ludzie tego miejsca wspomagają go srebrem, złotem, dobytkiem i bydłem, a także dobrowolnymi ofiarami dla domu Bożego, który jest w Jerozolimie.<verse eid="EZR 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 1:5" />Wtedy powstali przywódcy rodów Judy i Beniamina, kapłani i Lewici, wszyscy, których ducha Bóg pobudził, aby poszli budować dom PANA, będący w Jerozolimie.<verse eid="EZR 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 1:6" />Wszyscy, którzy mieszkali dokoła nich, wspomogli ich naczyniem srebrnym, złotem, dobytkiem, bydłem i kosztownościami, poza tym wszystkim, co dobrowolnie ofiarowano.<verse eid="EZR 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 1:7" />Również król Cyrus wyniósł naczynia domu PANA, które Nabuchodonozor zabrał z Jerozolimy, i złożył w domu swego boga.<verse eid="EZR 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 1:8" />Wyniósł je Cyrus, król Persji, przez ręce skarbnika Mitredata, który rozliczył się z nich z Szeszbassarem, księciem Judy.<verse eid="EZR 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 1:9" />A oto ich liczba: trzydzieści czasz złotych, tysiąc czasz srebrnych, dwadzieścia dziewięć noży;<verse eid="EZR 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 1:10" />Trzydzieści złotych pucharów, czterysta dziesięć pucharów mniejszej wartości i tysiąc innych naczyń.<verse eid="EZR 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 1:11" />Wszystkich naczyń złotych i srebrnych – pięć tysięcy czterysta. Wszystko to zabrał Szeszbassar, gdy lud powrócił z niewoli, z Babilonu do Jerozolimy.<verse eid="EZR 1:11" />
+  </para>
+  <chapter eid="EZR 1" />
+  <chapter number="2" style="c" sid="EZR 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 2:1" />A oto są ludzie prowincji, którzy wyszli z niewoli i wygnania, uprowadzeni do Babilonu przez Nabuchodonozora, króla Babilonu, a powrócili oni do Jerozolimy i Judy – każdy do swojego miasta.<verse eid="EZR 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 2:2" />Przybyli razem z Zorobabelem, Jeszuą, Nehemiaszem, Serajaszem, Reelajaszem, Mardocheuszem, Bilszanem, Misparem, Bigwajem, Rechumem i Baaną. A oto liczba mężczyzn ludu Izraela:<verse eid="EZR 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 2:3" />Synów Parosza – dwa tysiące stu siedemdziesięciu dwóch;<verse eid="EZR 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 2:4" />Synów Szefatiasza – trzystu siedemdziesięciu dwóch;<verse eid="EZR 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 2:5" />Synów Aracha – siedmiuset siedemdziesięciu pięciu;<verse eid="EZR 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 2:6" />Synów Pachat-Moaba, synów Jeszuy i Joaba – dwa tysiące ośmiuset dwunastu;<verse eid="EZR 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 2:7" />Synów Elama – tysiąc dwustu pięćdziesięciu czterech;<verse eid="EZR 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 2:8" />Synów Zattua – dziewięciuset czterdziestu pięciu;<verse eid="EZR 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 2:9" />Synów Zakkaja – siedmiuset sześćdziesięciu;<verse eid="EZR 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 2:10" />Synów Baniego – sześciuset czterdziestu dwóch;<verse eid="EZR 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 2:11" />Synów Bebaja – sześciuset dwudziestu trzech;<verse eid="EZR 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EZR 2:12" />Synów Azgada – tysiąc dwustu dwudziestu dwóch;<verse eid="EZR 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EZR 2:13" />Synów Adonikama – sześciuset sześćdziesięciu sześciu;<verse eid="EZR 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EZR 2:14" />Synów Bigwaja – dwa tysiące pięćdziesięciu sześciu;<verse eid="EZR 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EZR 2:15" />Synów Adina – czterystu pięćdziesięciu czterech;<verse eid="EZR 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EZR 2:16" />Synów Atera, z linii Ezechiasza – dziewięćdziesięciu ośmiu;<verse eid="EZR 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EZR 2:17" />Synów Besaja – trzystu dwudziestu trzech;<verse eid="EZR 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EZR 2:18" />Synów Jory – stu dwunastu;<verse eid="EZR 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EZR 2:19" />Synów Chaszuma – dwustu dwudziestu trzech;<verse eid="EZR 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EZR 2:20" />Synów Gibbara – dziewięćdziesięciu pięciu;<verse eid="EZR 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EZR 2:21" />Synów z Betlejem – stu dwudziestu trzech;<verse eid="EZR 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EZR 2:22" />Mężczyzn z Netofy – pięćdziesięciu sześciu;<verse eid="EZR 2:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="EZR 2:23" />Mężczyzn z Anatot – stu dwudziestu ośmiu;<verse eid="EZR 2:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="EZR 2:24" />Synów z Azmawet – czterdziestu dwóch;<verse eid="EZR 2:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="EZR 2:25" />Synów z Kiriat-Jearim, Kefiry i Beerot – siedmiuset czterdziestu trzech;<verse eid="EZR 2:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="EZR 2:26" />Synów z Rama i Geba – sześciuset dwudziestu jeden;<verse eid="EZR 2:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="EZR 2:27" />Mężczyzn z Mikmas – stu dwudziestu dwóch;<verse eid="EZR 2:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="EZR 2:28" />Mężczyzn z Betela i Aj – dwustu dwudziestu trzech;<verse eid="EZR 2:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="EZR 2:29" />Synów Nebo – pięćdziesięciu dwóch;<verse eid="EZR 2:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="EZR 2:30" />Synów Magbisza – stu pięćdziesięciu sześciu;<verse eid="EZR 2:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="EZR 2:31" />Synów drugiego Elama – tysiąc dwustu pięćdziesięciu czterech;<verse eid="EZR 2:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="EZR 2:32" />Synów Charima – trzystu dwudziestu;<verse eid="EZR 2:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="EZR 2:33" />Synów z Loda, Chadida i Ono – siedmiuset dwudziestu pięciu;<verse eid="EZR 2:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="EZR 2:34" />Synów z Jerycha – trzystu czterdziestu pięciu;<verse eid="EZR 2:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="EZR 2:35" />Synów Senai – trzy tysiące sześciuset trzydziestu.<verse eid="EZR 2:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="EZR 2:36" />Kapłani: synów Jedajasza, z domu Jeszuy – dziewięciuset siedemdziesięciu trzech;<verse eid="EZR 2:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="EZR 2:37" />Synów Immera – tysiąc pięćdziesięciu dwóch;<verse eid="EZR 2:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="EZR 2:38" />Synów Paszchura – tysiąc dwustu czterdziestu siedmiu;<verse eid="EZR 2:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="EZR 2:39" />Synów Charima – tysiąc siedemnastu.<verse eid="EZR 2:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="EZR 2:40" />Lewici: synów Jeszuy i Kadmiela, synów Hodawiasza – siedemdziesięciu czterech.<verse eid="EZR 2:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="EZR 2:41" />Śpiewacy: synów Asafa – stu dwudziestu ośmiu.<verse eid="EZR 2:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="EZR 2:42" />Synowie odźwiernych: synów Szalluma, synów Atera, synów Talmona, synów Akkuba, synów Chatity, synów Szobaja, wszystkich razem – stu trzydziestu dziewięciu.<verse eid="EZR 2:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="EZR 2:43" />Netinici: synów Sichy, synów Chasufy, synów Tabbaota;<verse eid="EZR 2:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="EZR 2:44" />Synów Kerosa, synów Sijachy, synów Padona;<verse eid="EZR 2:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="EZR 2:45" />Synów Lebany, synów Hagaby, synów Akkuba;<verse eid="EZR 2:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="EZR 2:46" />Synów Chagaba, synów Szalmaja, synów Chanana;<verse eid="EZR 2:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="EZR 2:47" />Synów Giddela, synów Gachara, synów Reajasza;<verse eid="EZR 2:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="EZR 2:48" />Synów Resina, synów Nekody, synów Gazzama;<verse eid="EZR 2:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="EZR 2:49" />Synów Uzzy, synów Paseacha, synów Besaja;<verse eid="EZR 2:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="EZR 2:50" />Synów Asny, synów Mehunima, synów Nefusima;<verse eid="EZR 2:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="EZR 2:51" />Synów Bakbuka, synów Chakufy, synów Charchura;<verse eid="EZR 2:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="EZR 2:52" />Synów Basluta, synów Mechidy, synów Charszy;<verse eid="EZR 2:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="EZR 2:53" />Synów Barkosa, synów Sisery, synów Tamacha;<verse eid="EZR 2:53" />
+  </para>
+  <para style="m">
+    <verse number="54" style="v" sid="EZR 2:54" />Synów Nesjacha, synów Chatify;<verse eid="EZR 2:54" />
+  </para>
+  <para style="m">
+    <verse number="55" style="v" sid="EZR 2:55" />Synów sług Salomona, synów Sotaja, synów Sofereta, synów Perudy;<verse eid="EZR 2:55" />
+  </para>
+  <para style="m">
+    <verse number="56" style="v" sid="EZR 2:56" />Synów Jaali, synów Darkona, synów Giddela;<verse eid="EZR 2:56" />
+  </para>
+  <para style="m">
+    <verse number="57" style="v" sid="EZR 2:57" />Synów Szefatiasza, synów Chattila, synów Pocheret-Hassebaima, synów Amiego;<verse eid="EZR 2:57" />
+  </para>
+  <para style="m">
+    <verse number="58" style="v" sid="EZR 2:58" />Wszystkich Netinitów oraz synów sług Salomona – trzystu dziewięćdziesięciu dwóch.<verse eid="EZR 2:58" />
+  </para>
+  <para style="m">
+    <verse number="59" style="v" sid="EZR 2:59" />A oto ci, którzy wyruszyli z Tel-Melach, Telcharsa, Keruba, Addan i Immer, ale nie mogli wykazać pochodzenia domu swoich ojców ani swego potomstwa – czy są z Izraela.<verse eid="EZR 2:59" />
+  </para>
+  <para style="m">
+    <verse number="60" style="v" sid="EZR 2:60" />Synów Delajasza, synów Tobiasza, synów Nekody – sześciuset pięćdziesięciu dwóch.<verse eid="EZR 2:60" />
+  </para>
+  <para style="m">
+    <verse number="61" style="v" sid="EZR 2:61" />A synowie kapłanów: synowie Chobajasza, synowie Kosa, synowie Barzillaja, który pojął za żonę jedną z córek Barzillaja Gileadczyka i przybrał jego imię;<verse eid="EZR 2:61" />
+  </para>
+  <para style="m">
+    <verse number="62" style="v" sid="EZR 2:62" />Ci szukali swego opisu w rodowodach, ale go nie znaleźli. Zostali więc jako nieczyści wykluczeni z kapłaństwa.<verse eid="EZR 2:62" />
+  </para>
+  <para style="m">
+    <verse number="63" style="v" sid="EZR 2:63" />I Tirszata zakazał im spożywać z rzeczy najświętszych, dopóki nie powstanie kapłan z Urim i z Tummim.<verse eid="EZR 2:63" />
+  </para>
+  <para style="m">
+    <verse number="64" style="v" sid="EZR 2:64" />Całe to zgromadzenie liczyło czterdzieści dwa tysiące trzysta sześćdziesiąt osób;<verse eid="EZR 2:64" />
+  </para>
+  <para style="m">
+    <verse number="65" style="v" sid="EZR 2:65" />Nie licząc ich sług i służących, których było siedem tysięcy trzysta trzydzieści siedem, a między nimi znajdowało się dwieście śpiewaków i śpiewaczek.<verse eid="EZR 2:65" />
+  </para>
+  <para style="m">
+    <verse number="66" style="v" sid="EZR 2:66" />Koni mieli siedemset trzydzieści sześć, mułów – dwieście czterdzieści pięć;<verse eid="EZR 2:66" />
+  </para>
+  <para style="m">
+    <verse number="67" style="v" sid="EZR 2:67" />Wielbłądów – czterysta trzydzieści pięć, osłów – sześć tysięcy siedemset dwadzieścia.<verse eid="EZR 2:67" />
+  </para>
+  <para style="m">
+    <verse number="68" style="v" sid="EZR 2:68" />A niektórzy z naczelników rodów, gdy przyszli do domu PANA, który był w Jerozolimie, składali dobrowolne dary, aby odbudować dom Boży na jego miejscu.<verse eid="EZR 2:68" />
+  </para>
+  <para style="m">
+    <verse number="69" style="v" sid="EZR 2:69" />Według swoich możliwości dali do skarbca na odbudowę sześćdziesiąt jeden tysięcy drachm złota, pięć tysięcy min srebra i sto szat kapłańskich.<verse eid="EZR 2:69" />
+  </para>
+  <para style="m">
+    <verse number="70" style="v" sid="EZR 2:70" />A więc kapłani, Lewici i część ludu oraz śpiewacy, odźwierni i Netinici zamieszkali w swoich miastach, a cała reszta Izraela w swoich miastach.<verse eid="EZR 2:70" />
+  </para>
+  <chapter eid="EZR 2" />
+  <chapter number="3" style="c" sid="EZR 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 3:1" />A gdy nadszedł siódmy miesiąc, a synowie Izraela znajdowali się w miastach, zgromadził się lud jak jeden mąż w Jerozolimie.<verse eid="EZR 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 3:2" />Wtedy powstał Jeszua, syn Jocadaka, ze swymi braćmi kapłanami, oraz Zorobabel, syn Szealtiela, wraz ze swymi braćmi, i zbudowali ołtarz Boga Izraela, aby na nim składać całopalenia, jak jest napisane w Prawie Mojżesza, męża Bożego.<verse eid="EZR 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 3:3" />Potem postawili ołtarz na swoich fundamentach i chociaż bali się sąsiednich narodów, składali na nim PANU całopalenia – rano i wieczorem.<verse eid="EZR 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 3:4" />Obchodzili też Święto Namiotów, jak jest napisane, i składali codzienne całopalenia w liczbie ustalonej według zwyczaju na każdy dzień;<verse eid="EZR 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 3:5" />Potem składali całopalenie nieustanne – zarówno w dni nowiu, jak i każde święto poświęcone PANU – oraz dary od każdego, kto składał PANU dobrowolną ofiarę.<verse eid="EZR 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 3:6" />Od pierwszego dnia siódmego miesiąca zaczęli składać PANU całopalenia, chociaż fundamenty świątyni jeszcze nie zostały położone.<verse eid="EZR 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 3:7" />Dali też pieniądze kamieniarzom i cieślom oraz żywność, napój i oliwę Sydończykom i Tyryjczykom, aby przywozili drzewo cedrowe z Libanu morzem do Jafy, zgodnie z zezwoleniem Cyrusa, króla Persji.<verse eid="EZR 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 3:8" />A w drugim roku po ich przybyciu do domu Bożego w Jerozolimie, w drugim miesiącu, Zorobabel, syn Szealtiela, i Jeszua, syn Jocadaka, i pozostali ich bracia kapłani i Lewici oraz wszyscy, którzy powrócili z niewoli do Jerozolimy, zaczęli odbudowę, a ustanowili Lewitów od dwudziestu lat wzwyż, aby byli nadzorcami robót wokół domu PANA.<verse eid="EZR 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 3:9" />I Jeszua, jego synowie i bracia: Kadmiel i jego synowie, synowie Judy, stanęli jak jeden mąż, aby kierować tymi, którzy pracowali przy budowie domu Bożego: synami Chenadada, ich synami i ich braćmi, Lewitami.<verse eid="EZR 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 3:10" />A gdy budowniczowie położyli fundamenty świątyni PANA, postawili kapłanów, ubranych w szaty i z trąbami, oraz Lewitów, synów Asafa, z cymbałami, aby chwalić PANA zgodnie z postanowieniem Dawida, króla Izraela.<verse eid="EZR 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 3:11" />I śpiewali jedni po drugich, chwaląc PANA i dziękując mu za to, że jest dobry – że jego miłosierdzie nad Izraelem trwa na wieki. Cały lud wznosił głośny okrzyk, gdy chwalił PANA za to, że zostały położone fundamenty domu PANA.<verse eid="EZR 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EZR 3:12" />Lecz wielu kapłanów, Lewitów i naczelników rodów, którzy byli starcami i widzieli tamten pierwszy dom, głośno płakało, gdy na ich oczach zakładano fundamenty tego domu, wielu natomiast innych głośno krzyczało z radości;<verse eid="EZR 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EZR 3:13" />Tak że lud nie mógł odróżnić głośnego krzyku radości od głośnego płaczu ludu. Lud bowiem wznosił tak wielki okrzyk, że było go słychać z daleka.<verse eid="EZR 3:13" />
+  </para>
+  <chapter eid="EZR 3" />
+  <chapter number="4" style="c" sid="EZR 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 4:1" />A gdy wrogowie Judy i Beniamina usłyszeli, że lud, który powrócił z niewoli, budował świątynię PANU, Bogu Izraela;<verse eid="EZR 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 4:2" />Wówczas przybyli do Zorobabela i naczelników rodów i powiedzieli im: Będziemy budować z wami, gdyż szukamy waszego Boga tak jak wy i składamy mu ofiary od czasów Asarchaddona, króla Asyrii, który nas tu przyprowadził.<verse eid="EZR 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 4:3" />Ale Zorobabel, Jeszua i pozostali naczelnicy rodów z Izraela odpowiedzieli im: Nie wolno wam razem z nami budować domu naszemu Bogu, ale my sami będziemy budować PANU, Bogu Izraela, jak nam rozkazał Cyrus, król Persji.<verse eid="EZR 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 4:4" />Wtedy lud tej ziemi zaczął zniechęcać lud Judy i przeszkadzał im w budowie.<verse eid="EZR 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 4:5" />Ponadto przekupywał przeciwko nim radców, aby udaremnić ich zamiar po wszystkie dni Cyrusa, króla Persji, aż do panowania Dariusza, króla Persji.<verse eid="EZR 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 4:6" />Za panowania Aswerusa, na początku jego panowania, napisali skargę przeciwko obywatelom Judy i Jerozolimy;<verse eid="EZR 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 4:7" />A za czasów Artakserksesa Biszlam, Mitredat, Tabeel wraz z pozostałymi towarzyszami napisali do Artakserksesa, króla Persji. List był sporządzony pismem syryjskim i przetłumaczony na język syryjski.<verse eid="EZR 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 4:8" />Kanclerz Rechum i pisarz Szimszaj napisali do króla Artakserksesa list przeciwko Jerozolimie następującej treści:<verse eid="EZR 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 4:9" />Kanclerz Rechum, pisarz Szimszaj i pozostali ich towarzysze: Dynajczycy, Afarsadchajczycy, Tarpelajczycy, Afarsajczycy, Arkewijczycy, Babilończycy, Susanchici, Dehawici i Elamici;<verse eid="EZR 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 4:10" />I reszta narodów, które wielki i sławny Asnappar przyprowadził i osiedlił w miastach Samarii, oraz pozostali, którzy są za rzeką – otóż;<verse eid="EZR 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 4:11" />To jest odpis listu, który posłali do króla Artakserksesa – Twoi słudzy, ludzie mieszkający za rzeką – otóż:<verse eid="EZR 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EZR 4:12" />Niech królowi będzie wiadomo, że Żydzi, którzy wyszli od ciebie, przybyli do nas, do Jerozolimy, i odbudowują to buntownicze i niegodziwe miasto, już wznosili mury i położyli fundamenty.<verse eid="EZR 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EZR 4:13" />Niech więc będzie królowi wiadomo, że jeśli to miasto zostanie odbudowane i jego mury będą wzniesione, wtedy podatku, danin ani cła oni nie będą płacić, a to przyniesie szkodę dochodom króla.<verse eid="EZR 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EZR 4:14" />Teraz więc, ponieważ jesteśmy na utrzymaniu twego pałacu i nie przystoi nam patrzeć na zniewagę króla, posyłamy królowi tę wiadomość;<verse eid="EZR 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EZR 4:15" />Aby poszukano w księdze kronik twoich ojców, a znajdziesz w niej i dowiesz się, że to miasto jest miastem buntowniczym i przynosi szkodę królom i prowincjom i że od dawien dawna wzniecano w nim bunty. Z tego powodu to miasto zostało zburzone.<verse eid="EZR 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EZR 4:16" />Zawiadamiamy króla, że jeśli to miasto zostanie odbudowane i jego mury będą wzniesione, wtedy już nie będziesz miał udziału za rzeką.<verse eid="EZR 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EZR 4:17" />Wtedy król wysłał taką odpowiedź: Kanclerzowi Rechumowi, pisarzowi Szimszajowi i pozostałym ich towarzyszom, którzy mieszkają w Samarii, a także i pozostałym za rzeką: Pokój! Otóż:<verse eid="EZR 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EZR 4:18" />List, który do nas przysłaliście, został przede mną dokładnie odczytany.<verse eid="EZR 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EZR 4:19" />Dlatego rozkazałem, aby poszukano. I znaleziono, że to miasto od dawna powstawało przeciwko królom, a bunt i rozruchy były w nim wzniecane;<verse eid="EZR 4:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EZR 4:20" />Ponadto potężni królowie panowali nad Jerozolimą i rządzili nad wszystkimi za rzeką, i płacono im podatek, daninę i cło.<verse eid="EZR 4:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EZR 4:21" />Wydajcie więc wyrok, aby powstrzymać tych mężczyzn, żeby to miasto nie zostało odbudowane, dopóki inny rozkaz nie będzie przeze mnie wydany.<verse eid="EZR 4:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EZR 4:22" />Pilnujcie, abyście nie zaniedbali tego. Dlaczego miałoby to wzrastać na szkodę królów?<verse eid="EZR 4:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="EZR 4:23" />Gdy więc odpis listu króla Artakserksesa został odczytany przed Rechumem, pisarzem Szimszajem i ich towarzyszami, udali się spiesznie do Żydów w Jerozolimie i siłą i mocą wstrzymali budowę.<verse eid="EZR 4:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="EZR 4:24" />W ten sposób ustała praca przy domu Bożym, który był w Jerozolimie. I została wstrzymana aż do drugiego roku panowania Dariusza, króla Persji.<verse eid="EZR 4:24" />
+  </para>
+  <chapter eid="EZR 4" />
+  <chapter number="5" style="c" sid="EZR 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 5:1" />Potem prorocy Aggeusz i Zachariasz, syn Iddo, prorokowali Żydom w Judzie i w Jerozolimie w imię Boga Izraela, mówiąc do nich.<verse eid="EZR 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 5:2" />Wtedy powstali Zorobabel, syn Szealtiela, i Jeszua, syn Jocadaka, i zaczęli budować dom Boży w Jerozolimie; a z nimi prorocy Boga, którzy im pomagali.<verse eid="EZR 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 5:3" />W tym czasie przyszli do nich Tattenaj, namiestnik zarzecza, i Szetarboznaj oraz ich towarzysze i tak mówili do nich: Kto wam rozkazał budować ten dom i wznosić jego mury?<verse eid="EZR 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 5:4" />Odpowiedzieliśmy im, jakie są imiona tych mężczyzn, którzy pracują przy tej budowli.<verse eid="EZR 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 5:5" />Lecz oko ich Boga czuwało nad starszymi z Żydów, tak że nie mogli im przeszkadzać, dopóki sprawa ta nie dotarła do Dariusza – o niej donosili mu przez list.<verse eid="EZR 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 5:6" />To jest odpis listu, który do króla Dariusza posłali Tattenaj, namiestnik zarzecza, Szetarboznaj i jego towarzysze Afarsachajczycy, którzy byli za rzeką.<verse eid="EZR 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 5:7" />Posłali mu list, w którym było napisane tak: Królowi Dariuszowi wszelkiej pomyślności!<verse eid="EZR 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 5:8" />Niech będzie królowi wiadomo, że przybyliśmy do prowincji Judy, do domu wielkiego Boga, który jest odbudowywany z wielkich kamieni, a którego ściany są wykładane drewnem. Ta praca posuwa się szybko i szczęści się w ich rękach.<verse eid="EZR 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 5:9" />Pytaliśmy wtedy tych starszych, mówiąc do nich: Kto wam rozkazał budować ten dom i wznosić te mury?<verse eid="EZR 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 5:10" />Pytaliśmy także o ich imiona, abyśmy mogli ci je oznajmić i zapisać imiona mężczyzn, którzy stoją na ich czele.<verse eid="EZR 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 5:11" />A tak nam odpowiedzieli: My jesteśmy sługami Boga nieba i ziemi i odbudowujemy dom, który został wzniesiony przed wieloma laty, a który zbudował i wystawił wielki król Izraela.<verse eid="EZR 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EZR 5:12" />Lecz gdy nasi ojcowie pobudzili do gniewu Boga nieba, on wydał ich w ręce Nabuchodonozora, króla Babilonu, Chaldejczyka, który zburzył ten dom, a lud uprowadził do niewoli w Babilonie.<verse eid="EZR 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EZR 5:13" />Jednak w pierwszym roku Cyrusa, króla Babilonu, sam król Cyrus wydał dekret, aby odbudować ten dom Boży.<verse eid="EZR 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EZR 5:14" />Ponadto złote i srebrne naczynia domu Bożego, które Nabuchodonozor zabrał ze świątyni w Jerozolimie i umieścił w świątyni w Babilonie, król Cyrus wyniósł ze świątyni w Babilonie i zostały przekazane niejakiemu Szeszbassarowi, którego ustanowił namiestnikiem.<verse eid="EZR 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EZR 5:15" />I powiedział mu: Weź te naczynia, idź i złóż je w świątyni, która jest w Jerozolimie, a niech dom Boży zostanie odbudowany na swoim miejscu.<verse eid="EZR 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EZR 5:16" />Wtedy ten Szeszbassar przyszedł i położył fundamenty domu Bożego w Jerozolimie, i od tego czasu aż do dzisiaj buduje się go, ale nie jest ukończony.<verse eid="EZR 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EZR 5:17" />Jeśli więc król uzna to za dobrą rzecz, niech poszukają w skarbcach królewskich w Babilonie, czy rzeczywiście tak jest, że król Cyrus rozkazał, aby odbudować ten dom Boży w Jerozolimie, i niech król powiadomi nas o swej woli w tej sprawie.<verse eid="EZR 5:17" />
+  </para>
+  <chapter eid="EZR 5" />
+  <chapter number="6" style="c" sid="EZR 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 6:1" />Wtedy król Dariusz rozkazał, aby szukano w archiwum, gdzie przechowywano skarby w Babilonie.<verse eid="EZR 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 6:2" />I znaleziono w Achmecie, w pałacu w prowincji Medii, pewien zwój, w którym tak było napisane:<verse eid="EZR 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 6:3" />W pierwszym roku króla Cyrusa, król Cyrus wydał dekret w sprawie domu Bożego w Jerozolimie: Dom ten ma być odbudowany, to miejsce, gdzie składano ofiary. Fundamenty mają być położone. Jego wysokość – sześćdziesiąt łokci i jego szerokość – sześćdziesiąt łokci.<verse eid="EZR 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 6:4" />Trzy rzędy z kamienia wielkiego i jeden rząd z nowego drewna. Koszty ma pokryć dom królewski.<verse eid="EZR 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 6:5" />Ponadto złote i srebrne naczynia z domu Bożego, które zabrał Nabuchodonozor ze świątyni w Jerozolimie i przeniósł do Babilonu, mają być zwrócone i przeniesione do świątyni w Jerozolimie na swoje miejsce, i złożone w domu Bożym.<verse eid="EZR 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 6:6" />Teraz więc ty, Tattenaju, namiestniku zarzecza, Szetarboznaju, i wy, Afarsachajczycy, ich towarzysze, którzy jesteście za rzeką, trzymajcie się z dala od tego miejsca.<verse eid="EZR 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 6:7" />Zostawcie w spokoju prace nad tym domem Bożym. Niech namiestnik Żydów i starsi żydowscy odbudują ten dom Boży na swoim miejscu.<verse eid="EZR 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 6:8" />Wydaję też dekret o tym, co macie uczynić dla starszych spośród Żydów na budowę tego domu Bożego, mianowicie: koszty mają być bezzwłocznie wypłacone tym ludziom z dochodów króla, z danin pobieranych za rzeką, aby nie przestawali budować.<verse eid="EZR 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 6:9" />Także i to, co będzie potrzebne do całopaleń dla Boga niebios: cielce, barany i jagnięta oraz pszenica, sól, wino i oliwa, według rozkazu kapłanów w Jerozolimie, niech im będzie dawane każdego dnia bez zaniedbania;<verse eid="EZR 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 6:10" />Aby mogli składać wonne ofiary Bogu niebios i aby modlili się za życie króla i jego synów.<verse eid="EZR 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 6:11" />Ponadto wydaję taki dekret: Ktokolwiek zmieni ten rozkaz, to belka z jego domu ma być wyrwana i podniesiona, a on będzie na niej powieszony; jego dom zaś zostanie zamieniony w gnojowisko.<verse eid="EZR 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EZR 6:12" />A Bóg, który uczynił tam mieszkanie dla swojego imienia, niech zniszczy każdego króla i każdy naród, który by się odważył zmienić ten rozkaz i zniszczyć ten dom Boży w Jerozolimie. Ja, Dariusz, wydałem ten dekret; niech będzie wykonany bezzwłocznie.<verse eid="EZR 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EZR 6:13" />Wtedy Tattenaj, namiestnik zarzecza, Szetarboznaj i ich towarzysze niezwłocznie uczynili tak, jak król Dariusz rozkazał.<verse eid="EZR 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EZR 6:14" />A starsi żydowscy budowali i szczęściło im się według proroctwa Aggeusza, proroka, i Zachariasza, syna Iddo. Budowali i dokończyli dom zgodnie z rozkazem Boga Izraela oraz z rozkazem Cyrusa, Dariusza oraz Artakserksesa, króla Persji.<verse eid="EZR 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EZR 6:15" />I ten dom został zakończony w trzecim dniu miesiąca Adar, w szóstym roku panowania króla Dariusza.<verse eid="EZR 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EZR 6:16" />Wówczas synowie Izraela, kapłani, Lewici oraz reszta ludu, który powrócił z niewoli, z radością obchodzili poświęcenie tego domu Bożego.<verse eid="EZR 6:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EZR 6:17" />I złożyli ofiary przy poświęcaniu tego domu Bożego: sto cielców, dwieście baranów, czterysta jagniąt, a jako ofiarę za grzech za całego Izraela – dwanaście kozłów, według liczby pokoleń Izraela.<verse eid="EZR 6:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EZR 6:18" />Do służby Bożej w Jerozolimie ustanowili kapłanów – według ich oddziałów, i Lewitów – według ich zmian, jak jest napisane w księdze Mojżesza.<verse eid="EZR 6:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EZR 6:19" />Ci, którzy powrócili z niewoli, obchodzili też Paschę w czternastym dniu pierwszego miesiąca.<verse eid="EZR 6:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EZR 6:20" />Kapłani bowiem i Lewici oczyścili się jak jeden mąż, wszyscy byli oczyszczeni. Zabili więc baranka paschalnego dla wszystkich, którzy przybyli z niewoli, dla swoich braci kapłanów i dla siebie samych.<verse eid="EZR 6:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EZR 6:21" />I spożywali to synowie Izraela, którzy powrócili z niewoli, i każdy, kto odłączył się od nieczystości pogan tej ziemi i przyłączył się do nich, aby szukać PANA, Boga Izraela.<verse eid="EZR 6:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EZR 6:22" />Przez siedem dni z radością obchodzili też Święto Przaśników, gdyż PAN napełnił ich radością i zwrócił ku nim serce króla Asyrii, aby wzmocnił ich ręce przy pracy wokół domu Bożego, Boga Izraela.<verse eid="EZR 6:22" />
+  </para>
+  <chapter eid="EZR 6" />
+  <chapter number="7" style="c" sid="EZR 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 7:1" />Po tych wydarzeniach, za panowania Artakserksesa, króla Persji, Ezdrasz, syn Serajasza, syna Azariasza, syna Chilkiasza;<verse eid="EZR 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 7:2" />Syna Szalluma, syna Sadoka, syna Achituba;<verse eid="EZR 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 7:3" />Syna Amariasza, syna Azariasza, syna Merajota;<verse eid="EZR 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 7:4" />Syna Zerachiasza, syna Uzziego, syna Bukkiego;<verse eid="EZR 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 7:5" />Syna Abiszui, syna Pinchasa, syna Eleazara, syna Aarona, najwyższego kapłana;<verse eid="EZR 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 7:6" />Tenże Ezdrasz wyruszył z Babilonu, a był człowiekiem uczonym w prawie Mojżesza, które dał PAN, Bóg Izraela. A król spełnił wszystkie jego prośby, gdyż ręka PANA, jego Boga, była nad nim.<verse eid="EZR 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 7:7" />Wyruszyli też niektórzy z synów Izraela oraz z kapłanów, Lewitów, śpiewaków, odźwiernych i z Netinitów do Jerozolimy w siódmym roku króla Artakserksesa.<verse eid="EZR 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 7:8" />Ezdrasz przybył do Jerozolimy w piątym miesiącu – było to w siódmym roku króla.<verse eid="EZR 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 7:9" />Wyruszył z Babilonu w pierwszym dniu pierwszego miesiąca, a do Jerozolimy przybył w pierwszym dniu piątego miesiąca, ponieważ była nad nim łaskawa ręka jego Boga.<verse eid="EZR 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 7:10" />Ezdrasz bowiem przygotował swoje serce, aby szukać prawa PANA i wykonywać je, a także by nauczać w Izraelu ustaw i sądów.<verse eid="EZR 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 7:11" />A oto odpis listu, który król Artakserkses dał Ezdraszowi, kapłanowi i uczonemu, biegłemu w słowach przykazań PANA i w jego ustawach w Izraelu:<verse eid="EZR 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EZR 7:12" />Artakserkses, król królów, Ezdraszowi, kapłanowi, uczonemu w prawie Boga niebios, mężowi doskonałemu, otóż;<verse eid="EZR 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EZR 7:13" />Wydaję dekret o tym, że każdy z ludu Izraela, spośród jego kapłanów i Lewitów w moim państwie, kto dobrowolnie pragnie udać się do Jerozolimy, może iść z tobą.<verse eid="EZR 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EZR 7:14" />Ty bowiem zostałeś wysłany przez króla i jego siedmiu doradców, abyś według prawa swego Boga, które masz w swoim ręku, zbadał sprawy w Judei i Jerozolimie;<verse eid="EZR 7:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EZR 7:15" />I abyś zaniósł srebro i złoto, które król i jego doradcy dobrowolnie ofiarowali Bogu Izraela, którego przybytek jest w Jerozolimie;<verse eid="EZR 7:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EZR 7:16" />Oraz całe srebro i złoto, które otrzymasz w całej prowincji Babilonu wraz z dobrowolnymi darami od ludu i kapłanów, które dobrowolnie ofiarują na dom swego Boga w Jerozolimie;<verse eid="EZR 7:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EZR 7:17" />Abyś za te pieniądze bezzwłocznie kupił cielce, barany, jagnięta wraz z przynależnymi do nich ofiarami z pokarmów i płynów i złożył je na ołtarzu domu waszego Boga w Jerozolimie;<verse eid="EZR 7:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EZR 7:18" />Z pozostałym srebrem i złotem uczyńcie zaś to, co ty i twoi bracia uznacie za słuszne, tak czyńcie, według woli waszego Boga.<verse eid="EZR 7:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EZR 7:19" />Naczynia też, które zostały ci dane do służby w domu twojego Boga, oddaj przed Bogiem w Jerozolimie;<verse eid="EZR 7:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EZR 7:20" />Także i inne potrzeby do domu twojego Boga, za które przyjdzie ci zapłacić, opłać ze skarbca królewskiego.<verse eid="EZR 7:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EZR 7:21" />A ja, król Artakserkses, wydaję wszystkim podskarbim zarzecza rozkaz o tym, że wszystko, czegokolwiek zażąda od was kapłan Ezdrasz, uczony w prawie Boga niebios, ma być bezzwłocznie wykonane;<verse eid="EZR 7:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EZR 7:22" />Aż do stu talentów srebra, stu kor pszenicy, stu bat wina, stu bat oliwy, a soli bez ograniczenia.<verse eid="EZR 7:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="EZR 7:23" />Wszystko, co nakazuje Bóg niebios, ma być wykonane starannie dla domu Boga niebios, bo dlaczego ma być wzbudzony jego gniew przeciwko państwu króla i jego synów?<verse eid="EZR 7:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="EZR 7:24" />Zawiadamiamy was również, że na żadnego z kapłanów, Lewitów, śpiewaków, odźwiernych, Netinitów oraz pozostałych sług tego domu Boga nie wolno nakładać podatku, danin ani cła.<verse eid="EZR 7:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="EZR 7:25" />A ty, Ezdraszu, według mądrości swego Boga, która jest w tobie, ustanów urzędników i sędziów, którzy będą sądzić cały lud zarzecza, wszystkich, którzy znają prawo twego Boga; a tych, którzy go nie znają, macie uczyć.<verse eid="EZR 7:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="EZR 7:26" />Na każdego, kto nie wykona prawa twego Boga i prawa króla, niech bezzwłocznie będzie wydany wyrok – albo śmierci, albo wygnania, albo przepadku mienia, albo więzienia.<verse eid="EZR 7:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="EZR 7:27" />Ezdrasz powiedział: Błogosławiony niech będzie PAN, Bóg naszych ojców, który włożył w serce króla pragnienie, aby ozdobić dom PANA, który jest w Jerozolimie;<verse eid="EZR 7:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="EZR 7:28" />A mnie okazał łaskę wobec króla i jego doradców oraz wszystkich możnych dostojników króla. A ja, będąc wzmocniony ręką PANA, swego Boga, która była nade mną, zgromadziłem naczelników z Izraela, aby wyruszyli ze mną.<verse eid="EZR 7:28" />
+  </para>
+  <chapter eid="EZR 7" />
+  <chapter number="8" style="c" sid="EZR 8" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 8:1" />A oto naczelnicy rodów i rodowody tych, którzy wyruszyli ze mną z Babilonu za panowania króla Artakserksesa:<verse eid="EZR 8:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 8:2" />Z synów Pinchasa – Gerszom; z synów Itamara – Daniel; z synów Dawida – Chattusz;<verse eid="EZR 8:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 8:3" />Z synów Szekaniasza, z synów Parosza – Zachariasz, a z nim spisanych według rodowodów było stu pięćdziesięciu mężczyzn;<verse eid="EZR 8:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 8:4" />Z synów Pachat-Moaba – Elioenaj, syn Zerachiasza, a z nim dwustu mężczyzn;<verse eid="EZR 8:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 8:5" />Z synów Szekaniasza – syn Jahaziela, a z nim trzystu mężczyzn;<verse eid="EZR 8:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 8:6" />Z synów Adina – Ebed, syn Jonatana, a z nim pięćdziesięciu mężczyzn;<verse eid="EZR 8:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 8:7" />Z synów Elama – Jeszajasz, syn Ataliasza, a z nim siedemdziesięciu mężczyzn;<verse eid="EZR 8:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 8:8" />Z synów Szefatiasza – Zebadiasz, syn Mikaela, a z nim osiemdziesięciu mężczyzn;<verse eid="EZR 8:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 8:9" />Z synów Joaba – Obadiasz, syn Jechiela, a z nim dwustu osiemnastu mężczyzn;<verse eid="EZR 8:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 8:10" />Z synów Szelomita – syn Josifiasza, a z nim stu sześćdziesięciu mężczyzn;<verse eid="EZR 8:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 8:11" />Z synów Bebaja – Zachariasz, syn Bebaja, a z nim dwudziestu ośmiu mężczyzn;<verse eid="EZR 8:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EZR 8:12" />Z synów Azgada – Johanan, syn Hakkatana, a z nim stu dziesięciu mężczyzn;<verse eid="EZR 8:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EZR 8:13" />Z synów Adonikama wyruszyli ostatni, a oto ich imiona: Elifelet, Jejel i Szemajasz, a z nimi sześćdziesięciu mężczyzn;<verse eid="EZR 8:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EZR 8:14" />Z synów Bigwaja – Utaj i Zabbud, a z nimi siedemdziesięciu mężczyzn.<verse eid="EZR 8:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EZR 8:15" />I zgromadziłem ich nad rzeką, która płynie do Achawy, i obozowaliśmy tam przez trzy dni. Potem dokonałem przeglądu ludu i kapłanów, a z synów Lewiego nie znalazłem tam żadnego.<verse eid="EZR 8:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EZR 8:16" />Posłałem więc Eliezera, Ariela, Szemajasza, Elnatana, Jariba, Elnatana, Natana, Zachariasza i Meszullama, naczelników, a także Jojariba i Elnatana, ludzi rozumnych;<verse eid="EZR 8:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EZR 8:17" />I dałem przez nich polecenie Iddo, przełożonemu w miejscowości Kasifia, i przekazałem im słowa, które mieli powiedzieć do niego i jego braci Netinitów w miejscowości Kasifia; poleciłem, aby nam przyprowadzili sługi dla domu naszego Boga.<verse eid="EZR 8:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EZR 8:18" />I ponieważ łaskawa ręka naszego Boga była nad nami, przyprowadzili do nas, człowieka rozumnego spośród synów Machliego, syna Lewiego, syna Izraela, oraz Szerebiasza wraz z jego synami i braćmi – razem osiemnaście osób;<verse eid="EZR 8:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EZR 8:19" />I Chaszabiasza, a z nim Jeszajasz spośród synów Merariego wraz z jego braćmi i ich synów – razem dwadzieścia osób;<verse eid="EZR 8:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EZR 8:20" />Ponadto spośród Netinitów, których Dawid i naczelnicy ustanowili do posługiwania Lewitom – dwustu dwudziestu Netinitów. Ci wszyscy zostali imiennie wyznaczeni.<verse eid="EZR 8:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EZR 8:21" />Wtedy tam, nad rzeką Achawa, ogłosiłem post, abyśmy ukorzyli się przed naszym Bogiem i abyśmy uprosili u niego szczęśliwą drogę dla nas, naszych dzieci i całego naszego dobytku.<verse eid="EZR 8:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EZR 8:22" />Wstydziłem się bowiem prosić króla o żołnierzy i jeźdźców, aby nas w drodze ratowali przed wrogami, ponieważ powiedzieliśmy królowi: Ręka naszego Boga jest nad wszystkimi, którzy go szukają, dla ich dobra, ale jego moc i gniew przeciwko wszystkim, którzy go opuszczają.<verse eid="EZR 8:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="EZR 8:23" />Pościliśmy więc i prosiliśmy o to naszego Boga. A on nas wysłuchał.<verse eid="EZR 8:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="EZR 8:24" />Wtedy spośród przedniejszych kapłanów wydzieliłem dwunastu: Szerebiasza, Chaszabiasza, a z nimi dziesięciu ich braci;<verse eid="EZR 8:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="EZR 8:25" />I odważyłem im srebro, złoto i naczynia, czyli ofiarę dla domu naszego Boga, którą złożyli: król, jego doradcy, jego dostojnicy oraz cały Izrael tam obecny.<verse eid="EZR 8:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="EZR 8:26" />Odważyłem im więc do rąk sześćset pięćdziesiąt talentów srebra, sto talentów naczyń srebrnych, sto talentów złota;<verse eid="EZR 8:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="EZR 8:27" />Dwadzieścia złotych pucharów, ważących po tysiąc darejków, i dwa naczynia z wybornego mosiądzu, tak piękne jak złoto.<verse eid="EZR 8:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="EZR 8:28" />Potem powiedziałem do nich: Wy jesteście poświęceni PANU, naczynia także są poświęcone, a to srebro i złoto są dobrowolnym darem dla PANA, Boga waszych ojców.<verse eid="EZR 8:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="EZR 8:29" />Pilnujcie i strzeżcie ich, dopóki nie odważycie ich przed przedniejszymi kapłanami, Lewitami i naczelnikami rodów Izraela w Jerozolimie, w komnatach domu PANA.<verse eid="EZR 8:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="EZR 8:30" />Wzięli więc kapłani i Lewici odważone srebro, złoto i naczynia, aby je zanieść do Jerozolimy, do domu naszego Boga.<verse eid="EZR 8:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="EZR 8:31" />Potem wyruszyliśmy znad rzeki Achawa dwunastego dnia pierwszego miesiąca, aby udać się do Jerozolimy. A ręka naszego Boga była nad nami i wyrwała nas z ręki wrogów i czyhających na nas w drodze.<verse eid="EZR 8:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="EZR 8:32" />I przybyliśmy do Jerozolimy, i zamieszkaliśmy tam przez trzy dni.<verse eid="EZR 8:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="EZR 8:33" />A czwartego dnia odważono srebro, złoto i naczynia w domu naszego Boga – do ręki Meremota, syna kapłana Uriasza, z którym był Eleazar, syn Pinchasa; z nimi też byli Jozabad, syn Jeszuy, i Noadiasz, syn Binnuja, Lewici;<verse eid="EZR 8:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="EZR 8:34" />Wszystko według liczby i wagi; i zapisano wagę tego wszystkiego w tym czasie.<verse eid="EZR 8:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="EZR 8:35" />Następnie ci, którzy zostali pojmani, a powrócili z niewoli, złożyli Bogu Izraela ofiarę całopalną: dwanaście cielców za całego Izraela, dziewięćdziesiąt sześć baranów, siedemdziesiąt siedem jagniąt i dwanaście kozłów na ofiarę za grzech, wszystko jako całopalenie PANU.<verse eid="EZR 8:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="EZR 8:36" />I przekazano rozporządzenie króla jego satrapom i namiestnikom zarzecza, a ci wspomagali lud i dom Boży.<verse eid="EZR 8:36" />
+  </para>
+  <chapter eid="EZR 8" />
+  <chapter number="9" style="c" sid="EZR 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 9:1" />A gdy zakończono to wszystko, przystąpili do mnie naczelnicy, mówiąc: Lud Izraela, kapłani i Lewici nie odłączyli się od narodów tych ziem; postępują według obrzydliwości Kananejczyków, Chetytów, Peryzzytów, Jebusytów, Ammonitów, Moabitów, Egipcjan i Amorytów.<verse eid="EZR 9:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 9:2" />Pobrali bowiem ich córki dla siebie i swoich synów, tak że święte nasienie pomieszało się z ludami tych ziem, a w tym grzechu przodowali naczelnicy i przywódcy.<verse eid="EZR 9:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 9:3" />Gdy to usłyszałem, rozdarłem swoją szatę i swój płaszcz i rwałem włosy ze swojej głowy i brody i siedziałem osłupiony.<verse eid="EZR 9:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 9:4" />I zgromadzili się wokoło mnie wszyscy, którzy drżeli przed słowem Boga Izraela z powodu przestępstwa tych, którzy powrócili z niewoli, a ja siedziałem osłupiony aż do ofiary wieczornej.<verse eid="EZR 9:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 9:5" />Ale w czasie ofiary wieczornej wstałem ze swego przygnębienia i w rozdartej szacie i płaszczu upadłem na kolana i wyciągnąłem swoje ręce do PANA, swojego Boga;<verse eid="EZR 9:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 9:6" />I powiedziałem: Mój Boże! Wstydzę się i nie śmiem podnieść twarzy do ciebie, mój Boże. Nasze nieprawości bowiem urosły ponad głowę, a nasz grzech dosięgnął aż nieba.<verse eid="EZR 9:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 9:7" />Od dni naszych ojców aż do dziś tkwimy w wielkim grzechu, a z powodu naszych nieprawości my, nasi królowie i nasi kapłani zostaliśmy wydani w ręce królów tych ziem pod miecz w niewolę, na łup i wstyd na twarzy, jak to jest dzisiaj.<verse eid="EZR 9:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 9:8" />Ale teraz, jakby na krótką chwilę, PAN, nasz Bóg, okazał nam łaskę, bo pozostawił nam resztkę ocalonych i dał nam mieszkanie w swoim miejscu świętym, aby nasz Bóg oświecił nasze oczy i podarował nam trochę wytchnienia od naszej niewoli.<verse eid="EZR 9:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 9:9" />Chociaż bowiem byliśmy niewolnikami, nasz Bóg nie opuścił nas w naszej niewoli, lecz okazał nam łaskę wobec królów Persji, aby dać nam wytchnienie, abyśmy wznieśli dom naszego Boga i naprawili jego spustoszenie, i aby dać nam mur ochrony w Judzie i Jerozolimie.<verse eid="EZR 9:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 9:10" />Teraz więc, o nasz Boże, co powiemy po tym wszystkim? Opuściliśmy bowiem twoje przykazania;<verse eid="EZR 9:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 9:11" />Które nadałeś przez swoje sługi, proroków, mówiąc: Ziemia, do której wchodzicie, by ją wziąć w posiadanie, jest ziemią nieczystą, splamioną nieczystością ludu tych ziem przez jego obrzydliwości, który swoją nieczystością napełnił ją od końca do końca.<verse eid="EZR 9:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EZR 9:12" />Dlatego nie dawajcie swoich córek ich synom ani nie bierzcie ich córek dla swoich synów, ani nie szukajcie nigdy pokoju z nimi ani ich pomyślności, abyście się wzmocnili i spożywali dobra tej ziemi oraz pozostawili ją w dziedzictwo swoim synom na wieki.<verse eid="EZR 9:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EZR 9:13" />A po tym wszystkim, co spadło na nas za nasze złe czyny i nasz wielki grzech, chociaż ty, nasz Boże, wymierzyłeś nam karę mniejszą niż nasze nieprawości i dałeś nam takie wybawienie;<verse eid="EZR 9:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EZR 9:14" />Czy mamy znowu przekraczać twoje przykazania i spowinowacać się z tymi obrzydliwymi narodami? Czy nie rozgniewasz się na nas aż do naszego wyniszczenia, tak że nie zostaną spośród nas ani resztka, ani ocaleni?<verse eid="EZR 9:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EZR 9:15" />PANIE, Boże Izraela, ty jesteś sprawiedliwy, bo pozostajemy ocaleni, jak się to dziś okazuje. Oto stoimy przed tobą w naszym przewinieniu, choć z tego powodu nie godzi się stać przed tobą.<verse eid="EZR 9:15" />
+  </para>
+  <chapter eid="EZR 9" />
+  <chapter number="10" style="c" sid="EZR 10" />
+  <para style="m">
+    <verse number="1" style="v" sid="EZR 10:1" />A gdy Ezdrasz modlił się i wyznawał grzechy z płaczem, klęcząc przed domem Bożym, zebrał się wokół niego bardzo wielki tłum mężczyzn, kobiet i dzieci z Izraela, a lud bardzo gorzko płakał.<verse eid="EZR 10:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EZR 10:2" />Wtedy Szekaniasz, syn Jechiela z synów Elama, powiedział do Ezdrasza: My zgrzeszyliśmy przeciwko naszemu Bogu, bo pojęliśmy obce żony z ludu tej ziemi. Ale jest jeszcze nadzieja dla Izraela w tej sprawie.<verse eid="EZR 10:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EZR 10:3" />Teraz więc zawrzyjmy przymierze z naszym Bogiem – odprawmy wszystkie żony i dzieci z nich urodzone, według rady PANA i tych, którzy drżą przed przykazaniem naszego Boga. Niech to się stanie według prawa.<verse eid="EZR 10:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EZR 10:4" />Wstań, bo do ciebie należy ta sprawa, a my będziemy z tobą. Wzmocnij się i działaj.<verse eid="EZR 10:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EZR 10:5" />Wtedy Ezdrasz wstał i zaprzysiągł przedniejszych kapłanów, Lewitów i całego Izraela, by postąpili według tego słowa. I przysięgli.<verse eid="EZR 10:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EZR 10:6" />Potem Ezdrasz opuścił dom Boży i udał się do komnaty Jochanana, syna Eliasziba. Kiedy tam wszedł, nie jadł chleba ani nie pił wody, gdyż smucił się z powodu przestępstwa tych, którzy powrócili z niewoli.<verse eid="EZR 10:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EZR 10:7" />Następnie ogłoszono w Judzie i Jerozolimie wszystkim, którzy powrócili z niewoli, że mają zgromadzić się w Jerozolimie.<verse eid="EZR 10:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EZR 10:8" />A ktokolwiek nie przyjdzie w ciągu trzech dni, według postanowienia naczelników i starszych, ten zostanie pozbawiony całego mienia, a sam będzie wykluczony ze zgromadzenia tych, którzy powrócili z niewoli.<verse eid="EZR 10:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EZR 10:9" />Zgromadzili się więc wszyscy mężczyźni z Judy i Beniamina w Jerozolimie w ciągu trzech dni. Było to w dwudziestym dniu dziewiątego miesiąca. A cały lud siedział na placu przed domem Bożym, drżąc z powodu tej sprawy i z powodu deszczu.<verse eid="EZR 10:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EZR 10:10" />Wtedy Ezdrasz powstał i powiedział do nich: Wy zgrzeszyliście, bo pojęliście obce żony, a przez to pomnożyliście grzech Izraela.<verse eid="EZR 10:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EZR 10:11" />Teraz więc wyznajcie grzech PANU, Bogu waszych ojców, i spełnijcie jego wolę. Odłączcie się od ludu tej ziemi i od obcych żon.<verse eid="EZR 10:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EZR 10:12" />A całe zgromadzenie odpowiedziało donośnym głosem: Jak nam powiedziałeś, tak uczynimy.<verse eid="EZR 10:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EZR 10:13" />Ale lud jest liczny i pora deszczowa i nie możemy stać na dworze. Ponadto ta sprawa nie jest na jeden dzień ani dwa, gdyż jest nas wielu, którzy dopuściliśmy się tego przestępstwa.<verse eid="EZR 10:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EZR 10:14" />Prosimy więc, niech nasi przywódcy będą postawieni przed całym zgromadzeniem i wszyscy, którzy w naszych miastach pojęli obce żony, niech przyjdą o wyznaczonej porze – z nimi starsi z każdego miasta oraz ich sędziowie, abyśmy w ten sposób odwrócili od nas zapalczywość gniewu naszego Boga z powodu tej sprawy.<verse eid="EZR 10:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EZR 10:15" />Tylko Jonatan, syn Asahela, i Jachzejasz, syn Tikwy, zajmowali się tym. I Meszullam i Szabbetaj, Lewici, pomagali im.<verse eid="EZR 10:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EZR 10:16" />Tak więc postąpili ci, którzy powrócili z niewoli. I kapłan Ezdrasz wraz z naczelnikami poszczególnych rodów, wszyscy zostali odłączeni imiennie. I zasiedli w pierwszym dniu dziesiątego miesiąca, aby zbadać tę sprawę.<verse eid="EZR 10:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EZR 10:17" />I do pierwszego dnia pierwszego miesiąca zakończyli sprawę ze wszystkimi mężczyznami, którzy pojęli obce żony.<verse eid="EZR 10:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EZR 10:18" />Wśród synów kapłanów znaleźli się tacy, którzy pojęli obce żony: spośród synów Jeszuy, syna Jocadaka i jego braci: Maasejasz, Eliezer, Jarib i Gedaliasz.<verse eid="EZR 10:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EZR 10:19" />Ci zaręczyli, że odprawią swoje żony, a jako że byli winni – każdy złoży barana ze stada za swój występek.<verse eid="EZR 10:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EZR 10:20" />A z synów Immera: Chanani i Zebadiasz;<verse eid="EZR 10:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EZR 10:21" />A z synów Charima: Maasejasz, Eliasz, Szemajasz, Jechiel i Uzjasz;<verse eid="EZR 10:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EZR 10:22" />A z synów Paszchura: Elioenaj, Maasejasz, Izmael, Netaneel, Jozabad i Elasa;<verse eid="EZR 10:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="EZR 10:23" />A z Lewitów: Jozabad, Szimei, Kelajasz, to jest Kelita, Petachiasz, Juda i Eliezer;<verse eid="EZR 10:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="EZR 10:24" />A ze śpiewaków: Eliaszib; a z odźwiernych: Szallum, Telem i Uri;<verse eid="EZR 10:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="EZR 10:25" />A z Izraela, z synów Parosza: Ramiasz, Jezjasz, Malkiasz, Miamin, Eleazar, Malkijasz i Benajasz;<verse eid="EZR 10:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="EZR 10:26" />A z synów Elama: Mattaniasz, Zachariasz, Jechiel, Abdi, Jeremot i Eliasz;<verse eid="EZR 10:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="EZR 10:27" />A z synów Zattua: Elioenaj, Eliaszib, Mattaniasz, Jeremot, Zabad i Aziza;<verse eid="EZR 10:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="EZR 10:28" />A z synów Bebaja: Jehochanan, Chananiasz, Zabbaj i Atlaj;<verse eid="EZR 10:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="EZR 10:29" />A z synów Baniego: Meszullam, Malluk, Adajasz, Jaszub, Szeal i Jeremot;<verse eid="EZR 10:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="EZR 10:30" />A z synów Pachat-Moaba: Adna, Kelal, Benajasz, Maasejasz, Mattaniasz, Besaleel, Binnuj i Manasses;<verse eid="EZR 10:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="EZR 10:31" />A z synów Charima: Eliezer, Jeszsziasz, Malkiasz, Szemajasz, Szymon;<verse eid="EZR 10:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="EZR 10:32" />Beniamin, Maluk i Szemariasz;<verse eid="EZR 10:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="EZR 10:33" />Z synów Chaszuma: Mattenaj, Mattatta, Zabad, Elifelet, Jeremaj, Manasses i Szimei;<verse eid="EZR 10:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="EZR 10:34" />Z synów Baniego: Maadaj, Amram, Uel;<verse eid="EZR 10:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="EZR 10:35" />Benajasz, Bedejasz, Cheluhu;<verse eid="EZR 10:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="EZR 10:36" />Waniasz, Meremot, Eliaszib;<verse eid="EZR 10:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="EZR 10:37" />Mattaniasz, Mattenaj, Jaasaj;<verse eid="EZR 10:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="EZR 10:38" />I Bani, Binnuj, Szimei;<verse eid="EZR 10:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="EZR 10:39" />I Szelemiasz, Natan, Adajasz;<verse eid="EZR 10:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="EZR 10:40" />Machnadbaj, Szaszaj, Szaraj;<verse eid="EZR 10:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="EZR 10:41" />Asarel, Szelemiasz, Szemariasz;<verse eid="EZR 10:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="EZR 10:42" />Szallum, Amariasz i Józef;<verse eid="EZR 10:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="EZR 10:43" />Z synów Nebo: Jejel, Mattitiasz, Zabad, Zebina, Jaddaj, Joel i Benajasz.<verse eid="EZR 10:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="EZR 10:44" />Ci wszyscy pojęli obce żony. A były wśród nich żony, które urodziły im dzieci.<verse eid="EZR 10:44" />
+  </para>
+  <chapter eid="EZR 10" />
+</usx>

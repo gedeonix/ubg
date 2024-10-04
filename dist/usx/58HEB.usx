@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="HEB" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Hebrajczyków</para>
+  <para style="toc1">List do Hebrajczyków</para>
+  <para style="toc2">Hebrajczyków</para>
+  <para style="toc3">Hbr</para>
+  <para style="mt1">List do Hebrajczyków</para>
+  <chapter number="1" style="c" sid="HEB 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 1:1" />Bóg, który wielokrotnie i na różne sposoby przemawiał niegdyś do ojców przez proroków;<verse eid="HEB 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 1:2" />W tych ostatecznych dniach przemówił do nas przez swego Syna, którego ustanowił dziedzicem wszystkiego, przez którego też stworzył światy;<verse eid="HEB 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 1:3" />Który, będąc blaskiem jego chwały i wyrazem jego istoty i podtrzymując wszystko słowem swojej mocy, dokonawszy oczyszczenia z naszych grzechów przez samego siebie, zasiadł po prawicy Majestatu na wysokościach;<verse eid="HEB 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 1:4" />I stał się o tyle wyższy od aniołów, o ile znamienitsze od nich odziedziczył imię.<verse eid="HEB 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 1:5" />Do którego bowiem z aniołów powiedział kiedykolwiek: Ty jesteś moim Synem, ja ciebie dziś zrodziłem? I znowu: Ja będę mu Ojcem, a on będzie mi Synem?<verse eid="HEB 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 1:6" />I znowu, gdy wprowadza pierworodnego na świat, mówi: Niech mu oddają pokłon wszyscy aniołowie Boga.<verse eid="HEB 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 1:7" />O aniołach zaś mówi: On czyni swoich aniołów duchami, a swoje sługi płomieniami ognia.<verse eid="HEB 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 1:8" />Lecz do Syna mówi: Twój tron, o Boże, na wieki wieków, berłem sprawiedliwości jest berło twego królestwa.<verse eid="HEB 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 1:9" />Umiłowałeś sprawiedliwość, a znienawidziłeś nieprawość, dlatego namaścił cię, o Boże, twój Bóg olejkiem radości bardziej niż twoich towarzyszy.<verse eid="HEB 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 1:10" />Oraz: Ty, Panie, na początku założyłeś fundamenty ziemi, a niebiosa są dziełem twoich rąk.<verse eid="HEB 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 1:11" />One przeminą, ale ty zostaniesz i wszystkie jak szata się zestarzeją;<verse eid="HEB 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 1:12" />I jak płaszcz je zwiniesz, i zostaną odmienione. Ty zaś jesteś ten sam, a twoje lata się nie skończą.<verse eid="HEB 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 1:13" />Do którego też z aniołów kiedykolwiek powiedział: Siądź po mojej prawicy, aż położę twoich nieprzyjaciół jako podnóżek pod twoje stopy?<verse eid="HEB 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 1:14" />Czy nie są oni wszyscy duchami służebnymi, posyłanymi, by służyć tym, którzy mają odziedziczyć zbawienie?<verse eid="HEB 1:14" />
+  </para>
+  <chapter eid="HEB 1" />
+  <chapter number="2" style="c" sid="HEB 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 2:1" />Dlatego musimy tym bardziej trzymać się tego, co słyszeliśmy, aby nam to czasem nie uciekło.<verse eid="HEB 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 2:2" />Bo jeśli słowo wypowiedziane przez aniołów było niewzruszone, a wszelkie wykroczenie i nieposłuszeństwo otrzymało sprawiedliwą odpłatę;<verse eid="HEB 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 2:3" />Jakże my ujdziemy, jeśli zaniedbamy tak wielkie zbawienie, które było głoszone na początku przez Pana, a potwierdzone nam przez tych, którzy go słyszeli?<verse eid="HEB 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 2:4" />Którym i Bóg dał świadectwo przez znaki, cuda i różnorakie moce oraz przez udzielanie Ducha Świętego według swojej woli.<verse eid="HEB 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 2:5" />Nie aniołom bowiem poddał przyszły świat, o którym mówimy.<verse eid="HEB 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 2:6" />Ktoś to gdzieś stwierdził, gdy powiedział: Czym jest człowiek, że o nim pamiętasz, albo syn człowieczy, że troszczysz się o niego?<verse eid="HEB 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 2:7" />Uczyniłeś go niewiele mniejszym od aniołów, chwałą i czcią ukoronowałeś go i ustanowiłeś go nad uczynkami twoich rąk.<verse eid="HEB 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 2:8" />Wszystko poddałeś pod jego stopy. A skoro poddał mu wszystko, nie pozostawił niczego, co nie byłoby mu poddane. Lecz teraz jeszcze nie widzimy, aby wszystko było mu poddane.<verse eid="HEB 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 2:9" />Ale widzimy Jezusa, który stał się niewiele mniejszy od aniołów, ukoronowanego chwałą i czcią za cierpienia śmierci, aby z łaski Boga zakosztował śmierci za wszystkich.<verse eid="HEB 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 2:10" />Wypadało bowiem temu, dla którego jest wszystko i przez którego jest wszystko, aby, doprowadzając wielu synów do chwały, wodza ich zbawienia uczynił doskonałym przez cierpienie.<verse eid="HEB 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 2:11" />Zarówno bowiem ten, który uświęca, jak i uświęceni, z jednego są wszyscy. Z tego powodu nie wstydzi się nazywać ich braćmi;<verse eid="HEB 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 2:12" />Mówiąc: Oznajmię twoje imię moim braciom, pośród zgromadzenia będę ci śpiewał.<verse eid="HEB 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 2:13" />I znowu: Będę pokładał w nim ufność. I znowu: Oto ja i dzieci, które dał mi Bóg.<verse eid="HEB 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 2:14" />Ponieważ zaś dzieci są uczestnikami ciała i krwi, i on także stał się ich uczestnikiem, aby przez śmierć zniszczyć tego, który miał władzę nad śmiercią, to jest diabła;<verse eid="HEB 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 2:15" />I aby wyzwolić tych, którzy z powodu lęku przed śmiercią przez całe życie podlegali niewoli.<verse eid="HEB 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 2:16" />Bo zaprawdę nie przyjął natury aniołów, ale potomstwo Abrahama.<verse eid="HEB 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="HEB 2:17" />Dlatego musiał we wszystkim upodobnić się do braci, aby stał się miłosiernym i wiernym najwyższym kapłanem wobec Boga dla przebłagania za grzechy ludu.<verse eid="HEB 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="HEB 2:18" />A że sam cierpiał, będąc kuszony, może dopomóc tym, którzy są w pokusach.<verse eid="HEB 2:18" />
+  </para>
+  <chapter eid="HEB 2" />
+  <chapter number="3" style="c" sid="HEB 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 3:1" />Dlatego, bracia święci, uczestnicy niebieskiego powołania, zwróćcie uwagę na Apostoła i Najwyższego Kapłana naszego wyznania, Chrystusa Jezusa;<verse eid="HEB 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 3:2" />Wiernego temu, który go ustanowił, podobnie jak Mojżesz był w całym jego domu.<verse eid="HEB 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 3:3" />Tym większej bowiem chwały jest on godzien od Mojżesza, im większą cześć od domu ma jego budowniczy.<verse eid="HEB 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 3:4" />Bo każdy dom jest przez kogoś zbudowany, lecz tym, który wszystko zbudował, jest Bóg.<verse eid="HEB 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 3:5" />I Mojżesz wprawdzie był wierny w całym jego domu jako sługa, na świadectwo tego, co potem miało być powiedziane;<verse eid="HEB 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 3:6" />Lecz Chrystus jako syn panuje nad swoim domem. Jego domem my jesteśmy, jeśli tylko ufność i chwalebną nadzieję aż do końca niewzruszenie zachowamy.<verse eid="HEB 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 3:7" />Dlatego, jak mówi Duch Święty: Dzisiaj, jeśli usłyszycie jego głos;<verse eid="HEB 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 3:8" />Nie zatwardzajcie waszych serc jak podczas rozdrażnienia, w dniu próby na pustyni;<verse eid="HEB 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 3:9" />Gdzie mnie wystawiali na próbę wasi ojcowie i doświadczali, i oglądali moje dzieła przez czterdzieści lat.<verse eid="HEB 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 3:10" />Dlatego się rozgniewałem na to pokolenie i powiedziałem: Oni zawsze błądzą sercem i nie poznali moich dróg;<verse eid="HEB 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 3:11" />Toteż przysiągłem w moim gniewie, że nie wejdą do mojego odpoczynku.<verse eid="HEB 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 3:12" />Uważajcie, bracia, żeby nie było czasem w kimś z was przewrotnego serca niewiary, które by odstępowało od Boga żywego;<verse eid="HEB 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 3:13" />Lecz zachęcajcie się wzajemnie każdego dnia, dopóki nazywa się „Dzisiaj”, aby nikt z was nie popadł w zatwardziałość przez oszustwo grzechu.<verse eid="HEB 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 3:14" />Staliśmy się bowiem uczestnikami Chrystusa, jeśli tylko nasze pierwotne przeświadczenie aż do końca niewzruszenie zachowamy.<verse eid="HEB 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 3:15" />Dopóki jest powiedziane: Dzisiaj, jeśli usłyszycie jego głos, nie zatwardzajcie waszych serc jak w dniu rozdrażnienia.<verse eid="HEB 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 3:16" />Niektórzy bowiem, usłyszawszy, rozdrażnili Pana, ale nie wszyscy z tych, którzy wyszli z Egiptu pod wodzą Mojżesza.<verse eid="HEB 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="HEB 3:17" />A na kogo gniewał się przez czterdzieści lat? Czy nie na tych, którzy zgrzeszyli, a których ciała legły na pustyni?<verse eid="HEB 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="HEB 3:18" />A którym przysiągł, że nie wejdą do jego odpoczynku, jeśli nie tym, którzy byli nieposłuszni?<verse eid="HEB 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="HEB 3:19" />Widzimy więc, że nie mogli wejść z powodu niewiary.<verse eid="HEB 3:19" />
+  </para>
+  <chapter eid="HEB 3" />
+  <chapter number="4" style="c" sid="HEB 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 4:1" />Bójmy się więc, gdy jeszcze trwa obietnica wejścia do jego odpoczynku, aby czasem się nie okazało, że ktoś z was jej nie osiągnął.<verse eid="HEB 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 4:2" />I nam bowiem głoszono ewangelię jak i tamtym. Lecz tamtym nie pomogło słowo, które słyszeli, gdyż nie było powiązane z wiarą tych, którzy je słyszeli.<verse eid="HEB 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 4:3" />Bo do odpoczynku wchodzimy my, którzy uwierzyliśmy, jak powiedział: Dlatego przysiągłem w moim gniewie, że nie wejdą do mojego odpoczynku, choć jego dzieła były dokonane od założenia świata.<verse eid="HEB 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 4:4" />Powiedział bowiem w pewnym miejscu o siódmym dniu tak: I odpoczął Bóg siódmego dnia od wszystkich swoich dzieł.<verse eid="HEB 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 4:5" />A tutaj znowu: Nie wejdą do mego odpoczynku.<verse eid="HEB 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 4:6" />Ponieważ więc jest tak, że niektórzy mają wejść do niego, a ci, którym najpierw głoszono, nie weszli z powodu niewiary;<verse eid="HEB 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 4:7" />Znowu wyznacza pewien dzień, mówiąc przez Dawida po tak długim czasie „Dzisiaj”, jak to zostało powiedziane: Dzisiaj, jeśli usłyszycie jego głos, nie zatwardzajcie waszych serc.<verse eid="HEB 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 4:8" />Gdyby bowiem Jozue zapewnił im odpoczynek, Bóg nie mówiłby potem o innym dniu.<verse eid="HEB 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 4:9" />A tak zostaje jeszcze odpoczynek dla ludu Bożego.<verse eid="HEB 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 4:10" />Kto bowiem wszedł do jego odpoczynku, on także odpoczął od swoich czynów, tak jak Bóg od swoich.<verse eid="HEB 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 4:11" />Starajmy się więc wejść do owego odpoczynku, aby nikt nie wpadł w ten sam przykład niewiary.<verse eid="HEB 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 4:12" />Słowo Boże bowiem jest żywe i skuteczne, ostrzejsze niż wszelki miecz obosieczny, przenikające aż do rozdzielenia duszy i ducha, stawów i szpiku, zdolne rozsądzić myśli i zamiary serca.<verse eid="HEB 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 4:13" />Żadne stworzenie nie ukryje się przed nim, przeciwnie, wszystko jest obnażone i odkryte przed oczami tego, któremu musimy zdać sprawę.<verse eid="HEB 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 4:14" />Mając więc wielkiego najwyższego kapłana, który przeszedł przez niebiosa, Jezusa, Syna Bożego, trzymajmy się naszego wyznania.<verse eid="HEB 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 4:15" />Nie mamy bowiem najwyższego kapłana, który by nie mógł współczuć naszym słabościom, lecz kuszonego we wszystkim podobnie jak my, ale bez grzechu.<verse eid="HEB 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 4:16" />Przystąpmy więc z ufnością do tronu łaski, abyśmy dostąpili miłosierdzia i znaleźli łaskę ku pomocy w stosownej chwili.<verse eid="HEB 4:16" />
+  </para>
+  <chapter eid="HEB 4" />
+  <chapter number="5" style="c" sid="HEB 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 5:1" />Każdy bowiem najwyższy kapłan wzięty spośród ludzi, dla ludzi jest ustanowiony w sprawach odnoszących się do Boga, aby składał dary i ofiary za grzechy;<verse eid="HEB 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 5:2" />Który może współczuć nieświadomym i błądzącym, gdyż sam podlega słabościom.<verse eid="HEB 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 5:3" />I z tego powodu powinien, jak za lud, tak i za samego siebie składać ofiary za grzechy.<verse eid="HEB 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 5:4" />A nikt sam sobie nie bierze tej godności, tylko ten, który zostaje powołany przez Boga, tak jak Aaron.<verse eid="HEB 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 5:5" />Podobnie i Chrystus nie sam siebie okrył chwałą, aby stać się najwyższym kapłanem, ale ten, który powiedział do niego: Ty jesteś moim Synem, ja ciebie dziś zrodziłem.<verse eid="HEB 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 5:6" />Tak jak i w innym miejscu mówi: Ty jesteś kapłanem na wieki według porządku Melchizedeka.<verse eid="HEB 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 5:7" />On za dni swego ciała zanosił z głośnym wołaniem i ze łzami modlitwy i usilne prośby do tego, który mógł go wybawić od śmierci, i został wysłuchany z powodu swojej bogobojności.<verse eid="HEB 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 5:8" />Chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał.<verse eid="HEB 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 5:9" />A uczyniony doskonałym, stał się sprawcą wiecznego zbawienia dla wszystkich, którzy są mu posłuszni;<verse eid="HEB 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 5:10" />Nazwany przez Boga najwyższym kapłanem według porządku Melchizedeka.<verse eid="HEB 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 5:11" />Wiele mamy o nim do powiedzenia, a trudno wam to wyjaśnić, ponieważ staliście się ociężali w słuchaniu.<verse eid="HEB 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 5:12" />Chociaż bowiem ze względu na czas powinniście być nauczycielami, znowu potrzebujecie, żeby was ktoś uczył początkowych zasad słów Bożych, i staliście się ludźmi, którzy potrzebują mleka, a nie stałego pokarmu.<verse eid="HEB 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 5:13" />Każdy bowiem, kto żywi się tylko mlekiem, jest niewprawny w słowie sprawiedliwości, bo jest niemowlęciem.<verse eid="HEB 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 5:14" />Natomiast pokarm stały jest dla dorosłych, którzy przez praktykę mają zmysły wyćwiczone do rozróżniania dobra i zła.<verse eid="HEB 5:14" />
+  </para>
+  <chapter eid="HEB 5" />
+  <chapter number="6" style="c" sid="HEB 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 6:1" />Dlatego zostawmy podstawowe nauki o Chrystusie i przejdźmy do tego, co doskonałe, nie zakładając ponownie fundamentu, którym jest pokuta od martwych uczynków i wiara w Boga;<verse eid="HEB 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 6:2" />Nauka o chrztach i nakładaniu rąk, o zmartwychwstaniu umarłych i sądzie wiecznym.<verse eid="HEB 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 6:3" />I to uczynimy, jeśli Bóg pozwoli.<verse eid="HEB 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 6:4" />Niemożliwe jest bowiem, żeby tych, którzy raz zostali oświeceni i zakosztowali daru niebieskiego, i stali się uczestnikami Ducha Świętego;<verse eid="HEB 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 6:5" />Zakosztowali też dobrego słowa Bożego i mocy przyszłego wieku;<verse eid="HEB 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 6:6" />A odpadli – ponownie odnowić ku pokucie, gdyż sami sobie znowu krzyżują Syna Bożego i wystawiają go na hańbę.<verse eid="HEB 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 6:7" />Ziemia bowiem, która pije deszcz często na nią spadający i rodzi rośliny użyteczne dla tych, którzy ją uprawiają, otrzymuje błogosławieństwo od Boga.<verse eid="HEB 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 6:8" />Lecz ta, która wydaje ciernie i osty, jest odrzucona i bliska przekleństwa, a jej końcem jest spalenie.<verse eid="HEB 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 6:9" />Ale chociaż tak mówimy, umiłowani, jesteśmy co do was przekonani o czymś lepszym i towarzyszącym zbawieniu.<verse eid="HEB 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 6:10" />Bóg bowiem nie jest niesprawiedliwy, aby miał zapomnieć o waszym dziele i trudzie miłości, którą okazaliście dla jego imienia, gdy służyliście świętym i nadal służycie.<verse eid="HEB 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 6:11" />Pragniemy zaś, aby każdy z was okazywał tę samą gorliwość, żebyście mieli pełnię nadziei aż do końca;<verse eid="HEB 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 6:12" />Abyście nie byli ociężali, ale naśladowali tych, którzy przez wiarę i cierpliwość dziedziczą obietnice.<verse eid="HEB 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 6:13" />Gdy bowiem Bóg dał obietnicę Abrahamowi, a nie miał nikogo większego, na kogo mógłby przysiąc, przysiągł na siebie samego;<verse eid="HEB 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 6:14" />Mówiąc: Zaprawdę, błogosławiąc, błogosławić ci będę i rozmnażając, rozmnożę cię.<verse eid="HEB 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 6:15" />A ponieważ tak cierpliwie czekał, dostąpił spełnienia obietnicy.<verse eid="HEB 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 6:16" />Ludzie bowiem przysięgają na kogoś większego, a przysięga dla potwierdzenia jest zakończeniem wszystkich sporów między nimi.<verse eid="HEB 6:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="HEB 6:17" />Dlatego też Bóg, chcąc dobitniej okazać dziedzicom obietnicy niezmienność swojego postanowienia, poręczył ją przysięgą;<verse eid="HEB 6:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="HEB 6:18" />Abyśmy przez dwie niezmienne rzeczy, w których jest niemożliwe, aby Bóg kłamał, mieli silną pociechę, my, którzy uciekliśmy, by pochwycić się zaoferowanej nam nadziei;<verse eid="HEB 6:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="HEB 6:19" />Którą mamy jako kotwicę duszy, bezpieczną i niewzruszoną, sięgającą poza zasłonę;<verse eid="HEB 6:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="HEB 6:20" />Gdzie jako poprzednik wszedł dla nas Jezus, stawszy się najwyższym kapłanem na wieki według porządku Melchizedeka.<verse eid="HEB 6:20" />
+  </para>
+  <chapter eid="HEB 6" />
+  <chapter number="7" style="c" sid="HEB 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 7:1" />Ten bowiem Melchizedek, król Salemu, kapłan Boga najwyższego, wyszedł na spotkanie Abrahama wracającego po rozgromieniu królów i pobłogosławił go.<verse eid="HEB 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 7:2" />Jemu też Abraham wydzielił dziesięcinę ze wszystkiego. Jest on najpierw, według tłumaczenia, królem sprawiedliwości, potem też królem Salemu, co znaczy król pokoju.<verse eid="HEB 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 7:3" />Bez ojca, bez matki, bez rodowodu, niemający ani początku dni, ani końca życia, ale upodobniony do Syna Bożego, pozostaje kapłanem na zawsze.<verse eid="HEB 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 7:4" />Rozważcie więc, jak wielki był ten, któremu sam patriarcha Abraham dał dziesięcinę z łupu.<verse eid="HEB 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 7:5" />Wprawdzie ci z synów Lewiego, którzy otrzymują urząd kapłański, mają nakaz zgodnie z prawem pobierać dziesięcinę od ludu, to jest od swoich braci, chociaż wywodzą się z lędźwi Abrahama;<verse eid="HEB 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 7:6" />Lecz ten, który nie wywodził się z ich rodu, otrzymał dziesięcinę od Abrahama i pobłogosławił temu, który miał obietnice.<verse eid="HEB 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 7:7" />A jest to rzecz bezsporna, że mniejszy otrzymuje błogosławieństwo od większego.<verse eid="HEB 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 7:8" />Ponadto tu biorą dziesięciny ludzie, którzy umierają, tam zaś ten, o którym zaświadczono, że żyje.<verse eid="HEB 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 7:9" />I jeśli tak można powiedzieć, także Lewi, który otrzymuje dziesięciny, dał dziesięcinę w Abrahamie.<verse eid="HEB 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 7:10" />Był bowiem jeszcze w lędźwiach swego ojca, gdy Melchizedek wyszedł mu na spotkanie.<verse eid="HEB 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 7:11" />Gdyby więc doskonałość była osiągalna przez kapłaństwo lewickie – gdyż lud otrzymał prawo oparte na nim – to jaka byłaby jeszcze potrzeba, aby pojawił się inny kapłan według porządku Melchizedeka, a nie był mianowany według porządku Aarona?<verse eid="HEB 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 7:12" />A skoro zmienia się kapłaństwo, musi też nastąpić zmiana prawa.<verse eid="HEB 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 7:13" />Ten zaś, o którym się to mówi, należał do innego pokolenia, z którego nikt nie służył przy ołtarzu.<verse eid="HEB 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 7:14" />Wiadomo bowiem, że nasz Pan pochodził z pokolenia Judy, o którym to pokoleniu odnośnie kapłaństwa Mojżesz nic nie mówi.<verse eid="HEB 7:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 7:15" />Jest to jeszcze bardziej oczywiste, skoro na podobieństwo Melchizedeka pojawia się inny kapłan;<verse eid="HEB 7:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 7:16" />Który stał się nim nie według cielesnego przykazania prawa, ale według mocy niezniszczalnego życia.<verse eid="HEB 7:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="HEB 7:17" />Tak bowiem świadczy: Ty jesteś kapłanem na wieki według porządku Melchizedeka.<verse eid="HEB 7:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="HEB 7:18" />Zostało więc zniesione poprzednie przykazanie z powodu jego słabości i nieużyteczności.<verse eid="HEB 7:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="HEB 7:19" />Prawo bowiem nie uczyniło niczego doskonałym, ale na jego miejsce została wprowadzona lepsza nadzieja, przez którą zbliżamy się do Boga.<verse eid="HEB 7:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="HEB 7:20" />A stało się to nie bez złożenia przysięgi.<verse eid="HEB 7:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="HEB 7:21" />Tamci bowiem zostali kapłanami bez przysięgi, ten zaś na podstawie przysięgi tego, który powiedział do niego: Przysiągł Pan i nie będzie żałował: Ty jesteś kapłanem na wieki według porządku Melchizedeka;<verse eid="HEB 7:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="HEB 7:22" />O tyle też Jezus stał się poręczycielem lepszego przymierza.<verse eid="HEB 7:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="HEB 7:23" />A wprawdzie tamtych kapłanów było wielu, gdyż śmierć nie pozwoliła im trwać na zawsze.<verse eid="HEB 7:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="HEB 7:24" />Ten zaś, ponieważ trwa na wieki, ma kapłaństwo nieprzemijające.<verse eid="HEB 7:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="HEB 7:25" />Dlatego też całkowicie może zbawić tych, którzy przez niego przychodzą do Boga, bo zawsze żyje, aby wstawiać się za nimi.<verse eid="HEB 7:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="HEB 7:26" />Takiego to przystało nam mieć najwyższego kapłana: świętego, niewinnego, nieskalanego, oddzielonego od grzeszników i wywyższonego ponad niebiosa;<verse eid="HEB 7:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="HEB 7:27" />Który nie musi codziennie, jak tamci najwyżsi kapłani, składać ofiar najpierw za własne grzechy, a potem za grzechy ludu. Uczynił to bowiem raz, ofiarując samego siebie.<verse eid="HEB 7:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="HEB 7:28" />Prawo bowiem ustanawiało najwyższymi kapłanami ludzi, którzy podlegają słabościom, słowo zaś przysięgi, która nastąpiła po prawie, ustanowiło Syna doskonałego na wieki.<verse eid="HEB 7:28" />
+  </para>
+  <chapter eid="HEB 7" />
+  <chapter number="8" style="c" sid="HEB 8" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 8:1" />A oto podsumowanie tego, co mówimy: mamy takiego najwyższego kapłana, który zasiadł po prawicy tronu Majestatu w niebiosach.<verse eid="HEB 8:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 8:2" />Jest on sługą świątyni i prawdziwego przybytku zbudowanego przez Pana, a nie człowieka.<verse eid="HEB 8:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 8:3" />Każdy bowiem najwyższy kapłan jest ustanawiany do składania darów i ofiar. Dlatego było konieczne, żeby i ten miał co ofiarować.<verse eid="HEB 8:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 8:4" />Gdyby zaś był na ziemi, nie byłby kapłanem, gdyż są tu inni kapłani, którzy ofiarują dary zgodnie z prawem.<verse eid="HEB 8:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 8:5" />Służą oni obrazowi i cieniowi tego, co niebiańskie, jak Bóg powiedział Mojżeszowi, gdy miał zbudować przybytek: Uważaj – powiedział – abyś uczynił wszystko według wzoru, który ci został ukazany na górze.<verse eid="HEB 8:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 8:6" />Teraz zaś nasz kapłan o tyle znakomitszą otrzymał służbę, o ile jest pośrednikiem lepszego przymierza, które zostało oparte na lepszych obietnicach.<verse eid="HEB 8:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 8:7" />Gdyby bowiem to pierwsze było nienaganne, to nie szukano by miejsca na drugie.<verse eid="HEB 8:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 8:8" />Tymczasem, ganiąc ich, mówi: Oto nadchodzą dni, mówi Pan, gdy zawrę z domem Izraela i z domem Judy nowe przymierze.<verse eid="HEB 8:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 8:9" />Nie takie przymierze, jakie zawarłem z ich ojcami w dniu, gdy ująłem ich za rękę, aby ich wyprowadzić z ziemi Egiptu. Ponieważ oni nie wytrwali w moim przymierzu, ja też przestałem o nich dbać, mówi Pan.<verse eid="HEB 8:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 8:10" />Takie zaś jest przymierze, które zawrę z domem Izraela po tych dniach, mówi Pan: Dam moje prawa w ich umysły i wypiszę je na ich sercach. I będę im Bogiem, a oni będą mi ludem.<verse eid="HEB 8:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 8:11" />I nikt nie będzie uczył swego bliźniego ani nikt swego brata, mówiąc: Poznaj Pana, bo wszyscy będą mnie znali, od najmniejszego aż do największego z nich.<verse eid="HEB 8:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 8:12" />Będę bowiem łaskawy dla ich występków, a ich grzechów i nieprawości więcej nie wspomnę.<verse eid="HEB 8:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 8:13" />A gdy mówi „nowe”, uznaje pierwsze za przedawnione; a to, co się przedawnia i starzeje, bliskie jest zaniku.<verse eid="HEB 8:13" />
+  </para>
+  <chapter eid="HEB 8" />
+  <chapter number="9" style="c" sid="HEB 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 9:1" />Wprawdzie i pierwsze przymierze miało przepisy o służbie Bożej oraz ziemską świątynię.<verse eid="HEB 9:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 9:2" />Został bowiem zbudowany przybytek, w którego pierwszej części, zwanej Miejscem Świętym, znajdował się świecznik, stół i chleby pokładne.<verse eid="HEB 9:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 9:3" />Za drugą zaś zasłoną był przybytek, który zwano Miejscem Najświętszym.<verse eid="HEB 9:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 9:4" />Posiadało ono złotą kadzielnicę i arkę przymierza całą pokrytą złotem, w której było złote naczynie z manną, laska Aarona, która zakwitła, i tablice przymierza.<verse eid="HEB 9:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 9:5" />Nad arką były cherubiny chwały, które zacieniały przebłagalnię. Nie ma teraz potrzeby szczegółowo o tym wszystkim mówić.<verse eid="HEB 9:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 9:6" />A odkąd zostało to tak urządzone, do pierwszej części przybytku zawsze wchodzą kapłani pełniący służbę Bożą;<verse eid="HEB 9:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 9:7" />Do drugiej zaś raz w roku tylko sam najwyższy kapłan, i to nie bez krwi, którą ofiaruje za siebie i za grzechy niewiedzy ludu.<verse eid="HEB 9:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 9:8" />W ten sposób Duch Święty pokazuje, że jeszcze nie została objawiona droga do Miejsca Najświętszego, dopóki jeszcze stał pierwszy przybytek.<verse eid="HEB 9:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 9:9" />Był on obrazem na tamten czas, a składano w nim dary i ofiary, które nie mogły uczynić doskonałym w sumieniu tego, który pełnił służbę Bożą;<verse eid="HEB 9:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 9:10" />Która polegała tylko na pokarmach, napojach i różnych obmyciach, i przepisach cielesnych nałożonych aż do czasu naprawy.<verse eid="HEB 9:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 9:11" />Lecz Chrystus, gdy przyszedł jako najwyższy kapłan dóbr przyszłych, przez większy i doskonalszy przybytek, nieuczyniony ręką, to jest nienależący do tego budynku;<verse eid="HEB 9:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 9:12" />Ani nie przez krew kozłów i cieląt, ale przez własną krew wszedł raz do Miejsca Najświętszego, zdobywszy wieczne odkupienie.<verse eid="HEB 9:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 9:13" />Jeśli bowiem krew wołów i kozłów oraz popiół z jałówki, którymi skrapia się nieczystych, uświęca aż do oczyszczenia ciała;<verse eid="HEB 9:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 9:14" />To o ileż bardziej krew Chrystusa, który przez Ducha wiecznego ofiarował Bogu samego siebie bez skazy, oczyści wasze sumienie z martwych uczynków, by służyć Bogu żywemu?<verse eid="HEB 9:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 9:15" />I dlatego jest pośrednikiem nowego testamentu, ażeby przez śmierć poniesioną dla odkupienia występków, popełnionych za pierwszego testamentu, ci, którzy zostali powołani, otrzymali obietnicę wiecznego dziedzictwa.<verse eid="HEB 9:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 9:16" />Gdzie bowiem jest testament, tam musi nastąpić śmierć tego, który go sporządził.<verse eid="HEB 9:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="HEB 9:17" />Testament przecież nabiera mocy po śmierci, gdyż nie jest ważny, dopóki żyje ten, kto sporządził testament.<verse eid="HEB 9:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="HEB 9:18" />Dlatego i pierwszy testament nie był zapoczątkowany bez krwi.<verse eid="HEB 9:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="HEB 9:19" />Gdy bowiem Mojżesz ogłosił całemu ludowi każde przykazanie zgodnie z prawem, wziął krew cieląt i kozłów z wodą, wełną szkarłatną i hizopem i pokropił zarówno samą księgę, jak i cały lud;<verse eid="HEB 9:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="HEB 9:20" />Mówiąc: To jest krew przymierza, które Bóg dla was ustanowił.<verse eid="HEB 9:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="HEB 9:21" />Podobnie też pokropił krwią przybytek i wszystkie naczynia przeznaczone do służby Bożej.<verse eid="HEB 9:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="HEB 9:22" />I prawie wszystko jest oczyszczane krwią zgodnie z prawem, a bez przelania krwi nie ma przebaczenia grzechów.<verse eid="HEB 9:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="HEB 9:23" />Było więc konieczne, aby obrazy rzeczy, które są w niebie, były oczyszczone w ten sposób, same zaś rzeczy niebiańskie – lepszymi ofiarami od tamtych.<verse eid="HEB 9:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="HEB 9:24" />Chrystus bowiem wszedł nie do świątyni zbudowanej ręką, która była odbiciem prawdziwej, ale do samego nieba, aby teraz stawać dla nas przed obliczem Boga;<verse eid="HEB 9:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="HEB 9:25" />I nie po to, żeby często ofiarować samego siebie jak najwyższy kapłan, który wchodzi co roku do Miejsca Najświętszego z cudzą krwią;<verse eid="HEB 9:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="HEB 9:26" />Bo inaczej musiałby cierpieć wiele razy od początku świata. Lecz teraz na końcu wieków pojawił się raz dla zgładzenia grzechu przez ofiarowanie samego siebie.<verse eid="HEB 9:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="HEB 9:27" />A jak jest postanowione ludziom raz umrzeć, a potem sąd;<verse eid="HEB 9:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="HEB 9:28" />Tak też Chrystus raz ofiarowany na zgładzenie grzechów wielu, drugi raz ukaże się bez grzechu tym, którzy go oczekują dla zbawienia.<verse eid="HEB 9:28" />
+  </para>
+  <chapter eid="HEB 9" />
+  <chapter number="10" style="c" sid="HEB 10" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 10:1" />Prawo bowiem, zawierając cień przyszłych dóbr, a nie sam obraz rzeczy, nie może nigdy przez te same ofiary, które co roku są nieustannie składane, uczynić doskonałymi tych, którzy przychodzą.<verse eid="HEB 10:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 10:2" />W przeciwnym razie przestano by je składać, dlatego że składający je, raz oczyszczeni, nie mieliby już żadnych grzechów na sumieniu.<verse eid="HEB 10:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 10:3" />A jednak przez te ofiary każdego roku odbywa się przypominanie grzechów.<verse eid="HEB 10:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 10:4" />Niemożliwe jest bowiem, aby krew wołów i kozłów gładziła grzechy.<verse eid="HEB 10:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 10:5" />Dlatego przychodząc na świat, mówi: Ofiary ani daru nie chciałeś, ale przygotowałeś mi ciało.<verse eid="HEB 10:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 10:6" />Całopalenia i ofiary za grzech nie podobały się tobie.<verse eid="HEB 10:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 10:7" />Wtedy powiedziałem: Oto przychodzę – na początku księgi jest napisane o mnie – abym spełniał twoją wolę, o Boże.<verse eid="HEB 10:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 10:8" />Powiedziawszy wyżej: Ofiar, darów, całopaleń i ofiar za grzech nie chciałeś i nie podobały się tobie, choć składa się je zgodnie z prawem;<verse eid="HEB 10:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 10:9" />Następnie powiedział: Oto przychodzę, abym spełniał twoją wolę, o Boże. Znosi pierwsze, aby ustanowić drugie.<verse eid="HEB 10:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 10:10" />Za sprawą tej woli jesteśmy uświęceni przez ofiarę ciała Jezusa Chrystusa raz na zawsze.<verse eid="HEB 10:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 10:11" />A każdy kapłan staje codziennie do wykonywania służby Bożej, wiele razy składając te same ofiary, które nigdy nie mogą zgładzić grzechów.<verse eid="HEB 10:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 10:12" />Lecz ten, gdy złożył jedną ofiarę za grzechy na zawsze, zasiadł po prawicy Boga;<verse eid="HEB 10:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 10:13" />Oczekując odtąd, aż jego nieprzyjaciele będą położeni jako podnóżek pod jego stopy.<verse eid="HEB 10:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 10:14" />Jedną bowiem ofiarą uczynił doskonałymi na zawsze tych, którzy są uświęceni.<verse eid="HEB 10:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 10:15" />A poświadcza nam to także Duch Święty. Bo powiedziawszy najpierw:<verse eid="HEB 10:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 10:16" />Takie jest przymierze, które zawrę z nimi po tych dniach, mówi Pan: Włożę moje prawa w ich serca i wypiszę je na ich umysłach;<verse eid="HEB 10:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="HEB 10:17" />Potem dodaje: A ich grzechów i nieprawości więcej nie wspomnę.<verse eid="HEB 10:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="HEB 10:18" />Gdzie zaś jest ich odpuszczenie, tam nie potrzeba już ofiary za grzech.<verse eid="HEB 10:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="HEB 10:19" />Mając więc, bracia, śmiałość, aby przez krew Jezusa wejść do Najświętszego Miejsca;<verse eid="HEB 10:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="HEB 10:20" />Drogą nową i żywą, którą zapoczątkował dla nas przez zasłonę, to jest przez swoje ciało;<verse eid="HEB 10:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="HEB 10:21" />I mając wielkiego kapłana nad domem Bożym;<verse eid="HEB 10:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="HEB 10:22" />Zbliżmy się ze szczerym sercem, w pełni wiary, mając serca oczyszczone od złego sumienia i ciało obmyte czystą wodą.<verse eid="HEB 10:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="HEB 10:23" />Trzymajmy wyznanie nadziei niechwiejące się, bo wierny jest ten, który obiecał.<verse eid="HEB 10:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="HEB 10:24" />I okazujmy staranie jedni o drugich, by pobudzać się do miłości i dobrych uczynków;<verse eid="HEB 10:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="HEB 10:25" />Nie opuszczając naszego wspólnego zgromadzenia, jak to niektórzy mają w zwyczaju, ale zachęcając się nawzajem, i to tym bardziej, im bardziej widzicie, że zbliża się ten dzień.<verse eid="HEB 10:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="HEB 10:26" />Jeśli bowiem dobrowolnie grzeszymy po otrzymaniu poznania prawdy, to nie pozostaje już ofiara za grzechy;<verse eid="HEB 10:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="HEB 10:27" />Lecz jakieś straszliwe oczekiwanie sądu i żar ognia, który strawić ma przeciwników.<verse eid="HEB 10:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="HEB 10:28" />Kto gardził Prawem Mojżesza, ponosił śmierć bez miłosierdzia na podstawie zeznania dwóch albo trzech świadków.<verse eid="HEB 10:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="HEB 10:29" />Jak wam się wydaje, na ileż surowszą karę zasługuje ten, kto by podeptał Syna Bożego i zbezcześcił krew przymierza, przez którą został uświęcony, i znieważył Ducha łaski?<verse eid="HEB 10:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="HEB 10:30" />Znamy bowiem tego, który powiedział: Zemsta do mnie należy, ja odpłacę, mówi Pan. I znowu: Pan będzie sądzić swój lud.<verse eid="HEB 10:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="HEB 10:31" />Straszna to rzecz wpaść w ręce Boga żywego.<verse eid="HEB 10:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="HEB 10:32" />Przypomnijcie sobie dawne dni, kiedy to po oświeceniu znosiliście wielkie zmagania z cierpieniem;<verse eid="HEB 10:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="HEB 10:33" />Czy to gdy byliście publicznie wystawieni na pośmiewisko i prześladowania, czy też gdy staliście się uczestnikami w cierpieniach tych, z którymi się tak obchodzono.<verse eid="HEB 10:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="HEB 10:34" />Cierpieliście bowiem ze mną w moich więzach i przyjęliście z radością grabież waszego mienia, wiedząc, że macie w sobie lepszą i trwałą majętność w niebie.<verse eid="HEB 10:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="HEB 10:35" />Nie odrzucajcie więc waszej ufności, która ma wielką zapłatę.<verse eid="HEB 10:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="HEB 10:36" />Potrzeba wam bowiem cierpliwości, abyście wypełniając wolę Boga, dostąpili spełnienia obietnicy.<verse eid="HEB 10:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="HEB 10:37" />Bo jeszcze tylko bardzo krótka chwila, a przyjdzie ten, który ma przyjść, i nie będzie zwlekał.<verse eid="HEB 10:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="HEB 10:38" />A sprawiedliwy będzie żył z wiary, lecz jeśli się ktoś cofnie, moja dusza nie będzie miała w nim upodobania.<verse eid="HEB 10:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="HEB 10:39" />My zaś nie jesteśmy z tych, którzy się wycofują ku zatraceniu, ale z tych, którzy wierzą ku zbawieniu duszy.<verse eid="HEB 10:39" />
+  </para>
+  <chapter eid="HEB 10" />
+  <chapter number="11" style="c" sid="HEB 11" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 11:1" />A wiara jest podstawą tego, czego się spodziewamy, i dowodem tego, czego nie widzimy.<verse eid="HEB 11:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 11:2" />Przez nią bowiem przodkowie otrzymali chlubne świadectwo.<verse eid="HEB 11:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 11:3" />Przez wiarę rozumiemy, że światy zostały ukształtowane słowem Boga, tak że to, co widzimy, nie powstało z tego, co widzialne.<verse eid="HEB 11:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 11:4" />Przez wiarę Abel złożył Bogu ofiarę lepszą niż Kain, dzięki czemu otrzymał świadectwo, że jest sprawiedliwy, bo Bóg zaświadczył o jego darach. Przez nią też, choć umarł, jeszcze mówi.<verse eid="HEB 11:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 11:5" />Przez wiarę Henoch został przeniesiony, aby nie oglądał śmierci, i nie znaleziono go, ponieważ Bóg go przeniósł. Zanim bowiem został przeniesiony, miał świadectwo, że podobał się Bogu.<verse eid="HEB 11:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 11:6" />Bez wiary zaś nie można podobać się Bogu, bo ten, kto przychodzi do Boga, musi wierzyć, że on jest i że nagradza tych, którzy go szukają.<verse eid="HEB 11:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 11:7" />Przez wiarę Noe, ostrzeżony przez Boga o tym, czego jeszcze nie widziano, kierowany bojaźnią zbudował arkę, aby ocalić swój dom. Przez nią też potępił świat i stał się dziedzicem sprawiedliwości, która jest z wiary.<verse eid="HEB 11:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 11:8" />Przez wiarę Abraham, gdy został wezwany, aby pójść na miejsce, które miał wziąć w dziedzictwo, usłuchał i wyszedł, nie wiedząc, dokąd idzie.<verse eid="HEB 11:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 11:9" />Przez wiarę przebywał w ziemi obiecanej jak w obcej, mieszkając w namiotach z Izaakiem i Jakubem, współdziedzicami tej samej obietnicy.<verse eid="HEB 11:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 11:10" />Oczekiwał bowiem miasta mającego fundamenty, którego budowniczym i twórcą jest Bóg.<verse eid="HEB 11:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 11:11" />Przez wiarę także sama Sara, mimo podeszłego wieku, otrzymała moc poczęcia potomstwa i urodziła, gdyż za wiernego uznała tego, który obiecał.<verse eid="HEB 11:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 11:12" />Dlatego z jednego człowieka, i to obumarłego, zrodziło się potomstwo tak liczne, jak gwiazdy niebieskie i jak niezliczony piasek na brzegu morza.<verse eid="HEB 11:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 11:13" />Wszyscy oni umarli w wierze, nie otrzymawszy spełnienia obietnic, ale z daleka je ujrzeli, cieszyli się nimi i witali je, i wyznawali, że są obcymi i pielgrzymami na ziemi.<verse eid="HEB 11:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 11:14" />Ci bowiem, którzy tak mówią, wyraźnie okazują, że szukają ojczyzny.<verse eid="HEB 11:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 11:15" />Gdyby przecież wspominali tę, z której wyszli, mieliby sposobność powrócić.<verse eid="HEB 11:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 11:16" />Teraz jednak pragną lepszej, to jest niebiańskiej. Dlatego Bóg nie wstydzi się być nazywany ich Bogiem, bo przygotował dla nich miasto.<verse eid="HEB 11:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="HEB 11:17" />Przez wiarę Abraham, wystawiony na próbę, ofiarował Izaaka. On, który otrzymał obietnicę, złożył w ofierze jednorodzonego syna;<verse eid="HEB 11:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="HEB 11:18" />On, któremu powiedziano: W Izaaku będzie nazwane twoje potomstwo;<verse eid="HEB 11:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="HEB 11:19" />Uważał, że Bóg może nawet wskrzesić z martwych, skąd go też otrzymał na podobieństwo zmartwychwstania.<verse eid="HEB 11:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="HEB 11:20" />Przez wiarę Izaak pobłogosławił Jakuba i Ezawa odnośnie tego, co miało nastąpić.<verse eid="HEB 11:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="HEB 11:21" />Przez wiarę Jakub, umierając, pobłogosławił każdego z synów Józefa i pokłonił się, wsparty o wierzchołek swojej laski.<verse eid="HEB 11:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="HEB 11:22" />Przez wiarę Józef, umierając, wspomniał o wyjściu synów Izraela i wydał polecenie co do swoich kości.<verse eid="HEB 11:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="HEB 11:23" />Przez wiarę Mojżesz po urodzeniu przez trzy miesiące był ukrywany przez swoich rodziców, ponieważ widzieli, że dziecko jest urodziwe, i nie ulękli się rozkazu króla.<verse eid="HEB 11:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="HEB 11:24" />Przez wiarę Mojżesz, gdy dorósł, odmówił nazywania się synem córki faraona;<verse eid="HEB 11:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="HEB 11:25" />Wybierając raczej cierpieć uciski z ludem Bożym, niż mieć doczesną rozkosz z grzechu.<verse eid="HEB 11:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="HEB 11:26" />Uważał zniewagi znoszone dla Chrystusa za większe bogactwo niż skarby Egiptu, bo wypatrywał zapłaty.<verse eid="HEB 11:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="HEB 11:27" />Przez wiarę opuścił Egipt, nie lękając się gniewu króla, bo wytrwał, tak jakby widział Niewidzialnego.<verse eid="HEB 11:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="HEB 11:28" />Przez wiarę obchodził Paschę i pokropienie krwią, aby nie dotknął ich ten, który niszczył pierworodne.<verse eid="HEB 11:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="HEB 11:29" />Przez wiarę przeszli przez Morze Czerwone jak po suchej ziemi, a gdy Egipcjanie próbowali to uczynić, potonęli.<verse eid="HEB 11:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="HEB 11:30" />Przez wiarę upadły mury Jerycha, gdy je okrążano przez siedem dni.<verse eid="HEB 11:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="HEB 11:31" />Przez wiarę nierządnica Rachab nie zginęła razem z niewierzącymi, gdyż w pokoju przyjęła szpiegów.<verse eid="HEB 11:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="HEB 11:32" />I co jeszcze mam powiedzieć? Nie wystarczyłoby mi bowiem czasu, gdybym miał opowiadać o Gedeonie, Baraku, Samsonie, Jeftem, Dawidzie, Samuelu i o prorokach;<verse eid="HEB 11:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="HEB 11:33" />Którzy przez wiarę pokonali królestwa, czynili sprawiedliwość, dostąpili spełnienia obietnic, zamknęli paszcze lwom;<verse eid="HEB 11:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="HEB 11:34" />Zgasili moc ognia, uniknęli ostrza miecza, umocnieni powstawali z niemocy, stali się dzielni na wojnie, zmusili do ucieczki obce wojska.<verse eid="HEB 11:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="HEB 11:35" />Kobiety odzyskały swoich zmarłych przez wskrzeszenie. Inni zaś byli torturowani, nie przyjąwszy uwolnienia, aby dostąpić lepszego zmartwychwstania.<verse eid="HEB 11:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="HEB 11:36" />Jeszcze inni doświadczyli szyderstw i biczowania, ponadto kajdan i więzienia.<verse eid="HEB 11:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="HEB 11:37" />Byli kamienowani, przerzynani piłą, doświadczani, zabijani mieczem, tułali się w owczych i kozich skórach, cierpieli niedostatek, ucisk, utrapienie;<verse eid="HEB 11:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="HEB 11:38" />(Których świat nie był godny). Błąkali się po pustyniach i górach, po jaskiniach i rozpadlinach ziemi.<verse eid="HEB 11:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="HEB 11:39" />A ci wszyscy, choć zyskali chlubne świadectwo dzięki wierze, nie dostąpili spełnienia obietnicy;<verse eid="HEB 11:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="HEB 11:40" />Ponieważ Bóg przewidział dla nas coś lepszego, aby oni nie stali się doskonali bez nas.<verse eid="HEB 11:40" />
+  </para>
+  <chapter eid="HEB 11" />
+  <chapter number="12" style="c" sid="HEB 12" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 12:1" />Skoro i my mamy wokół siebie tak wielką chmurę świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas tak łatwo osacza, w cierpliwości biegnijmy w wyznaczonym nam wyścigu;<verse eid="HEB 12:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 12:2" />Patrząc na Jezusa, twórcę i dokończyciela wiary, który z powodu przygotowanej mu radości wycierpiał krzyż, nie zważając na hańbę, i zasiadł po prawicy tronu Boga.<verse eid="HEB 12:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 12:3" />Pomyślcie więc o tym, który zniósł tak wielki sprzeciw wobec siebie ze strony grzeszników, abyście nie zniechęcali się w waszych umysłach i nie ustawali.<verse eid="HEB 12:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 12:4" />Jeszcze nie stawialiście oporu aż do krwi, walcząc przeciwko grzechowi;<verse eid="HEB 12:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 12:5" />I zapomnieliście o napomnieniu, które jest kierowane do was jako synów: Mój synu, nie lekceważ karania Pana i nie zniechęcaj się, gdy on cię napomina.<verse eid="HEB 12:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 12:6" />Kogo bowiem Pan miłuje, tego karze, a chłoszcze każdego, którego za syna przyjmuje.<verse eid="HEB 12:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 12:7" />Jeśli znosicie karanie, Bóg obchodzi się z wami jak z synami. Jaki to bowiem syn, którego ojciec nie karze?<verse eid="HEB 12:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 12:8" />A jeśli jesteście bez karania, którego wszyscy są uczestnikami, wtedy jesteście bękartami, a nie synami.<verse eid="HEB 12:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 12:9" />Poza tym nasi cieleśni ojcowie nas karali, a szanowaliśmy ich. Czyż nie tym bardziej powinniśmy poddać się Ojcu duchów, abyśmy żyli?<verse eid="HEB 12:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 12:10" />Tamci bowiem karali nas przez krótki czas według swego uznania. Ten zaś czyni to dla naszego dobra, abyśmy byli uczestnikami jego świętości.<verse eid="HEB 12:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 12:11" />A żadne karanie w danej chwili nie wydaje się radosne, ale smutne. Potem jednak przynosi błogi owoc sprawiedliwości tym, którzy przez nie byli ćwiczeni.<verse eid="HEB 12:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 12:12" />Dlatego wyprostujcie opadłe ręce i omdlałe kolana.<verse eid="HEB 12:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 12:13" />Prostujcie ścieżki dla waszych stóp, aby to, co chrome, nie zeszło z drogi, ale raczej zostało uzdrowione.<verse eid="HEB 12:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 12:14" />Dążcie do pokoju ze wszystkimi i do świętości, bez której nikt nie ujrzy Pana.<verse eid="HEB 12:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 12:15" />Uważajcie, żeby nikt nie pozbawił się łaski Boga, żeby jakiś korzeń goryczy, wyrastając, nie wyrządził szkody i aby przez niego nie skalało się wielu;<verse eid="HEB 12:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 12:16" />Żeby nie było żadnego rozpustnika lub bezbożnika jak Ezaw, który za jedną potrawę sprzedał swoje pierworództwo.<verse eid="HEB 12:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="HEB 12:17" />Wiecie przecież, że potem, gdy chciał odziedziczyć błogosławieństwo, został odrzucony. Nie znalazł bowiem miejsca na pokutę, choć ze łzami jej szukał.<verse eid="HEB 12:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="HEB 12:18" />Bo nie podeszliście do góry, która da się dotknąć i płonącej ogniem, do mroku, ciemności i burzy;<verse eid="HEB 12:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="HEB 12:19" />Ani do dźwięku trąby i takiego głosu słów, że ci, którzy go słyszeli, prosili, aby już do nich nie mówiono;<verse eid="HEB 12:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="HEB 12:20" />(Nie mogli bowiem znieść tego rozkazu: Gdyby nawet zwierzę dotknęło góry, będzie ukamienowane lub przebite strzałą.<verse eid="HEB 12:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="HEB 12:21" />A tak straszne było to zjawisko, że Mojżesz powiedział: Jestem przerażony i drżę;)<verse eid="HEB 12:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="HEB 12:22" />Lecz podeszliście do góry Syjon i do miasta Boga żywego, do niebiańskiego Jeruzalem i do niezliczonej rzeszy aniołów;<verse eid="HEB 12:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="HEB 12:23" />Na powszechne zebranie, do zgromadzenia pierworodnych, którzy są zapisani w niebie, do Boga, sędziego wszystkich, do duchów sprawiedliwych uczynionych doskonałymi;<verse eid="HEB 12:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="HEB 12:24" />I do pośrednika nowego przymierza, Jezusa, do krwi, którą się kropi, a która mówi lepsze rzeczy niż krew Abla.<verse eid="HEB 12:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="HEB 12:25" />Uważajcie, abyście nie odtrącili tego, który przemawia. Jeśli bowiem tamci nie uniknęli kary, odtrąciwszy tego, który na ziemi mówił, tym bardziej my, jeśli odwrócimy się od tego, który przemawia z nieba;<verse eid="HEB 12:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="HEB 12:26" />Którego głos wstrząsnął wówczas ziemią, a teraz obiecuje, mówiąc: Jeszcze raz wstrząsnę nie tylko ziemią, ale i niebem.<verse eid="HEB 12:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="HEB 12:27" />A słowa „jeszcze raz” ukazują usunięcie tego, co się chwieje, jako tego, co stworzone, aby pozostało to, co się nie chwieje.<verse eid="HEB 12:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="HEB 12:28" />Dlatego otrzymując królestwo niezachwiane, miejmy łaskę, przez którą możemy służyć Bogu tak, jak mu się to podoba, z czcią i bojaźnią.<verse eid="HEB 12:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="HEB 12:29" />Nasz Bóg bowiem jest ogniem trawiącym.<verse eid="HEB 12:29" />
+  </para>
+  <chapter eid="HEB 12" />
+  <chapter number="13" style="c" sid="HEB 13" />
+  <para style="m">
+    <verse number="1" style="v" sid="HEB 13:1" />Niech trwa braterska miłość.<verse eid="HEB 13:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="HEB 13:2" />Nie zapominajcie o gościnności, gdyż przez nią niektórzy, nie wiedząc, aniołów gościli.<verse eid="HEB 13:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="HEB 13:3" />Pamiętajcie o więźniach, jakbyście byli razem z nimi więzieni, o uciskanych, jako ci, którzy też jesteście w ciele.<verse eid="HEB 13:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="HEB 13:4" />Małżeństwo jest godne czci u wszystkich i łoże nieskalane. Rozpustników zaś i cudzołożników osądzi Bóg.<verse eid="HEB 13:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="HEB 13:5" />Wasze postępowanie niech będzie wolne od chciwości, poprzestawajcie na tym, co macie. Sam bowiem powiedział: Nie porzucę cię ani nie opuszczę.<verse eid="HEB 13:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 13:6" />Śmiało więc możemy mówić: Pan jest moim pomocnikiem, nie będę się lękał tego, co może mi uczynić człowiek.<verse eid="HEB 13:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="HEB 13:7" />Pamiętajcie o swoich przywódcach, którzy głosili wam słowo Boże, i rozważając koniec ich życia, naśladujcie ich wiarę.<verse eid="HEB 13:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="HEB 13:8" />Jezus Chrystus wczoraj i dziś, ten sam i na wieki.<verse eid="HEB 13:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="HEB 13:9" />Nie dajcie się zwieść rozmaitym i obcym naukom. Dobrze jest bowiem umacniać serce łaską, a nie pokarmami, co nie przyniosły pożytku tym, którzy się nimi zajmowali.<verse eid="HEB 13:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 13:10" />Mamy ołtarz, z którego nie mają prawa spożywać ci, którzy służą przybytkowi.<verse eid="HEB 13:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="HEB 13:11" />Ciała bowiem tych zwierząt, których krew najwyższy kapłan wnosi do Najświętszego Miejsca za grzech, są spalane za obozem.<verse eid="HEB 13:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="HEB 13:12" />Dlatego i Jezus, aby uświęcić lud własną krwią, cierpiał poza bramą.<verse eid="HEB 13:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 13:13" />Wyjdźmy więc do niego poza obóz, biorąc na siebie jego pohańbienie.<verse eid="HEB 13:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="HEB 13:14" />Nie mamy tu bowiem miasta trwałego, lecz tego przyszłego szukamy.<verse eid="HEB 13:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="HEB 13:15" />Przez niego więc nieustannie składajmy Bogu ofiarę chwały, to jest owoc warg, które wyznają jego imię.<verse eid="HEB 13:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="HEB 13:16" />Nie zapominajcie też o dobroczynności i udzieleniu dóbr, takie bowiem ofiary podobają się Bogu.<verse eid="HEB 13:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="HEB 13:17" />Bądźcie posłuszni waszym przywódcom i bądźcie im ulegli, ponieważ oni czuwają nad waszymi duszami jako ci, którzy muszą zdać z tego sprawę. Niech to czynią z radością, a nie ze wzdychaniem, bo to nie byłoby dla was korzystne.<verse eid="HEB 13:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="HEB 13:18" />Módlcie się za nas. Ufamy bowiem, że mamy czyste sumienie, gdyż chcemy we wszystkim dobrze postępować.<verse eid="HEB 13:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="HEB 13:19" />A tym bardziej proszę was, abyście to czynili, abym jak najszybciej został wam przywrócony.<verse eid="HEB 13:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="HEB 13:20" />A Bóg pokoju, który przez krew wiecznego przymierza wyprowadził spośród umarłych wielkiego pasterza owiec, naszego Pana Jezusa;<verse eid="HEB 13:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="HEB 13:21" />Niech was uczyni doskonałymi w każdym dobrym uczynku, abyście spełniali jego wolę, dokonując w was tego, co miłe w jego oczach, przez Jezusa Chrystusa, któremu chwała na wieki wieków. Amen.<verse eid="HEB 13:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="HEB 13:22" />A proszę was, bracia, przyjmijcie to słowo zachęty, bo krótki list do was napisałem.<verse eid="HEB 13:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="HEB 13:23" />Wiedzcie, że brat Tymoteusz został uwolniony. Jeśli niedługo przybędzie, wraz z nim was zobaczę.<verse eid="HEB 13:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="HEB 13:24" />Pozdrówcie wszystkich waszych przywódców i wszystkich świętych. Pozdrawiają was bracia, którzy są z Italii.<verse eid="HEB 13:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="HEB 13:25" />Łaska niech będzie z wami wszystkimi. Amen.<verse eid="HEB 13:25" />
+  </para>
+  <chapter eid="HEB 13" />
+</usx>

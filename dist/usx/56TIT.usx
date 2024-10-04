@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="TIT" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Tytusa</para>
+  <para style="toc1">List do Tytusa</para>
+  <para style="toc2">Tytusa</para>
+  <para style="toc3">Tt</para>
+  <para style="mt1">List do Tytusa</para>
+  <chapter number="1" style="c" sid="TIT 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="TIT 1:1" />Paweł, sługa Boga i apostoł Jezusa Chrystusa według wiary wybranych Bożych i poznania prawdy, która jest zgodna z pobożnością;<verse eid="TIT 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="TIT 1:2" />W nadziei życia wiecznego, które obiecał przed dawnymi wiekami ten, który nie kłamie, Bóg;<verse eid="TIT 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="TIT 1:3" />I we właściwym czasie objawił swoje słowo przez głoszenie, które zostało mi powierzone zgodnie z nakazem Boga, naszego Zbawiciela;<verse eid="TIT 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="TIT 1:4" />Do Tytusa, mego własnego syna we wspólnej wierze. Łaska, miłosierdzie i pokój od Boga Ojca i Pana Jezusa Chrystusa, naszego Zbawiciela.<verse eid="TIT 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="TIT 1:5" />Zostawiłem cię na Krecie w tym celu, abyś uporządkował to, co tam jeszcze zostało do zrobienia, i ustanowił w każdym mieście starszych, jak ci nakazałem;<verse eid="TIT 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="TIT 1:6" />Jeśli ktoś jest nienaganny, mąż jednej żony, mający dzieci wierne, nieobwiniane o hulaszcze życie lub niekarność.<verse eid="TIT 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="TIT 1:7" />Biskup bowiem, jako szafarz Boży, ma być nienaganny, niesamowolny, nieskory do gniewu, nieoddający się piciu wina, nieskłonny do bicia, niegoniący za brudnym zyskiem;<verse eid="TIT 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="TIT 1:8" />Lecz gościnny, miłujący dobro, roztropny, sprawiedliwy, święty, powściągliwy;<verse eid="TIT 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="TIT 1:9" />Trzymający się wiernego słowa, zgodnego z nauką, aby też mógł przez zdrową naukę napominać i przekonywać tych, którzy się sprzeciwiają.<verse eid="TIT 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="TIT 1:10" />Jest bowiem wielu niekarnych, oddających się czczej gadaninie i zwodzicieli, zwłaszcza wśród obrzezanych.<verse eid="TIT 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="TIT 1:11" />Im trzeba zamknąć usta, gdyż całe domy wywracają, nauczając, czego nie należy, dla brudnego zysku.<verse eid="TIT 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="TIT 1:12" />Jeden z nich, ich własny prorok, powiedział: Kreteńczycy to zawsze kłamcy, złe bestie, brzuchy leniwe.<verse eid="TIT 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="TIT 1:13" />Świadectwo to jest prawdziwe. Dlatego karć ich surowo, aby byli zdrowi w wierze;<verse eid="TIT 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="TIT 1:14" />I nie zajmowali się żydowskimi baśniami i przykazaniami ludzi odwracających się od prawdy.<verse eid="TIT 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="TIT 1:15" />Dla czystych wszystko jest czyste, natomiast dla skalanych i niewierzących nie ma nic czystego, lecz skalany jest zarówno ich umysł, jak i sumienie.<verse eid="TIT 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="TIT 1:16" />Twierdzą, że znają Boga, ale swymi uczynkami temu przeczą, budząc obrzydzenie, będąc nieposłusznymi i niezdolnymi do wszelkiego dobrego uczynku.<verse eid="TIT 1:16" />
+  </para>
+  <chapter eid="TIT 1" />
+  <chapter number="2" style="c" sid="TIT 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="TIT 2:1" />Ty zaś mów to, co jest zgodne ze zdrową nauką.<verse eid="TIT 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="TIT 2:2" />Starsi mężczyźni niech będą trzeźwi, poważni, roztropni, zdrowi w wierze, w miłości, w cierpliwości.<verse eid="TIT 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="TIT 2:3" />Podobnie starsze kobiety niech zachowują się w sposób godny świętych, niech nie oczerniają, nie nadużywają wina, uczą tego, co dobre.<verse eid="TIT 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="TIT 2:4" />Niech uczą młodsze kobiety rozsądku, jak mają kochać swoich mężów i dzieci;<verse eid="TIT 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="TIT 2:5" />Żeby były roztropne, czyste, żeby zajmowały się domem, były dobre, posłuszne swoim mężom, aby nie bluźniono słowu Bożemu.<verse eid="TIT 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="TIT 2:6" />Młodzieńców także napominaj, aby byli trzeźwi.<verse eid="TIT 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="TIT 2:7" />We wszystkim stawiaj samego siebie za wzór dobrych uczynków. W nauczaniu okazuj prawość, powagę;<verse eid="TIT 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="TIT 2:8" />Słowa zdrowe, nienaganne, aby ten, kto się sprzeciwia, był zawstydzony, nie mając o was nic złego do powiedzenia.<verse eid="TIT 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="TIT 2:9" />Sługi nauczaj, aby byli poddani swoim panom i we wszystkim się im podobali, nie sprzeciwiając się;<verse eid="TIT 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="TIT 2:10" />Niczego sobie nie przywłaszczając, ale we wszystkim okazując doskonałą wierność, aby we wszystkim zdobili naukę Boga, naszego Zbawiciela.<verse eid="TIT 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="TIT 2:11" />Objawiła się bowiem łaska Boga, niosąca zbawienie wszystkim ludziom;<verse eid="TIT 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="TIT 2:12" />Pouczająca nas, abyśmy wyrzekłszy się bezbożności i światowych pożądliwości, trzeźwo, sprawiedliwie i pobożnie żyli na tym świecie;<verse eid="TIT 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="TIT 2:13" />Oczekując błogosławionej nadziei i chwalebnego objawienia się wielkiego Boga i Zbawiciela naszego, Jezusa Chrystusa;<verse eid="TIT 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="TIT 2:14" />Który wydał samego siebie za nas, aby nas wykupić od wszelkiej nieprawości i oczyścić sobie lud na własność, gorliwy w spełnianiu dobrych uczynków.<verse eid="TIT 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="TIT 2:15" />To mów, do tego zachęcaj i strofuj z całą powagą; niech nikt tobą nie gardzi.<verse eid="TIT 2:15" />
+  </para>
+  <chapter eid="TIT 2" />
+  <chapter number="3" style="c" sid="TIT 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="TIT 3:1" />Przypominaj im, aby zwierzchnościom i władzom byli poddani i posłuszni, gotowi do każdego dobrego uczynku;<verse eid="TIT 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="TIT 3:2" />Nikomu nie ubliżali, nie byli kłótliwi, ale uprzejmi, okazujący wszelką łagodność wobec wszystkich ludzi.<verse eid="TIT 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="TIT 3:3" />Niegdyś bowiem i my byliśmy głupi, oporni, błądzący, służący rozmaitym pożądliwościom i rozkoszom, żyjący w złośliwości i zazdrości, znienawidzeni i nienawidzący jedni drugich.<verse eid="TIT 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="TIT 3:4" />Lecz gdy się objawiła dobroć i miłość Boga, naszego Zbawiciela, względem ludzi;<verse eid="TIT 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="TIT 3:5" />Nie z uczynków sprawiedliwości, które my spełniliśmy, ale według swego miłosierdzia zbawił nas przez obmycie odrodzenia i odnowienie Ducha Świętego;<verse eid="TIT 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="TIT 3:6" />Którego wylał na nas obficie przez Jezusa Chrystusa, naszego Zbawiciela;<verse eid="TIT 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="TIT 3:7" />Abyśmy, usprawiedliwieni jego łaską, stali się dziedzicami zgodnie z nadzieją życia wiecznego.<verse eid="TIT 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="TIT 3:8" />Wiarygodne to słowo i chcę, abyś o tym zapewniał, żeby ci, którzy uwierzyli Bogu, zabiegali o celowanie w dobrych uczynkach. Jest to dobre i pożyteczne dla ludzi.<verse eid="TIT 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="TIT 3:9" />Unikaj zaś głupich dociekań, rodowodów, sporów i kłótni o prawo; są bowiem nieużyteczne i próżne.<verse eid="TIT 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="TIT 3:10" />Heretyka po pierwszym i drugim upomnieniu unikaj;<verse eid="TIT 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="TIT 3:11" />Wiedząc, że taki człowiek jest przewrotny i grzeszy, i sam siebie osądza.<verse eid="TIT 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="TIT 3:12" />Gdy poślę do ciebie Artemasa lub Tychika, staraj się przybyć do mnie do Nikopolis, bo tam postanowiłem spędzić zimę.<verse eid="TIT 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="TIT 3:13" />Zenasa, uczonego w prawie, i Apollosa starannie wypraw, aby im niczego nie brakowało.<verse eid="TIT 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="TIT 3:14" />A niech i nasi uczą się przodować w dobrych uczynkach, gdzie tego potrzeba, żeby nie byli bezowocni.<verse eid="TIT 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="TIT 3:15" />Pozdrawiają cię wszyscy, którzy są ze mną. Pozdrów tych, którzy nas miłują w wierze. Łaska niech będzie z wami wszystkimi. Amen.<verse eid="TIT 3:15" />
+  </para>
+  <chapter eid="TIT 3" />
+</usx>

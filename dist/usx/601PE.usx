@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="1PE" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">I Piotra</para>
+  <para style="toc1">I List Piotra</para>
+  <para style="toc2">I Piotra</para>
+  <para style="toc3">1P</para>
+  <para style="mt1">I List Piotra</para>
+  <chapter number="1" style="c" sid="1PE 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="1PE 1:1" />Piotr, apostoł Jezusa Chrystusa, do wychodźców rozproszonych w Poncie, Galacji, Kapadocji, Azji i Bitynii;<verse eid="1PE 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1PE 1:2" />Wybranych według uprzedniej wiedzy Boga Ojca, przez uświęcenie Ducha dla posłuszeństwa i pokropienia krwią Jezusa Chrystusa. Łaska i pokój niech się wam pomnożą.<verse eid="1PE 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1PE 1:3" />Błogosławiony niech będzie Bóg i Ojciec naszego Pana Jezusa Chrystusa, który według swego wielkiego miłosierdzia zrodził nas na nowo do żywej nadziei przez wskrzeszenie Jezusa Chrystusa z martwych;<verse eid="1PE 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1PE 1:4" />Do dziedzictwa niezniszczalnego i nieskalanego, i niewiędnącego, zachowanego w niebie dla was;<verse eid="1PE 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1PE 1:5" />Którzy jesteście strzeżeni mocą Boga przez wiarę ku zbawieniu, przygotowanemu do objawienia się w czasie ostatecznym.<verse eid="1PE 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1PE 1:6" />Z tego się radujecie, choć teraz na krótko, jeśli trzeba, zasmuceni jesteście z powodu rozmaitych prób;<verse eid="1PE 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1PE 1:7" />Aby doświadczenie waszej wiary, o wiele cenniejszej od zniszczalnego złota, które jednak próbuje się w ogniu, okazało się ku chwale, czci i sławie przy objawieniu Jezusa Chrystusa;<verse eid="1PE 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1PE 1:8" />A choć go nie widzieliście, miłujecie; i w niego, choć teraz go nie widzicie, wierzycie; i cieszycie się radością niewysłowioną i pełną chwały;<verse eid="1PE 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1PE 1:9" />Otrzymując koniec waszej wiary – zbawienie dusz.<verse eid="1PE 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1PE 1:10" />O to zbawienie wywiadywali się i badali je prorocy, którzy prorokowali o przeznaczonej dla was łasce.<verse eid="1PE 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1PE 1:11" />Badali oni, na jaką i jakiego rodzaju porę wskazywał Duch Chrystusa, który był w nich, przepowiadając cierpienia, które miały przyjść na Chrystusa i mającą potem nastąpić chwałę.<verse eid="1PE 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1PE 1:12" />Zostało im objawione, że nie im samym, lecz nam służyły sprawy wam teraz zwiastowane przez tych, którzy wam głosili ewangelię przez Ducha Świętego zesłanego z nieba. W te sprawy pragną wejrzeć aniołowie.<verse eid="1PE 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1PE 1:13" />Dlatego przepaszcie biodra waszego umysłu i bądźcie trzeźwi, pokładając doskonałą nadzieję w łasce, która będzie wam dana przy objawieniu Jezusa Chrystusa.<verse eid="1PE 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1PE 1:14" />Jak posłuszne dzieci nie ulegajcie pożądliwościom, jakie władały wami wcześniej, w czasie waszej nieświadomości;<verse eid="1PE 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1PE 1:15" />Lecz jak ten, który was powołał, jest święty, tak i wy bądźcie świętymi we wszelkim waszym postępowaniu;<verse eid="1PE 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1PE 1:16" />Gdyż jest napisane: Świętymi bądźcie, bo ja jestem święty.<verse eid="1PE 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1PE 1:17" />A jeżeli Ojcem nazywacie tego, który bez względu na osobę sądzi każdego według uczynków, spędzajcie czas waszego pielgrzymowania w bojaźni;<verse eid="1PE 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1PE 1:18" />Wiedząc, że nie tym, co zniszczalne, srebrem lub złotem, zostaliście wykupieni z waszego marnego postępowania przekazanego przez ojców;<verse eid="1PE 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1PE 1:19" />Lecz drogą krwią Chrystusa jako baranka niewinnego i nieskalanego;<verse eid="1PE 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1PE 1:20" />Przeznaczonego do tego przed założeniem świata, a objawionego w czasach ostatecznych ze względu na was.<verse eid="1PE 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1PE 1:21" />Wy przez niego uwierzyliście w Boga, który go wskrzesił z martwych i dał mu chwałę, aby wasza wiara i nadzieja były w Bogu.<verse eid="1PE 1:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1PE 1:22" />Skoro oczyściliście swoje dusze, będąc posłuszni prawdzie przez Ducha ku nieobłudnej braterskiej miłości, czystym sercem jedni drugich gorąco miłujcie;<verse eid="1PE 1:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1PE 1:23" />Będąc odrodzeni nie z nasienia zniszczalnego, ale z niezniszczalnego, przez słowo Boże, które jest żywe i trwa na wieki.<verse eid="1PE 1:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1PE 1:24" />Gdyż wszelkie ciało jest jak trawa, a wszelka chwała człowieka jak kwiat trawy. Trawa uschła, a jej kwiat opadł;<verse eid="1PE 1:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1PE 1:25" />Lecz słowo Pana trwa na wieki. A jest to słowo, które zostało wam zwiastowane.<verse eid="1PE 1:25" />
+  </para>
+  <chapter eid="1PE 1" />
+  <chapter number="2" style="c" sid="1PE 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="1PE 2:1" />Odrzucając więc wszelką złośliwość, wszelki podstęp i obłudę, zazdrość i wszelkie obmowy;<verse eid="1PE 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1PE 2:2" />Jak nowo narodzone niemowlęta pragnijcie czystego mleka słowa Bożego, abyście dzięki niemu rośli;<verse eid="1PE 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1PE 2:3" />Jeśli tylko zakosztowaliście, że Pan jest dobry.<verse eid="1PE 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1PE 2:4" />Zbliżając się do niego, do kamienia żywego, odrzuconego wprawdzie przez ludzi, ale przez Boga wybranego i drogocennego;<verse eid="1PE 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1PE 2:5" />I wy sami, jak żywe kamienie, jesteście budowani w duchowy dom, stanowicie święte kapłaństwo, aby składać duchowe ofiary, przyjemne Bogu przez Jezusa Chrystusa.<verse eid="1PE 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1PE 2:6" />Dlatego mówi Pismo: Oto kładę na Syjonie kamień węgielny, wybrany, drogocenny, a kto w niego wierzy, nie będzie zawstydzony.<verse eid="1PE 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1PE 2:7" />Dla was więc, którzy wierzycie, jest on cenny, dla nieposłusznych zaś ten kamień, który odrzucili budujący, stał się kamieniem węgielnym;<verse eid="1PE 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1PE 2:8" />Kamieniem potknięcia i skałą zgorszenia dla tych, którzy nie wierząc, potykają się o słowo, na co też są przeznaczeni.<verse eid="1PE 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1PE 2:9" />Lecz wy jesteście rodem wybranym, królewskim kapłaństwem, narodem świętym, ludem nabytym, abyście rozgłaszali cnoty tego, który was powołał z ciemności do swej cudownej światłości;<verse eid="1PE 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1PE 2:10" />Wy, którzy kiedyś nie byliście ludem, teraz jesteście ludem Bożym, wy, którzy kiedyś nie dostąpiliście miłosierdzia, teraz miłosierdzia dostąpiliście.<verse eid="1PE 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1PE 2:11" />Umiłowani, proszę was, abyście jak obcy i goście powstrzymywali się od cielesnych pożądliwości, które walczą przeciwko duszy.<verse eid="1PE 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1PE 2:12" />Postępujcie wśród pogan nienagannie, aby ci, którzy oczerniają was jako złoczyńców, przypatrując się waszym dobrym uczynkom, chwalili Boga w dniu nawiedzenia.<verse eid="1PE 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1PE 2:13" />Bądźcie więc poddani każdej ludzkiej władzy ze względu na Pana: czy to królowi jako najwyżej postawionemu;<verse eid="1PE 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1PE 2:14" />Czy to namiestnikom jako przez niego posłanym dla karania złoczyńców i udzielania pochwały tym, którzy dobrze czynią.<verse eid="1PE 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1PE 2:15" />Taka bowiem jest wola Boga, abyście dobrze czyniąc, zamknęli usta niewiedzy głupich ludzi;<verse eid="1PE 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1PE 2:16" />Jak ludzie wolni, ale nie jak ci, którzy używają wolności jako zasłony dla zła, lecz jak słudzy Boga.<verse eid="1PE 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1PE 2:17" />Wszystkich szanujcie, braci miłujcie, Boga się bójcie, króla czcijcie.<verse eid="1PE 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1PE 2:18" />Słudzy, z całą bojaźnią bądźcie poddani panom, nie tylko dobrym i łagodnym, ale też przykrym.<verse eid="1PE 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1PE 2:19" />To bowiem podoba się Bogu, jeśli ktoś znosi smutki ze względu na sumienie wobec Boga, cierpiąc niewinnie.<verse eid="1PE 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1PE 2:20" />Bo cóż to za chwała, jeśli grzesząc, cierpliwie znosicie, choćby was i pięściami bito? Lecz jeśli dobrze czynicie i znosicie cierpienia, to podoba się Bogu.<verse eid="1PE 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1PE 2:21" />Do tego bowiem jesteście powołani, bo i Chrystus cierpiał za nas, zostawiając nam przykład, abyście szli w jego ślady;<verse eid="1PE 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1PE 2:22" />Który grzechu nie popełnił, a w jego ustach nie znaleziono podstępu;<verse eid="1PE 2:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1PE 2:23" />Który, gdy mu złorzeczono, nie odpowiadał złorzeczeniem, gdy cierpiał, nie groził, ale powierzył sprawę temu, który sądzi sprawiedliwie.<verse eid="1PE 2:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1PE 2:24" />On nasze grzechy na swoim ciele poniósł na drzewo, abyśmy obumarłszy grzechom, żyli dla sprawiedliwości; przez jego rany zostaliście uzdrowieni.<verse eid="1PE 2:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1PE 2:25" />Byliście bowiem jak zbłąkane owce, lecz teraz nawróciliście się do Pasterza i Biskupa waszych dusz.<verse eid="1PE 2:25" />
+  </para>
+  <chapter eid="1PE 2" />
+  <chapter number="3" style="c" sid="1PE 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="1PE 3:1" />Podobnie żony, bądźcie poddane swoim mężom, aby nawet ci, którzy nie wierzą słowu, przez postępowanie żon zostali pozyskani bez słowa;<verse eid="1PE 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1PE 3:2" />Widząc wasze czyste, pełne bojaźni postępowanie.<verse eid="1PE 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1PE 3:3" />Niech waszą ozdobą nie będzie to, co zewnętrzne: zaplatanie włosów, obłożenie się złotem lub strojenie w szaty;<verse eid="1PE 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1PE 3:4" />Lecz ukryty, wewnętrzny człowiek w niezniszczalnej ozdobie łagodności i spokoju ducha, który jest cenny w oczach Boga.<verse eid="1PE 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1PE 3:5" />Tak bowiem niegdyś przyozdabiały się święte kobiety, pokładające nadzieję w Bogu, będąc poddane swoim mężom.<verse eid="1PE 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1PE 3:6" />Tak też Sara była posłuszna Abrahamowi, nazywając go panem. Jej córkami jesteście wy, jeśli tylko dobrze czynicie i nie dajecie się niczym zastraszyć.<verse eid="1PE 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1PE 3:7" />Podobnie wy, mężowie, żyjcie z nimi umiejętnie, okazując im szacunek jako słabszemu naczyniu kobiecemu i jako tym, które współdziedziczą łaskę życia, aby wasze modlitwy nie doznały przeszkód.<verse eid="1PE 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1PE 3:8" />Na koniec zaś wszyscy bądźcie jednomyślni, współczujący, miłujący braci, miłosierni i uprzejmi.<verse eid="1PE 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1PE 3:9" />Nie oddawajcie złem za zło ani obelgą za obelgę. Przeciwnie, błogosławcie, gdyż wiecie, że do tego zostaliście powołani, abyście odziedziczyli błogosławieństwo.<verse eid="1PE 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1PE 3:10" />Kto bowiem chce miłować życie i oglądać dni dobre, niech powstrzyma język od zła, a usta od podstępnej mowy.<verse eid="1PE 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1PE 3:11" />Niech odwróci się od zła i czyni dobro, niech szuka pokoju i dąży do niego.<verse eid="1PE 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1PE 3:12" />Oczy Pana bowiem zwrócone są na sprawiedliwych, a jego uszy ku ich prośbom, lecz oblicze Pana przeciwko tym, którzy źle czynią.<verse eid="1PE 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1PE 3:13" />Kto wyrządzi wam zło, jeśli będziecie naśladowcami dobra?<verse eid="1PE 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1PE 3:14" />Ale jeśli nawet cierpicie dla sprawiedliwości, błogosławieni jesteście. Nie bójcie się ich gróźb ani się nie lękajcie.<verse eid="1PE 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1PE 3:15" />Lecz Pana Boga uświęcajcie w waszych sercach i bądźcie zawsze gotowi udzielić odpowiedzi każdemu, kto domaga się od was uzasadnienia waszej nadziei, z łagodnością i bojaźnią.<verse eid="1PE 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1PE 3:16" />Miejcie czyste sumienie, aby za to, że mówią o was źle, jak o złoczyńcach, zostali zawstydzeni ci, którzy zniesławiają wasze dobre postępowanie w Chrystusie.<verse eid="1PE 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1PE 3:17" />Lepiej bowiem – jeśli taka jest wola Boga – cierpieć, czyniąc dobrze, aniżeli czyniąc źle.<verse eid="1PE 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1PE 3:18" />Gdyż i Chrystus raz za grzechy cierpiał, sprawiedliwy za niesprawiedliwych, aby nas przyprowadzić do Boga; uśmiercony w ciele, lecz ożywiony Duchem;<verse eid="1PE 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1PE 3:19" />W którym poszedł i głosił też duchom będącym w więzieniu;<verse eid="1PE 3:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1PE 3:20" />Niegdyś nieposłusznym, gdy za dni Noego raz oczekiwała Boża cierpliwość, kiedy budowano arkę, w której niewiele, to jest osiem dusz, zostało uratowanych przez wodę.<verse eid="1PE 3:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1PE 3:21" />Teraz też chrzest, będąc tego odbiciem, zbawia nas – nie jest usunięciem cielesnego brudu, ale odpowiedzią czystego sumienia wobec Boga – przez zmartwychwstanie Jezusa Chrystusa;<verse eid="1PE 3:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1PE 3:22" />Który, poszedłszy do nieba, jest po prawicy Boga, a zostali mu poddani aniołowie, zwierzchności i moce.<verse eid="1PE 3:22" />
+  </para>
+  <chapter eid="1PE 3" />
+  <chapter number="4" style="c" sid="1PE 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="1PE 4:1" />Skoro więc Chrystus cierpiał za nas w ciele, wy również uzbrójcie się tą samą myślą, że ten, kto cierpiał w ciele, zaprzestał grzechu;<verse eid="1PE 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1PE 4:2" />Aby żyć resztę czasu w ciele już nie dla ludzkich pożądliwości, lecz dla woli Boga.<verse eid="1PE 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1PE 4:3" />Wystarczy nam bowiem, że w minionym okresie życia spełnialiśmy zachcianki pogan, żyjąc w rozpuście, pożądliwościach, pijaństwie, biesiadach, pijatykach i niegodziwym bałwochwalstwie.<verse eid="1PE 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1PE 4:4" />Dlatego dziwią się, że nie nurzacie się z nimi w tym samym zalewie rozpusty, i źle o was mówią.<verse eid="1PE 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1PE 4:5" />Zdadzą oni sprawę temu, który gotowy jest sądzić żywych i umarłych.<verse eid="1PE 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1PE 4:6" />Dlatego bowiem i umarłym głoszono ewangelię, aby byli sądzeni według ludzi w ciele, ale żyli według Boga w duchu.<verse eid="1PE 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1PE 4:7" />Zbliża się zaś koniec wszystkiego. Bądźcie więc trzeźwi i czujni w modlitwie.<verse eid="1PE 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1PE 4:8" />Przede wszystkim miejcie gorliwą miłość jedni dla drugich, bo miłość zakrywa mnóstwo grzechów.<verse eid="1PE 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1PE 4:9" />Bądźcie dla siebie gościnni bez szemrania.<verse eid="1PE 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1PE 4:10" />Jako dobrzy szafarze różnorakiej łaski Bożej usługujcie sobie nawzajem tym darem, jaki każdy otrzymał.<verse eid="1PE 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1PE 4:11" />Jeśli ktoś przemawia, niech mówi jak wyroki Boga, jeśli ktoś usługuje, niech to czyni z mocy, której Bóg udziela, aby we wszystkim był uwielbiony Bóg przez Jezusa Chrystusa. Jemu chwała i panowanie na wieki wieków. Amen.<verse eid="1PE 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1PE 4:12" />Umiłowani, nie dziwcie się temu ogniowi, który na was przychodzi, aby was doświadczyć, jakby was coś niezwykłego spotkało;<verse eid="1PE 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1PE 4:13" />Lecz radujcie się z tego, że jesteście uczestnikami cierpień Chrystusa, abyście i podczas objawienia jego chwały cieszyli się i weselili.<verse eid="1PE 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1PE 4:14" />Jeśli was znieważają z powodu imienia Chrystusa, błogosławieni jesteście, gdyż Duch chwały, Duch Boży spoczywa na was, który przez nich jest bluźniony, ale przez was jest uwielbiony.<verse eid="1PE 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1PE 4:15" />Nikt z was niech nie cierpi jednak jako morderca albo złodziej, albo złoczyńca, albo jako człowiek, który się wtrąca do cudzych spraw.<verse eid="1PE 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1PE 4:16" />Lecz jeśli cierpi jako chrześcijanin, niech się nie wstydzi, niech raczej chwali Boga z tego powodu.<verse eid="1PE 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1PE 4:17" />Nadszedł bowiem czas, aby sąd rozpoczął się od domu Bożego, a jeśli rozpoczyna się od nas, to jaki będzie koniec tych, którzy są nieposłuszni ewangelii Bożej?<verse eid="1PE 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1PE 4:18" />A ponieważ sprawiedliwy z trudnością będzie zbawiony, gdzie się znajdzie bezbożny i grzesznik?<verse eid="1PE 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1PE 4:19" />Tak więc ci, którzy cierpią zgodnie z wolą Boga, niech powierzają swoje dusze jemu jako wiernemu Stwórcy, dobrze czyniąc.<verse eid="1PE 4:19" />
+  </para>
+  <chapter eid="1PE 4" />
+  <chapter number="5" style="c" sid="1PE 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="1PE 5:1" />Starszych, którzy są wśród was, proszę jako również starszy i świadek cierpień Chrystusa oraz uczestnik chwały, która ma się objawić:<verse eid="1PE 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1PE 5:2" />Paście stado Boga, które jest wśród was, doglądając go nie z przymusu, ale dobrowolnie, nie dla brudnego zysku, ale z ochotą;<verse eid="1PE 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1PE 5:3" />I nie jak ci, którzy panują nad dziedzictwem Pana, lecz jako wzór dla stada.<verse eid="1PE 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1PE 5:4" />A gdy się objawi Najwyższy Pasterz, otrzymacie niewiędnącą koronę chwały.<verse eid="1PE 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1PE 5:5" />Podobnie młodsi, bądźcie poddani starszym. Wszyscy zaś wobec siebie bądźcie poddani. Przyobleczcie się w pokorę, gdyż Bóg pysznym się sprzeciwia, a pokornym łaskę daje.<verse eid="1PE 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1PE 5:6" />Uniżcie się więc pod potężną ręką Boga, aby was wywyższył w odpowiednim czasie.<verse eid="1PE 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1PE 5:7" />Wszystkie wasze troski przerzućcie na niego, gdyż on troszczy się o was.<verse eid="1PE 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1PE 5:8" />Bądźcie trzeźwi, czuwajcie, bo wasz przeciwnik, diabeł, jak lew ryczący krąży, szukając, kogo by pożreć.<verse eid="1PE 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1PE 5:9" />Przeciwstawiajcie się mu, mocni w wierze, wiedząc, że te same cierpienia są udziałem waszych braci na świecie.<verse eid="1PE 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1PE 5:10" />A Bóg wszelkiej łaski, ten, który nas powołał do swojej wiecznej chwały w Chrystusie Jezusie, po krótkotrwałych cierpieniach waszych niech uczyni was doskonałymi, utwierdzi, umocni i ugruntuje.<verse eid="1PE 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1PE 5:11" />Jemu chwała i moc na wieki wieków. Amen.<verse eid="1PE 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1PE 5:12" />Przez Sylwana, wiernego wam brata, jak sądzę, napisałem krótko, napominając i świadcząc, że to jest prawdziwa łaska Boga, w której trwacie.<verse eid="1PE 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1PE 5:13" />Pozdrawia was kościół w Babilonie, razem z wami wybrany, i Marek, mój syn.<verse eid="1PE 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1PE 5:14" />Pozdrówcie się nawzajem pocałunkiem miłości. Pokój wam wszystkim, którzy jesteście w Chrystusie Jezusie. Amen.<verse eid="1PE 5:14" />
+  </para>
+  <chapter eid="1PE 5" />
+</usx>

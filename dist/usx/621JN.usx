@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="1JN" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">I Jana</para>
+  <para style="toc1">I List Jana</para>
+  <para style="toc2">I Jana</para>
+  <para style="toc3">1J</para>
+  <para style="mt1">I List Jana</para>
+  <chapter number="1" style="c" sid="1JN 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="1JN 1:1" />To, co było od początku, co słyszeliśmy, co widzieliśmy na własne oczy, na co patrzyliśmy i czego dotykały nasze ręce, o Słowie życia;<verse eid="1JN 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1JN 1:2" />(Bo życie zostało objawione, a my je widzieliśmy i świadczymy o nim, i zwiastujemy wam to życie wieczne, które było u Ojca, a nam zostało objawione).<verse eid="1JN 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1JN 1:3" />To, co widzieliśmy i słyszeliśmy, to wam zwiastujemy, abyście i wy mieli z nami społeczność, a nasza społeczność to społeczność z Ojcem i z jego Synem, Jezusem Chrystusem.<verse eid="1JN 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1JN 1:4" />A piszemy to wam, aby wasza radość była pełna.<verse eid="1JN 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1JN 1:5" />Przesłanie zaś, które słyszeliśmy od niego i wam zwiastujemy, jest takie: Bóg jest światłością i nie ma w nim żadnej ciemności.<verse eid="1JN 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1JN 1:6" />Jeśli mówimy, że mamy z nim społeczność, a chodzimy w ciemności, kłamiemy i nie czynimy prawdy.<verse eid="1JN 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1JN 1:7" />A jeśli chodzimy w światłości, tak jak on jest w światłości, mamy społeczność między sobą, a krew Jezusa Chrystusa, jego Syna, oczyszcza nas z wszelkiego grzechu.<verse eid="1JN 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1JN 1:8" />Jeśli mówimy, że nie mamy grzechu, sami siebie zwodzimy i nie ma w nas prawdy.<verse eid="1JN 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1JN 1:9" />Jeśli wyznajemy nasze grzechy, Bóg jest wierny i sprawiedliwy, aby nam przebaczyć grzechy i oczyścić nas z wszelkiej nieprawości.<verse eid="1JN 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1JN 1:10" />Jeśli mówimy, że nie zgrzeszyliśmy, robimy z niego kłamcę i nie ma w nas jego słowa.<verse eid="1JN 1:10" />
+  </para>
+  <chapter eid="1JN 1" />
+  <chapter number="2" style="c" sid="1JN 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="1JN 2:1" />Moje dzieci, piszę wam to, abyście nie grzeszyli. Jeśli jednak ktoś zgrzeszy, mamy orędownika u Ojca, Jezusa Chrystusa sprawiedliwego.<verse eid="1JN 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1JN 2:2" />I on jest przebłaganiem za nasze grzechy, a nie tylko za nasze, lecz także za grzechy całego świata.<verse eid="1JN 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1JN 2:3" />A po tym poznajemy, że go znamy, jeśli zachowujemy jego przykazania.<verse eid="1JN 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1JN 2:4" />Kto mówi: Znam go, a nie zachowuje jego przykazań, jest kłamcą i nie ma w nim prawdy.<verse eid="1JN 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1JN 2:5" />Lecz kto zachowuje jego słowo, w nim prawdziwie wypełniła się miłość Boga. Po tym poznajemy, że w nim jesteśmy.<verse eid="1JN 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1JN 2:6" />Kto mówi, że w nim trwa, powinien sam postępować tak, jak on postępował.<verse eid="1JN 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1JN 2:7" />Bracia, nie piszę wam nowego przykazania, ale przykazanie stare, które mieliście od początku. Tym starym przykazaniem jest słowo, które słyszeliście od początku.<verse eid="1JN 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1JN 2:8" />Zarazem piszę wam nowe przykazanie, które jest prawdziwe w nim i w was, ponieważ ciemność przemija, a prawdziwa światłość już świeci.<verse eid="1JN 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1JN 2:9" />Kto mówi, że jest w światłości, a nienawidzi swego brata, dotąd jeszcze jest w ciemności.<verse eid="1JN 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1JN 2:10" />Kto miłuje swego brata, trwa w światłości i nie ma w nim powodu do upadku.<verse eid="1JN 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1JN 2:11" />Lecz kto nienawidzi swego brata, jest w ciemności i chodzi w ciemności, i nie wie, dokąd idzie, bo ciemność zaślepiła jego oczy.<verse eid="1JN 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1JN 2:12" />Piszę do was, dzieci, bo zostały wam przebaczone grzechy ze względu na jego imię.<verse eid="1JN 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1JN 2:13" />Piszę do was, ojcowie, bo poznaliście tego, który jest od początku. Piszę do was, młodzieńcy, bo zwyciężyliście złego. Piszę do was, dzieci, bo poznałyście Ojca.<verse eid="1JN 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1JN 2:14" />Napisałem do was, ojcowie, bo poznaliście tego, który jest od początku. Napisałem do was, młodzieńcy, bo jesteście mocni i słowo Boże w was mieszka, i zwyciężyliście złego.<verse eid="1JN 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1JN 2:15" />Nie miłujcie świata ani tego, co jest na świecie. Jeśli ktoś miłuje świat, nie ma w nim miłości Ojca.<verse eid="1JN 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1JN 2:16" />Wszystko bowiem, co jest na świecie – pożądliwość ciała, pożądliwość oczu i pycha życia – nie pochodzi od Ojca, ale od świata.<verse eid="1JN 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1JN 2:17" />A świat przemija wraz ze swoją pożądliwością, ale kto wypełnia wolę Boga, trwa na wieki.<verse eid="1JN 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1JN 2:18" />Dzieci, to już ostatnia godzina i jak słyszeliście, że antychryst ma przyjść, tak teraz pojawiło się wielu antychrystów. Stąd wiemy, że jest już ostatnia godzina.<verse eid="1JN 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1JN 2:19" />Wyszli spośród nas, ale nie byli z nas. Gdyby bowiem byli z nas, zostaliby z nami. Lecz wyszli spośród nas, aby się okazało, że nie wszyscy są z nas.<verse eid="1JN 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1JN 2:20" />Ale wy macie namaszczenie od Świętego i wiecie wszystko.<verse eid="1JN 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1JN 2:21" />Napisałem do was nie dlatego, że nie znaliście prawdy, ale dlatego, że ją znacie i że żadne kłamstwo nie wywodzi się z prawdy.<verse eid="1JN 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1JN 2:22" />Któż jest kłamcą? Czy nie ten, kto zaprzecza, że Jezus jest Chrystusem? Ten jest antychrystem, który wypiera się Ojca i Syna.<verse eid="1JN 2:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1JN 2:23" />Każdy, kto wypiera się Syna, nie ma i Ojca. Kto zaś wyznaje Syna, ma i Ojca.<verse eid="1JN 2:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1JN 2:24" />To więc, co słyszeliście od początku, niech w was pozostanie. Jeśli pozostanie w was to, co słyszeliście od początku, to i wy pozostaniecie w Synu i w Ojcu.<verse eid="1JN 2:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1JN 2:25" />A to jest obietnica, którą on nam dał – życie wieczne.<verse eid="1JN 2:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1JN 2:26" />To wszystko wam napisałem o tych, którzy was zwodzą.<verse eid="1JN 2:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1JN 2:27" />Ale to namaszczenie, które otrzymaliście od niego, pozostaje w was i nie potrzebujecie, aby was ktoś uczył. Lecz jak to namaszczenie uczy was o wszystkim, a jest ono prawdziwe i nie jest kłamstwem i jak was nauczyło, tak w nim pozostaniecie.<verse eid="1JN 2:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1JN 2:28" />A teraz, dzieci, pozostańcie w nim, abyśmy, gdy się ukaże, mieli ufność i nie zostali zawstydzeni przez niego w czasie jego przyjścia.<verse eid="1JN 2:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1JN 2:29" />Jeżeli wiecie, że on jest sprawiedliwy, wiedzcie też, że każdy, kto czyni sprawiedliwość, z niego się narodził.<verse eid="1JN 2:29" />
+  </para>
+  <chapter eid="1JN 2" />
+  <chapter number="3" style="c" sid="1JN 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="1JN 3:1" />Patrzcie, jaką miłością obdarzył nas Ojciec, że zostaliśmy nazwani dziećmi Bożymi. Dlatego świat nas nie zna, bo jego nie zna.<verse eid="1JN 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1JN 3:2" />Umiłowani, teraz jesteśmy dziećmi Bożymi, ale jeszcze się nie objawiło, czym będziemy. Wiemy jednak, że gdy on się objawi, będziemy podobni do niego, gdyż ujrzymy go takim, jakim jest.<verse eid="1JN 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1JN 3:3" />A każdy, kto pokłada w nim tę nadzieję, oczyszcza się, jak i on jest czysty.<verse eid="1JN 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1JN 3:4" />Każdy, kto popełnia grzech, przekracza też prawo, ponieważ grzech jest przekroczeniem prawa.<verse eid="1JN 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1JN 3:5" />A wiecie, że on się objawił, aby zgładzić nasze grzechy, a w nim nie ma grzechu.<verse eid="1JN 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1JN 3:6" />Każdy więc, kto w nim trwa, nie grzeszy. Każdy, kto grzeszy, nie widział go ani go nie poznał.<verse eid="1JN 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1JN 3:7" />Dzieci, niech was nikt nie zwodzi. Kto czyni sprawiedliwość, jest sprawiedliwy, tak jak i on jest sprawiedliwy.<verse eid="1JN 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1JN 3:8" />Kto popełnia grzech, jest z diabła, gdyż diabeł od początku grzeszy. Po to objawił się Syn Boży, aby zniszczyć dzieła diabła.<verse eid="1JN 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1JN 3:9" />Każdy, kto się narodził z Boga, nie popełnia grzechu, bo jego nasienie w nim pozostaje i nie może grzeszyć, gdyż narodził się z Boga.<verse eid="1JN 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1JN 3:10" />Po tym poznaje się dzieci Boże i dzieci diabła: Każdy, kto nie czyni sprawiedliwości, nie jest z Boga, jak i ten, kto nie miłuje swego brata.<verse eid="1JN 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1JN 3:11" />To jest przesłanie, które słyszeliście od początku, że mamy się wzajemnie miłować.<verse eid="1JN 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1JN 3:12" />Nie jak Kain, który pochodził od złego i zabił swego brata. A dlaczego go zabił? Bo jego uczynki były złe, a jego brata sprawiedliwe.<verse eid="1JN 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1JN 3:13" />Nie dziwcie się, moi bracia, jeśli świat was nienawidzi.<verse eid="1JN 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1JN 3:14" />My wiemy, że przeszliśmy ze śmierci do życia, bo miłujemy braci. Kto nie miłuje brata, pozostaje w śmierci.<verse eid="1JN 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1JN 3:15" />Każdy, kto nienawidzi swego brata, jest mordercą, a wiecie, że żaden morderca nie ma życia wiecznego zostającego w sobie.<verse eid="1JN 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1JN 3:16" />Po tym poznaliśmy miłość Boga, że on oddał za nas swoje życie. My również powinniśmy oddawać życie za braci.<verse eid="1JN 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1JN 3:17" />A kto miałby majętność tego świata i widziałby swego brata w potrzebie, a zamknąłby przed nim swoje serce, jakże może mieszkać w nim miłość Boga?<verse eid="1JN 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1JN 3:18" />Moje dzieci, nie miłujmy słowem ani językiem, ale uczynkiem i prawdą.<verse eid="1JN 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1JN 3:19" />Po tym poznamy, że jesteśmy z prawdy i uspokoimy przed nim nasze serca.<verse eid="1JN 3:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1JN 3:20" />Bo jeśli nasze serce nas potępia, Bóg jest większy niż nasze serce i wie wszystko.<verse eid="1JN 3:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1JN 3:21" />Umiłowani, jeśli nasze serce nas nie potępia, mamy ufność ku Bogu;<verse eid="1JN 3:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1JN 3:22" />I o cokolwiek prosimy, otrzymujemy od niego, bo zachowujemy jego przykazania i robimy to, co miłe w jego oczach.<verse eid="1JN 3:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1JN 3:23" />A to jest jego przykazanie, abyśmy wierzyli w imię jego Syna, Jezusa Chrystusa, i miłowali się wzajemnie, jak nam przykazał.<verse eid="1JN 3:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1JN 3:24" />Bo kto zachowuje jego przykazania, mieszka w nim, a on w nim. A wiemy, że w nas mieszka, przez Ducha, którego nam dał.<verse eid="1JN 3:24" />
+  </para>
+  <chapter eid="1JN 3" />
+  <chapter number="4" style="c" sid="1JN 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="1JN 4:1" />Umiłowani, nie wierzcie każdemu duchowi, ale badajcie duchy, czy są z Boga, gdyż wielu fałszywych proroków wyszło na świat.<verse eid="1JN 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1JN 4:2" />Po tym poznacie Ducha Bożego: każdy duch, który wyznaje, że Jezus Chrystus przyszedł w ciele, jest z Boga.<verse eid="1JN 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1JN 4:3" />Każdy zaś duch, który nie wyznaje, że Jezus Chrystus przyszedł w ciele, nie jest z Boga. Jest to duch antychrysta, o którym słyszeliście, że nadchodzi i już teraz jest na świecie.<verse eid="1JN 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1JN 4:4" />Dzieci, wy jesteście z Boga i zwyciężyliście ich, ponieważ ten, który jest w was, jest większy niż ten, który jest na świecie.<verse eid="1JN 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1JN 4:5" />Oni są ze świata, dlatego mówią o świecie, a świat ich słucha.<verse eid="1JN 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1JN 4:6" />My jesteśmy z Boga. Kto zna Boga, słucha nas, kto nie jest z Boga, nie słucha nas. Po tym poznajemy ducha prawdy i ducha błędu.<verse eid="1JN 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1JN 4:7" />Umiłowani, miłujmy się wzajemnie, gdyż miłość jest z Boga i każdy, kto miłuje, narodził się z Boga i zna Boga.<verse eid="1JN 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1JN 4:8" />Kto nie miłuje, nie zna Boga, gdyż Bóg jest miłością.<verse eid="1JN 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1JN 4:9" />Przez to objawiła się miłość Boga ku nam, że Bóg posłał na świat swego jednorodzonego Syna, abyśmy żyli przez niego.<verse eid="1JN 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1JN 4:10" />Na tym polega miłość, że nie my umiłowaliśmy Boga, ale że on nas umiłował i posłał swego Syna, aby był przebłaganiem za nasze grzechy.<verse eid="1JN 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1JN 4:11" />Umiłowani, jeśli Bóg tak nas umiłował, to i my powinniśmy się wzajemnie miłować.<verse eid="1JN 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1JN 4:12" />Boga nikt nigdy nie widział, ale jeśli miłujemy się wzajemnie, Bóg w nas mieszka, a jego miłość jest w nas doskonała.<verse eid="1JN 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1JN 4:13" />Po tym poznajemy, że w nim mieszkamy, a on w nas, że dał nam ze swego Ducha.<verse eid="1JN 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1JN 4:14" />My zaś widzieliśmy i świadczymy, że Ojciec posłał Syna, aby był Zbawicielem świata.<verse eid="1JN 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1JN 4:15" />Każdy, kto wyzna, że Jezus jest Synem Bożym, w tym mieszka Bóg, a on w Bogu.<verse eid="1JN 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1JN 4:16" />My poznaliśmy i uwierzyliśmy w miłość, którą ma Bóg do nas. Bóg jest miłością, a kto trwa w miłości, mieszka w Bogu, a Bóg w nim.<verse eid="1JN 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1JN 4:17" />W tym jest doskonała miłość w nas, abyśmy mieli ufność w dniu sądu, że jaki on jest, tacy i my jesteśmy na tym świecie.<verse eid="1JN 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1JN 4:18" />W miłości nie ma lęku, ale doskonała miłość usuwa lęk, bo lęk przynosi udrękę, a kto się boi, nie jest doskonały w miłości.<verse eid="1JN 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1JN 4:19" />My go miłujemy, ponieważ on pierwszy nas umiłował.<verse eid="1JN 4:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1JN 4:20" />Jeśli ktoś mówi: Miłuję Boga, a nienawidzi swego brata, jest kłamcą. Kto bowiem nie miłuje swego brata, którego widzi, jak może miłować Boga, którego nie widzi?<verse eid="1JN 4:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1JN 4:21" />A takie przykazanie mamy od niego, aby ten, kto miłuje Boga, miłował też swego brata.<verse eid="1JN 4:21" />
+  </para>
+  <chapter eid="1JN 4" />
+  <chapter number="5" style="c" sid="1JN 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="1JN 5:1" />Każdy, kto wierzy, że Jezus jest Chrystusem, narodził się z Boga, a każdy, kto miłuje tego, który zrodził, miłuje też tego, który się z niego narodził.<verse eid="1JN 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1JN 5:2" />Po tym poznajemy, że miłujemy dzieci Boże, gdy miłujemy Boga i zachowujemy jego przykazania.<verse eid="1JN 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1JN 5:3" />Na tym bowiem polega miłość Boga, że zachowujemy jego przykazania, a jego przykazania nie są ciężkie.<verse eid="1JN 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1JN 5:4" />Bo wszystko, co się narodziło z Boga, zwycięża świat. A tym zwycięstwem, które zwyciężyło świat, jest nasza wiara.<verse eid="1JN 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1JN 5:5" />Kto zwycięża świat, jeśli nie ten, kto wierzy, że Jezus jest Synem Bożym?<verse eid="1JN 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1JN 5:6" />To jest ten, który przyszedł przez wodę i krew, Jezus Chrystus, nie tylko w wodzie, ale w wodzie i we krwi; a Duch jest tym, który świadczy, bo Duch jest prawdą.<verse eid="1JN 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1JN 5:7" />Trzej bowiem świadczą w niebie: Ojciec, Słowo i Duch Święty, a ci trzej jedno są.<verse eid="1JN 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1JN 5:8" />A trzej świadczą na ziemi: Duch, woda i krew, a ci trzej są zgodni.<verse eid="1JN 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1JN 5:9" />Jeśli przyjmujemy świadectwo ludzi, to świadectwo Boga jest większe. To bowiem jest świadectwo Boga, które dał o swoim Synu.<verse eid="1JN 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1JN 5:10" />Kto wierzy w Syna Bożego, ma świadectwo w sobie. Kto nie wierzy Bogu, zrobił z niego kłamcę, bo nie uwierzył świadectwu, które Bóg dał o swoim Synu.<verse eid="1JN 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1JN 5:11" />A to świadectwo jest takie, że Bóg dał nam życie wieczne, a to życie jest w jego Synu.<verse eid="1JN 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1JN 5:12" />Kto ma Syna, ma życie, kto nie ma Syna Bożego, nie ma życia.<verse eid="1JN 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1JN 5:13" />To napisałem wam, którzy wierzycie w imię Syna Bożego, abyście wiedzieli, że macie życie wieczne i abyście wierzyli w imię Syna Bożego.<verse eid="1JN 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1JN 5:14" />Taka zaś jest ufność, którą mamy do niego, że jeśli o coś prosimy zgodnie z jego wolą, wysłuchuje nas.<verse eid="1JN 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1JN 5:15" />A jeśli wiemy, że nas wysłuchuje, o cokolwiek prosimy, wtedy wiemy, że otrzymujemy to, o co go prosiliśmy.<verse eid="1JN 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1JN 5:16" />Jeśli ktoś widzi swego brata, który popełnia grzech nie na śmierć, niech się za niego modli, a Bóg da mu życie, to jest tym, którzy popełniają grzech nie na śmierć. Jest grzech na śmierć. Nie mówię, aby ktoś modlił się za to.<verse eid="1JN 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1JN 5:17" />Wszelka niesprawiedliwość jest grzechem, jest jednak grzech nie na śmierć.<verse eid="1JN 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1JN 5:18" />Wiemy, że każdy, kto się narodził z Boga, nie grzeszy, ale kto się narodził z Boga, zachowuje samego siebie, a zły go nie dotyka.<verse eid="1JN 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1JN 5:19" />Wiemy, że jesteśmy z Boga, a cały świat tkwi w niegodziwości.<verse eid="1JN 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1JN 5:20" />A wiemy, że Syn Boży przyszedł i dał nam rozum, abyśmy poznali prawdziwego Boga, i jesteśmy w tym prawdziwym, to jest w jego Synu, Jezusie Chrystusie. On jest prawdziwym Bogiem i życiem wiecznym.<verse eid="1JN 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1JN 5:21" />Dzieci, wystrzegajcie się bożków. Amen.<verse eid="1JN 5:21" />
+  </para>
+  <chapter eid="1JN 5" />
+</usx>

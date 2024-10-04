@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="OBA" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Abdiasza</para>
+  <para style="toc1">Księga Abdiasza</para>
+  <para style="toc2">Abdiasza</para>
+  <para style="toc3">Ab</para>
+  <para style="mt1">Księga Abdiasza</para>
+  <chapter number="1" style="c" sid="OBA 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="OBA 1:1" />Widzenie Abdiasza. Tak mówi Pan BÓG o Edomie: Usłyszeliśmy wieść od PANA, a posłaniec został wysłany do narodów: Powstańcie, wyruszmy przeciwko niemu do bitwy.<verse eid="OBA 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="OBA 1:2" />Oto uczyniłem cię małym wśród narodów, jesteś bardzo wzgardzony.<verse eid="OBA 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="OBA 1:3" />Pycha twego serca zwiodła cię, ty, który mieszkasz w rozpadlinach skalnych, masz swoje mieszkanie na wysokości; ty, który mówisz w swoim sercu: Któż mnie ściągnie na ziemię?<verse eid="OBA 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="OBA 1:4" />Choćbyś wywyższył się jak orzeł, choćbyś założył swoje gniazdo wśród gwiazd, stamtąd cię strącę, mówi PAN.<verse eid="OBA 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="OBA 1:5" />Jakże jesteś zniszczony! Gdyby złodzieje przyszli do ciebie, gdyby rabusie zjawili się w nocy, czy nie kradliby tyle, ile potrzebują? Gdyby przyszli do ciebie zbieracze winogron, czy nie zostawiliby trochę winogron?<verse eid="OBA 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="OBA 1:6" />Jakże przeszukane są skarby Ezawa, a przetrząśnięte jego skryte rzeczy!<verse eid="OBA 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="OBA 1:7" />Aż do granicy wypchnęli cię wszyscy twoi sprzymierzeńcy. Ci, z którymi miałeś pokój, zdradzili cię i pokonali; ci, którzy jedli twój chleb, zranili cię zdradliwie. Nie ma zrozumienia u niego.<verse eid="OBA 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="OBA 1:8" />Czyż w owym dniu – mówi PAN – nie wytracę mędrców z Edomu, a rozumu – z góry Ezawa?<verse eid="OBA 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="OBA 1:9" />I tak się zlękną twoi mocarze, Temanie, że wszyscy z góry Ezawa zostaną wycięci.<verse eid="OBA 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="OBA 1:10" />Z powodu przemocy wobec twego brata Jakuba okryje cię hańba i zostaniesz wykorzeniony na wieki.<verse eid="OBA 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="OBA 1:11" />W dniu, gdy stałeś naprzeciwko, w dniu, gdy obcy brali do niewoli jego wojsko i gdy cudzoziemcy wchodzili w jego bramy i o Jerozolimę rzucali losy, to ty byłeś też jak jeden z nich.<verse eid="OBA 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="OBA 1:12" />Nie powinieneś był patrzeć na dzień swego brata, w dniu jego pojmania, ani cieszyć się z powodu synów Judy w dniu ich zniszczenia, ani mówić zuchwale w dniu ucisku.<verse eid="OBA 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="OBA 1:13" />Nie powinieneś był wchodzić w bramę mojego ludu w dniu jego klęski ani patrzeć na jego nieszczęście w dniu jego klęski, ani wyciągać swej ręki po jego mienie w dniu jego klęski;<verse eid="OBA 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="OBA 1:14" />Nie powinieneś był stać na rozstaju dróg, aby wytracić tych, którzy uciekali, ani wydać tych, którzy pozostali spośród nich w dniu ucisku.<verse eid="OBA 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="OBA 1:15" />Bliski bowiem jest dzień PANA dla wszystkich narodów. Jak ty postępowałeś, tak postąpią z tobą. Twoja odpłata spadnie na twoją głowę.<verse eid="OBA 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="OBA 1:16" />Bo jak wy piliście na mojej świętej górze, tak będą stale pić wszystkie narody; będą pić i pochłaniać, aż będzie z nimi tak, jakby ich nigdy nie było.<verse eid="OBA 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="OBA 1:17" />A na górze Syjon będzie wybawienie i będzie ona święta, a dom Jakuba posiądzie swoje posiadłości.<verse eid="OBA 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="OBA 1:18" />Dom Jakuba stanie się ogniem, a dom Józefa płomieniem, dom Ezawa zaś ścierniskiem. Podpalą go i strawią, i nikt nie pozostanie z domu Ezawa, bo PAN to powiedział.<verse eid="OBA 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="OBA 1:19" />Ci z krainy południa odziedziczą górę Ezawa, ci z równiny – Filistynów. Posiądą też krainę Efraima i krainę Samarii, a Beniamin posiądzie Gilead.<verse eid="OBA 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="OBA 1:20" />A wygnańcy tego wojska z synów Izraela posiądą to, co należało do Kananejczyków aż do Sarepty; wygnańcy zaś z Jerozolimy, którzy są w Sefarad, posiądą miasta na południu.<verse eid="OBA 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="OBA 1:21" />I wstąpią wybawiciele na górę Syjon, aby sądzić górę Ezawa. I królestwo będzie należeć do PANA.<verse eid="OBA 1:21" />
+  </para>
+  <chapter eid="OBA 1" />
+</usx>

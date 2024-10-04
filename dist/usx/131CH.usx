@@ -1,0 +1,2893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="1CH" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">I Kronik</para>
+  <para style="toc1">I Księga Kronik</para>
+  <para style="toc2">I Kronik</para>
+  <para style="toc3">1Krn</para>
+  <para style="mt1">I Księga Kronik</para>
+  <chapter number="1" style="c" sid="1CH 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 1:1" />Adam, Set, Enosz;<verse eid="1CH 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 1:2" />Kenan, Mahalaleel, Jered;<verse eid="1CH 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 1:3" />Henoch, Matuzalem, Lamech;<verse eid="1CH 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 1:4" />Noe, Sem, Cham i Jafet.<verse eid="1CH 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 1:5" />Synowie Jafeta: Gomer, Magog, Madaj, Jawan, Tubal, Meszek i Tiras.<verse eid="1CH 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 1:6" />A synowie Gomera: Aszkenaz, Rifat i Togarma.<verse eid="1CH 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 1:7" />A synowie Jawana: Elisa i Tarszisz, Cytym i Dodanim.<verse eid="1CH 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 1:8" />Synowie Chama: Kusz, Misraim, Put i Kanaan.<verse eid="1CH 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 1:9" />A synowie Kusza: Seba, Chaawila, Sabta, Rama i Sabteka. A synowie Ramy: Szeba i Dedan.<verse eid="1CH 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 1:10" />Kusz spłodził Nimroda, który zaczął być mocarzem na ziemi.<verse eid="1CH 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 1:11" />Misraim spłodził Ludima, Ananima, Lahabima i Naftuchima;<verse eid="1CH 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 1:12" />Oraz Patrusyma, Kasluchima, od których wywodzą się Filistyni, i Kaftoryma.<verse eid="1CH 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 1:13" />Kanaan zaś spłodził Sidona, swego pierworodnego, i Cheta;<verse eid="1CH 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 1:14" />Jebusytę, Amorytę i Girgaszytę;<verse eid="1CH 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 1:15" />Chiwwitę, Arkitę i Sinitę;<verse eid="1CH 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 1:16" />Arwadytę, Semarytę i Chamatytę.<verse eid="1CH 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 1:17" />Synowie Sema: Elam, Assur, Arpachszad, Lud, Aram, Us, Chul, Geter i Meszek.<verse eid="1CH 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 1:18" />Arpachszad spłodził Szelacha, a Szelach spłodził Ebera.<verse eid="1CH 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 1:19" />Eberowi zaś urodzili się dwaj synowie: jeden miał na imię Peleg, gdyż za jego czasów ziemia została rozdzielona, a imię brata jego – Joktan.<verse eid="1CH 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 1:20" />Joktan spłodził Almodada, Szelefa, Chasarmaweta i Jeracha;<verse eid="1CH 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 1:21" />Hadorama, Uzala i Diklę;<verse eid="1CH 1:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 1:22" />Ebala, Abimaela i Szeba;<verse eid="1CH 1:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 1:23" />Ofira, Chawila i Jobaba. Wszyscy ci byli synami Joktana.<verse eid="1CH 1:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 1:24" />Sem, Arpachszad, Szelach;<verse eid="1CH 1:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 1:25" />Eber, Peleg, Reu;<verse eid="1CH 1:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 1:26" />Serug, Nachor, Terach;<verse eid="1CH 1:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 1:27" />Abram, to jest Abraham.<verse eid="1CH 1:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 1:28" />Synowie Abrahama: Izaak i Izmael.<verse eid="1CH 1:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 1:29" />A oto są ich rody: pierworodny Izmaela – Nebajot, następnie Kedar, Abdeel i Mibsam;<verse eid="1CH 1:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 1:30" />Miszma, Duma, Massa, Hadad i Tema;<verse eid="1CH 1:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 1:31" />Jetur, Nafisz i Kedma. Byli oni synami Izmaela.<verse eid="1CH 1:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 1:32" />A oto synowie Ketury, nałożnicy Abrahama: urodziła ona Zimrana, Jokszana, Medana, Midiana, Jiszbaka i Szuacha. A synowie Jokszana: Szeba i Dedan.<verse eid="1CH 1:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 1:33" />Synowie Midiana: Efa, Efer, Henoch, Abida i Eldaa. Oni wszyscy byli synami Ketury.<verse eid="1CH 1:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 1:34" />I Abraham spłodził Izaaka. Synowie Izaaka: Ezaw i Izrael.<verse eid="1CH 1:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 1:35" />A synowie Ezawa: Elifaz, Rehuel, Jeusz, Jalam i Korach.<verse eid="1CH 1:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 1:36" />Synowie Elifaza: Teman, Omar, Sefo, Gatam, Kenaz, Timna i Amalek.<verse eid="1CH 1:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 1:37" />Synowie Rehuela: Nachat, Zerach, Szamma i Mizza.<verse eid="1CH 1:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 1:38" />A synowie Seira: Lotan, Szobal, Sibeon, Ana, Diszon, Eser i Diszan.<verse eid="1CH 1:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 1:39" />A synowie Lotana: Chori, Homam; a siostrą Lotana była Timna.<verse eid="1CH 1:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 1:40" />Synowie Szobala: Alian, Manachat, Ebal, Szefo i Onam. A synowie Sibeona: Ajja i Ana.<verse eid="1CH 1:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="1CH 1:41" />Synowie Any: Diszon. Synowie Diszona: Chamran i Eszban, Jitran i Keran.<verse eid="1CH 1:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="1CH 1:42" />Synowie Esera: Bilhan, Zaawan i Jaakan. Synowie Diszana: Us i Aran.<verse eid="1CH 1:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="1CH 1:43" />To byli królowie, którzy panowali w ziemi Edomu, zanim zapanował król nad synami Izraela: Bela, syn Beora, a jego miasto nazywało się Dinhaba.<verse eid="1CH 1:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="1CH 1:44" />A gdy Bela umarł, królował w jego miejsce Jobab, syn Zeracha z Bosry.<verse eid="1CH 1:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="1CH 1:45" />A gdy Jobab umarł, królował w jego miejsce Chuszam z ziemi Temanitów.<verse eid="1CH 1:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="1CH 1:46" />A gdy Chuszam umarł, królował w jego miejsce Hadad, syn Bedada, który pobił Midianitów na polu Moabu. A jego miasto nazywało się Awit.<verse eid="1CH 1:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="1CH 1:47" />A gdy Hadad umarł, królował w jego miejsce Samla z Masreki.<verse eid="1CH 1:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="1CH 1:48" />A gdy Samla umarł, królował w jego miejsce Szaul z Rechobot nad Rzeką.<verse eid="1CH 1:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="1CH 1:49" />A gdy Szaul umarł, królował w jego miejsce Baalchanan, syn Akbora.<verse eid="1CH 1:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="1CH 1:50" />A gdy Baalchanan umarł, królował w jego miejsce Hadad. Jego miasto nazywało się Pai, a jego żona miała na imię Mehetabel, była to córka Matredy, córki Mezahaba.<verse eid="1CH 1:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="1CH 1:51" />I Hadad umarł. A książętami Edomu byli: książę Timna, książę Alia, książę Jetet;<verse eid="1CH 1:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="1CH 1:52" />Książę Oholibama, książę Ela, książę Pinon;<verse eid="1CH 1:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="1CH 1:53" />Książę Kenaz, książę Teman, książę Mibsar;<verse eid="1CH 1:53" />
+  </para>
+  <para style="m">
+    <verse number="54" style="v" sid="1CH 1:54" />Książę Magdiel, książę Iram. Oni byli książętami Edomu.<verse eid="1CH 1:54" />
+  </para>
+  <chapter eid="1CH 1" />
+  <chapter number="2" style="c" sid="1CH 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 2:1" />Oto są synowie Izraela: Ruben, Symeon, Lewi i Juda, Issachar i Zebulon;<verse eid="1CH 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 2:2" />Dan, Józef, Beniamin, Neftali, Gad i Aszer.<verse eid="1CH 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 2:3" />Synowie Judy: Er, Onan i Szela. Ci trzej urodzili mu się z córki Szui, Kananejki. Ale Er, pierworodny Judy, był zły w oczach PANA, dlatego go zabił.<verse eid="1CH 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 2:4" />Tamar zaś, jego synowa, urodziła mu Peresa i Zeracha. Wszystkich synów Judy było pięciu.<verse eid="1CH 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 2:5" />Synowie Peresa: Chesron i Chamul.<verse eid="1CH 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 2:6" />Synowie Zeracha: Zimri, Etan, Heman, Kalkol i Dara, wszystkich ich było pięciu.<verse eid="1CH 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 2:7" />Synowie Karmiego: Achar, który sprowadził nieszczęście na Izraela, gdy zgrzeszył przy rzeczach przeklętych.<verse eid="1CH 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 2:8" />Synowie Etana: Azariasz.<verse eid="1CH 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 2:9" />Synowie Chesrona, którzy mu się urodzili: Jerachmeel, Ram i Kelubaj.<verse eid="1CH 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 2:10" />Ram zaś spłodził Amminadaba, a Amminadab spłodził Nachszona, księcia synów Judy.<verse eid="1CH 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 2:11" />A Nachszon spłodził Salmę, a Salma spłodził Boaza.<verse eid="1CH 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 2:12" />A Boaz spłodził Obeda, a Obed spłodził Jessego.<verse eid="1CH 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 2:13" />A Jesse spłodził swego pierworodnego Eliaba, jako drugiego – Abinadaba, trzeciego – Szimeę;<verse eid="1CH 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 2:14" />Czwartego – Netaneela, piątego – Raddaja;<verse eid="1CH 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 2:15" />Szóstego – Osema, siódmego – Dawida.<verse eid="1CH 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 2:16" />A ich siostry to Seruja i Abigail. Synowie Serui: Abiszaj, Joab i Asahel – ci trzej.<verse eid="1CH 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 2:17" />Abigail zaś urodziła Amasę, ojcem Amasy był Jeter, Izmaelita.<verse eid="1CH 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 2:18" />Kaleb, syn Chesrona, spłodził dzieci z Azubą, swoją żoną, i z Jeriotą. A jej synami byli: Jeszer, Szobab i Ardon.<verse eid="1CH 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 2:19" />A gdy Azuba umarła, Kaleb pojął sobie za żonę Efratę, która urodziła mu Chura.<verse eid="1CH 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 2:20" />A Chur spłodził Uriego, a Uri spłodził Besaleela.<verse eid="1CH 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 2:21" />Potem Chesron obcował z córką Makira, ojca Gileada, i wziął ją za żonę, mając sześćdziesiąt lat, a ta urodziła mu Seguba.<verse eid="1CH 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 2:22" />A Segub spłodził Jaira, który miał dwadzieścia trzy miasta w ziemi Gilead.<verse eid="1CH 2:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 2:23" />Zabrał bowiem Geszurze i Aramowi wsie Jaira oraz Kenat i przyległe do niego miasteczka: razem sześćdziesiąt miast. Wszystkie one należały do synów Makira, ojca Gileada.<verse eid="1CH 2:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 2:24" />Po śmierci Chesrona w Kaleb-Efrata, żona Chesrona, Abija, urodziła mu Aszura, ojca Tekoa.<verse eid="1CH 2:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 2:25" />Synami Jerachmeela, pierworodnego Chesrona, byli: pierworodny Ram, następnie Buna, Oren, Ozem i Achiasz.<verse eid="1CH 2:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 2:26" />Jerachmeel miał także drugą żonę imieniem Atara. Była ona matką Onama.<verse eid="1CH 2:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 2:27" />Synami Rama, pierworodnego Jerachmeela, byli: Maas, Jamin i Eker.<verse eid="1CH 2:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 2:28" />Synami Onama byli Szammaj i Jada. Synami Szammaja: Nadab i Abiszur.<verse eid="1CH 2:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 2:29" />Żona Abiszura miała na imię Abihail i urodziła mu Achbana i Molida.<verse eid="1CH 2:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 2:30" />Synowie Nadaba: Seled i Appaim. Lecz Seled umarł bez potomstwa.<verse eid="1CH 2:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 2:31" />Synowie Appaima: Jiszi. Synowie Jisziego: Szeszan, a córka Szeszana: Achlaj.<verse eid="1CH 2:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 2:32" />Synowie Jady, brata Szammaja: Jeter i Jonatan. A Jeter umarł bez potomstwa.<verse eid="1CH 2:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 2:33" />Synowie Jonatana: Pelet i Zaza. Byli oni synami Jerachmeela.<verse eid="1CH 2:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 2:34" />Lecz Szeszan nie miał synów, tylko córki. Miał też Szeszan sługę Egipcjanina imieniem Jarcha.<verse eid="1CH 2:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 2:35" />Dał więc Szeszan swemu słudze Jarsze swoją córkę za żonę, a ona urodziła mu Attaja.<verse eid="1CH 2:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 2:36" />Attaj spłodził Natana, a Natan spłodził Zabada.<verse eid="1CH 2:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 2:37" />Zabad spłodził Eflala, a Eflal spłodził Obeda.<verse eid="1CH 2:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 2:38" />Obed spłodził Jehu, a Jehu spłodził Azariasza.<verse eid="1CH 2:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 2:39" />Azariasz spłodził Chelesa, a Cheles spłodził Eleasę.<verse eid="1CH 2:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 2:40" />Eleasa spłodził Sismaja, a Sismaj spłodził Szalluma.<verse eid="1CH 2:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="1CH 2:41" />A Szallum spłodził Jekamiasza, a Jekamiasz spłodził Eliszamę.<verse eid="1CH 2:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="1CH 2:42" />Synami Kaleba, brata Jerachmeela, byli: jego pierworodny Mesza, który był ojcem Zifa, i synowie Mareszy – ojcem Chebrona.<verse eid="1CH 2:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="1CH 2:43" />Synowie Chebrona: Korach, Tappuach, Rekem i Szema.<verse eid="1CH 2:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="1CH 2:44" />Szema spłodził Rachama, syna Jorkoama, a Rekem spłodził Szammaja.<verse eid="1CH 2:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="1CH 2:45" />Synem Szammaja był Maon, a Maon był ojcem Bet-Sura.<verse eid="1CH 2:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="1CH 2:46" />Efa, nałożnica Kaleba, urodziła Charana, Mosę i Gazeza, a Charan spłodził Gazeza.<verse eid="1CH 2:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="1CH 2:47" />Synowie Jahdaja: Regem, Jotam, Geszan, Pelet, Efa i Szaaf.<verse eid="1CH 2:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="1CH 2:48" />Maaka, druga nałożnica Kaleba, urodziła Szebera i Tyrchanę.<verse eid="1CH 2:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="1CH 2:49" />Urodziła również Szaafa, ojca Madmanny, i Szewę, ojca Makbeny i Gibea. A córką Kaleba była Aksa.<verse eid="1CH 2:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="1CH 2:50" />Ci byli synami Kaleba, syna Chura, pierworodnego Efraty: Szobal, ojciec Kiriat-Jearima;<verse eid="1CH 2:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="1CH 2:51" />Salma, ojciec Betlejema, i Charef, ojciec Bet-Gadera.<verse eid="1CH 2:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="1CH 2:52" />Szobal, ojciec Kiriat-Jearima, miał synów: Haroego i połowę Manachytów.<verse eid="1CH 2:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="1CH 2:53" />A rodziny Kiriat-Jearima to: Jitryci, Putyci, Szumatyci i Mirzaici, od których wywodzą się Soreatyci i Esztaolici.<verse eid="1CH 2:53" />
+  </para>
+  <para style="m">
+    <verse number="54" style="v" sid="1CH 2:54" />Synowie Salmy: Betlejem, Netofatyci, Atrot, rodzina Joaba i połowa Manachytów, Soreici;<verse eid="1CH 2:54" />
+  </para>
+  <para style="m">
+    <verse number="55" style="v" sid="1CH 2:55" />Rodziny pisarzy mieszkających w Jabes: Tyratyci, Szimeatyci i Sukatyci. Ci są Kenitami, którzy wywodzili się od Chamata, ojca domu Rechaba.<verse eid="1CH 2:55" />
+  </para>
+  <chapter eid="1CH 2" />
+  <chapter number="3" style="c" sid="1CH 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 3:1" />Oto synowie Dawida, którzy urodzili mu się w Hebronie: pierworodny Ammon z Achinoam, Jizreelitki, drugi Daniel z Abigail, Karmelitki;<verse eid="1CH 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 3:2" />Trzeci Absalom, syn Maaki, córki Talmaja, króla Geszuru, czwarty Adoniasz, syn Chaggity;<verse eid="1CH 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 3:3" />Piąty Szefatiasz z Abitali, szósty Jitream z jego żony Egli.<verse eid="1CH 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 3:4" />Tych sześciu urodziło mu się w Hebronie, gdzie królował przez siedem lat i sześć miesięcy. A trzydzieści trzy lata królował w Jerozolimie.<verse eid="1CH 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 3:5" />Ci zaś urodzili mu się w Jerozolimie: Szima, Szobab, Natan i Salomon – ci czterej z Batszui, córki Ammiela.<verse eid="1CH 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 3:6" />I Ibchar, Eliszama, Elifelet;<verse eid="1CH 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 3:7" />Nogah, Nefeg, Jafia;<verse eid="1CH 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 3:8" />Eliszama, Eliada i Elifelet – dziewięciu.<verse eid="1CH 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 3:9" />Ci wszyscy byli synami Dawida, nie licząc synów z nałożnic, a ich siostrą była Tamar.<verse eid="1CH 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 3:10" />Synem Salomona był Roboam, a jego synem Abia, jego synem Asa, jego synem Jehoszafat;<verse eid="1CH 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 3:11" />Jego synem Joram, jego synem Achazjasz, jego synem Joasz;<verse eid="1CH 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 3:12" />Jego synem Amazjasz, jego synem Azariasz, jego synem Jotam;<verse eid="1CH 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 3:13" />Jego synem Achaz, jego synem Ezechiasz, jego synem Manasses;<verse eid="1CH 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 3:14" />Jego synem Amon, jego synem Jozjasz;<verse eid="1CH 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 3:15" />A synami Jozjasza byli: pierworodny Jochanan, drugi Joakim, trzeci Sedekiasz, czwarty Szallum.<verse eid="1CH 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 3:16" />Synowie Joakima: jego syn Jechoniasz i jego syn Sedekiasz.<verse eid="1CH 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 3:17" />Synowie Jechoniasza: Assir, jego syn Szealatiel;<verse eid="1CH 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 3:18" />Malkiram, Pedajasz, Szeneassar, Jekamiasz, Hoszama i Nedabiasz.<verse eid="1CH 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 3:19" />Synowie Pedajasza: Zorobabel, Szimei. Synowie Zorobabela: Meszullam i Chananiasz, a ich siostra – Szelomit;<verse eid="1CH 3:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 3:20" />I Chaszuba, Ohel, Berechiasz, Chasadiasz i Juszabchesed – pięciu.<verse eid="1CH 3:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 3:21" />Synowie Chananiasza: Pelatiasz i Jesajasz. Synowie Refajasza, synowie Arnana, synowie Obadiasza, synowie Szekaniasza.<verse eid="1CH 3:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 3:22" />Synowie Szekaniasza: Szemajasz; a synowie Szemajasza: Chattusz, Jigal, Bariach, Neariasz i Szafat – sześciu.<verse eid="1CH 3:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 3:23" />Synowie Neariasza: Elioenaj, Ezechiasz i Azrikam – trzech.<verse eid="1CH 3:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 3:24" />Synowie Elioenaja: Hodawiasz, Eliaszib, Pelajasz, Akkub, Jochanan, Delajasz, Anani – siedmiu.<verse eid="1CH 3:24" />
+  </para>
+  <chapter eid="1CH 3" />
+  <chapter number="4" style="c" sid="1CH 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 4:1" />Synowie Judy: Peres, Chesron, Karmi, Chur i Szobal.<verse eid="1CH 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 4:2" />A Reajasz, syn Szobala, spłodził Jachata, a Jachat spłodził Achumaja i Lahada. To są rody Soreatytów.<verse eid="1CH 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 4:3" />A ci pochodzą od ojca Etama: Jizreel, Jiszma i Jidbasz, a ich siostra miała na imię Haselelponi.<verse eid="1CH 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 4:4" />Penuel był ojcem Gedora, a Ezer – ojcem Chuszy. To są synowie Chura, pierworodnego Efraty, ojca Betlejema.<verse eid="1CH 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 4:5" />A Aszur, ojciec Tekoa, miał dwie żony: Chelę i Naarę.<verse eid="1CH 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 4:6" />I Naara urodziła mu Achuzama, Chefera, Temniego i Achasztariego. Ci byli synami Naary.<verse eid="1CH 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 4:7" />Synowie Cheli: Seret, Jesochar i Etnan.<verse eid="1CH 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 4:8" />A Koz spłodził Anuba, Zobeba i rody Acharchela, syna Haruma.<verse eid="1CH 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 4:9" />A Jabes był bardziej poważany niż jego bracia. Jego matka dała mu na imię Jabes, mówiąc: Ponieważ urodziłam go w bólu.<verse eid="1CH 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 4:10" />I Jabes wzywał Boga Izraela, mówiąc: Obyś mi naprawdę błogosławił i rozszerzył moje granice, oby twoja ręka była ze mną, obyś zachował mnie od zła, abym nie był utrapiony. I Bóg spełnił to, o co go prosił.<verse eid="1CH 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 4:11" />A Kelub, brat Szuchy, spłodził Mechira, który był ojcem Esztona.<verse eid="1CH 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 4:12" />A Eszton spłodził Betrafę, Paseacha i Techinnę, ojca Irnachasza. To są mężczyźni z Rechy.<verse eid="1CH 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 4:13" />Synowie Kenaza: Otniel i Serajasz, a synowie Otniela: Chatat i Meonotaj.<verse eid="1CH 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 4:14" />Meonotaj spłodził Ofrę. Serajasz zaś spłodził Joaba, ojca Charaszimów mieszkających w dolinie – byli bowiem rzemieślnikami.<verse eid="1CH 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 4:15" />Synowie Kaleba, syna Jefunnego: Iru, Ela i Naam. A synem Eli był Kenaz.<verse eid="1CH 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 4:16" />Synowie Jehalleleela: Zif, Zifa, Tiria i Asareel.<verse eid="1CH 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 4:17" />Synowie Ezry: Jeter, Mered, Efer i Jalon. A żona Mereda urodziła Miriama, Szammaja i Iszbacha, ojca Esztemoi.<verse eid="1CH 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 4:18" />Jego żona Jehudaja urodziła Jereda, ojca Gedora, Chebera, ojca Soko, i Jekutiela, ojca Zanoacha. To są synowie Bitii, córki faraona, którą pojął za żonę Mered.<verse eid="1CH 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 4:19" />Synowie jego żony Hodijji, siostry Nahama, ojca Keili: Garmity i Esztemoa, Maakatyta.<verse eid="1CH 4:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 4:20" />Synowie Szimona: Amnon, Rinna, Benchanan i Tilon. A synowie Jisziego: Zochet i Benzochet.<verse eid="1CH 4:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 4:21" />Synowie Szeli, syna Judy: Er, ojciec Leki, Laada, ojciec Mareszy i tych rodów, które wytwarzały bisior w domu Aszbea;<verse eid="1CH 4:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 4:22" />Jokim i mężczyźni Kozeby oraz Joasz i Saraf, którzy panowali w Moabie, a także Jaszubilechem. To są dawne wydarzenia.<verse eid="1CH 4:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 4:23" />Byli oni garncarzami i mieszkali w sadach i między płotami. Mieszkali tam przy królu i pracowali dla niego.<verse eid="1CH 4:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 4:24" />Synowie Symeona: Nemuel, Jamin, Jarib, Zerach i Saul.<verse eid="1CH 4:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 4:25" />Jego syn Szallum, jego syn Mibsam, jego syn Miszma.<verse eid="1CH 4:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 4:26" />A synowie Miszmy: jego syn Chamuel, jego syn Zakkur, jego syn Szimei.<verse eid="1CH 4:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 4:27" />Szimei miał szesnastu synów i sześć córek, lecz jego bracia nie mieli wielu synów i wszystkie ich rody nie były tak liczne jak rody synów Judy.<verse eid="1CH 4:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 4:28" />Mieszkali oni w Beer-Szebie, Molada i w Chasar-Szual;<verse eid="1CH 4:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 4:29" />W Bilha, Esem i Tolad;<verse eid="1CH 4:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 4:30" />W Betuel, Chorma i Siklag;<verse eid="1CH 4:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 4:31" />W Bet-Markabot, Chasar-Susim, Bet-Birei i Szaaraim. To były ich miasta aż do panowania Dawida.<verse eid="1CH 4:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 4:32" />A ich wioskami były: Etam, Ain, Rimmon, Token i Aszan, pięć miast;<verse eid="1CH 4:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 4:33" />Oraz wszystkie ich wioski położone dokoła tych miast aż do Baal. To były ich miejsca zamieszkania i spisy ich rodów.<verse eid="1CH 4:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 4:34" />Meszobab, Jamlek i Josza, syn Amazjasza;<verse eid="1CH 4:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 4:35" />Joel i Jehu, syn Joszibiasza, syna Serajasza, syna Asiela;<verse eid="1CH 4:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 4:36" />I Elioenaj, Jaakoba, Jeszochajasz, Asajasz, Adiel, Jesimiel i Benajasz;<verse eid="1CH 4:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 4:37" />Ziza, syn Szifiego, syna Allona, syna Jedajasza, syna Szimriego, syna Semajasza.<verse eid="1CH 4:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 4:38" />Ci wymienieni imiennie byli naczelnikami w swoich rodach, a rodziny ich ojców bardzo się rozrosły.<verse eid="1CH 4:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 4:39" />I dotarli aż do wejścia do Gedor, aż na wschodnią stronę doliny, szukając pastwiska dla swych trzód.<verse eid="1CH 4:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 4:40" />I znaleźli obfite i dobre pastwiska oraz ziemię obszerną, spokojną i bezpieczną. Tam bowiem mieszkali przedtem Chamici.<verse eid="1CH 4:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="1CH 4:41" />Zapisani tu imiennie przyszli za czasów Ezechiasza, króla Judy, zniszczyli ich namioty i przybytki, które się tam znajdowały, doszczętnie wygubili ich i osiedlili się na ich miejscu. Tam bowiem były pastwiska dla ich trzód.<verse eid="1CH 4:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="1CH 4:42" />Niektórzy z nich, pięciuset mężczyzn spośród synów Symeona, udali się na górę Seir, a ich przywódcami byli: Pelatiasz, Neariasz, Refajasz i Uzziel, synowie Jisziego.<verse eid="1CH 4:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="1CH 4:43" />I pobili resztę ocalałych Amalekitów, i zamieszkali tam do dziś.<verse eid="1CH 4:43" />
+  </para>
+  <chapter eid="1CH 4" />
+  <chapter number="5" style="c" sid="1CH 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 5:1" />Synowie Rubena, pierworodnego Izraela. Był on pierworodnym, ale ponieważ zbezcześcił łoże swego ojca, jego pierworództwo zostało dane synom Józefa, syna Izraela. Nie spisano więc rodowodu według pierworództwa.<verse eid="1CH 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 5:2" />Juda bowiem był najpotężniejszy wśród swoich braci i od niego pochodził władca, lecz pierworództwo należało do Józefa.<verse eid="1CH 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 5:3" />Synami Rubena, pierworodnego Izraela, byli: Henoch, Pallu, Chesron i Karmi.<verse eid="1CH 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 5:4" />Synowie Joela: jego syn Szemajasz, jego syn Gog, jego syn Szimei;<verse eid="1CH 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 5:5" />Jego syn Micheasz, jego syn Reajasz, jego syn Baal;<verse eid="1CH 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 5:6" />Jego syn Beera, którego Tiglat-Pileser, król Asyrii, wziął do niewoli. On był księciem Rubenitów.<verse eid="1CH 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 5:7" />Jego braćmi według swoich rodzin, gdy spisywano rodowody ich pokoleń, byli naczelnicy: Jejel, Zachariasz;<verse eid="1CH 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 5:8" />I Bela, syn Azaza, syna Szemy, syna Joela, który zamieszkiwał w Aroerze aż po Nebo i Baal-Meon.<verse eid="1CH 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 5:9" />A na wschodzie zamieszkiwał aż do wejścia na pustkowie od rzeki Eufrat. Ich stada bowiem pomnożyły się w ziemi Gilead.<verse eid="1CH 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 5:10" />Za czasów Saula prowadzili wojnę z Hagrytami, którzy zostali przez nich pokonani. Zamieszkali więc w ich namiotach w całej wschodniej części Gileadu.<verse eid="1CH 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 5:11" />A synowie Gada mieszkali naprzeciw nich w ziemi Baszanu, aż do Salka.<verse eid="1CH 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 5:12" />Joel był zwierzchnikiem, potem Szafam, następnie Janaj i Szafat w Baszanie.<verse eid="1CH 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 5:13" />A ich braćmi według domów swoich ojców byli: Mikael, Meszullam, Szeba, Joraj, Jakan, Zija i Eber – siedmiu.<verse eid="1CH 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 5:14" />Ci są synami Abichaila, syna Churiego, syna Jaroacha, syna Gileada, syna Mikaela, syna Jesziszaja, syna Jachdo, syna Buza;<verse eid="1CH 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 5:15" />Achi, syn Abdiela, syna Guniego – głowa domu ich ojców.<verse eid="1CH 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 5:16" />I mieszkali w Gileadzie, w Baszanie, w jego miasteczkach i na wszystkich pastwiskach Szaronu aż po ich krańce.<verse eid="1CH 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 5:17" />Wszyscy oni spisani zostali według rodowodów za czasów Jotama, króla Judy, i za czasów Jeroboama, króla Izraela.<verse eid="1CH 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 5:18" />Synów Rubena i Gada oraz połowy pokolenia Manassesa, dzielnych wojowników zdolnych do noszenia tarczy i miecza i do strzelania z łuku i wyćwiczonych w boju, było czterdzieści cztery tysiące siedmiuset sześćdziesięciu wyruszających do bitwy.<verse eid="1CH 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 5:19" />Oni prowadzili wojnę z Hagrytami, z Jeturem, z Nafiszem i Nodabem;<verse eid="1CH 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 5:20" />I otrzymali pomoc przeciwko nim. Wydano więc w ich ręce Hagrytów wraz ze wszystkimi, którzy z nimi byli. Podczas walki bowiem wołali do Boga, a on ich wysłuchał, bo pokładali w nim ufność.<verse eid="1CH 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 5:21" />I zabrali z ich stad: pięćdziesiąt tysięcy wielbłądów, dwieście pięćdziesiąt tysięcy owiec, dwa tysiące osłów, a ludzi – sto tysięcy.<verse eid="1CH 5:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 5:22" />Wielu bowiem poległo, gdyż wojna ta wyszła od Boga. I mieszkali na ich miejscu aż do uprowadzenia do niewoli.<verse eid="1CH 5:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 5:23" />Ale synowie połowy pokolenia Manassesa mieszkali w tej ziemi i rozmnożyli się od Baszanu aż do Baal-Chermon i Seniru, i do góry Hermon.<verse eid="1CH 5:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 5:24" />A oto są naczelnicy domów ich ojców: Efer, Jiszi, Eliel, Azriel, Jeremiasz, Hodawiasz i Jachdiel, dzielni wojownicy, ludzie sławni, naczelnicy domu swoich ojców.<verse eid="1CH 5:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 5:25" />Lecz zgrzeszyli przeciw Bogu swoich ojców i cudzołożyli, idąc za bogami narodów tej ziemi, które Bóg zniszczył przed nimi.<verse eid="1CH 5:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 5:26" />Wtedy Bóg Izraela pobudził ducha Pula, króla Asyrii, i ducha Tiglat-Pilesera, króla Asyrii, i uprowadził Rubenitów i Gadytów oraz połowę pokolenia Manassesa i zaprowadził ich do Chalach, do Chabor, do Hara i do rzeki Gozan; są tam aż do dziś.<verse eid="1CH 5:26" />
+  </para>
+  <chapter eid="1CH 5" />
+  <chapter number="6" style="c" sid="1CH 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 6:1" />Synowie Lewiego: Gerszom, Kehat i Merari.<verse eid="1CH 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 6:2" />A synowie Kehata: Amram, Ishar, Chebron i Uzziel.<verse eid="1CH 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 6:3" />A dzieci Amrama: Aaron, Mojżesz i Miriam. Synowie Aarona: Nadab, Abihu, Eleazar i Itamar.<verse eid="1CH 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 6:4" />Eleazar spłodził Pinchasa, a Pinchas spłodził Abiszuę.<verse eid="1CH 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 6:5" />Abiszua spłodził Bukkiego, a Bukki spłodził Uzziego.<verse eid="1CH 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 6:6" />Uzzi spłodził Zerachiasza, a Zerachiasz spłodził Merajota.<verse eid="1CH 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 6:7" />Merajot spłodził Amariasza, a Amariasz spłodził Achituba.<verse eid="1CH 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 6:8" />Achitub spłodził Sadoka, a Sadok spłodził Achimaasa.<verse eid="1CH 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 6:9" />Achimaas spłodził Azariasza, a Azariasz spłodził Jochanana.<verse eid="1CH 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 6:10" />Jochanan spłodził Azariasza. On to sprawował urząd kapłański w świątyni, którą Salomon zbudował w Jerozolimie.<verse eid="1CH 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 6:11" />Azariasz spłodził Amariasza, a Amariasz spłodził Achituba.<verse eid="1CH 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 6:12" />Achitub spłodził Sadoka, a Sadok spłodził Szalluma.<verse eid="1CH 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 6:13" />Szallum spłodził Chilkiasza, a Chilkiasz spłodził Azariasza.<verse eid="1CH 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 6:14" />Azariasz spłodził Serajasza, a Serajasz spłodził Jehocadaka.<verse eid="1CH 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 6:15" />A Jehocadak trafił do niewoli, gdy PAN uprowadził Judę i Jerozolimę przez Nabuchodonozora.<verse eid="1CH 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 6:16" />Synowie Lewiego: Gerszom, Kehat i Merari.<verse eid="1CH 6:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 6:17" />A to są imiona synów Gerszoma: Libni i Szimei.<verse eid="1CH 6:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 6:18" />A synowie Kehata: Amram, Ishar, Chebron i Uzziel.<verse eid="1CH 6:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 6:19" />Synowie Merariego: Machli i Muszi. A to są rody Lewitów według ich ojców.<verse eid="1CH 6:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 6:20" />Od Gerszoma: jego syn Libni, jego syn Jachat, jego syn Zimma;<verse eid="1CH 6:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 6:21" />Jego syn Joach, jego syn Iddo, jego syn Zerach, jego syn Jeatraj.<verse eid="1CH 6:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 6:22" />Synowie Kehata: jego syn Amminadab, jego syn Korach, jego syn Assir;<verse eid="1CH 6:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 6:23" />Jego syn Elkana, jego syn Ebiasaf, jego syn Assir;<verse eid="1CH 6:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 6:24" />Jego syn Tachat, jego syn Uriel, jego syn Uzjasz, jego syn Saul.<verse eid="1CH 6:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 6:25" />Synowie Elkany: Amasaj, Achimot i Elkana.<verse eid="1CH 6:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 6:26" />Synowie Elkany: jego syn Sofaj, jego syn Nachat;<verse eid="1CH 6:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 6:27" />Jego syn Eliab, jego syn Jerocham, jego syn Elkana.<verse eid="1CH 6:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 6:28" />Synowie Samuela: pierworodny Waszni i Abiasz.<verse eid="1CH 6:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 6:29" />Synowie Merariego: Machli, jego syn Libni, jego syn Szimei, jego syn Uzza;<verse eid="1CH 6:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 6:30" />Jego syn Szimea, jego syn Chaggiasz, jego syn Asajasz.<verse eid="1CH 6:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 6:31" />To są ci, których Dawid ustanowił do prowadzenia śpiewu w domu PANA, odkąd spoczęła tam arka.<verse eid="1CH 6:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 6:32" />I posługiwali śpiewem przed przybytkiem, czyli Namiotem Zgromadzenia, aż Salomon zbudował dom PANA w Jerozolimie. Stawali do swojej służby według swego porządku.<verse eid="1CH 6:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 6:33" />A oto ci, którzy stawali wraz ze swoimi synami: spośród synów Kehata – śpiewak Heman, syn Joela, syna Samuela;<verse eid="1CH 6:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 6:34" />Syna Elkany, syna Jerochama, syna Eliela, syna Toacha;<verse eid="1CH 6:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 6:35" />Syna Sufa, syna Elkany, syna Machata, syna Amasaja;<verse eid="1CH 6:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 6:36" />Syna Elkany, syna Joela, syna Azariasza, syna Sofoniasza;<verse eid="1CH 6:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 6:37" />Syna Tachata, syna Assira, syna Ebiasafa, syna Koracha;<verse eid="1CH 6:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 6:38" />Syna Ishara, syna Kehata, syna Lewiego, syna Izraela.<verse eid="1CH 6:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 6:39" />Oraz jego brat Asaf, który stawał po jego prawicy. Asaf, syn Berechiasza, syna Szimei;<verse eid="1CH 6:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 6:40" />Syna Mikaela, syna Baasejasza, syna Malkiasza;<verse eid="1CH 6:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="1CH 6:41" />Syna Etniego, syna Zeracha, syna Adajasza;<verse eid="1CH 6:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="1CH 6:42" />Syna Etana, syna Zimmy, syna Szimejego;<verse eid="1CH 6:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="1CH 6:43" />Syna Jachata, syna Gerszoma, syna Lewiego.<verse eid="1CH 6:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="1CH 6:44" />A ich bracia, synowie Merariego, stawali po lewej stronie: Etan, syn Kisziego, syna Abdiego, syna Malluka;<verse eid="1CH 6:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="1CH 6:45" />Syna Chaszabiasza, syna Amaziasza, syna Chilkiasza.<verse eid="1CH 6:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="1CH 6:46" />Syna Amsjego, syna Baniego, syna Szamera;<verse eid="1CH 6:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="1CH 6:47" />Syna Mochliego, syna Musziego, syna Merariego, syna Lewiego.<verse eid="1CH 6:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="1CH 6:48" />A ich bracia, Lewici, byli ustanowieni do wszelkiej posługi w przybytku domu Boga.<verse eid="1CH 6:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="1CH 6:49" />Aaron zaś i jego synowie palili kadzidło na ołtarzu całopalenia i na ołtarzu kadzenia, byli odpowiedzialni za wszelką posługę w Miejscu Najświętszym i za dokonywanie przebłagania za Izraela według wszystkiego, co nakazał Mojżesz, sługa Boży.<verse eid="1CH 6:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="1CH 6:50" />A oto synowie Aarona: jego syn Eleazar, jego syn Pinchas;<verse eid="1CH 6:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="1CH 6:51" />Jego syn Abiszua, jego syn Bukki, jego syn Uzzi, jego syn Zerachiasz;<verse eid="1CH 6:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="1CH 6:52" />Jego syn Merajot, jego syn Amariasz, jego syn Achitub;<verse eid="1CH 6:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="1CH 6:53" />Jego syn Sadok, jego syn Achimaas.<verse eid="1CH 6:53" />
+  </para>
+  <para style="m">
+    <verse number="54" style="v" sid="1CH 6:54" />A to są ich mieszkania według ich wieży w ich obszarze, to jest synów Aarona, według rodu Kehatytów. Był to bowiem ich los.<verse eid="1CH 6:54" />
+  </para>
+  <para style="m">
+    <verse number="55" style="v" sid="1CH 6:55" />Oddano im Hebron w ziemi Judy wraz z pastwiskami dokoła niego;<verse eid="1CH 6:55" />
+  </para>
+  <para style="m">
+    <verse number="56" style="v" sid="1CH 6:56" />Lecz pola miasta i jego wsie dano Kalebowi, synowi Jefunnego.<verse eid="1CH 6:56" />
+  </para>
+  <para style="m">
+    <verse number="57" style="v" sid="1CH 6:57" />Synom Aarona zaś dano spośród miast Judy miasta schronienia: Hebron, Libnę z jego pastwiskami, Jattir i Esztemoę wraz z ich pastwiskami;<verse eid="1CH 6:57" />
+  </para>
+  <para style="m">
+    <verse number="58" style="v" sid="1CH 6:58" />I Chilen z jego pastwiskami, Debir z jego pastwiskami;<verse eid="1CH 6:58" />
+  </para>
+  <para style="m">
+    <verse number="59" style="v" sid="1CH 6:59" />Aszan z jego pastwiskami i Bet-Szemesz z jego pastwiskami.<verse eid="1CH 6:59" />
+  </para>
+  <para style="m">
+    <verse number="60" style="v" sid="1CH 6:60" />A od pokolenia Beniamina: Geba z jego pastwiskami, Alemet z jego pastwiskami i Anatot z jego pastwiskami. Wszystkich ich miast było trzynaście według ich rodzin.<verse eid="1CH 6:60" />
+  </para>
+  <para style="m">
+    <verse number="61" style="v" sid="1CH 6:61" />A pozostałym synom Kehata, spośród rodziny tego pokolenia, przypadło losem dziesięć miast od połowy pokolenia Manassesa.<verse eid="1CH 6:61" />
+  </para>
+  <para style="m">
+    <verse number="62" style="v" sid="1CH 6:62" />A synom Gerszoma według ich rodzin przypadło od pokolenia Issachara, od pokolenia Aszera, od pokolenia Neftalego i od pokolenia Manassesa w Baszanie – trzynaście miast.<verse eid="1CH 6:62" />
+  </para>
+  <para style="m">
+    <verse number="63" style="v" sid="1CH 6:63" />Synom Merariego według ich rodzin przypadło losem od pokolenia Rubena, od pokolenia Gada i od pokolenia Zebulona – dwanaście miast.<verse eid="1CH 6:63" />
+  </para>
+  <para style="m">
+    <verse number="64" style="v" sid="1CH 6:64" />Synowie Izraela dali Lewitom te miasta wraz z ich pastwiskami.<verse eid="1CH 6:64" />
+  </para>
+  <para style="m">
+    <verse number="65" style="v" sid="1CH 6:65" />A dali przez los od pokolenia synów Judy, od pokolenia synów Symeona i od pokolenia synów Beniamina te miasta, którym nadali ich imiona.<verse eid="1CH 6:65" />
+  </para>
+  <para style="m">
+    <verse number="66" style="v" sid="1CH 6:66" />A ci, którzy pochodzili z rodu synów Kehata, mieli miasta w granicach pokolenia Efraima.<verse eid="1CH 6:66" />
+  </para>
+  <para style="m">
+    <verse number="67" style="v" sid="1CH 6:67" />Dano im z miast schronienia: Sychem z jego pastwiskami na górze Efraim i Gezer z jego pastwiskami;<verse eid="1CH 6:67" />
+  </para>
+  <para style="m">
+    <verse number="68" style="v" sid="1CH 6:68" />Jokmeam z jego pastwiskami, Bet-Choron z jego pastwiskami;<verse eid="1CH 6:68" />
+  </para>
+  <para style="m">
+    <verse number="69" style="v" sid="1CH 6:69" />Ajjalon z jego pastwiskami i Gat-Rimmon z jego pastwiskami.<verse eid="1CH 6:69" />
+  </para>
+  <para style="m">
+    <verse number="70" style="v" sid="1CH 6:70" />Od połowy pokolenia Manassesa: Aner z jego pastwiskami, Bileam z jego pastwiskami. Dano to rodzinie pozostałych synów Kehata.<verse eid="1CH 6:70" />
+  </para>
+  <para style="m">
+    <verse number="71" style="v" sid="1CH 6:71" />Synom Gerszoma dano od połowy pokolenia Manassesa Golan w Baszanie z jego pastwiskami i Asztarot z jego pastwiskami;<verse eid="1CH 6:71" />
+  </para>
+  <para style="m">
+    <verse number="72" style="v" sid="1CH 6:72" />Od pokolenia Issachara – Kedesz z jego pastwiskami, Daberat z jego pastwiskami;<verse eid="1CH 6:72" />
+  </para>
+  <para style="m">
+    <verse number="73" style="v" sid="1CH 6:73" />Ramot z jego pastwiskami i Anem z jego pastwiskami.<verse eid="1CH 6:73" />
+  </para>
+  <para style="m">
+    <verse number="74" style="v" sid="1CH 6:74" />Od pokolenia Aszera: Maszal z jego pastwiskami, Abdon z jego pastwiskami;<verse eid="1CH 6:74" />
+  </para>
+  <para style="m">
+    <verse number="75" style="v" sid="1CH 6:75" />Chukok z jego pastwiskami i Rechob z jego pastwiskami.<verse eid="1CH 6:75" />
+  </para>
+  <para style="m">
+    <verse number="76" style="v" sid="1CH 6:76" />Od pokolenia Neftalego: Kedesz w Galilei z jego pastwiskami, Chammon z jego pastwiskami i Kiriataim z jego pastwiskami.<verse eid="1CH 6:76" />
+  </para>
+  <para style="m">
+    <verse number="77" style="v" sid="1CH 6:77" />Pozostałym synom Merariego dano od pokolenia Zebulona Rimmon z jego pastwiskami i Tabor z jego pastwiskami.<verse eid="1CH 6:77" />
+  </para>
+  <para style="m">
+    <verse number="78" style="v" sid="1CH 6:78" />A po drugiej stronie Jordanu koło Jerycha, na wschód od Jordanu, dano od pokolenia Rubena: Beser na pustyni z jego pastwiskami, Jahazę z jej pastwiskami;<verse eid="1CH 6:78" />
+  </para>
+  <para style="m">
+    <verse number="79" style="v" sid="1CH 6:79" />Kedemot z jego pastwiskami i Mefaat z jego pastwiskami.<verse eid="1CH 6:79" />
+  </para>
+  <para style="m">
+    <verse number="80" style="v" sid="1CH 6:80" />Od pokolenia Gada: Ramot w Gileadzie z jego pastwiskami, Machanaim z jego pastwiskami;<verse eid="1CH 6:80" />
+  </para>
+  <para style="m">
+    <verse number="81" style="v" sid="1CH 6:81" />Cheszbon z jego pastwiskami i Jazer z jego pastwiskami.<verse eid="1CH 6:81" />
+  </para>
+  <chapter eid="1CH 6" />
+  <chapter number="7" style="c" sid="1CH 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 7:1" />Synami Issachara byli: Tola, Pua, Jaszub, Szimron – czterej.<verse eid="1CH 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 7:2" />Synowie Tolego: Uzzi, Refajasz, Jeriel, Jachmaj, Jibsam i Szemuel – naczelnicy rodów Toli. Byli oni dzielnymi wojownikami w swoich czasach. Ich liczba za czasów Dawida wynosiła dwadzieścia dwa tysiące sześciuset.<verse eid="1CH 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 7:3" />Synowie Uzziego: Izrachiasz, a synowie Izrachiasza: Mikael, Obadiasz, Joel i Jeszijasz, pięciu – wszyscy naczelnicy.<verse eid="1CH 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 7:4" />A z nimi, według rodowodów, według domów ich ojców, były oddziały zbrojne do walki w liczbie trzydziestu sześciu tysięcy. Mieli bowiem wiele żon i synów.<verse eid="1CH 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 7:5" />Ich bracia według wszystkich rodów Issachara, dzielni wojownicy, liczyli osiemdziesiąt siedem tysięcy, wszyscy spisani byli według rodowodów.<verse eid="1CH 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 7:6" />Synowie Beniamina: Bela, Beker i Jediael, trzej.<verse eid="1CH 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 7:7" />Synowie Beli: Eszbon, Uzzi, Uzziel, Jerimot i Iri, pięciu – naczelnicy domów ojców, dzielni wojownicy; spisani według rodowodu liczyli dwadzieścia dwa tysiące trzydziestu czterech.<verse eid="1CH 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 7:8" />Synowie Bekera: Zemira, Joasz, Eliezer, Elioenaj, Omri, Jerimot, Abiasz, Anatot i Alamet. Ci wszyscy byli synami Bekera.<verse eid="1CH 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 7:9" />A spisani według swoich rodowodów, naczelnicy domów swoich ojców, dzielni wojownicy, liczyli dwadzieścia tysięcy dwustu mężczyzn.<verse eid="1CH 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 7:10" />Synowie Jediaela: Bilhan, a synowie Bilhana: Jehusz, Beniamin, Ehud, Kenaana, Zetan, Tarszisz i Achiszachar.<verse eid="1CH 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 7:11" />Ci wszyscy synowie Jediaela, naczelnicy rodów, dzielni wojownicy, liczyli siedemnaście tysięcy dwustu wyruszających na wojnę do bitwy;<verse eid="1CH 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 7:12" />Także Szuppim i Chuppim, synowie Ira, oraz Chuszim, synowie Achera.<verse eid="1CH 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 7:13" />Synowie Neftalego: Jachasjel, Guni, Jeser i Szallum, synowie Bilhy.<verse eid="1CH 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 7:14" />Synowie Manassesa: Asriel, którego urodziła mu żona (a jego nałożnica Aramejka urodziła Makira, ojca Gileada;<verse eid="1CH 7:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 7:15" />A Makir wziął sobie za żonę siostrę Chuppima i Szuppima, która miała na imię Maaka); drugi syn miał na imię Selofchad. Selofchad zaś miał tylko córki.<verse eid="1CH 7:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 7:16" />Maaka, żona Makira, urodziła syna i nadała mu imię Peresz. Jego brat miał na imię Szeresz, a jego synami byli Ulam i Rekiem.<verse eid="1CH 7:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 7:17" />Synowie Ulama: Bedon. To są synowie Gileada, syna Makira, syna Manassesa.<verse eid="1CH 7:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 7:18" />Jego siostra Hammoleket urodziła Iszhoda, Abiezera i Machlę.<verse eid="1CH 7:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 7:19" />Synowie Szemidy: Achian, Szekem, Likchi i Aniam.<verse eid="1CH 7:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 7:20" />Synowie Efraima: Szutelach, jego syn Bered, jego syn Tachat, jego syn Elada, jego syn Tachat;<verse eid="1CH 7:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 7:21" />Jego syn Zabad, jego syn Szutelach, a także Eser i Elad, których zabili ludzie z Gat urodzeni w tej ziemi. Wtargnęli bowiem, aby zabrać ich stada.<verse eid="1CH 7:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 7:22" />Ich ojciec Efraim opłakiwał ich przez wiele dni, a jego bracia przyszli, aby go pocieszyć.<verse eid="1CH 7:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 7:23" />Potem obcował ze swoją żoną, a ona poczęła i urodziła syna, i nadał mu imię Beria, ponieważ stało się nieszczęście w jego domu.<verse eid="1CH 7:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 7:24" />Jego córką była Szeera, która zbudowała Bet-Choron dolne i górne oraz Uzen-Szeera.<verse eid="1CH 7:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 7:25" />I jego syn Refach, i Reszef, a jego syn Telach, jego syn Tachan;<verse eid="1CH 7:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 7:26" />Jego syn Ladan, jego syn Ammihud, jego syn Eliszama;<verse eid="1CH 7:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 7:27" />Jego syn Nun, jego syn Jozue.<verse eid="1CH 7:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 7:28" />A ich posiadłości i miejsca zamieszkania to Betel i należące do niego miejscowości, na wschód – Naaran, a na zachód – Gezer i należące do niego miejscowości, a także Sychem i należące do niego miejscowości; aż do Gazy i należących do niej miejscowości.<verse eid="1CH 7:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 7:29" />I aż do granic synów Manassesa, które stanowiły Bet-Szean i należące do niego miejscowości, Tanak i należące do niego miejscowości, Megiddo i należące do niego miejscowości oraz Dor i należące do niego miejscowości. W nich mieszkali synowie Józefa, syna Izraela.<verse eid="1CH 7:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 7:30" />Synowie Aszera: Jimna, Jiszwa, Jiszwi, Beria i Sera, ich siostra.<verse eid="1CH 7:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 7:31" />Synowie Berii: Cheber i Malkiel, który jest ojcem Birzaita.<verse eid="1CH 7:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 7:32" />A Cheber spłodził Jafleta, Szomera, Chotama oraz ich siostrę Szuę.<verse eid="1CH 7:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 7:33" />Synowie Jafleta: Pasak, Bimhal i Aszwat. To są synowie Jafleta.<verse eid="1CH 7:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 7:34" />Synowie Szomera: Achi, Rohga, Jechubba i Aram.<verse eid="1CH 7:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 7:35" />Synowie jego brata Chelema: Sofach, Jimna, Szelesz i Amal.<verse eid="1CH 7:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 7:36" />Synowie Sofacha: Suach, Charnefer, Szual, Beri, Jimra;<verse eid="1CH 7:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 7:37" />Beser, Hod, Szamma, Szilsza, Jitran i Beera.<verse eid="1CH 7:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 7:38" />Synowie Jetera: Jefunne, Pispa i Ara.<verse eid="1CH 7:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 7:39" />Synowie Ulli: Arach, Channiel i Risja.<verse eid="1CH 7:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 7:40" />Ci wszyscy to synowie Aszera, naczelnicy rodów, wyborowi i dzielni wojownicy, pierwsi wśród książąt. Ich liczba spisana według rodowodu wynosiła dwadzieścia sześć tysięcy zdolnych do walki.<verse eid="1CH 7:40" />
+  </para>
+  <chapter eid="1CH 7" />
+  <chapter number="8" style="c" sid="1CH 8" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 8:1" />Beniamin spłodził Belę, swego pierworodnego, Aszbela – drugiego, Achracha – trzeciego;<verse eid="1CH 8:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 8:2" />Nocha – czwartego, Rafa – piątego.<verse eid="1CH 8:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 8:3" />Synami Beli byli: Addar, Gera, Abihud;<verse eid="1CH 8:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 8:4" />Abiszua, Naaman, Achoach;<verse eid="1CH 8:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 8:5" />Gera, Szefufan i Huram.<verse eid="1CH 8:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 8:6" />Oto synowie Ehuda – byli oni naczelnikami rodów mieszkających w Geba i zostali przesiedleni do Manachat;<verse eid="1CH 8:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 8:7" />Byli to: Naaman, Achiasz i Gera. On ich przesiedlił i potem spłodził Uzzę i Ahiuda.<verse eid="1CH 8:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 8:8" />A Sacharaim spłodził dzieci w krainie Moabu po odprawieniu swoich żon Chuszimy i Baary.<verse eid="1CH 8:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 8:9" />Spłodził więc ze swojej żony Chodeszy Jobaba, Sibię, Meszę, Malkoma;<verse eid="1CH 8:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 8:10" />Jeusa, Sakiasza i Mirmę. Ci byli jego synami, naczelnikami rodów.<verse eid="1CH 8:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 8:11" />Z Chuszimy spłodził Abituba i Elpaala.<verse eid="1CH 8:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 8:12" />Synowie Elpaala: Eber, Miszam i Szemed, który zbudował Ono i Lod oraz należące do niego miejscowości;<verse eid="1CH 8:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 8:13" />A także Beria i Szema, którzy byli naczelnikami rodów mieszkających w Ajjalonie. To oni wypędzili mieszkańców Gat.<verse eid="1CH 8:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 8:14" />A Achio, Szaszak, Jeremot;<verse eid="1CH 8:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 8:15" />Zebadiasz, Arad, Eder;<verse eid="1CH 8:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 8:16" />Mikael, Jiszpa i Jocha – byli to synowie Berii.<verse eid="1CH 8:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 8:17" />A Zebadiasz, Meszullam, Chiszki, Cheber;<verse eid="1CH 8:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 8:18" />Jiszmeraj, Jiszlia i Jobab – byli synami Elpaala.<verse eid="1CH 8:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 8:19" />A Jakim, Zikri, Zabdi;<verse eid="1CH 8:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 8:20" />Elioenaj, Silletaj, Eliel;<verse eid="1CH 8:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 8:21" />Adajasz, Berajasz, Szimrat – to synowie Szimejego.<verse eid="1CH 8:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 8:22" />A Jiszpan, Eber, Eliel;<verse eid="1CH 8:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 8:23" />Abdon, Zikri, Chanan;<verse eid="1CH 8:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 8:24" />Chananiasz, Elam i Antotiasz;<verse eid="1CH 8:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 8:25" />Jifdejasz i Penuel – to synowie Szaszaka.<verse eid="1CH 8:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 8:26" />A Szamszeraj, Szechariasz, Ataliasz;<verse eid="1CH 8:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 8:27" />Jaareszjasz, Eliasz i Zikri – to synowie Jerochama.<verse eid="1CH 8:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 8:28" />Ci byli naczelnikami rodów, przywódcami według swoich rodowodów, a zamieszkali w Jerozolimie.<verse eid="1CH 8:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 8:29" />W Gibeonie mieszkał ojciec Gibeona, a jego żona miała na imię Maaka.<verse eid="1CH 8:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 8:30" />Jego pierworodnym synem był Abdon, a następni to: Sur, Kisz, Baal, Nadab;<verse eid="1CH 8:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 8:31" />Gedor, Achio i Zakir.<verse eid="1CH 8:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 8:32" />Miklot spłodził Szimeę. Oni także mieszkali ze swoimi braćmi w Jerozolimie, naprzeciw swoich braci.<verse eid="1CH 8:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 8:33" />Ner spłodził Kisza, a Kisz spłodził Saula, Saul zaś spłodził Jonatana, Malkiszuę, Abinadaba i Eszbaala.<verse eid="1CH 8:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 8:34" />Synem Jonatana był Meribbaal, Meribbaal zaś spłodził Micheasza.<verse eid="1CH 8:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 8:35" />Synowie Micheasza: Piton, Melek, Tarea i Achaz.<verse eid="1CH 8:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 8:36" />Achaz spłodził Jehoaddę, a Jehoadda spłodził Alemeta, Azmaweta i Zimriego, a Zimri spłodził Mosę;<verse eid="1CH 8:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 8:37" />Mosa spłodził Bineę, jego synem był Rafa, jego synem był Eleasa, jego synem był Asel.<verse eid="1CH 8:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 8:38" />Asel miał sześciu synów, a oto ich imiona: Azrikam, Bokru, Izmael, Szeariasz, Obadiasz i Chanan. Ci wszyscy byli synami Asela.<verse eid="1CH 8:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 8:39" />Synowie jego brata Eszeka: Ulam, jego pierworodny, Jeusz – drugi, Elifelet – trzeci;<verse eid="1CH 8:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 8:40" />Synowie Ulama byli dzielnymi wojownikami, sprawnymi łucznikami, a mieli wielu synów i wnuków, razem – stu pięćdziesięciu. Ci wszyscy pochodzili z synów Beniamina.<verse eid="1CH 8:40" />
+  </para>
+  <chapter eid="1CH 8" />
+  <chapter number="9" style="c" sid="1CH 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 9:1" />Tak wszyscy Izraelici byli spisani w rodowodach, a oto zostały one zapisane w księdze królów Izraela i Judy, a ci zostali uprowadzeni do Babilonu z powodu swego przestępstwa.<verse eid="1CH 9:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 9:2" />Pierwszymi mieszkańcami, którzy weszli do swych posiadłości w swoich miastach, byli Izraelici, kapłani, Lewici i Netinici.<verse eid="1CH 9:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 9:3" />W Jerozolimie mieszkali spośród synów Judy, Beniamina, Efraima i Manassesa:<verse eid="1CH 9:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 9:4" />Utaj, syn Ammihuda, syna Omriego, syna Imriego, syna Baniego, z synów Peresa, syna Judy.<verse eid="1CH 9:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 9:5" />Z Szilonitów: pierworodny Asajasz i jego synowie.<verse eid="1CH 9:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 9:6" />Z synów Zeracha: Jeuel i ich braci, sześciuset dziewięćdziesięciu.<verse eid="1CH 9:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 9:7" />Z synów Beniamina: Sallu, syn Meszullama, syna Hodawiasza, syna Hassenuy;<verse eid="1CH 9:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 9:8" />I Jibnejasz, syn Jerochama, Ela, syn Uzziego, syna Mikriego, i Meszullam, syn Szefatiasza, syna Reuela, syna Jibniasza.<verse eid="1CH 9:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 9:9" />Ich braci według rodowodów było dziewięćset pięćdziesięciu sześciu. Ci wszyscy byli naczelnikami rodów według domów swoich ojców.<verse eid="1CH 9:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 9:10" />Z kapłanów: Jedajasz, Jehojarib, Jakin;<verse eid="1CH 9:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 9:11" />I Azariasz, syn Chilkiasza, syna Meszullama, syna Sadoka, syna Merajota, syna Achituba, przełożonego domu Bożego;<verse eid="1CH 9:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 9:12" />I Adajasz, syn Jerochama, syna Paszchura, syna Malkiasza, i Maasaj, syn Adiela, syna Jachzery, syna Meszullama, syna Meszillemita, syna Immera;<verse eid="1CH 9:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 9:13" />Ich braci, naczelników swoich rodów, było tysiąc siedmiuset sześćdziesięciu, ludzi zdolnych do pełnienia służby w domu Bożym.<verse eid="1CH 9:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 9:14" />A z Lewitów: Szemejasz, syn Chaszuba, syna Azrikama, syna Chaszabiasza, z synów Merariego;<verse eid="1CH 9:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 9:15" />I Bakbakar, Cheresz, Galal, Mattaniasz, syn Micheasza, syna Zikriego, syna Asafa;<verse eid="1CH 9:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 9:16" />I Obadiasz, syn Szemajasza, syna Galala, syna Jedutuna, i Berechiasz, syn Asy, syna Elkany, który mieszkał we wsiach Netofatytów.<verse eid="1CH 9:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 9:17" />A odźwierni: Szallum, Akkub, Talmon, Achiman i ich bracia. Szallum był ich zwierzchnikiem;<verse eid="1CH 9:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 9:18" />Który aż dotąd stawał przy bramie królewskiej od wschodu. Ci byli odźwiernymi w obozach synów Lewiego.<verse eid="1CH 9:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 9:19" />Szallum, syn Korego, syna Ebiazafa, syna Koracha, i jego bracia z domu jego ojca, Korachici, pełnili służbę, byli stróżami progów namiotu, a ich ojcowie byli stróżami wejścia do obozu PANA.<verse eid="1CH 9:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 9:20" />Pinchas, syn Eleazara, był niegdyś zwierzchnikiem nad nimi, a PAN był z nim.<verse eid="1CH 9:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 9:21" />Zachariasz, syn Meszelemiasza, był odźwiernym przy wejściu do Namiotu Zgromadzenia.<verse eid="1CH 9:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 9:22" />Wszystkich wybranych na odźwiernych przy bramach było dwustu dwunastu. Byli oni policzeni według ich rodowodu w swoich osiedlach, a ustanowił ich Dawid i Samuel, widzący.<verse eid="1CH 9:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 9:23" />Oni więc i ich synowie czuwali nad bramami domu PANA, w domu namiotu, jako stróże.<verse eid="1CH 9:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 9:24" />Odźwierni znajdowali się z czterech stron: od wschodu, od zachodu, od północy i od południa.<verse eid="1CH 9:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 9:25" />Ich bracia zaś, mieszkający w swoich osiedlach, przychodzili co siódmy dzień, w swoich porach, aby być z nimi.<verse eid="1CH 9:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 9:26" />Czterej bowiem naczelni odźwierni pełnili stałą służbę. Byli to Lewici odpowiedzialni za komnaty i skarbiec domu Bożego;<verse eid="1CH 9:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 9:27" />I nocowali dokoła domu Bożego, gdyż do nich należała straż i obowiązek otwierania go każdego ranka.<verse eid="1CH 9:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 9:28" />Niektórzy z nich mieli pieczę nad naczyniami do służby, by je wnosić i wynosić w tej samej liczbie.<verse eid="1CH 9:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 9:29" />Inni spośród nich byli ustanowieni do opieki nad naczyniami i przyborami Miejsca Najświętszego – nad mąką pszenną, winem, oliwą, kadzidłem i wonnościami.<verse eid="1CH 9:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 9:30" />A niektórzy z synów kapłanów sporządzali olejki z wonności.<verse eid="1CH 9:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 9:31" />Mattitiasz, spośród Lewitów, pierworodny Szalluma Korachity, był przełożonym nad tym, co przygotowane w patelniach.<verse eid="1CH 9:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 9:32" />Niektórzy ich bracia spośród synów Kehata byli ustanowieni do opieki nad chlebami pokładnymi, aby je przygotowywać w każdy szabat.<verse eid="1CH 9:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 9:33" />Ci byli śpiewakami, naczelnikami rodów Lewitów, którzy mieszkają w komnatach; byli wolni od innych zajęć, gdyż we dnie i w nocy zajmowali się tą służbą.<verse eid="1CH 9:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 9:34" />Byli oni naczelnikami rodów Lewitów, naczelnikami według swoich rodowodów, a mieszkali w Jerozolimie.<verse eid="1CH 9:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 9:35" />W Gibeonie mieszkał Jejel, ojciec Gibeona, a jego żona miała na imię Maaka;<verse eid="1CH 9:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 9:36" />A jego synem pierworodnym był Abdon, a następni to: Sur, Kisz, Baal, Neer, Nadab;<verse eid="1CH 9:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 9:37" />I Gedor, Achio, Zachariasz, i Miklot.<verse eid="1CH 9:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 9:38" />A Miklot spłodził Szimmeama. Tamci również mieszkali ze swoimi braćmi w Jerozolimie naprzeciw swoich braci.<verse eid="1CH 9:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 9:39" />Neer spłodził Kisza, a Kisz spłodził Saula, a Saul spłodził Jonatana, Malkiszuę, Abinadaba i Eszbaala.<verse eid="1CH 9:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 9:40" />Synem Jonatana był Meribbaal, a Meribbaal spłodził Micheasza.<verse eid="1CH 9:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="1CH 9:41" />Synowie zaś Micheasza to: Piton, Melek, Tarea i Achaz.<verse eid="1CH 9:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="1CH 9:42" />Achaz spłodził Jarę, a Jara spłodził Alemeta, Azmaweta i Zimriego, a Zimri spłodził Mosę.<verse eid="1CH 9:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="1CH 9:43" />Mosa spłodził Bineę, a jego synem był Rafa, jego synem był Elasa, jego synem był Asel.<verse eid="1CH 9:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="1CH 9:44" />Asel miał sześciu synów, a oto ich imiona: Azrikam, Bokru, Izmael, Szeariasz, Obadiasz i Chanan. Ci byli synami Asela.<verse eid="1CH 9:44" />
+  </para>
+  <chapter eid="1CH 9" />
+  <chapter number="10" style="c" sid="1CH 10" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 10:1" />Gdy Filistyni walczyli z Izraelem, Izraelici uciekli przed nimi i padli zabici na górze Gilboa.<verse eid="1CH 10:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 10:2" />I Filistyni ścigali Saula i jego synów, i zabili Jonatana, Abinadaba i Malkiszuę, synów Saula.<verse eid="1CH 10:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 10:3" />A gdy rozgorzała bitwa przeciw Saulowi, łucznicy trafili w niego i został przez nich ciężko zraniony.<verse eid="1CH 10:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 10:4" />Wtedy Saul powiedział do swego giermka: Dobądź swój miecz i przebij mnie nim, aby nie przyszli ci nieobrzezani i nie znęcali się nade mną. Ale jego giermek nie chciał tego zrobić, ponieważ bardzo się bał. Saul więc wziął miecz i sam rzucił się na niego.<verse eid="1CH 10:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 10:5" />A gdy jego giermek zobaczył, że Saul umarł, rzucił się i on na swój miecz i umarł.<verse eid="1CH 10:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 10:6" />Tak umarli Saul i jego trzej synowie, a cały jego dom zginął razem z nim.<verse eid="1CH 10:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 10:7" />A gdy wszyscy Izraelici, którzy mieszkali w dolinie, zobaczyli, że Izraelici uciekli oraz że Saul i jego synowie umarli, opuścili swoje miasta i uciekli. Przyszli więc Filistyni i mieszkali w nich.<verse eid="1CH 10:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 10:8" />Kiedy nazajutrz Filistyni przyszli, aby złupić zabitych, znaleźli Saula i jego synów poległych na górze Gilboa.<verse eid="1CH 10:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 10:9" />Obdarli go więc z szat, wzięli jego głowę i zbroję i rozesłali po całej ziemi filistyńskiej, aby ogłosić radosną wieść swoim bożkom i swojemu ludowi.<verse eid="1CH 10:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 10:10" />Jego zbroję położyli w domu swoich bogów, a jego głowę powiesili w świątyni Dagona.<verse eid="1CH 10:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 10:11" />Kiedy wszyscy mieszkańcy Jabesz-Gilead usłyszeli o wszystkim, co Filistyni uczynili Saulowi;<verse eid="1CH 10:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 10:12" />Powstali wszyscy waleczni mężczyźni, wzięli ciało Saula oraz ciała jego synów, przynieśli je do Jabesz i pogrzebali ich kości pod dębem w Jabesz. Potem pościli przez siedem dni.<verse eid="1CH 10:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 10:13" />Tak umarł Saul z powodu swojego przestępstwa, które popełnił przeciwko PANU i przeciwko słowu PANA, którego nie przestrzegał, oraz za to, że szukał rady czarownika;<verse eid="1CH 10:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 10:14" />A nie radził się PANA. PAN zabił go więc i przeniósł królestwo na Dawida, syna Jessego.<verse eid="1CH 10:14" />
+  </para>
+  <chapter eid="1CH 10" />
+  <chapter number="11" style="c" sid="1CH 11" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 11:1" />Wtedy cały Izrael zebrał się przy Dawidzie w Hebronie, mówiąc: Oto jesteśmy twoją kością i twoim ciałem.<verse eid="1CH 11:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 11:2" />Już przedtem, gdy jeszcze Saul był królem, wyprowadzałeś i wprowadzałeś Izraela. I PAN, twój Bóg, powiedział ci: Ty będziesz pasł mój lud Izraela i ty będziesz wodzem nad moim ludem, Izraelem.<verse eid="1CH 11:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 11:3" />Przyszli więc wszyscy starsi Izraela do króla do Hebronu i Dawid zawarł z nimi przymierze w Hebronie przed PANEM. Namaścili Dawida na króla nad Izraelem zgodnie ze słowem PANA, które wypowiedział przez Samuela.<verse eid="1CH 11:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 11:4" />I Dawid wyruszył wraz z całym Izraelem do Jerozolimy, to jest Jebus; mieszkańcami tej ziemi byli Jebusyci.<verse eid="1CH 11:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 11:5" />Wtedy mieszkańcy Jebus powiedzieli do Dawida: Nie wejdziesz tutaj. Dawid jednak zdobył twierdzę Syjon, to jest miasto Dawida.<verse eid="1CH 11:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 11:6" />Potem Dawid powiedział: Kto pierwszy pokona Jebusytów, będzie wodzem i naczelnikiem. Wystąpił więc jako pierwszy Joab, syn Serui, i został wodzem.<verse eid="1CH 11:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 11:7" />I Dawid zamieszkał w twierdzy, dlatego nazwano ją miastem Dawida.<verse eid="1CH 11:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 11:8" />Rozbudował miasto wokoło, od Millo, a Joab odbudował resztę miasta.<verse eid="1CH 11:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 11:9" />A Dawid stawał się coraz potężniejszy, ponieważ PAN zastępów był z nim.<verse eid="1CH 11:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 11:10" />Oto naczelnicy spośród dzielnych wojowników, których miał Dawid i którzy dzielnie starali się z nim o jego królestwo wraz z całym Izraelem, aby uczynić go królem zgodnie ze słowem PANA o Izraelu.<verse eid="1CH 11:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 11:11" />A oto spis dzielnych wojowników, których miał Dawid: Jaszobeam, syn Chakmoniego, naczelnik dowódców. On to podniósł swoją włócznię przeciw trzystu i pobił ich za jednym razem.<verse eid="1CH 11:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 11:12" />Po nim Eleazar, syn Dodo, Achochita, jeden spośród trzech dzielnych.<verse eid="1CH 11:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 11:13" />Był on z Dawidem w Pas-Dammim, gdzie Filistyni zebrali się do walki. Było tam pole pełne jęczmienia, a lud uciekał przed Filistynami.<verse eid="1CH 11:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 11:14" />I stanęli na środku tego pola, obronili je i pobili Filistynów. Tak dokonał PAN wielkiego wybawienia.<verse eid="1CH 11:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 11:15" />A trzej spośród trzydziestu dowódców zeszli po skale do Dawida, do jaskini Adullam, podczas gdy wojsko Filistynów obozowało w dolinie Rafaim.<verse eid="1CH 11:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 11:16" />Dawid bowiem przebywał w tym czasie w miejscu obronnym, a załoga Filistynów znajdowała się wtedy w Betlejem.<verse eid="1CH 11:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 11:17" />Dawid poczuł wówczas pragnienie i powiedział: Oby ktoś dał mi się napić wody ze studni w Betlejem, która jest przy bramie!<verse eid="1CH 11:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 11:18" />Wtedy ci trzej przebili się przez wojsko Filistynów i zaczerpnęli wody ze studni w Betlejem, która jest przy bramie. Zabrali ją i przynieśli do Dawida. Dawid jednak nie chciał jej pić, ale wylał ją na ofiarę dla PANA.<verse eid="1CH 11:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 11:19" />I powiedział: Niech PAN mnie strzeże od tego, abym miał to uczynić. Czy mam pić krew tych ludzi, którzy narażali swoje życie? Przynieśli bowiem wodę z narażeniem swego życia. I nie chciał jej pić. Tych dzieł dokonali ci trzej najdzielniejsi.<verse eid="1CH 11:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 11:20" />A Abiszaj, brat Joaba, stał na czele tych trzech. On to podniósł swoją włócznię przeciw trzystu i pobił ich, i miał sławę wśród tych trzech.<verse eid="1CH 11:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 11:21" />Wśród tych trzech był on sławniejszy od pozostałych dwóch i był ich dowódcą. Nie dorównał jednak tamtym trzem.<verse eid="1CH 11:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 11:22" />Benajasz, syn Jehojady, syn walecznego męża z Kabseela, który dokonał wielu czynów, zabił dwóch wojowników z Moabu. On też zszedł do jamy i zabił lwa w śnieżnym dniu.<verse eid="1CH 11:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 11:23" />Zabił również Egipcjanina, człowieka o wzroście pięciu łokci. Egipcjanin miał w ręku włócznię, grubą jak wał tkacki. On zaś zszedł do niego z kijem, wyrwał włócznię z ręki Egipcjanina i zabił go jego własną włócznią.<verse eid="1CH 11:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 11:24" />Tego dokonał Benajasz, syn Jehojady, i miał sławę wśród tych trzech dzielnych.<verse eid="1CH 11:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 11:25" />Wśród trzydziestu był on sławny, ale nie dorównał tamtym trzem. I Dawid postawił go na czele swojej straży przybocznej.<verse eid="1CH 11:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 11:26" />Dzielnymi wojownikami wojska byli: Asahel, brat Joaba, Elchanan, syn Dodo z Betlejem;<verse eid="1CH 11:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 11:27" />Szammot z Harodi, Cheles Pelonita;<verse eid="1CH 11:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 11:28" />Ira, syn Ikkesza, Tekoitczyk, Abiezer Anatotczyk;<verse eid="1CH 11:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 11:29" />Sibbekaj Chuszatyta, Ilaj Achochita;<verse eid="1CH 11:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 11:30" />Maharaj Netofatyta, Cheled, syn Baany, Netofatyta;<verse eid="1CH 11:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 11:31" />Itaj, syn Ribaja, z Gibea synów Beniamina, Benajasz Piratończyk;<verse eid="1CH 11:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 11:32" />Churaj z potoków Gaasz, Abiel Arbatczyk;<verse eid="1CH 11:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 11:33" />Azmawet Bacharumczyk, Eliachba Szaalbończyk;<verse eid="1CH 11:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 11:34" />Synowie Chaszema Gisończyka, Jonatan, syn Szagiego, Hararyta;<verse eid="1CH 11:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 11:35" />Achiam, syn Sakara, Hararyta, Elifal, syn Ura;<verse eid="1CH 11:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 11:36" />Chefer Mekeratyta, Achiasz Pelonita;<verse eid="1CH 11:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 11:37" />Chesro Karmelita, Naaraj, syn Ezbaja;<verse eid="1CH 11:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 11:38" />Joel, brat Natana, Mibchar, syn Hagriego;<verse eid="1CH 11:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 11:39" />Selek Ammonita, Nacharaj Berotczyk, giermek Joaba, syna Serui;<verse eid="1CH 11:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 11:40" />Ira Jitryta, Gareb Jitryta;<verse eid="1CH 11:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="1CH 11:41" />Uriasz Chetyta, Zabad, syn Achlaja;<verse eid="1CH 11:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="1CH 11:42" />Adina, syn Szizy, Rubenita, naczelnik Rubenitów, a wraz z nim trzydziestu;<verse eid="1CH 11:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="1CH 11:43" />Chanan, syn Maaki, Joszafat Mitnita;<verse eid="1CH 11:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="1CH 11:44" />Uziasz Aszteratczyk, Szama i Jejel, synowie Chotamy Aroerczyka;<verse eid="1CH 11:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="1CH 11:45" />Jediael, syn Szimriego, i jego brat Jocha, Tizyta;<verse eid="1CH 11:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="1CH 11:46" />Eliel Machawita, Jeribaj i Joszawiasz, synowie Elnaama, Jitma Moabita;<verse eid="1CH 11:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="1CH 11:47" />Eliel, Obed i Jaasiel Mezobata.<verse eid="1CH 11:47" />
+  </para>
+  <chapter eid="1CH 11" />
+  <chapter number="12" style="c" sid="1CH 12" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 12:1" />Oto ci, którzy przyszli do Dawida w Siklag, gdy ukrywał się przed Saulem, synem Kisza. Należeli oni do dzielnych wojowników, którzy wspierali go w walce.<verse eid="1CH 12:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 12:2" />Byli uzbrojeni w łuki i potrafili prawą i lewą ręką miotać kamieniami i strzelać z łuku, a wywodzili się z braci Saula, z Beniamina.<verse eid="1CH 12:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 12:3" />Naczelnikiem był Achiezer, potem Joasz, synowie Szemajasza Gibeatczyka, Jezjel i Pelet, synowie Azmaweta, Beraka i Jehu Anatotczyk;<verse eid="1CH 12:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 12:4" />I Jiszmaja Gibeonita, dzielny wojownik spośród trzydziestu i dowodzący trzydziestoma, Jeremiasz, Jachaziel, Jochanan i Jozabad Gederatyta;<verse eid="1CH 12:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 12:5" />Eluzaj, Jerimot, Bealiasz, Szemariasz i Szefatiasz Charufita;<verse eid="1CH 12:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 12:6" />Elkana, Jiszijasz, Azareel, Joezer i Jaszobam – Korachici;<verse eid="1CH 12:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 12:7" />Joela i Zebadiasz, synowie Jerochama z Gedoru.<verse eid="1CH 12:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 12:8" />Z pokolenia Gada w warowni na pustyni do Dawida przyłączyli się dzielni wojownicy, żołnierze sprawni w boju, noszący tarczę i dzidę, ich twarze były jak twarze lwów, a byli zwinni jak sarny w górach;<verse eid="1CH 12:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 12:9" />Ezer pierwszy, Obadiasz drugi, Eliab trzeci;<verse eid="1CH 12:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 12:10" />Miszmanna czwarty, Jeremiasz piąty;<verse eid="1CH 12:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 12:11" />Attaj szósty, Eliel siódmy;<verse eid="1CH 12:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 12:12" />Jochanan ósmy, Elzabad dziewiąty;<verse eid="1CH 12:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 12:13" />Jeremiasz dziesiąty, Makbanaj jedenasty.<verse eid="1CH 12:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 12:14" />Wywodzili się oni z synów Gada, dowódcy wojska: najmniejszy był nad stu, a największy – nad tysiącem.<verse eid="1CH 12:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 12:15" />To są ci, którzy przeszli przez Jordan w pierwszym miesiącu, kiedy wylał na wszystkie brzegi, i zmusili do ucieczki wszystkich mieszkańców dolin na wschód i na zachód.<verse eid="1CH 12:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 12:16" />Do warowni do Dawida przyszli także niektórzy z synów Beniamina i Judy.<verse eid="1CH 12:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 12:17" />I Dawid wyszedł naprzeciw nich, i odpowiedział: Jeśli przyszliście do mnie w pokoju, aby mi pomóc, moje serce połączy się z wami. Lecz jeśli przyszliście, aby mnie wydać moim wrogom, choć moje ręce są wolne od nieprawości, niech wejrzy w to Bóg naszych ojców i niech osądzi.<verse eid="1CH 12:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 12:18" />Wtedy Duch ogarnął Amasaja, naczelnika dowódców, i powiedział: Jesteśmy twoi, Dawidzie, i jesteśmy z tobą, synu Jessego. Pokój, pokój tobie i pokój twoim pomocnikom! Gdyż tobie pomaga twój Bóg. Dawid więc przyjął ich i ustanowił dowódcami oddziałów.<verse eid="1CH 12:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 12:19" />Z pokolenia Manassesa niektórzy przyłączyli się do Dawida, gdy wyruszył z Filistynami na wojnę przeciwko Saulowi. Lecz nie pomogli im, gdyż książęta Filistynów po naradzie odesłali go, mówiąc: Ten za cenę naszych głów wróci do swego pana Saula.<verse eid="1CH 12:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 12:20" />Gdy szedł do Siklag, przyłączyli się do niego z Manassesa: Adnach, Jozabad, Jediael, Mikael, Jozabad, Elihu i Silletaj, dowódcy nad tysiącami w pokoleniu Manassesa.<verse eid="1CH 12:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 12:21" />Oni to pomogli Dawidowi przeciw bandzie, bo byli wszyscy dzielnymi wojownikami i dowódcami wojska.<verse eid="1CH 12:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 12:22" />W tym czasie dzień za dniem ludzie przybywali do Dawida, aby mu pomagać, aż powstało wielkie wojsko jak wojsko Boże.<verse eid="1CH 12:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 12:23" />A oto liczba oddziałów gotowych do boju, które przyszły do Dawida w Hebronie, aby przenieść na niego królestwo Saula zgodnie ze słowem PANA.<verse eid="1CH 12:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 12:24" />Z synów Judy, noszących tarczę i włócznię, sześć tysięcy ośmiuset uzbrojonych do boju.<verse eid="1CH 12:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 12:25" />Z synów Symeona, dzielnych wojowników na wojnę, siedem tysięcy stu.<verse eid="1CH 12:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 12:26" />Z synów Lewiego cztery tysiące sześciuset.<verse eid="1CH 12:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 12:27" />Także Jehojada, przywódca synów Aarona, a z nim trzy tysiące siedmiuset.<verse eid="1CH 12:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 12:28" />I Sadok, młody, dzielny wojownik wraz z domem swego ojca – dwudziestu dwóch dowódców.<verse eid="1CH 12:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 12:29" />Z synów Beniamina, braci Saula, trzy tysiące. Dotąd bowiem większość z nich pozostawała w służbie domu Saula.<verse eid="1CH 12:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 12:30" />Z synów Efraima dwadzieścia tysięcy ośmiuset dzielnych wojowników, ludzi sławnych w domach swych ojców.<verse eid="1CH 12:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 12:31" />Z połowy pokolenia Manassesa osiemnaście tysięcy, którzy imiennie zostali wyznaczeni, aby przyjść i ustanowić Dawida królem.<verse eid="1CH 12:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 12:32" />Z synów Issachara, umiejących rozpoznać czasy, tak że wiedzieli, co Izrael ma czynić – dwustu naczelników, a wszyscy ich bracia stawali na ich rozkazy.<verse eid="1CH 12:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 12:33" />Z pokolenia Zebulona tych, którzy wychodzili na wojnę, wyćwiczonych w walce wszelką bronią wojenną – pięćdziesiąt tysięcy stających w szyku bojowym i niemających dwoistego serca.<verse eid="1CH 12:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 12:34" />Z pokolenia Neftalego – tysiąc dowódców, a z nimi trzydzieści siedem tysięcy uzbrojonych w tarcze i włócznie.<verse eid="1CH 12:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 12:35" />Z pokolenia Dana gotowych do boju było dwadzieścia osiem tysięcy sześciuset mężczyzn.<verse eid="1CH 12:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 12:36" />Z pokolenia Aszera tych, którzy wychodzili na wojnę, wyćwiczonych w walce – czterdzieści tysięcy.<verse eid="1CH 12:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 12:37" />Z drugiej strony Jordanu z pokolenia Rubena i Gada oraz z połowy pokolenia Manassesa w pełnym uzbrojeniu wojennym – sto dwadzieścia tysięcy mężczyzn.<verse eid="1CH 12:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 12:38" />Ci wszyscy wojownicy, którzy stawali w szyku bojowym, całym sercem przyszli do Hebronu, aby ustanowić Dawida królem nad całym Izraelem. Również i cała reszta Izraela była jednomyślna w tym, aby ustanowić Dawida królem.<verse eid="1CH 12:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 12:39" />I byli tam z Dawidem przez trzy dni, jedząc i pijąc, gdyż ich bracia przygotowali to dla nich.<verse eid="1CH 12:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 12:40" />Również ci, którzy byli w ich pobliżu, aż po Issachara i Zebulona, i Neftalego, przynosili żywność na osłach, na wielbłądach, na mułach i na wołach: potrawy, mąkę, figi, rodzynki, wino, oliwę oraz woły i owce w wielkiej ilości, bo zapanowała radość w Izraelu.<verse eid="1CH 12:40" />
+  </para>
+  <chapter eid="1CH 12" />
+  <chapter number="13" style="c" sid="1CH 13" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 13:1" />A Dawid odbył naradę z tysiącznikami i setnikami oraz ze wszystkimi dowódcami.<verse eid="1CH 13:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 13:2" />Potem Dawid powiedział do całego zgromadzenia Izraela: Jeśli wam się to podoba i jeśli jest to od PANA, naszego Boga, roześlijmy wiadomość wszędzie do naszych braci, którzy pozostali we wszystkich krainach Izraela, a także do kapłanów i Lewitów – po miastach i ich pastwiskach – i niech się zgromadzą u nas;<verse eid="1CH 13:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 13:3" />Abyśmy sprowadzili do nas arkę naszego Boga. Nie pytaliśmy bowiem o nią za czasów Saula.<verse eid="1CH 13:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 13:4" />I całe zgromadzenie powiedziało, aby tak czynić, bo ta rzecz podobała się całemu ludowi.<verse eid="1CH 13:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 13:5" />Dawid więc zebrał cały Izrael od egipskiego Szichoru aż do wejścia do Chamat, aby sprowadzić arkę Boga z Kiriat-Jearim.<verse eid="1CH 13:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 13:6" />Dawid wyruszył wraz z całym Izraelem do Baali, w Kiriat-Jearim, które znajduje się w Judzie, aby sprowadzić stamtąd arkę PANA Boga zasiadającego nad cherubinami, gdzie wzywane jest jego imię.<verse eid="1CH 13:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 13:7" />I wywieźli arkę Boga na nowym wozie z domu Abinadaba, a Uzza i Achio prowadzili wóz.<verse eid="1CH 13:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 13:8" />Dawid zaś i cały Izrael grali przed Bogiem ze wszystkich sił, śpiewając przy dźwiękach harf, cytr, bębnów, cymbałów i trąb.<verse eid="1CH 13:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 13:9" />A gdy przyszli na klepisko Kidona, Uzza wyciągnął rękę, aby przytrzymać arkę, bo woły się potknęły.<verse eid="1CH 13:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 13:10" />I zapłonął gniew PANA przeciwko Uzzie i PAN go zabił, dlatego że wyciągnął rękę do arki. I umarł tam przed Bogiem.<verse eid="1CH 13:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 13:11" />I Dawid był wielce niezadowolony, że PAN tak srogo poraził Uzzę, dlatego nazwał to miejsce Peres-Uzza i tak jest nazywane do dziś.<verse eid="1CH 13:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 13:12" />I Dawid zląkł się Boga tego dnia, i powiedział: Jak mam wprowadzić do siebie arkę Boga?<verse eid="1CH 13:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 13:13" />Dlatego Dawid nie wprowadził arki do siebie, do miasta Dawida, lecz wprowadził ją do domu Obed-Edoma Gittyty.<verse eid="1CH 13:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 13:14" />I arka Boga pozostała z domownikami Obed-Edoma w jego domu przez trzy miesiące. A PAN błogosławił domowi Obed-Edoma i wszystkiemu, co miał.<verse eid="1CH 13:14" />
+  </para>
+  <chapter eid="1CH 13" />
+  <chapter number="14" style="c" sid="1CH 14" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 14:1" />Potem Hiram, król Tyru, wysłał posłów do Dawida wraz z drewnem cedrowym, murarzami i cieślami, aby mu zbudowali dom.<verse eid="1CH 14:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 14:2" />I Dawid poznał, że PAN potwierdził jego królowanie nad Izraelem, gdyż wywyższył jego królestwo ze względu na swój lud Izraela.<verse eid="1CH 14:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 14:3" />Dawid pojął więcej żon w Jerozolimie i spłodził więcej synów i córek.<verse eid="1CH 14:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 14:4" />A oto imiona tych, którzy mu się urodzili w Jerozolimie: Szammua, Szobab, Natan, Salomon;<verse eid="1CH 14:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 14:5" />Jibchar, Eliszua, Elpalet;<verse eid="1CH 14:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 14:6" />Noga, Nefeg, Jafia;<verse eid="1CH 14:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 14:7" />Eliszama, Beeliada i Elifelet.<verse eid="1CH 14:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 14:8" />Kiedy Filistyni usłyszeli, że Dawid został namaszczony na króla nad całym Izraelem, wszyscy Filistyni wyruszyli, aby go szukać. Gdy Dawid usłyszał o tym, wyszedł naprzeciw nich.<verse eid="1CH 14:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 14:9" />Filistyni przybyli i rozciągnęli się w dolinie Refaim.<verse eid="1CH 14:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 14:10" />I Dawid radził się Boga, mówiąc: Czy mam wyruszyć przeciw Filistynom i czy wydasz ich w moje ręce? PAN mu odpowiedział: Wyruszaj, a wydam ich w twoje ręce.<verse eid="1CH 14:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 14:11" />A gdy przybyli do Baal-Perasim, tam Dawid ich pobił. Wtedy Dawid powiedział: Bóg rozerwał moich wrogów przez moją rękę, jak rozrywają się wody. Dlatego nazwał to miejsce Baal-Perasim.<verse eid="1CH 14:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 14:12" />I porzucili tam swoje bożki, a Dawid rozkazał spalić je ogniem.<verse eid="1CH 14:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 14:13" />Lecz Filistyni znowu rozciągnęli się w dolinie.<verse eid="1CH 14:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 14:14" />Dawid więc ponownie radził się Boga, a Bóg mu odpowiedział: Nie ruszaj na nich, ale odwróć się od nich, abyś natarł na nich od strony drzew morwowych.<verse eid="1CH 14:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 14:15" />A gdy usłyszysz odgłos kroków wśród wierzchołków drzew morwowych, wtedy wyruszysz do bitwy, gdyż Bóg wyruszył przed tobą, aby pobić wojska Filistynów.<verse eid="1CH 14:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 14:16" />I Dawid uczynił tak, jak mu rozkazał Bóg, i pobili wojska Filistynów od Gibeonu aż do Gezer.<verse eid="1CH 14:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 14:17" />I w ten sposób rozsławiło się imię Dawida na wszystkich ziemiach, a PAN sprawił, że bały się go wszystkie narody.<verse eid="1CH 14:17" />
+  </para>
+  <chapter eid="1CH 14" />
+  <chapter number="15" style="c" sid="1CH 15" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 15:1" />A gdy Dawid zbudował sobie domy w mieście Dawida, przygotował miejsce dla arki Boga i rozbił jej namiot.<verse eid="1CH 15:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 15:2" />Wtedy Dawid powiedział: Nie wolno nikomu nosić arki Boga oprócz Lewitów. Ich bowiem wybrał PAN, aby nosili arkę Boga i aby służyli mu na wieki.<verse eid="1CH 15:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 15:3" />Dawid więc zebrał całego Izraela w Jerozolimie, aby przenieść arkę PANA na miejsce, które dla niej przygotował.<verse eid="1CH 15:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 15:4" />Zgromadził też Dawid synów Aarona i Lewitów:<verse eid="1CH 15:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 15:5" />Z synów Kehata: Uriela naczelnika i jego braci – stu dwudziestu;<verse eid="1CH 15:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 15:6" />Z synów Merariego: Asajasza naczelnika i jego braci – dwustu dwudziestu;<verse eid="1CH 15:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 15:7" />Z synów Gerszoma: Joela naczelnika i jego braci – stu trzydziestu;<verse eid="1CH 15:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 15:8" />Z synów Elisafana: Szemajasza naczelnika i jego braci – dwustu;<verse eid="1CH 15:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 15:9" />Z synów Chebrona: Eliela naczelnika i jego braci – osiemdziesięciu;<verse eid="1CH 15:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 15:10" />Z synów Uzziela: Amminadaba naczelnika i jego braci – stu dwunastu.<verse eid="1CH 15:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 15:11" />Wtedy Dawid wezwał kapłanów Sadoka i Abiatara oraz Lewitów: Uriela, Asajasza, Joela, Szemajasza, Eliela i Amminadaba;<verse eid="1CH 15:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 15:12" />I powiedział do nich: Jesteście naczelnikami rodów lewickich. Poświęćcie się wy i wasi bracia, abyście mogli przenieść arkę PANA, Boga Izraela, na miejsce, które dla niej przygotowałem.<verse eid="1CH 15:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 15:13" />Ponieważ za pierwszym razem tego nie uczyniliście, PAN, nasz Bóg, zesłał na nas nieszczęście, bo nie szukaliśmy go tak, jak należy.<verse eid="1CH 15:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 15:14" />Poświęcili się więc kapłani i Lewici, aby przenieść arkę PANA, Boga Izraela.<verse eid="1CH 15:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 15:15" />Synowie Lewitów nieśli arkę Boga, jak rozkazał Mojżesz według słowa PANA, na swoich ramionach na drążkach, które przy niej były.<verse eid="1CH 15:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 15:16" />Potem Dawid rozkazał naczelnikom Lewitów, aby ustanowili swoich braci śpiewakami przy instrumentach muzycznych: cytrach, harfach i cymbałach, aby rozbrzmiewał donośny głos pełen radości.<verse eid="1CH 15:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 15:17" />Lewici ustanowili Hemana, syna Joela, a z jego braci – Asafa, syna Berechiasza, a z synów Merariego, ich braci – Etana, syna Kuszajasza;<verse eid="1CH 15:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 15:18" />A z nimi braci ich drugiego stopnia: Zachariasza, Bena, Jaaziela, Szemiramota, Jechiela, Unniego, Eliaba, Benajasza, Maasejasza, Mattitiasza, Elifela, Miknejasza, Obed-Edoma i Jejela – odźwiernych.<verse eid="1CH 15:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 15:19" />A śpiewacy Heman, Asaf i Etan grali głośno na cymbałach z brązu.<verse eid="1CH 15:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 15:20" />Zachariasz, Jaziel, Szemiramot, Jechiel, Unni, Elijab, Maasejasz i Benajasz grali na cytrach na Alamot.<verse eid="1CH 15:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 15:21" />A Mattitiasz, Elifel, Miknejasz, Obed-Edom, Jejel i Azaziasz grali na harfach na Seminit i prowadzili śpiew.<verse eid="1CH 15:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 15:22" />A Kenaniasz, naczelnik Lewitów, odpowiadał za pieśni. Kierował śpiewaniem, bo był uzdolniony.<verse eid="1CH 15:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 15:23" />Berekiasz i Elkana byli odźwiernymi przy arce.<verse eid="1CH 15:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 15:24" />A kapłani: Szebaniasz, Joszafat, Netaneel, Amasaj, Zachariasz, Benajasz i Eliezer grali na trąbach przed arką Boga, a Obed-Edom i Jechiasz byli odźwiernymi przy arce.<verse eid="1CH 15:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 15:25" />Tak więc Dawid, starsi Izraela i tysiącznicy wyruszyli, aby z radością przenieść arkę przymierza PANA z domu Obed-Edoma.<verse eid="1CH 15:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 15:26" />I kiedy Bóg wspomógł Lewitów niosących arkę przymierza PANA, złożyli w ofierze siedem wołów i siedem baranów.<verse eid="1CH 15:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 15:27" />A Dawid był ubrany w szatę z bisioru, podobnie jak wszyscy Lewici, którzy nieśli arkę, śpiewacy i Kenaniasz, kierujący śpiewem. Dawid miał także na sobie lniany efod.<verse eid="1CH 15:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 15:28" />I w ten sposób cały Izrael prowadził arkę przymierza PANA wśród radosnych okrzyków, przy dźwięku kornetu, trąb i cymbałów, grając na cytrach i harfach.<verse eid="1CH 15:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 15:29" />I kiedy arka przymierza PANA wchodziła do miasta Dawida, Mikal, córka Saula, wyglądała przez okno i zobaczyła króla Dawida tańczącego i grającego. I wzgardziła nim w swoim sercu.<verse eid="1CH 15:29" />
+  </para>
+  <chapter eid="1CH 15" />
+  <chapter number="16" style="c" sid="1CH 16" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 16:1" />A gdy przynieśli arkę Boga i umieścili ją pośrodku namiotu wzniesionego przez Dawida, złożyli całopalenia i ofiary pojednawcze przed Bogiem.<verse eid="1CH 16:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 16:2" />A gdy Dawid skończył składanie całopaleń i ofiar pojednawczych, błogosławił lud w imię PANA.<verse eid="1CH 16:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 16:3" />I rozdał wszystkim Izraelitom, tak mężczyźnie, jak i kobiecie, po bochenku chleba i po kawałku mięsa oraz po bukłaku wina.<verse eid="1CH 16:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 16:4" />Ustanowił też niektórych Lewitów sługami przed arką PANA, aby wspominali i chwalili go, i dziękowali PANU, Bogu Izraela:<verse eid="1CH 16:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 16:5" />Asafa, naczelnika, a po nim Zachariasza, Jejela, Szemiramota, Jechiela, Mattitiasza, Eliaba, Benajasza i Obed-Edoma: Jejela do gry na instrumentach: cytrach i harfach, a Asafa – na cymbałach;<verse eid="1CH 16:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 16:6" />A kapłanów Benajasza i Jachaziela, aby stali nieustannie z trąbami przed arką przymierza Boga.<verse eid="1CH 16:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 16:7" />Wtedy w tym dniu Dawid postanowił po raz pierwszy, aby Asaf i jego bracia chwalili PANA tym psalmem:<verse eid="1CH 16:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 16:8" />Wysławiajcie PANA, wzywajcie jego imienia, opowiadajcie między narodami sprawy jego.<verse eid="1CH 16:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 16:9" />Śpiewajcie mu, śpiewajcie mu psalmy, rozmawiajcie o wszystkich jego cudach.<verse eid="1CH 16:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 16:10" />Chlubcie się jego świętym imieniem, niech się raduje serce szukających PANA.<verse eid="1CH 16:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 16:11" />Szukajcie PANA i jego mocy, szukajcie zawsze jego oblicza.<verse eid="1CH 16:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 16:12" />Przypominajcie sobie dzieła, które czynił, jego cuda i wyroki jego ust.<verse eid="1CH 16:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 16:13" />Wy, potomkowie Izraela, jego sługi; wy, synowie Jakuba, jego wybrańcy!<verse eid="1CH 16:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 16:14" />On jest PANEM, naszym Bogiem, jego sądy na całej ziemi.<verse eid="1CH 16:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 16:15" />Pamiętajcie zawsze o jego przymierzu, o słowie, które nakazał po tysiąc pokoleń;<verse eid="1CH 16:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 16:16" />O przymierzu, które zawarł z Abrahamem, i o przysiędze złożonej Izaakowi.<verse eid="1CH 16:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 16:17" />Ustanowił je jako prawo dla Jakuba, jako wieczne przymierze dla Izraela;<verse eid="1CH 16:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 16:18" />Mówiąc: Tobie dam ziemię Kanaan jako dział waszego dziedzictwa;<verse eid="1CH 16:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 16:19" />Kiedy było was niewielu, byliście nieliczni i obcy w niej.<verse eid="1CH 16:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 16:20" />I wędrowali od narodu do narodu, z jednego królestwa do innego ludu;<verse eid="1CH 16:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 16:21" />Nikomu nie pozwolił ich krzywdzić, nawet karcił królów z ich powodu, mówiąc;<verse eid="1CH 16:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 16:22" />Nie dotykajcie moich pomazańców, a moim prorokom nie czyńcie nic złego.<verse eid="1CH 16:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 16:23" />Śpiewaj PANU, cała ziemio, opowiadajcie dzień po dniu o jego zbawieniu.<verse eid="1CH 16:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 16:24" />Głoście wśród narodów jego chwałę, pośród wszystkich ludów – jego cudowne dzieła;<verse eid="1CH 16:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 16:25" />Wielki bowiem jest PAN i godny wszelkiej chwały, straszliwszy nad wszystkich bogów;<verse eid="1CH 16:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 16:26" />Gdyż wszyscy bogowie narodów są bożkami, a PAN uczynił niebiosa.<verse eid="1CH 16:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 16:27" />Chwała i cześć przed nim, moc i radość w jego przybytku.<verse eid="1CH 16:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 16:28" />Oddajcie PANU, rodziny narodów, oddajcie PANU chwałę i moc.<verse eid="1CH 16:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 16:29" />Oddajcie PANU chwałę jego imienia. Przynoście dary i przychodźcie przed jego oblicze. Oddajcie PANU pokłon w ozdobie świętości.<verse eid="1CH 16:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 16:30" />Zadrżyj przed nim, cała ziemio. Świat będzie utwierdzony, aby się nie poruszył.<verse eid="1CH 16:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 16:31" />Niech się weselą niebiosa i niech się raduje ziemia, niech mówią wśród narodów: PAN króluje!<verse eid="1CH 16:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 16:32" />Niech zaszumi morze i to, co je napełnia, niech radują się pola i wszystko, co jest na nich.<verse eid="1CH 16:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 16:33" />Wtedy radośnie wykrzykną leśne drzewa przed PANEM, bo idzie, aby sądzić ziemię.<verse eid="1CH 16:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 16:34" />Wysławiajcie PANA, bo jest dobry, bo jego miłosierdzie trwa na wieki.<verse eid="1CH 16:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="1CH 16:35" />I mówcie: Zbaw nas, BOŻE naszego zbawienia, i zgromadź nas, i wybaw nas od pogan, abyśmy wielbili twoje święte imię i chlubili się twoją chwałą.<verse eid="1CH 16:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="1CH 16:36" />Błogosławiony PAN, Bóg Izraela, na wieki wieków. I cały lud powiedział: Amen i chwalił PANA.<verse eid="1CH 16:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="1CH 16:37" />I Dawid zostawił tam przed arką przymierza PANA Asafa i jego braci, aby nieustannie pełnili służbę przed arką, według potrzeby każdego dnia;<verse eid="1CH 16:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="1CH 16:38" />Także Obed-Edoma i ich braci, sześćdziesięciu ośmiu; a Obed-Edoma, syna Jedutuna, i Chosę uczynił odźwiernymi.<verse eid="1CH 16:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="1CH 16:39" />Kapłana Sadoka i jego braci kapłanów pozostawił przed przybytkiem PANA na wyżynie w Gibeonie;<verse eid="1CH 16:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="1CH 16:40" />Aby składali PANU nieustannie, rano i wieczorem, całopalenia na ołtarzu całopaleń, zgodnie ze wszystkim, co jest napisane w Prawie PANA, które nadał on Izraelowi;<verse eid="1CH 16:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="1CH 16:41" />A z nimi pozostawił Hemana i Jedutuna oraz resztę wybranych, imiennie wyznaczonych, aby chwalili PANA, bo jego miłosierdzie trwa na wieki.<verse eid="1CH 16:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="1CH 16:42" />I u nich, u Hemana i Jedutuna, pozostawił trąby i cymbały dla grających na tych i na innych instrumentach muzycznych dla Boga. Synowie zaś Jedutuna byli odźwiernymi.<verse eid="1CH 16:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="1CH 16:43" />Potem cały lud się rozszedł, każdy do swego domu. Dawid też wrócił, aby błogosławić swojemu domowi.<verse eid="1CH 16:43" />
+  </para>
+  <chapter eid="1CH 16" />
+  <chapter number="17" style="c" sid="1CH 17" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 17:1" />Kiedy Dawid zamieszkał w swoim domu, powiedział do proroka Natana: Oto mieszkam w domu cedrowym, a arka przymierza PANA pod zasłonami.<verse eid="1CH 17:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 17:2" />Natan powiedział do Dawida: Uczyń wszystko, co jest w twoim sercu, gdyż Bóg jest z tobą.<verse eid="1CH 17:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 17:3" />Lecz tej samej nocy doszło do Natana słowo Boże, mówiące:<verse eid="1CH 17:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 17:4" />Idź i powiedz mojemu słudze Dawidowi: Tak mówi PAN: Nie ty zbudujesz mi dom, w którym zamieszkam.<verse eid="1CH 17:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 17:5" />Nie mieszkałem bowiem w żadnym domu od dnia, w którym wyprowadziłem synów Izraela, aż do dziś, ale przechodziłem z namiotu do namiotu i z przybytku do przybytku.<verse eid="1CH 17:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 17:6" />Wszędzie, gdziekolwiek chodziłem z całym Izraelem, czy powiedziałem do któregoś z sędziów Izraela, którym nakazałem paść mój lud: Dlaczego nie zbudowaliście mi domu cedrowego?<verse eid="1CH 17:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 17:7" />Teraz więc tak powiesz mojemu słudze Dawidowi: Tak mówi PAN zastępów: Ja wziąłem ciebie z owczarni od chodzenia za trzodą, abyś był dowódcą nad moim ludem Izraelem.<verse eid="1CH 17:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 17:8" />I byłem z tobą wszędzie, dokądkolwiek chodziłeś, wytraciłem przed tobą wszystkich twoich wrogów i uczyniłem twoje imię jak imię wielkich ludzi, którzy są na ziemi.<verse eid="1CH 17:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 17:9" />Ustanowię miejsce dla swego ludu Izraela i zasadzę go tam, i będzie mieszkał na swoim miejscu, i nie poruszy się więcej ani już nie będą go gnębić synowie nieprawości jak dawniej;<verse eid="1CH 17:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 17:10" />Od czasu, kiedy ustanowiłem sędziów nad swoim ludem Izraelem, i ujarzmię wszystkich twoich wrogów. Oznajmiam ci też, że PAN zbuduje ci dom.<verse eid="1CH 17:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 17:11" />Gdy się wypełnią twoje dni i będziesz musiał odejść do swoich ojców, wzbudzę po tobie twego potomka, który będzie spośród twoich synów, i utwierdzę jego królestwo.<verse eid="1CH 17:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 17:12" />On zbuduje mi dom i utwierdzę jego tron na wieki.<verse eid="1CH 17:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 17:13" />Ja będę mu ojcem, a on będzie mi synem. Nie cofnę od niego swojego miłosierdzia, jak je cofnąłem od tego, który był przed tobą.<verse eid="1CH 17:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 17:14" />Ustanowię go w moim domu i w moim królestwie na wieki, jego tron będzie utwierdzony na wieki.<verse eid="1CH 17:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 17:15" />Zgodnie z tymi wszystkimi słowami i zgodnie z całym tym widzeniem, tak mówił Natan do Dawida.<verse eid="1CH 17:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 17:16" />Przyszedł więc król Dawid, usiadł przed PANEM i powiedział: Kim ja jestem, PANIE Boże, i czym jest mój dom, że doprowadziłeś mnie dotąd?<verse eid="1CH 17:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 17:17" />Lecz i to było jeszcze mało w twoich oczach, Boże, gdyż złożyłeś też obietnicę o domu swego sługi na daleką przyszłość i wejrzałeś na mnie jak na człowieka wysokiego stanu, PANIE Boże.<verse eid="1CH 17:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 17:18" />Co więcej może ci powiedzieć Dawid za taką chwałę okazaną twemu słudze? Ty bowiem znasz swego sługę.<verse eid="1CH 17:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 17:19" />PANIE, przez wzgląd na swego sługę i według swego serca uczyniłeś te wszystkie wielkie rzeczy, dając poznać te wszystkie wspaniałe sprawy.<verse eid="1CH 17:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 17:20" />PANIE, nie ma nikogo podobnego do ciebie i nie ma Boga oprócz ciebie według wszystkiego, co słyszeliśmy na własne uszy.<verse eid="1CH 17:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 17:21" />I czy jest taki naród na ziemi, jak twój lud Izrael, dla którego Bóg wyruszył, aby go sobie wykupić jako swój lud, a przez to uczynić swoje imię wielkim i straszliwym, wypędzając narody przed swoim ludem, który wykupiłeś z Egiptu?<verse eid="1CH 17:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 17:22" />Uczyniłeś bowiem twój lud Izraela swoim ludem na wieki i ty, PANIE, stałeś się jego Bogiem.<verse eid="1CH 17:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 17:23" />Teraz więc, PANIE, niech słowo, które wypowiedziałeś o swoim słudze i o jego domu, będzie utwierdzone na wieki i uczyń, jak powiedziałeś.<verse eid="1CH 17:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 17:24" />Niech stanie się tak, aby twoje imię było uwielbione na wieki, aby mówiono: PAN zastępów, Bóg Izraela, jest Bogiem nad Izraelem; niech dom Dawida, twego sługi, będzie utwierdzony przed tobą.<verse eid="1CH 17:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 17:25" />Ty bowiem, mój Boże, objawiłeś swemu słudze, że zbudujesz mu dom. Dlatego twój sługa ośmielił się modlić przed tobą.<verse eid="1CH 17:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 17:26" />A teraz, PANIE, ty jesteś Bogiem i obiecałeś takie dobro swemu słudze.<verse eid="1CH 17:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 17:27" />Racz więc błogosławić dom swego sługi, aby trwał na wieki przed tobą. Co bowiem ty, PANIE, błogosławisz, będzie błogosławione na wieki.<verse eid="1CH 17:27" />
+  </para>
+  <chapter eid="1CH 17" />
+  <chapter number="18" style="c" sid="1CH 18" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 18:1" />Po tych wydarzeniach Dawid pobił Filistynów, ujarzmił ich i zabrał z ich rąk Gat i jego wioski.<verse eid="1CH 18:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 18:2" />Pobił też Moab i Moabici stali się sługami Dawida składającymi daninę.<verse eid="1CH 18:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 18:3" />Dawid pobił też Hadadezera, króla Soby w Chamat, gdy ten wyprawił się, aby rozciągnąć swoją władzę nad rzeką Eufrat.<verse eid="1CH 18:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 18:4" />Dawid zabrał mu wtedy tysiąc rydwanów, siedem tysięcy jeźdźców i dwadzieścia tysięcy pieszych. I popodcinał Dawid ścięgna wszystkim koniom zaprzęgowym, zostawiając z nich tylko tyle, ile potrzeba do stu rydwanów.<verse eid="1CH 18:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 18:5" />Kiedy Syryjczycy z Damaszku przybyli na pomoc Hadadezerowi, królowi Soby, Dawid pobił spośród nich dwadzieścia dwa tysiące ludzi.<verse eid="1CH 18:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 18:6" />Potem Dawid umieścił załogi w Syrii damasceńskiej, a Syryjczycy stali się sługami Dawida składającymi daninę. Tak PAN zachowywał Dawida, dokądkolwiek ten się udał.<verse eid="1CH 18:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 18:7" />Dawid zabrał też złote tarcze, które mieli słudzy Hadadezera, i przyniósł je do Jerozolimy.<verse eid="1CH 18:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 18:8" />Również z Tibchat i Kun, miast Hadadezera, Dawid zabrał bardzo dużo brązu, z którego Salomon wykonał morze brązowe, słupy i naczynia brązowe.<verse eid="1CH 18:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 18:9" />A gdy usłyszał Tou, król Chamatu, że Dawid pobił całe wojsko Hadadezera, króla Soby;<verse eid="1CH 18:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 18:10" />Posłał swego syna Hadorama do króla Dawida, aby go pozdrowił w pokoju i aby mu powinszował tego, że walczył z Hadadezerem i pokonał go – Hadadezer bowiem prowadził wojnę z Tou – i Hadoram przyniósł ze sobą wszelkiego rodzaju naczynia złote, srebrne i brązowe.<verse eid="1CH 18:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 18:11" />Również i je król Dawid poświęcił PANU wraz ze srebrem i złotem, które pobrał od wszystkich narodów: od Edomu, od Moabu, od synów Ammona, od Filistynów i od Amaleka.<verse eid="1CH 18:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 18:12" />I Abiszaj, syn Serui, pobił w Dolinie Soli osiemnaście tysięcy Edomitów.<verse eid="1CH 18:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 18:13" />I umieścił w Edomie załogi, a wszyscy Edomici stali się sługami Dawida. Tak PAN zachowywał Dawida, dokądkolwiek ten się udał.<verse eid="1CH 18:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 18:14" />Dawid więc królował nad całym Izraelem i sprawował sąd nad całym swym ludem, i wymierzał mu sprawiedliwość.<verse eid="1CH 18:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 18:15" />Joab, syn Serui, był postawiony nad wojskiem, a Jehoszafat, syn Achiluda, był kronikarzem.<verse eid="1CH 18:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 18:16" />Sadok, syn Achituba, i Abimelek, syn Abiatara, byli kapłanami, a Szawsza był pisarzem.<verse eid="1CH 18:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 18:17" />Benajasz, syn Jehojady, był postawiony nad Keretytami i Peletytami, a synowie Dawida byli pierwszymi przy królu.<verse eid="1CH 18:17" />
+  </para>
+  <chapter eid="1CH 18" />
+  <chapter number="19" style="c" sid="1CH 19" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 19:1" />Potem umarł Nachasz, król synów Ammona, a jego syn królował w jego miejsce.<verse eid="1CH 19:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 19:2" />Wtedy Dawid powiedział: Okażę życzliwość Chanunowi, synowi Nachasza, bo jego ojciec mnie okazał życzliwość. I Dawid wysłał posłańców, aby go pocieszyć po stracie jego ojca. Przyszli więc słudzy Dawida do ziemi synów Ammona, do Chanuna, aby go pocieszyć.<verse eid="1CH 19:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 19:3" />Lecz książęta synów Ammona powiedzieli do Chanuna: Czy myślisz, że Dawid chce uczcić twego ojca i dlatego przysłał do ciebie pocieszycieli? Czy nie po to raczej przyszli jego słudzy do ciebie, aby przypatrzyć się tej ziemi, przeszpiegować ją i zburzyć?<verse eid="1CH 19:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 19:4" />Chanun wziął więc sługi Dawida, ogolił ich, obciął ich szaty do połowy, aż do pośladków, i odesłał ich.<verse eid="1CH 19:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 19:5" />Wtedy niektórzy poszli i donieśli Dawidowi o tych ludziach. I wysłał posłów naprzeciw nich, ponieważ ci mężczyźni byli bardzo znieważeni. Król powiedział im: Zostańcie w Jerychu, aż wam brody odrosną, a potem wróćcie.<verse eid="1CH 19:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 19:6" />Gdy synowie Ammona spostrzegli, że obrzydli Dawidowi, Chanun i synowie Ammona posłali tysiąc talentów srebra, aby sobie wynająć za te pieniądze rydwany i jeźdźców z Mezopotamii, z Syrii-Maaka i z Soby.<verse eid="1CH 19:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 19:7" />I najęli sobie za te pieniądze trzydzieści dwa tysiące rydwanów oraz króla Maaki wraz z jego ludem. Przybyli i rozbili obóz naprzeciw Medeby, a synowie Ammona zebrali się ze swoich miast i ustawili się do bitwy.<verse eid="1CH 19:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 19:8" />A gdy Dawid usłyszał o tym, wysłał Joaba z całym zastępem dzielnych wojowników.<verse eid="1CH 19:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 19:9" />Ruszyli więc synowie Ammona i ustawili się w szyku bojowym przed bramą miejską. Królowie zaś, którzy przybyli na pomoc, stanęli osobno w polu.<verse eid="1CH 19:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 19:10" />Gdy Joab zobaczył, że wojsko szykuje walkę przeciwko niemu z przodu i z tyłu, wybrał mężczyzn spośród wszystkich wyborowych wojowników w Izraelu i ustawił ich w szyku bojowym przeciw Syryjczykom.<verse eid="1CH 19:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 19:11" />A resztę ludzi oddał pod rękę swego brata Abiszaja – oni ustawili się w szyku bojowym przeciw synom Ammona.<verse eid="1CH 19:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 19:12" />I powiedział: Jeśli Syryjczycy będą silniejsi ode mnie, przyjdziesz mi na pomoc, a jeśli synowie Ammona będą silniejsi od ciebie, ja przyjdę tobie na pomoc.<verse eid="1CH 19:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 19:13" />Bądź odważny i walczmy mężnie za nasz lud i za miasta naszego Boga, a niech PAN uczyni to, co jest dobre w jego oczach.<verse eid="1CH 19:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 19:14" />Joab więc wraz z ludem, który był z nim, wyruszył do bitwy z Syryjczykami. A oni uciekli przed nim.<verse eid="1CH 19:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 19:15" />Gdy synowie Ammona zobaczyli, że Syryjczycy uciekli, również i oni uciekli przed jego bratem Abiszajem i weszli do miasta. Wtedy Joab wrócił do Jerozolimy.<verse eid="1CH 19:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 19:16" />Kiedy Syryjczycy zobaczyli, że są pobici przez Izraela, wyprawili posłańców i sprowadzili Syryjczyków, którzy byli za rzeką. I Szofak, dowódca wojska Hadadezera, prowadził ich.<verse eid="1CH 19:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 19:17" />Gdy doniesiono o tym Dawidowi, ten zebrał cały Izrael, przeprawił się przez Jordan, przybył do nich i ustawił wojsko przeciwko nim w szyku bojowym. A gdy Dawid ustawił wojsko w szyku bojowym przeciwko Syryjczykom, oni walczyli z nim.<verse eid="1CH 19:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 19:18" />Lecz Syryjczycy uciekli przed Izraelem i spośród nich Dawid zabił siedem tysięcy ludzi walczących na rydwanach oraz czterdzieści tysięcy pieszych. Zabił również Szofaka, dowódcę wojska.<verse eid="1CH 19:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 19:19" />Kiedy słudzy Hadadezera zobaczyli, że zostali pokonani przez Izraela, zawarli pokój z Dawidem i zostali jego poddanymi. Potem Syryjczycy już nie chcieli udzielić pomocy synom Ammona.<verse eid="1CH 19:19" />
+  </para>
+  <chapter eid="1CH 19" />
+  <chapter number="20" style="c" sid="1CH 20" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 20:1" />A na początku roku, w czasie, gdy królowie zwykli wyjeżdżać na wojnę, Joab poprowadził potężne wojsko i spustoszył ziemię synów Ammona, potem nadciągnął i obległ Rabbę, Dawid tymczasem pozostał w Jerozolimie. I Joab zdobył Rabbę, i zburzył ją.<verse eid="1CH 20:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 20:2" />Wtedy Dawid zdjął koronę jej króla z jego głowy, a okazało się, że waży ona talent złota, była też ozdobiona drogocennymi kamieniami. I włożono ją na głowę Dawida. Wywiózł też z miasta bardzo dużo łupów.<verse eid="1CH 20:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 20:3" />Lud, który był w nim, wyprowadził i przeciął piłami, bronami żelaznymi i siekierami. Tak uczynił Dawid ze wszystkimi miastami synów Ammona. Potem Dawid wrócił wraz z całym ludem do Jerozolimy.<verse eid="1CH 20:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 20:4" />Następnie doszło do wojny z Filistynami w Gezer. Wtedy to Sibbekaj Chuszatyta zabił Sippaja z rodu olbrzyma i tak Filistyni zostali pokonani.<verse eid="1CH 20:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 20:5" />I znowu była wojna z Filistynami, kiedy Elchanan, syn Jaira, zabił Lachmiego, brata Goliata Gittyty, którego drzewce włóczni było jak wał tkacki.<verse eid="1CH 20:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 20:6" />I była jeszcze wojna w Gat, gdzie znajdował się człowiek wysokiego wzrostu, który miał po sześć palców u rąk i nóg, razem – dwadzieścia cztery palce. On również pochodził z rodu tego olbrzyma.<verse eid="1CH 20:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 20:7" />A gdy wyzywał Izraela, zabił go Jonatan, syn Szimei, brata Dawida.<verse eid="1CH 20:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 20:8" />Ci byli synami jednego olbrzyma z Gat, a polegli z ręki Dawida i z rąk jego sług.<verse eid="1CH 20:8" />
+  </para>
+  <chapter eid="1CH 20" />
+  <chapter number="21" style="c" sid="1CH 21" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 21:1" />Wtedy szatan powstał przeciwko Izraelowi i pobudził Dawida, aby policzył Izraela.<verse eid="1CH 21:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 21:2" />Dawid więc powiedział do Joaba i do przełożonych nad ludem: Idźcie, policzcie Izraela od Beer-Szeby aż do Dan i donieście mi o ich liczbie, abym ją poznał.<verse eid="1CH 21:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 21:3" />Lecz Joab odpowiedział: Niech PAN pomnoży swój lud sto razy tyle, ile go jest. Lecz, mój panie, królu, czy nie są oni wszyscy sługami mego pana? Czemu mój pan żąda tego? Czemu miałoby to być przyczyną grzechu dla Izraela?<verse eid="1CH 21:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 21:4" />Słowo króla jednak przemogło Joaba. Wyszedł więc Joab, obszedł całego Izraela i wrócił do Jerozolimy.<verse eid="1CH 21:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 21:5" />I podał Joab Dawidowi liczbę policzonych. A było wszystkich w Izraelu milion sto tysięcy mężczyzn dobywających miecz, a z Judy – czterysta siedemdziesiąt tysięcy mężczyzn dobywających miecz.<verse eid="1CH 21:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 21:6" />Lecz Lewitów i Beniaminitów nie policzył razem z nimi, gdyż rozkaz króla budził odrazę w Joabie.<verse eid="1CH 21:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 21:7" />Nie podobała się też Bogu ta rzecz, więc ukarał Izraela.<verse eid="1CH 21:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 21:8" />Wtedy Dawid powiedział do Boga: Zgrzeszyłem bardzo, czyniąc tę rzecz. Lecz teraz, proszę, zgładź nieprawość swego sługi, gdyż bardzo głupio postąpiłem.<verse eid="1CH 21:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 21:9" />I PAN powiedział do Gada, widzącego Dawida:<verse eid="1CH 21:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 21:10" />Idź i powiedz Dawidowi: Tak mówi PAN: Trzy rzeczy ci przedstawiam, wybierz sobie jedną z nich, abym ci uczynił.<verse eid="1CH 21:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 21:11" />Przyszedł więc Gad do Dawida i powiedział mu: Tak mówi PAN: Wybierz sobie:<verse eid="1CH 21:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 21:12" />Albo trzy lata głodu, albo trzy miesiące klęsk od twoich wrogów, podczas których miecz twoich wrogów będzie cię ścigał, albo trzy dni miecza PANA i zarazy w ziemi, kiedy Anioł PANA będzie niszczył wszystkie granice Izraela. Teraz więc rozważ, co mam odpowiedzieć temu, który mnie posłał.<verse eid="1CH 21:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 21:13" />Dawid odpowiedział Gadowi: Jestem w wielkiej rozterce. Niech wpadnę raczej w ręce PANA, gdyż wielkie jest jego miłosierdzie. Niech nie wpadnę w ręce człowieka.<verse eid="1CH 21:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 21:14" />Zesłał więc PAN zarazę na Izraela. I poległo z Izraela siedemdziesiąt tysięcy mężczyzn.<verse eid="1CH 21:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 21:15" />Posłał też Bóg Anioła do Jerozolimy, aby ją zniszczyć. A gdy ją niszczył, wejrzał PAN i użalił się nad tym nieszczęściem i powiedział do Anioła, który niszczył: Dosyć już, powstrzymaj rękę. A Anioł PANA stał obok klepiska Ornana Jebusyty.<verse eid="1CH 21:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 21:16" />Gdy Dawid podniósł oczy, ujrzał Anioła PANA stojącego między ziemią a niebem, a w jego ręce dobyty miecz wyciągnięty nad Jerozolimą. Wtedy Dawid i starsi, ubrani w wory, upadli na twarze.<verse eid="1CH 21:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 21:17" />I Dawid powiedział do Boga: Czy nie ja rozkazałem policzyć lud? Ja jestem tym, który zgrzeszył i bardzo źle uczynił, ale te owce, co uczyniły? PANIE, mój Boże, błagam, niech się obróci twoja ręka przeciwko mnie, domowi mego ojca. Lecz niech się nie rozprzestrzenia ta plaga przeciwko twemu ludowi.<verse eid="1CH 21:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 21:18" />Wtedy Anioł PANA powiedział do Gada, aby oznajmił Dawidowi, że ma iść i zbudować PANU ołtarz na klepisku Ornana Jebusyty.<verse eid="1CH 21:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 21:19" />Dawid więc poszedł według słowa Gada, który mówił w imieniu PANA.<verse eid="1CH 21:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 21:20" />Wtedy Ornan obrócił się i ujrzał Anioła, a jego czterej synowie, którzy byli z nim, ukryli się. A Ornan młócił pszenicę.<verse eid="1CH 21:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 21:21" />Gdy Dawid przyszedł do Ornana, ten spojrzał i zobaczył Dawida. Wyszedł więc z klepiska i pokłonił się Dawidowi twarzą do ziemi.<verse eid="1CH 21:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 21:22" />I Dawid powiedział do Ornana: Odstąp mi miejsce tego klepiska, abym zbudował na nim ołtarz PANU. Oddaj mi je za pełną cenę, aby plaga odstąpiła od ludu.<verse eid="1CH 21:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 21:23" />Ornan odpowiedział Dawidowi: Weź je sobie i niech mój pan, król, uczyni, co uważa za słuszne. Oto oddaję też woły na całopalenia, sprzęty młocarskie na drwa i pszenicę na ofiarę z pokarmów – to wszystko daję.<verse eid="1CH 21:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 21:24" />I król Dawid powiedział do Ornana: Nie, raczej kupię wszystko za pełną cenę. Nie wezmę bowiem dla PANA tego, co jest twoje, ani nie będę ofiarowywał całopaleń, które nic nie kosztują.<verse eid="1CH 21:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 21:25" />Dał więc Dawid Ornanowi za to miejsce sykle złota w wadze sześciuset.<verse eid="1CH 21:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 21:26" />I Dawid zbudował tam PANU ołtarz, złożył całopalenia i ofiary pojednawcze i wzywał PANA, a on mu odpowiedział z nieba, spuszczając ogień na ołtarz całopalenia.<verse eid="1CH 21:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 21:27" />I PAN rozkazał Aniołowi, by schował swój miecz do pochwy.<verse eid="1CH 21:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 21:28" />Wtedy Dawid, widząc, że PAN go wysłuchał na klepisku Ornana Jebusyty, składał tam ofiary.<verse eid="1CH 21:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 21:29" />Przybytek PANA bowiem, który Mojżesz zbudował na pustyni, oraz ołtarz całopalenia były w tym czasie na wyżynie w Gibeonie.<verse eid="1CH 21:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 21:30" />Lecz Dawid nie mógł iść do niego, aby radzić się Boga, gdyż bał się miecza Anioła PANA.<verse eid="1CH 21:30" />
+  </para>
+  <chapter eid="1CH 21" />
+  <chapter number="22" style="c" sid="1CH 22" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 22:1" />Wtedy Dawid powiedział: To jest dom PANA Boga i to jest ołtarz całopalenia dla Izraela.<verse eid="1CH 22:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 22:2" />Dawid rozkazał zgromadzić cudzoziemców, którzy byli w ziemi Izraela, i ustanowił spośród nich kamieniarzy do obróbki kamieni ciosanych na budowę domu Bożego.<verse eid="1CH 22:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 22:3" />Dawid przygotował też bardzo dużo żelaza na gwoździe do drzwi w bramach i na spojenie oraz niezliczoną wagę brązu;<verse eid="1CH 22:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 22:4" />Także drzewa cedrowego niezliczoną ilość, bo Sydończycy i Tyryjczycy przywieźli Dawidowi bardzo wiele drewna cedrowego.<verse eid="1CH 22:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 22:5" />Dawid powiedział: Salomon, mój syn, jest młody i niedoświadczony, a dom, który ma być zbudowany dla PANA, musi być niezmiernie okazały, aby był znany i sławny we wszystkich krajach. Teraz więc poczynię przygotowania za niego. I wiele przygotował Dawid przed swoją śmiercią.<verse eid="1CH 22:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 22:6" />Potem zawołał swego syna Salomona i nakazał mu zbudować dom dla PANA, Boga Izraela.<verse eid="1CH 22:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 22:7" />I Dawid powiedział do Salomona: Synu mój! Pragnąłem zbudować dom dla imienia PANA, swego Boga.<verse eid="1CH 22:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 22:8" />Lecz doszło do mnie słowo PANA mówiące: Rozlałeś wiele krwi i prowadziłeś wielkie wojny. Nie będziesz budował domu dla mojego imienia, ponieważ rozlałeś wiele krwi na ziemię przed moim obliczem.<verse eid="1CH 22:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 22:9" />Oto urodzi ci się syn, który będzie człowiekiem pokoju, bo dam mu odpoczynek od wszystkich jego wrogów wokoło. Będzie miał na imię Salomon, ponieważ za jego dni dam Izraelowi pokój i odpoczynek.<verse eid="1CH 22:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 22:10" />On zbuduje dom dla mojego imienia i on będzie mi synem, a ja będę mu ojcem i utwierdzę tron jego królestwa nad Izraelem na wieki.<verse eid="1CH 22:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 22:11" />Teraz więc, mój synu, niech PAN będzie z tobą i niech ci się powodzi, abyś zbudował dom dla PANA, swego Boga, jak zapowiedział o tobie.<verse eid="1CH 22:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 22:12" />Oby tylko PAN ci dał roztropność i rozwagę i niech cię ustanowi nad Izraelem, abyś strzegł prawa PANA, swego Boga.<verse eid="1CH 22:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 22:13" />Wtedy będzie ci się powodziło, jeśli będziesz strzegł i wypełniał przykazania i prawa, które PAN dał Mojżeszowi dla Izraela. Bądź silny i mężny, nie bój się ani się nie lękaj.<verse eid="1CH 22:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 22:14" />A oto w moim trudzie przygotowałem na dom PANA sto tysięcy talentów złota i tysiąc tysięcy talentów srebra, brązu i żelaza zaś bez wagi, bo tego jest wiele. Przygotowałem również drewno i kamień, a ty możesz do tego dokładać.<verse eid="1CH 22:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 22:15" />Masz też u siebie wielu rzemieślników, kamieniarzy, murarzy, cieśli i wszelkich biegłych w każdym rzemiośle.<verse eid="1CH 22:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 22:16" />Złota, srebra, brązu i żelaza jest bez liku. Wstań więc i działaj, a PAN niech będzie z tobą.<verse eid="1CH 22:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 22:17" />Dawid też nakazał wszystkim książętom Izraela, aby pomagali jego synowi Salomonowi;<verse eid="1CH 22:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 22:18" />Mówiąc: Czy PAN, wasz Bóg, nie jest z wami? Czy nie dał wam odpoczynku wokoło? Dał bowiem w moją rękę mieszkańców tej ziemi, a ziemia została poddana PANU i jego ludowi.<verse eid="1CH 22:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 22:19" />Teraz więc oddajcie swoje serce i swoją duszę ku szukaniu PANA, waszego Boga. Wstańcie i budujcie świątynię PANA Boga, abyście mogli tam wnieść arkę przymierza PANA oraz święte naczynia Boga, do domu, który będzie zbudowany dla imienia PANA.<verse eid="1CH 22:19" />
+  </para>
+  <chapter eid="1CH 22" />
+  <chapter number="23" style="c" sid="1CH 23" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 23:1" />Gdy więc Dawid był już stary i syty dni, ustanowił swego syna Salomona królem nad Izraelem.<verse eid="1CH 23:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 23:2" />I zgromadził wszystkich książąt Izraela oraz kapłanów i Lewitów.<verse eid="1CH 23:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 23:3" />Lewitów policzono od trzydziestu lat wzwyż, a ich liczba według głów wynosiła trzydzieści osiem tysięcy.<verse eid="1CH 23:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 23:4" />Spośród nich dwadzieścia cztery tysiące ustanowiono na służbę w domu PANA, a urzędników i sędziów było sześć tysięcy.<verse eid="1CH 23:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 23:5" />Ponadto – cztery tysiące odźwiernych i cztery tysiące chwalących PANA na instrumentach, które sporządziłem – powiedział Dawid – ku uwielbieniu Boga.<verse eid="1CH 23:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 23:6" />Dawid podzielił ich na zmiany według synów Lewiego: Gerszona, Kehata i Merariego.<verse eid="1CH 23:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 23:7" />Z Gerszona byli Ladan i Szimei.<verse eid="1CH 23:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 23:8" />Synowie Ladana: pierwszy Jechiel, potem Zetam i Joel – ci trzej.<verse eid="1CH 23:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 23:9" />Synowie Szimejego: Szelomit, Chaziel i Haran – ci trzej byli naczelnikami rodów Ladana.<verse eid="1CH 23:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 23:10" />A synowie Szimejego: Jachat, Zina, Jeusz i Beria. Ci czterej byli synami Szimejego.<verse eid="1CH 23:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 23:11" />Jachat był pierwszy, a Ziza drugi. Ale Jeusz i Beria nie mieli wielu synów i dlatego zostali policzeni jako jeden ród.<verse eid="1CH 23:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 23:12" />Synowie Kehata: Amram, Ishar, Chebron i Uzziel – czterej.<verse eid="1CH 23:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 23:13" />Synowie Amrama: Aaron i Mojżesz. Lecz Aaron został odłączony, aby poświęcić najświętsze rzeczy, on i jego synowie, aż na wieki – by spalać kadzidło przed PANEM, służyć mu i błogosławić w jego imieniu na wieki.<verse eid="1CH 23:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 23:14" />Ale synowie Mojżesza, męża Bożego, zostali zaliczeni do pokolenia Lewiego.<verse eid="1CH 23:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 23:15" />Synowie Mojżesza: Gerszon i Eliezer.<verse eid="1CH 23:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 23:16" />Synowie Gerszona: pierwszy Szebuel.<verse eid="1CH 23:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 23:17" />Synowie Eliezera: pierwszy Rechabiasz. Eliezer nie miał innych synów, ale synowie Rechabiasza bardzo się rozmnożyli.<verse eid="1CH 23:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 23:18" />Synowie Ishara: pierwszy Szelomit.<verse eid="1CH 23:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 23:19" />Synowie Chebrona: pierwszy Jeriasz, drugi Amariasz, trzeci Jachaziel, a czwarty Jekameam.<verse eid="1CH 23:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 23:20" />Synowie Uzziela: pierwszy Mika i drugi Jeszijasz.<verse eid="1CH 23:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 23:21" />Synowie Merariego: Machli i Muszi. Synowie Machliego: Eleazar i Kisz.<verse eid="1CH 23:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 23:22" />I Eleazar umarł, nie mając synów, tylko córki. Pojęli je za żony synowie Kisza, ich bracia.<verse eid="1CH 23:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 23:23" />Synowie Musziego: Machli, Eder i Jeremot – trzej.<verse eid="1CH 23:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 23:24" />To są synowie Lewiego według swych rodów, głów rodzin, policzeni według liczby imion, głowa po głowie, którzy pełnili służbę w domu PANA od lat dwudziestu wzwyż.<verse eid="1CH 23:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 23:25" />Dawid bowiem powiedział: PAN, Bóg Izraela, dał odpoczynek swemu ludowi i będzie mieszkał w Jerozolimie na wieki.<verse eid="1CH 23:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 23:26" />A Lewici już nie będą nosić przybytku ani wszelkich jego naczyń do jego obsługi.<verse eid="1CH 23:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 23:27" />Według ostatnich postanowień Dawida Lewici zostali policzeni od lat dwudziestu wzwyż;<verse eid="1CH 23:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 23:28" />Ich stanowisko bowiem polegało na posługiwaniu synom Aarona w służbie domu PANA: na dziedzińcach, w komnatach, przy oczyszczaniu wszelkich rzeczy poświęconych i przy pracy wokół służby domu Bożego;<verse eid="1CH 23:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 23:29" />I przy chlebie pokładnym, przy mące na ofiarę z pokarmów, przy plackach niekwaszonych, przy tym, co pieczone, i tym, co smażone, i przy wszystkim, co ważone i mierzone.<verse eid="1CH 23:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 23:30" />Mieli stawać każdego poranka, by dziękować PANU i wychwalać go, i tak samo wieczorem;<verse eid="1CH 23:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 23:31" />Ponadto, mieli składać PANU wszelkie całopalenia w każdy szabat, w czasie nowiu księżyca i w uroczyste święta, według liczby wynikającej z ustalonego porządku – ustawicznie przed PANEM.<verse eid="1CH 23:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 23:32" />I mieli pełnić straż przy Namiocie Zgromadzenia, straż przy świątyni i straż przy synach Aarona, swych braciach, w służbie domu PANA.<verse eid="1CH 23:32" />
+  </para>
+  <chapter eid="1CH 23" />
+  <chapter number="24" style="c" sid="1CH 24" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 24:1" />A oto podział synów Aarona. Synami Aarona byli: Nadab, Abihu, Eleazar i Itamar;<verse eid="1CH 24:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 24:2" />Ale Nadab i Abihu umarli przed swoim ojcem i nie mieli synów, dlatego Eleazar i Itamar sprawowali urząd kapłański.<verse eid="1CH 24:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 24:3" />I Dawid podzielił ich, to jest Sadoka z synów Eleazara i Achimeleka z synów Itamara, według ich urzędu w ich służbie.<verse eid="1CH 24:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 24:4" />I okazało się, że spośród synów Eleazara było więcej naczelników niż spośród synów Itamara. Tak więc ich podzielono: spośród synów Eleazara było szesnastu naczelników według rodów, a spośród synów Itamara według rodów – ośmiu.<verse eid="1CH 24:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 24:5" />A zostali podzieleni przez losowanie, zarówno jedni, jak i drudzy, gdyż przełożeni świątyni i przełożeni domu Bożego byli spośród synów Eleazara, jak i spośród synów Itamara.<verse eid="1CH 24:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 24:6" />A Szemajasz, syn Netaneela, pisarz z pokolenia Lewiego, spisał ich wobec króla i książąt, kapłana Sadoka, Achimeleka, syna Abiatara, oraz naczelników rodów kapłańskich i lewickich. Losowano na przemian jeden dom z rodu Eleazara, drugi – z Itamara.<verse eid="1CH 24:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 24:7" />Pierwszy los padł na Jehojariba, drugi na Jedajasza;<verse eid="1CH 24:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 24:8" />Trzeci na Charima, czwarty na Seorima;<verse eid="1CH 24:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 24:9" />Piąty na Malkiasza, szósty na Mijamina;<verse eid="1CH 24:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 24:10" />Siódmy na Hakkosa, ósmy na Abiasza;<verse eid="1CH 24:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 24:11" />Dziewiąty na Jeszuę, dziesiąty na Szekaniasza;<verse eid="1CH 24:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 24:12" />Jedenasty na Eliasziba, dwunasty na Jakima;<verse eid="1CH 24:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 24:13" />Trzynasty na Chuppę, czternasty na Jeszebaba;<verse eid="1CH 24:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 24:14" />Piętnasty na Bilgę, szesnasty na Immera;<verse eid="1CH 24:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 24:15" />Siedemnasty na Chezira, osiemnasty na Happisesa;<verse eid="1CH 24:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 24:16" />Dziewiętnasty na Petachiasza, dwudziesty na Ezechiela;<verse eid="1CH 24:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 24:17" />Dwudziesty pierwszy na Jachina, dwudziesty drugi na Gamula;<verse eid="1CH 24:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 24:18" />Dwudziesty trzeci na Delajasza, dwudziesty czwarty na Maazjasza.<verse eid="1CH 24:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 24:19" />Taka była kolejność w służbie, aby wchodzili do domu PANA zgodnie z ustaleniem, jakie pochodziło od ich ojca Aarona, jak mu rozkazał PAN, Bóg Izraela.<verse eid="1CH 24:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 24:20" />A pozostali z synów Lewiego to: z synów Amrama – Szubael; z synów Szubaela – Jechdejasz.<verse eid="1CH 24:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 24:21" />Z Rechabiasza: z synów Rechabiasza pierwszym był Jisziasz.<verse eid="1CH 24:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 24:22" />Z Ishara – Szelomit; z synów Szelomita – Jachat.<verse eid="1CH 24:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 24:23" />A synowie Chebrona: pierwszy Jeriasz, drugi Amariasz, trzeci Jachaziel, czwarty Jekameam.<verse eid="1CH 24:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 24:24" />Synowie Uzziela: Mika; z synów Miki – Szamir.<verse eid="1CH 24:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 24:25" />Brat Miki: Jisziasz; z synów Jisziasza – Zachariasz.<verse eid="1CH 24:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 24:26" />Synowie Merariego: Machli i Muszi; synowie Jaazjasza: Beno.<verse eid="1CH 24:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 24:27" />Synowie Merariego z Jaazjasza: Beno, Szoham, Zakkur i Ibri.<verse eid="1CH 24:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 24:28" />Z Machliego: Eleazar, który nie miał synów.<verse eid="1CH 24:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 24:29" />Z Kisza, synowie Kisza: Jerachmeel.<verse eid="1CH 24:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 24:30" />A synowie Musziego: Machli, Eder i Jerimot. Ci byli synami Lewitów według ich rodów.<verse eid="1CH 24:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 24:31" />Oni również rzucali losy tak samo jak ich bracia, synowie Aarona, przed królem Dawidem, Sadokiem, Achimelekiem oraz naczelnikami rodów kapłańskich i lewickich – naczelnicy rodów na równi z młodszymi ich braćmi.<verse eid="1CH 24:31" />
+  </para>
+  <chapter eid="1CH 24" />
+  <chapter number="25" style="c" sid="1CH 25" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 25:1" />Dawid wraz z dowódcami wojska przydzielił do służby synów Asafa, Hemana i Jedutuna, którzy mieli prorokować przy harfach, cytrach i cymbałach. A oto liczba pełniących tę służbę:<verse eid="1CH 25:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 25:2" />Z synów Asafa – Zakkur, Józef, Netaniasz i Asarela. Synowie Asafa zależni od Asafa, który prorokował pod kierownictwem króla.<verse eid="1CH 25:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 25:3" />Z Jedutuna – synowie Jedutuna: Gedaliasz, Seri, Jeszajasz, Chaszabiasz, Mattitiasz i Szimei, sześciu, pod kierunkiem ich ojca Jedutuna, który prorokował przy harfie, dziękując PANU i wychwalając go.<verse eid="1CH 25:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 25:4" />Z Hemana – synowie Hemana: Bukkiasz, Mattaniasz, Uzziel, Szebuel, Jerimot, Chananiasz, Chanani, Eliata, Giddalti, Romamtiezer, Joszbekasza, Malloti, Hotir i Machaziot.<verse eid="1CH 25:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 25:5" />Ci wszyscy byli synami Hemana, widzącego królewskiego w słowach Bożych, dla podnoszenia rogu. I Bóg dał Hemanowi czternastu synów i trzy córki.<verse eid="1CH 25:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 25:6" />Ci wszyscy byli pod kierownictwem swego ojca, przeznaczeni do śpiewu w domu PANA przy cymbałach, cytrach i harfach, do służby w domu Bożym, tak jak król rozkazał Asafowi, Jedutunowi i Hemanowi.<verse eid="1CH 25:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 25:7" />A liczba ich wraz z ich braćmi wyćwiczonymi w pieśniach PANA, wszystkich uzdolnionych, wynosiła dwieście osiemdziesiąt osiem.<verse eid="1CH 25:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 25:8" />I rzucali losy co do swej służby, tak mały, jak i wielki, tak mistrz, jak i uczeń.<verse eid="1CH 25:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 25:9" />Pierwszy los padł na Asafa i na Józefa, drugi – na Gedaliasza wraz z jego braćmi i synami, razem było ich dwunastu.<verse eid="1CH 25:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 25:10" />Trzeci – na Zakkura, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 25:11" />Czwarty – na Jisriego, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 25:12" />Piąty – na Netaniasza, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 25:13" />Szósty – na Bukkiasza, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 25:14" />Siódmy – na Jesarela, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 25:15" />Ósmy – na Jeszajasza, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 25:16" />Dziewiąty – na Mattaniasza, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 25:17" />Dziesiąty – na Szimejego, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 25:18" />Jedenasty – na Azarela, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 25:19" />Dwunasty – na Chaszabiasza, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 25:20" />Trzynasty – na Szubaela, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 25:21" />Czternasty – na Mattitiasza, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 25:22" />Piętnasty – na Jeremota, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 25:23" />Szesnasty – na Chananiasza, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 25:24" />Siedemnasty – na Joszbekasza, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 25:25" />Osiemnasty – na Chananiego, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 25:26" />Dziewiętnasty – na Mallotiego, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 25:27" />Dwudziesty – na Eliatę, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 25:28" />Dwudziesty pierwszy – na Hotira, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 25:29" />Dwudziesty drugi – na Giddaltiego, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 25:30" />Dwudziesty trzeci – na Machaziota, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 25:31" />Dwudziesty czwarty – na Romamtiezera, na jego synów i braci, razem dwunastu.<verse eid="1CH 25:31" />
+  </para>
+  <chapter eid="1CH 25" />
+  <chapter number="26" style="c" sid="1CH 26" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 26:1" />Co do zmiany odźwiernych: z Korachitów był Meszelemiasz, syn Koracha, z synów Asafa.<verse eid="1CH 26:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 26:2" />A z synów Meszelemiasza: pierworodny Zachariasz, drugi Jediael, trzeci Zebadiasz, czwarty Jatniel;<verse eid="1CH 26:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 26:3" />Piąty Elam, szósty Jehochanan, siódmy Elioenaj.<verse eid="1CH 26:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 26:4" />A z synów Obed-Edoma: pierworodny Szemajasz, drugi Jehozabad, trzeci Joach, czwarty Sakar, piąty Netaneel;<verse eid="1CH 26:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 26:5" />Szósty Ammiel, siódmy Issachar, ósmy Peulletaj. Bóg bowiem mu błogosławił.<verse eid="1CH 26:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 26:6" />Również jego synowi Szemajaszowi urodzili się synowie, którzy rządzili swoim rodem. Byli bowiem bardzo dzielnymi ludźmi.<verse eid="1CH 26:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 26:7" />Synowie Szemajasza: Otni, Rafael, Obed, Elzabad i ich bracia, ludzie mocni – Elihu i Semakiasz.<verse eid="1CH 26:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 26:8" />Wszyscy ci byli z synów Obed-Edoma, oni, ich synowie i bracia, mężczyźni bardzo mocni i zdolni do służby, razem sześćdziesięciu dwóch z Obed-Edoma.<verse eid="1CH 26:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 26:9" />I Meszelemiasz miał synów i braci, ludzi mocnych – osiemnastu.<verse eid="1CH 26:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 26:10" />Również Chosa, który był z synów Merariego, miał synów: Szimri zwierzchnik, bo chociaż nie był pierworodnym, jego ojciec ustanowił go zwierzchnikiem;<verse eid="1CH 26:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 26:11" />Drugi Chilkiasz, trzeci Tebaliasz, czwarty Zachariasz. Wszystkich synów i braci Chosy było trzynastu.<verse eid="1CH 26:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 26:12" />Spośród nich wyznaczono zmiany odźwiernych, spośród naczelników, którzy pełnili straż na przemian ze swoimi braćmi przy służbie w domu PANA.<verse eid="1CH 26:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 26:13" />I rzucali losy o każdą bramę, tak mały, jak i wielki, według swoich rodów.<verse eid="1CH 26:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 26:14" />Los dla Szelemiasza padł na stronę wschodnią. Potem rzucili los dla jego syna Zachariasza, mądrego doradcy, i jego los padł na stronę północną;<verse eid="1CH 26:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 26:15" />Dla Obed-Edoma – na południową, a jego synom przypadła składnica.<verse eid="1CH 26:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 26:16" />Dla Szuppima i Chosy – na stronę zachodnią wraz z bramą Szalleket, przy drodze wiodącej ku górze, straż naprzeciw straży.<verse eid="1CH 26:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 26:17" />Od wschodu było sześciu Lewitów, od północy czterech na dzień, od południa czterech na dzień i przy składnicy po dwóch.<verse eid="1CH 26:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 26:18" />Przy Parbar na zachodzie: czterech przy drodze, a dwóch przy Parbar.<verse eid="1CH 26:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 26:19" />Takie są zmiany odźwiernych spośród synów Koracha i spośród synów Merariego.<verse eid="1CH 26:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 26:20" />A z pozostałych Lewitów Achiasz postawiony był nad skarbcami domu Bożego i nad skarbcami rzeczy poświęconych.<verse eid="1CH 26:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 26:21" />Synowie Ladana, którzy byli z synów Gerszonity: z Ladana Gerszonity naczelnicy rodów, Jechiel.<verse eid="1CH 26:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 26:22" />Synowie Jechiela: Zetam i jego brat Joel; oni byli postawieni nad skarbcami domu PANA.<verse eid="1CH 26:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 26:23" />Spośród Amramitów, Isharytów, Chebronitów i Uzzielitów:<verse eid="1CH 26:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 26:24" />Szebuel, syn Gerszoma, syna Mojżesza, przełożony nad skarbcami.<verse eid="1CH 26:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 26:25" />A jego bracia, od strony Eliezera, to: jego syn Rechabiasz, jego syn Jeszajasz, jego syn Joram, jego syn Zikri i jego syn Szelomit.<verse eid="1CH 26:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 26:26" />Szelomit i jego bracia byli postawieni nad wszystkimi skarbcami rzeczy poświęconych, które poświęcił król Dawid, naczelnicy rodów, tysiącznicy, setnicy i dowódcy wojska.<verse eid="1CH 26:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 26:27" />To, co zdobyli z wojen i łupów, poświęcali na utrzymanie domu PANA.<verse eid="1CH 26:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 26:28" />I wszystko, co poświęcił Samuel, widzący, a także Saul, syn Kisza, Abner, syn Nera, i Joab, syn Serui, oraz wszystko, co zostało poświęcone, było pod opieką Szelomita i jego braci.<verse eid="1CH 26:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 26:29" />Spośród Isharytów: Kenaniasz i jego synowie zajmowali się sprawami zewnętrznymi Izraela jako urzędnicy i sędziowie.<verse eid="1CH 26:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 26:30" />Spośród Chebronitów: Chaszabiasz i jego bracia, ludzie dzielni, było ich tysiąc siedemset przełożonych nad Izraelem po zachodniej stronie Jordanu, odpowiadali za każdą sprawę PANA i służbę dla króla.<verse eid="1CH 26:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 26:31" />Spośród Chebronitów pochodził Jeriasz, naczelnik Chebronitów, według rodowodów jego ojców. W czterdziestym roku panowania Dawida szukano i znaleziono pośród nich bardzo dzielnych ludzi w Jazer w Gileadzie.<verse eid="1CH 26:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 26:32" />A jego braci, ludzi dzielnych, było dwa tysiące siedmiuset naczelników rodów, których król Dawid ustanowił zwierzchnikami nad Rubenitami, nad Gadytami i nad połową pokolenia Manassesa, by byli odpowiedzialni za wszystkie sprawy Boże i sprawy króla.<verse eid="1CH 26:32" />
+  </para>
+  <chapter eid="1CH 26" />
+  <chapter number="27" style="c" sid="1CH 27" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 27:1" />A oto synowie Izraela według ich liczby: naczelnicy rodów, tysiącznicy, setnicy i urzędnicy, którzy służyli królowi we wszelkiej sprawie związanej z oddziałami przychodzącymi i odchodzącymi co miesiąc, przez wszystkie miesiące w roku. Każdy oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 27:2" />Nad oddziałem w miesiącu pierwszym stał Jaszobeam, syn Zabdiela, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 27:3" />On pochodził z synów Peresa, a był wodzem wszystkich dowódców wojska w miesiącu pierwszym.<verse eid="1CH 27:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 27:4" />Nad oddziałem w miesiącu drugim stał Dodaj, Achochita. Po nim dowódcą był Miklot, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 27:5" />Trzecim dowódcą wojska, na miesiąc trzeci, był Benajasz, syn Jehojady, naczelnego kapłana, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 27:6" />Ten to Benajasz był waleczny wśród trzydziestu i dowodził trzydziestoma, a jego syn Ammizabad należał do jego oddziału.<verse eid="1CH 27:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 27:7" />Czwartym dowódcą, na miesiąc czwarty, był Asahel, brat Joaba, a po nim jego syn Zebadiasz – jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 27:8" />Piątym dowódcą, na piąty miesiąc, był Szamhut Jizrachita, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 27:9" />Szóstym, na miesiąc szósty, był Ira, syn Ikkesza Tekoitczyka, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 27:10" />Siódmym, na miesiąc siódmy, był Cheles Pelonita, z synów Efraima, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 27:11" />Ósmym, na miesiąc ósmy, był Sibbekaj Chuszatyta, z Zerachitów, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 27:12" />Dziewiątym, na miesiąc dziewiąty, był Abiezer Anatotczyk, z synów Beniamina, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 27:13" />Dziesiątym, na miesiąc dziesiąty, był Maharaj Netofatyta, z Zerachitów, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 27:14" />Jedenastym, na miesiąc jedenasty, był Benajasz Piratończyk, z synów Efraima, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 27:15" />Dwunastym, na miesiąc dwunasty, był Cheldaj Netofatyta, z Otniela, a jego oddział liczył dwadzieścia cztery tysiące.<verse eid="1CH 27:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 27:16" />Ponadto nad pokoleniami Izraela postawieni byli: nad Rubenitami przełożonym był Eliezer, syn Zikriego; nad Symeonitami – Szefatiasz, syn Maaki;<verse eid="1CH 27:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 27:17" />Nad Lewitami – Chaszabiasz, syn Kemuela, nad Aaronitami – Sadok;<verse eid="1CH 27:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 27:18" />Nad Judą – Elihu, jeden z braci Dawida, nad Issacharytami – Omri, syn Mikaela;<verse eid="1CH 27:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 27:19" />Nad Zebulonitami – Jiszmajasz, syn Obadiasza, nad Neftalitami – Jerimot, syn Azriela;<verse eid="1CH 27:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 27:20" />Nad synami Efraima – Ozeasz, syn Azazjasza, nad połową pokolenia Manassesa – Joel, syn Pedajasza;<verse eid="1CH 27:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 27:21" />Nad drugą połową pokolenia Manassesa w Gileadzie – Iddo, syn Zachariasza, nad Beniaminatami – Jaasiel, syn Abnera.<verse eid="1CH 27:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 27:22" />Nad Danitami – Azareel, syn Jerochama. Ci byli książętami pokoleń Izraela.<verse eid="1CH 27:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 27:23" />Dawid nie włączył jednak do spisu nikogo, kto miał dwadzieścia lat lub mniej. PAN powiedział bowiem, że rozmnoży Izraela jak gwiazdy na niebie.<verse eid="1CH 27:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 27:24" />Joab, syn Serui, zaczął ich liczyć, ale nie dokończył, gdyż za to spadł gniew na Izraela. Nie włączono więc tej liczby do spisu w kronikach króla Dawida.<verse eid="1CH 27:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 27:25" />Nad skarbcami króla postawiony był Azmawet, syn Adiela; nad dochodami z pól, miast, wsi i zamków – Jonatan, syn Uzjasza;<verse eid="1CH 27:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 27:26" />Nad rolnikami, którzy uprawiali ziemię, stał Ezri, syn Keluba.<verse eid="1CH 27:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 27:27" />Nad winnicami – Szimei Ramatczyk; nad plonami winnic w piwnicach – Zabdi Szifmita.<verse eid="1CH 27:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 27:28" />Nad drzewami oliwnymi i sykomorami, które rosły na równinach, postawiony był Baalchanan Gederczyk, a nad składami oliwy – Joasz.<verse eid="1CH 27:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 27:29" />Nad bydłem pasącym się w Szaronie – Szitraj Szarończyk, nad bydłem zaś w dolinach – Szafat, syn Adlaja.<verse eid="1CH 27:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 27:30" />Nad wielbłądami – Obil Izmaelita, nad oślicami – Jechdejasz Meronotyta.<verse eid="1CH 27:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="1CH 27:31" />I nad owcami – Jaziz Hagryta. Ci wszyscy byli zarządcami dobytku króla Dawida.<verse eid="1CH 27:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="1CH 27:32" />Jonatan, stryj Dawida, był doradcą, człowiekiem mądrym i uczonym. Jechiel, syn Chakmoniego, był z synami króla.<verse eid="1CH 27:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="1CH 27:33" />Achitofel też był doradcą króla, a Chuszaj Arkita – przyjacielem króla.<verse eid="1CH 27:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="1CH 27:34" />Po Achitofelu był Jehojada, syn Benajasza, i Abiatar. Joab zaś był dowódcą wojska króla.<verse eid="1CH 27:34" />
+  </para>
+  <chapter eid="1CH 27" />
+  <chapter number="28" style="c" sid="1CH 28" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 28:1" />Potem Dawid zgromadził w Jerozolimie wszystkich książąt Izraela, książąt pokoleń i dowódców oddziałów, którzy służyli królowi, tysiączników, setników i zarządców całego dobytku i posiadłości króla i jego synów, a także urzędników, walecznych i wszystkich dzielnych wojowników.<verse eid="1CH 28:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 28:2" />Wtedy król Dawid powstał i przemówił: Słuchajcie mnie, moi bracia i ludu mój! Moim pragnieniem było zbudować dom odpoczynku dla arki przymierza PANA i jako podnóżek naszego Boga i poczyniłem przygotowania do budowy.<verse eid="1CH 28:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 28:3" />Lecz Bóg powiedział do mnie: Nie zbudujesz domu dla mego imienia, ponieważ jesteś wojownikiem i rozlewałeś krew.<verse eid="1CH 28:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 28:4" />Wybrał mnie jednak PAN, Bóg Izraela, spośród całego domu mego ojca, abym był królem nad Izraelem na wieki. Judę bowiem wybrał na władcę, spośród rodu Judy – dom mego ojca, a spośród synów mego ojca, mnie sobie upodobał ustanowić królem nad całym Izraelem.<verse eid="1CH 28:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 28:5" />Spośród zaś wszystkich moich synów – wielu bowiem synów dał mi PAN – wybrał mego syna Salomona, aby zasiadł na tronie królestwa PANA nad Izraelem.<verse eid="1CH 28:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 28:6" />I powiedział do mnie: Salomon, twój syn – to on zbuduje mój dom i moje dziedzińce. Jego bowiem wybrałem sobie za syna, a ja mu będę ojcem.<verse eid="1CH 28:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 28:7" />I utwierdzę jego królestwo na wieki, jeśli podobnie jak dzisiaj będzie trwał w wypełnianiu moich przykazań i praw.<verse eid="1CH 28:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 28:8" />Teraz więc na oczach całego Izraela, zgromadzenia PANA, i wobec naszego Boga nakazuję wam: Przestrzegajcie i szukajcie wszystkich przykazań PANA, waszego Boga, abyście mogli posiadać tę dobrą ziemię i zostawić ją jako dziedzictwo swoim dzieciom po was – na wieki.<verse eid="1CH 28:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 28:9" />A ty, Salomonie, mój synu, poznawaj Boga swego ojca i służ mu sercem doskonałym i dobrowolnym umysłem. PAN bowiem przenika wszystkie serca i zna wszystkie zamysły i myśli. Jeśli będziesz go szukać, znajdziesz go, a jeśli go opuścisz, on odrzuci cię na wieki.<verse eid="1CH 28:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 28:10" />Miej się teraz na baczności, gdyż PAN cię wybrał, abyś zbudował dom na świątynię; bądź mocny i wykonaj to.<verse eid="1CH 28:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 28:11" />Wtedy Dawid przekazał swojemu synowi Salomonowi wzór przedsionka świątyni, jej domów, jej skarbców, jej komnat górnych, jej pomieszczeń wewnętrznych oraz domu dla przebłagalni.<verse eid="1CH 28:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 28:12" />Do tego wzór wszystkiego, co zaplanował: dziedzińców domu PANA, wszystkich komnat dokoła oraz wszystkich skarbców domu Bożego i skarbców rzeczy poświęconych.<verse eid="1CH 28:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 28:13" />Także wskazówki co do zmian kapłańskich i lewickich, wszelkiej pracy w służbie domu PANA i co do wszelkich naczyń służby w domu PANA.<verse eid="1CH 28:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 28:14" />Dał także odpowiednią wagę złota na wszystkie naczynia złote do każdej posługi; również odpowiednią wagę srebra na wszystkie naczynia srebrne, na wszystkie naczynia do wszelkich posług;<verse eid="1CH 28:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 28:15" />Mianowicie odpowiednią wagę na świeczniki złote i ich lampy złote według wagi każdego świecznika i jego lamp, i na świeczniki srebrne według wagi każdego świecznika i jego lamp, stosownie do użycia każdego świecznika.<verse eid="1CH 28:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 28:16" />Również dał odpowiednią wagę złota na stoły chlebów pokładnych, na każdy stół, oraz srebra – na stoły srebrne;<verse eid="1CH 28:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 28:17" />I szczere złoto na widełki, miednice i kubki, na czasze złote, określoną wagę na każdy z tych przedmiotów i na czasze srebrne – określoną wagę na każdą z nich;<verse eid="1CH 28:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 28:18" />Także na ołtarz kadzenia dał określoną wagę szczerego złota oraz złoto na wzór wozu cherubinów, którzy swoimi rozpostartymi skrzydłami okrywali arkę przymierza PANA.<verse eid="1CH 28:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 28:19" />To wszystko – powiedział Dawid – przyszło do mnie na piśmie z ręki PANA, abym mógł zrozumieć, jak wykonać ten plan.<verse eid="1CH 28:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 28:20" />Dawid powiedział do swego syna Salomona: Bądź mocny i dzielny i wykonaj to. Nie bój się ani się nie lękaj, bo PAN Bóg, mój Bóg, będzie z tobą, nie porzuci cię ani nie opuści, dopóki nie dokończysz wszelkiej pracy wokół służby domu PANA.<verse eid="1CH 28:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 28:21" />A oto zmiany kapłanów i Lewitów do każdej posługi w domu Bożym będą z tobą w każdej pracy; każdy ochotny i zdolny do wszelkiej posługi. Także książęta i cały lud stawią się na każdy twój rozkaz.<verse eid="1CH 28:21" />
+  </para>
+  <chapter eid="1CH 28" />
+  <chapter number="29" style="c" sid="1CH 29" />
+  <para style="m">
+    <verse number="1" style="v" sid="1CH 29:1" />Potem król Dawid przemówił do całego zgromadzenia: Mój syn Salomon, jedyny, którego Bóg wybrał, jest jeszcze młody i niedoświadczony, a dzieło jest wielkie. Ten pałac bowiem nie jest dla człowieka, ale dla PANA Boga.<verse eid="1CH 29:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1CH 29:2" />Według wszystkich swoich sił przygotowałem na dom swojego Boga złoto na przedmioty złote, srebro – na srebrne, brąz – na brązowe, żelazo – na żelazne, drewno – na drewniane, kamienie onyksowe i do osadzania, kamienie błyszczące i różnokolorowe, wszelkiego rodzaju drogie kamienie i marmur w obfitości.<verse eid="1CH 29:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1CH 29:3" />Ponadto z miłości do domu swego Boga oddaję ze swojego skarbca na dom mego Boga złota i srebra – poza tym wszystkim, co już przygotowałem na święty dom;<verse eid="1CH 29:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1CH 29:4" />Mianowicie trzy tysiące talentów złota, złota z Ofiru, i siedem tysięcy talentów najczystszego srebra na pokrycie ścian budynków;<verse eid="1CH 29:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1CH 29:5" />Złoto – na przedmioty złote, a srebro – na srebrne i na wszelkie ręczne prace rzemieślników. A kto jeszcze chciałby dziś dobrowolnie złożyć PANU dar?<verse eid="1CH 29:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1CH 29:6" />Wtedy dobrowolne dary złożyli naczelnicy rodów, książęta pokoleń Izraela, tysiącznicy, setnicy oraz przełożeni nad robotami króla.<verse eid="1CH 29:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1CH 29:7" />I złożyli na służbę domu Bożego pięć tysięcy talentów złota, dziesięć tysięcy darejków, dziesięć tysięcy talentów srebra, osiemnaście tysięcy talentów brązu oraz sto tysięcy talentów żelaza.<verse eid="1CH 29:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1CH 29:8" />Ci, którzy mieli drogie kamienie, oddali je do skarbca domu PANA na rękę Jechiela Gerszonity.<verse eid="1CH 29:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1CH 29:9" />I radował się lud z tego, że tak dobrowolnie złożono dary, gdyż sercem doskonałym, chętnie ofiarowywano PANU. Także i król Dawid wielce się radował.<verse eid="1CH 29:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1CH 29:10" />Dawid więc błogosławił PANU przed całym zgromadzeniem i powiedział: Błogosławiony jesteś, PANIE, Boże Izraela, naszego ojca, na wieki wieków.<verse eid="1CH 29:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1CH 29:11" />Twoja, PANIE, jest wielkość, moc, chwała, zwycięstwo i majestat. Wszystko bowiem, co jest na niebie i na ziemi, jest twoje. Do ciebie należy królestwo, a ty jako głowa jesteś wyniesiony ponad wszystko.<verse eid="1CH 29:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1CH 29:12" />I bogactwo, i sława pochodzą od ciebie i ty panujesz nad wszystkimi; w twoich rękach jest moc i siła i w twojej ręce jest to, aby wywyższyć i umocnić wszystko.<verse eid="1CH 29:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1CH 29:13" />Teraz więc, Boże nasz, dziękujemy ci i wychwalamy chwalebne imię twoje.<verse eid="1CH 29:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1CH 29:14" />Lecz kim ja jestem i czym jest mój lud, żebyśmy zdołali ofiarować dobrowolnie te rzeczy? Od ciebie bowiem pochodzi wszystko i daliśmy tobie to, co z twojej ręki otrzymaliśmy.<verse eid="1CH 29:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1CH 29:15" />Jesteśmy bowiem pielgrzymami i przychodniami przed tobą, tak jak wszyscy nasi ojcowie. Nasze dni na ziemi są jak cień i nie ma czego oczekiwać.<verse eid="1CH 29:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1CH 29:16" />O PANIE, Boże nasz, cały ten dostatek, który przygotowaliśmy dla ciebie na budowę domu dla twojego świętego imienia, pochodzi z twojej ręki i twoje jest to wszystko.<verse eid="1CH 29:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1CH 29:17" />Wiem ja, mój Boże, że badasz serca i upodobałeś sobie prawość. Dlatego w prawości swego serca dobrowolnie złożyłem w ofierze to wszystko. Teraz z radością widzę, że również twój lud, który znajduje się tutaj, dobrowolnie składa ci ofiary.<verse eid="1CH 29:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1CH 29:18" />PANIE, Boże Abrahama, Izaaka i Izraela, naszych ojców, zachowaj na wieki te zamiary i myśli serca swego ludu i skłoń jego serca ku sobie.<verse eid="1CH 29:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1CH 29:19" />Salomonowi, mojemu synowi, daj serce doskonałe, aby strzegł twoich przykazań, świadectw i ustaw, aby wykonał to wszystko i aby zbudował dom, do którego poczyniłem przygotowania.<verse eid="1CH 29:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1CH 29:20" />Potem Dawid przemówił do całego zgromadzenia: Błogosławcie teraz PANU, waszemu Bogu. I całe zgromadzenie błogosławiło PANU, Bogu swoich ojców – pochylili się i oddali pokłon PANU i królowi.<verse eid="1CH 29:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1CH 29:21" />Następnie złożyli PANU ofiary. Nazajutrz złożyli PANU całopalenia: tysiąc wołów, tysiąc baranów, tysiąc jagniąt wraz z ofiarami z płynów i mnóstwem innych ofiar, za całego Izraela.<verse eid="1CH 29:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1CH 29:22" />Jedli i pili przed PANEM tego dnia z wielką radością. I po raz drugi ustanowili królem Salomona, syna Dawida, i namaścili go dla PANA na władcę, a Sadoka na kapłana.<verse eid="1CH 29:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1CH 29:23" />Tak więc zasiadł Salomon na tronie PANA jako król po swoim ojcu Dawidzie i powodziło mu się, a cały Izrael był mu posłuszny.<verse eid="1CH 29:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1CH 29:24" />Również wszyscy książęta i dzielni ludzie, a także wszyscy synowie króla Dawida poddali się królowi Salomonowi.<verse eid="1CH 29:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1CH 29:25" />I PAN wielce wywyższył Salomona przed całym Izraelem i dał mu chwałę królewską, jakiej żaden król przed nim nie miał w Izraelu.<verse eid="1CH 29:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1CH 29:26" />Tak to Dawid, syn Jessego, królował nad całym Izraelem.<verse eid="1CH 29:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1CH 29:27" />A czas jego panowania nad Izraelem wynosił czterdzieści lat: w Hebronie królował siedem lat, a w Jerozolimie królował trzydzieści trzy lata.<verse eid="1CH 29:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1CH 29:28" />I umarł w późnej starości, syty dni, bogactw i sławy. A w jego miejsce królował Salomon, jego syn.<verse eid="1CH 29:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="1CH 29:29" />A dzieje króla Dawida, pierwsze i ostatnie, oto zapisane są w księdze Samuela widzącego, w księdze proroka Natana i w księdze Gada widzącego;<verse eid="1CH 29:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="1CH 29:30" />Wraz z całym jego panowaniem, jego potęgą i wydarzeniami, które dotyczyły jego, Izraela i wszystkich królestw tej ziemi.<verse eid="1CH 29:30" />
+  </para>
+  <chapter eid="1CH 29" />
+</usx>

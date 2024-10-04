@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="MIC" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Micheasza</para>
+  <para style="toc1">Księga Micheasza</para>
+  <para style="toc2">Micheasza</para>
+  <para style="toc3">Mic</para>
+  <para style="mt1">Księga Micheasza</para>
+  <chapter number="1" style="c" sid="MIC 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="MIC 1:1" />Słowo PANA, które doszło do Micheasza z Moreszet za dni Jotama, Achaza i Ezechiasza, królów Judy – to, co widział o Samarii i Jerozolimie.<verse eid="MIC 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="MIC 1:2" />Słuchajcie, wszystkie narody; słuchaj, ziemio, i wszystko, co na niej jest. A niech Pan BÓG będzie świadkiem przeciwko wam, Pan ze swego świętego przybytku.<verse eid="MIC 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="MIC 1:3" />Oto bowiem PAN wychodzi ze swojego miejsca, zstąpi i będzie deptać po wysokościach ziemi.<verse eid="MIC 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="MIC 1:4" />I stopnieją pod nim góry, a doliny rozdzielą się tak, jak wosk przed ogniem i jak wody, które spływają po zboczu.<verse eid="MIC 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="MIC 1:5" />To wszystko się stanie z powodu przestępstwa Jakuba i z powodu grzechów domu Izraela. Jakie jest przestępstwo Jakuba? Czy to nie Samaria? Co jest wyżyną Judy? Czy nie Jerozolima?<verse eid="MIC 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="MIC 1:6" />Dlatego zamienię Samarię w kupę gruzu na polu, w miejsce pod założenie winnicy. Powrzucam w dolinę jej kamienie i odkryję jej fundamenty.<verse eid="MIC 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="MIC 1:7" />I wszystkie jej wyrzeźbione obrazy będą potłuczone, wszystkie jej dary spalone ogniem i wszystkie jej bożki zamienię w ruinę. To bowiem zgromadziła z zapłaty nierządnicy, to więc obróci się w zapłatę nierządnicy.<verse eid="MIC 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="MIC 1:8" />Nad tym będę zawodzić i lamentować, chodząc nagi, bez ubrań. Podnoszę zawodzenie jak smoki i lament jak młode strusie;<verse eid="MIC 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="MIC 1:9" />Jej rana bowiem jest nieuleczalna, gdyż doszła aż do Judy, a dotarła do bramy mego ludu aż do Jerozolimy.<verse eid="MIC 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="MIC 1:10" />Nie opowiadajcie tego w Gat ani nie płaczcie. Tarzajcie się w prochu, w domu Afra.<verse eid="MIC 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="MIC 1:11" />Przejdź ty, która mieszkasz w Szafirze w haniebnej nagości. Ta, która mieszka w Saananie, nie wyszła na żałobę w Bet-Hezel; weźmie od was swoją żywność.<verse eid="MIC 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="MIC 1:12" />Ta, która mieszka w Marot, oczekiwała dobra, ale zło zstąpiło od PANA aż do bramy Jerozolimy.<verse eid="MIC 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="MIC 1:13" />Zaprzęgaj konie do rydwanu, mieszkanko Lakisz, która jesteś powodem grzechu córki Syjonu, gdyż w tobie znalezione są przestępstwa Izraela.<verse eid="MIC 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="MIC 1:14" />Dlatego poślesz dary do Moreszet-Gat. Domy Akzibu będą ułudą dla królów Izraela.<verse eid="MIC 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="MIC 1:15" />Jeszcze przyprowadzę ci dziedzica, mieszkanko Mareszy. Przyjdzie aż do Adullam, do chwały Izraela.<verse eid="MIC 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="MIC 1:16" />Ogol się i ostrzyż z powodu swoich ukochanych synów; rozszerz swą łysinę jak orzeł, bo poszli od ciebie do niewoli.<verse eid="MIC 1:16" />
+  </para>
+  <chapter eid="MIC 1" />
+  <chapter number="2" style="c" sid="MIC 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="MIC 2:1" />Biada tym, którzy wymyślają nieprawość i knują zło na swoich łożach, a o świcie wykonują je, bo jest to w ich mocy.<verse eid="MIC 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="MIC 2:2" />Pożądają pól i wydzierają je; także domów i je zabierają. W ten sposób gnębią człowieka i jego dom, człowieka i jego dziedzictwo.<verse eid="MIC 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="MIC 2:3" />Dlatego tak mówi PAN: Oto obmyślam dla tego rodu nieszczęście, z którego nie będziecie mogli wyciągnąć swoich szyj ani nie będziecie chodzić zuchwale. Będzie to bowiem czas nieszczęścia.<verse eid="MIC 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="MIC 2:4" />W tym dniu powstanie o was przypowieść i podniosą nad wami żałosny lament, mówiąc: Jesteśmy doszczętnie spustoszeni. Odmienił dział mego ludu, jakże mi go odjął! Gdy wziął nasze pole, rozdzielił je.<verse eid="MIC 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="MIC 2:5" />Dlatego nie będziesz miał nikogo, kto rzuciłby sznurem na los w zgromadzeniu PANA.<verse eid="MIC 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="MIC 2:6" />Mówią: Nie prorokujcie, niech nam inni prorokują. Nie prorokują bowiem tak, jak ci. Żaden z nich nie przestaje mówić obraźliwie.<verse eid="MIC 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="MIC 2:7" />O ty, ludu, który słyniesz domem Jakuba! Czy Duch PANA jest ograniczony? Czy takie są jego dzieła? Czy moje słowa nie są dobre dla tego, który postępuje w sposób prawy?<verse eid="MIC 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="MIC 2:8" />Wczoraj był moim ludem, a dziś jak wróg powstaje. Zdzieracie płaszcz wraz z szatą z tych, którzy przechodzą bezpiecznie, jakby wracali z wojny.<verse eid="MIC 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="MIC 2:9" />Kobiety mego ludu wyganiacie z ich przytulnych domów; ich dzieciom odebraliście moją chwałę na zawsze.<verse eid="MIC 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="MIC 2:10" />Wstańcie i odejdźcie, bo tu nie ma odpoczynku. Z powodu nieczystości zniszczy was, i to zniszczeniem srogim.<verse eid="MIC 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="MIC 2:11" />Gdy ktoś podaje się za proroka i kłamie, mówiąc: Będę prorokował o winie i o mocnym napoju, to taki staje się prorokiem tego ludu.<verse eid="MIC 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="MIC 2:12" />Na pewno zgromadzę ciebie całego, Jakubie, na pewno zgromadzę resztkę Izraela. Zbiorę ich razem jak owce Bozra, jak trzodę w środku owczarni, i będzie bardzo głośno z powodu mnóstwa ludzi.<verse eid="MIC 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="MIC 2:13" />Zstąpi przed nimi ten, który będzie przełamywać. Przełamali się, przeszli przez bramę i wyszli przez nią. Ich król pójdzie przed nimi, a PAN na ich czele.<verse eid="MIC 2:13" />
+  </para>
+  <chapter eid="MIC 2" />
+  <chapter number="3" style="c" sid="MIC 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="MIC 3:1" />I powiedziałem: Słuchajcie, naczelnicy Jakuba i wodzowie domu Izraela! Czy wy nie powinniście znać sądu?<verse eid="MIC 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="MIC 3:2" />Wy, którzy nienawidzicie dobra, a kochacie zło, którzy zdzieracie z ludu skórę i ciało z jego kości;<verse eid="MIC 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="MIC 3:3" />Którzy jecie ciało mojego ludu, skórę z niego zdzieracie, jego kości łamiecie i kroicie je na kawałki jak do garnca i jak mięso do kotła.<verse eid="MIC 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="MIC 3:4" />Wtedy będą wołać do PANA, a nie wysłucha ich, lecz zakryje swoje oblicze przed nimi w tym czasie, gdyż oni popełniali złe czyny.<verse eid="MIC 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="MIC 3:5" />Tak mówi PAN o tych prorokach, którzy w błąd wprowadzą mój lud, którzy gryzą swoimi zębami i głoszą pokój, a temu, który nic im nie włoży do ust, wypowiadają wojnę.<verse eid="MIC 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="MIC 3:6" />Dlatego wasze widzenie zamienia się w noc, a wasza wróżba – w ciemność; słońce zajdzie nad prorokami i dzień się zaćmi nad nimi.<verse eid="MIC 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="MIC 3:7" />Wtedy widzący będą się wstydzić i wróżbiarze się zarumienią. Oni wszyscy zakryją swoje wargi, bo nie będzie żadnej odpowiedzi od Boga.<verse eid="MIC 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="MIC 3:8" />Ale ja jestem napełniony mocą Ducha PANA oraz sądu i siły, aby oznajmić Jakubowi jego występki i Izraelowi jego grzech.<verse eid="MIC 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="MIC 3:9" />Słuchajcie tego, naczelnicy domu Jakuba i wodzowie domu Izraela, którzy brzydzicie się sądem i wypaczacie wszystko, co sprawiedliwe.<verse eid="MIC 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="MIC 3:10" />Każdy buduje Syjon krwią, a Jerozolimę nieprawością.<verse eid="MIC 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="MIC 3:11" />Jej naczelnicy sądzą za dary, jego kapłani uczą za zapłatę i jego prorocy prorokują za pieniądze. Polegają jednak na PANU, mówiąc: Czy PAN nie jest wśród nas? Nie spotka nas nic złego.<verse eid="MIC 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="MIC 3:12" />Dlatego Syjon stanie się dla was jak zaorane pole, Jerozolima zamieni się w kupę gruzu, a góra domu – w zalesione wzgórze.<verse eid="MIC 3:12" />
+  </para>
+  <chapter eid="MIC 3" />
+  <chapter number="4" style="c" sid="MIC 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="MIC 4:1" />Ale w ostatecznych dniach stanie się, że góra domu PANA będzie utwierdzona na szczycie gór i wywyższona ponad pagórki, a narody do niej popłyną.<verse eid="MIC 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="MIC 4:2" />I wiele narodów przybędzie, mówiąc: Chodźcie, wstąpmy na górę PANA, do domu Boga Jakuba, i będzie nas nauczał swoich dróg, a my będziemy chodzili jego ścieżkami. Z Syjonu bowiem wyjdzie prawo i słowo PANA z Jerozolimy.<verse eid="MIC 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="MIC 4:3" />On będzie sądzić wśród wielu narodów i będzie karać narody potężne i odległe. I przekują swoje miecze na lemiesze, a swoje oszczepy na sierpy. Naród przeciwko narodowi nie podniesie miecza i już nie będą się uczyć sztuki wojennej.<verse eid="MIC 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="MIC 4:4" />Ale każdy będzie siedział pod swoją winoroślą i pod swoim drzewem figowym i nikt nie będzie ich straszył, bo to usta PANA zastępów powiedziały.<verse eid="MIC 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="MIC 4:5" />Wszystkie narody bowiem będą chodzić, każdy w imię swego boga, ale my będziemy chodzić w imię PANA, naszego Boga, na wieki wieków.<verse eid="MIC 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="MIC 4:6" />W tym dniu, mówi PAN, zgromadzę chromą, zbiorę wygnaną oraz tę, którą trapiłem;<verse eid="MIC 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="MIC 4:7" />A z tej chromej uczynię resztkę, a z wygnanej – potężny naród. I PAN będzie królował nad nimi na górze Syjon odtąd aż na wieki.<verse eid="MIC 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="MIC 4:8" />A ty, wieżo trzody, twierdzo córki Syjonu, wiedz, że do ciebie przyjdzie, przyjdzie pierwsze panowanie, królestwo córki Jerozolimy.<verse eid="MIC 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="MIC 4:9" />Czemu teraz tak bardzo krzyczysz? Czy nie ma króla u ciebie? Czy twój doradca zginął, że cię ból ogarnął jak rodzącą?<verse eid="MIC 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="MIC 4:10" />Odczuwaj ból i jęcz, córko Syjonu, jak rodząca, bo już wyjdziesz z miasta i zamieszkasz w polu, i pójdziesz aż do Babilonu. Tam będziesz wybawiona, tam cię PAN odkupi z rąk twoich wrogów.<verse eid="MIC 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="MIC 4:11" />Teraz zebrało się przeciwko tobie wiele narodów, które mówią: Niech będzie zbezczeszczona, niech nasze oko patrzy na Syjon.<verse eid="MIC 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="MIC 4:12" />One jednak nie znają myśli PANA ani nie rozumieją jego rady. On bowiem je zgromadzi jak snopy na klepisku.<verse eid="MIC 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="MIC 4:13" />Wstań i młóć, córko Syjonu, bo twój róg uczynię z żelaza i twoje kopyta uczynię ze spiżu, i zmiażdżysz wiele narodów. Poświęcę PANU ich łupy i ich bogactwo Panu całej ziemi.<verse eid="MIC 4:13" />
+  </para>
+  <chapter eid="MIC 4" />
+  <chapter number="5" style="c" sid="MIC 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="MIC 5:1" />Zbierz się teraz w oddziały, córko oddziałów! Obległ nas. Laską będą bić w policzek sędziego Izraela.<verse eid="MIC 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="MIC 5:2" />Ale ty, Betlejem Efrata, choć jesteś najmniejsze wśród tysięcy w Judzie, z ciebie jednak wyjdzie mi ten, który będzie władcą w Izraelu, a jego wyjścia są od dawna, od dni wiecznych.<verse eid="MIC 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="MIC 5:3" />Dlatego wyda ich aż do czasu, kiedy rodząca porodzi. Wtedy resztka jego braci wróci do synów Izraela.<verse eid="MIC 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="MIC 5:4" />Powstanie i będzie paść w mocy PANA i w majestacie imienia PANA, swego Boga. I będą mieszkać spokojnie, bo już będzie on wielki aż po krańce ziemi.<verse eid="MIC 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="MIC 5:5" />I będzie on pokojem, gdy Asyryjczyk wtargnie do naszej ziemi. I gdy podepcze nasze pałace, wtedy wystawimy przeciw niemu siedmiu pasterzy i ośmiu książąt z ludu.<verse eid="MIC 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="MIC 5:6" />Ci ogołocą ziemię Asyrii mieczem i ziemię Nimroda na jej granicach. W ten sposób wybawi nas od Asyryjczyka, gdy nadciągnie do naszej ziemi i gdy będzie stąpał w naszych granicach.<verse eid="MIC 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="MIC 5:7" />Dlatego resztka Jakuba będzie pośród wielu narodów jak rosa od PANA, jak deszcze skrapiające trawę, które nie czekają na człowieka ani nie polegają na synach ludzkich.<verse eid="MIC 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="MIC 5:8" />Resztka Jakuba będzie też pośród pogan, wśród wielu narodów, jak lew między leśnymi zwierzętami i jak lwiątko między trzodami owiec, które – gdy przechodzi – depcze i szarpie, a nie ma nikogo, kto by je ocalił.<verse eid="MIC 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="MIC 5:9" />Wywyższy się twoja ręka nad twoimi wrogami, a wszyscy twoi przeciwnicy będą wykorzenieni.<verse eid="MIC 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="MIC 5:10" />I stanie się w tym dniu, mówi PAN, że wytracę twoje konie spośród ciebie i zniszczę twoje rydwany.<verse eid="MIC 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="MIC 5:11" />Wygubię miasta twojej ziemi i zburzę wszystkie twoje twierdze.<verse eid="MIC 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="MIC 5:12" />Wytracę czary z twojej ręki i nie będzie już u ciebie wróżbitów.<verse eid="MIC 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="MIC 5:13" />Wyniszczę też twoje rzeźbione bożki i twoje obrazy spośród ciebie i nie będziesz już oddawać pokłonu dziełu swoich rąk.<verse eid="MIC 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="MIC 5:14" />Wykorzenię twoje gaje spośród ciebie i zgładzę twoich wrogów.<verse eid="MIC 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="MIC 5:15" />Tak w gniewie i zapalczywości dokonam zemsty nad narodami, które nie były posłuszne.<verse eid="MIC 5:15" />
+  </para>
+  <chapter eid="MIC 5" />
+  <chapter number="6" style="c" sid="MIC 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="MIC 6:1" />Słuchajcie tego, co mówi PAN: Wstań, spieraj się z górami i niech pagórki słuchają twego głosu.<verse eid="MIC 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="MIC 6:2" />Słuchajcie, góry, sporu PANA, i najmocniejsze fundamenty ziemi, bo PAN wiedzie spór ze swoim ludem i rozprawia się z Jerozolimą.<verse eid="MIC 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="MIC 6:3" />Mój ludu, cóż ci uczyniłem? W czym ci się uprzykrzyłem? Zeznaj przeciwko mnie.<verse eid="MIC 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="MIC 6:4" />Wyprowadziłem cię bowiem z ziemi Egiptu, odkupiłem cię z domu niewolników i posłałem przed tobą Mojżesza, Aarona i Miriam.<verse eid="MIC 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="MIC 6:5" />Mój ludu! Wspomnij teraz, co zamierzał Balak, król Moabu, a co mu odpowiedział Balaam, syn Beora; wspomnij też, co się działo od Szittim aż do Gilgal, abyś poznał sprawiedliwość PANA.<verse eid="MIC 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="MIC 6:6" />Z czym mam się stawić przed PANEM i pokłonić się Bogu najwyższemu? Czy mam stawić się przed nim z ofiarami całopalnymi i jednorocznymi cielcami?<verse eid="MIC 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="MIC 6:7" />Czy PAN ma upodobanie w tysiącach baranów i w dziesiątkach tysięcy strumieni oliwy? Czy mam mu dać swego pierworodnego za mój występek, owoc mego łona za grzech mojej duszy?<verse eid="MIC 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="MIC 6:8" />On ci oznajmił, człowieku, co jest dobre i czego PAN żąda od ciebie: jedynie tego, byś czynił sprawiedliwie, kochał miłosierdzie i pokornie chodził z twoim Bogiem.<verse eid="MIC 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="MIC 6:9" />Głos PANA woła do miasta (ale roztropny sam ujrzy twoje imię): Słuchajcie rózgi i tego, kto ją ustanowił.<verse eid="MIC 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="MIC 6:10" />Czy jeszcze są w domu bezbożnego skarby niesprawiedliwe i miara niesprawiedliwa i obrzydliwa?<verse eid="MIC 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="MIC 6:11" />Czy mam usprawiedliwić oszukańczą wagę i worek fałszywych odważników?<verse eid="MIC 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="MIC 6:12" />Jego bogacze są pełni zdzierstwa, jego mieszkańcy mówią kłamstwo i ich język w ich ustach jest kłamliwy.<verse eid="MIC 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="MIC 6:13" />Dlatego też dotknę cię chorobą, uderzę cię i zniszczę z powodu twoich grzechów.<verse eid="MIC 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="MIC 6:14" />Będziesz jeść, ale się nie nasycisz; twoje poniżenie będzie w środku ciebie. Pochwycisz, ale nie ocalisz, a co ocalisz, wydam pod miecz.<verse eid="MIC 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="MIC 6:15" />Będziesz siał, ale nie będziesz żął; będziesz tłoczył oliwki, ale nie namaścisz się oliwą; będziesz wyciskał moszcz, ale nie napijesz się wina.<verse eid="MIC 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="MIC 6:16" />Przestrzegacie bowiem ustaw Omriego i wszystkich czynów domu Achaba i postępujecie według ich rad. Dlatego cię wydam na spustoszenie i jego mieszkańców na pośmiewisko. Będziecie więc nosić hańbę mego ludu.<verse eid="MIC 6:16" />
+  </para>
+  <chapter eid="MIC 6" />
+  <chapter number="7" style="c" sid="MIC 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="MIC 7:1" />Biada mi! Jestem bowiem jak ostatki po letnich zbiorach, jak pokłosie grona po winobraniu. Nie ma żadnego grona do zjedzenia, moja dusza pragnęła pierwocin z owocu.<verse eid="MIC 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="MIC 7:2" />Pobożny zginął z ziemi, nie ma prawego wśród ludzi. Wszyscy czyhają na krew, każdy zastawia sieci dla swego brata.<verse eid="MIC 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="MIC 7:3" />By chętnie czynić zło obiema rękami, książę i sędzia żądają datku; zamożny człowiek wypowiada swoją przewrotną żądzę. I razem wszystko splatają.<verse eid="MIC 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="MIC 7:4" />Najlepszy z nich jest jak oset; najuczciwszy – jak płot ciernisty. Nadchodzi dzień twoich stróżów i twojego nawiedzenia; już nastanie ich zamieszanie.<verse eid="MIC 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="MIC 7:5" />Nie wierzcie przyjacielowi, nie ufajcie wodzowi. Strzeż bramy swoich ust przed tą, która leży na twoim łonie.<verse eid="MIC 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="MIC 7:6" />Syn bowiem lekceważy ojca, córka powstaje przeciwko swojej matce, synowa przeciwko swojej teściowej, a wrogami człowieka są jego domownicy.<verse eid="MIC 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="MIC 7:7" />Dlatego będę wypatrywał PANA, będę oczekiwać Boga mego zbawienia. Mój Bóg mnie wysłucha.<verse eid="MIC 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="MIC 7:8" />Nie ciesz się z mojego powodu, moja nieprzyjaciółko! Chociaż upadłem, powstanę; choć siedzę w ciemności, PAN jest moją światłością.<verse eid="MIC 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="MIC 7:9" />Zniosę gniew PANA, bo zgrzeszyłem przeciwko niemu, aż będzie bronił mojej sprawy i wykona dla mnie sąd. Wyprowadzi mnie na światło i ujrzę jego sprawiedliwość.<verse eid="MIC 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="MIC 7:10" />Ujrzy to moja nieprzyjaciółka i wstyd okryje tę, która do mnie mówi: Gdzie jest PAN, twój Bóg? Moje oczy będą patrzyć na nią, gdy będzie podeptana jak błoto na ulicach.<verse eid="MIC 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="MIC 7:11" />W tym dniu, kiedy będą odbudowywać twoje mury, w tym dniu dekret rozejdzie się daleko.<verse eid="MIC 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="MIC 7:12" />W tym dniu będą przychodzić do ciebie od Asyrii aż po miasta obronne, od miast obronnych aż po rzekę, od morza aż do morza i od góry aż do góry.<verse eid="MIC 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="MIC 7:13" />Ta ziemia jednak będzie spustoszona z powodu swoich mieszkańców, z powodu owocu ich czynów.<verse eid="MIC 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="MIC 7:14" />Paś swój lud laską swoją, trzodę swojego dziedzictwa, która mieszka samotnie w lesie i w środku Karmelu. Niech się pasą w Baszanie i Gileadzie jak za dawnych dni.<verse eid="MIC 7:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="MIC 7:15" />Ukażę mu cudowne rzeczy jak za dni, gdy wyszedłeś z ziemi Egiptu.<verse eid="MIC 7:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="MIC 7:16" />Ujrzą to narody i zawstydzą się całej swojej potęgi. Przyłożą rękę do ust, a ich uszy ogłuchną.<verse eid="MIC 7:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="MIC 7:17" />Będą lizać proch jak wąż, wyjdą ze swoich nor jak zwierzęta pełzające do PANA, naszego Boga, ze strachem i będą się bać ciebie.<verse eid="MIC 7:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="MIC 7:18" />Któż jest Bogiem jak ty, który przebacza nieprawość i daruje występek resztki swego dziedzictwa? Nie chowa swego gniewu na wieki, bo ma upodobanie w miłosierdziu.<verse eid="MIC 7:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="MIC 7:19" />Odwróci się i zlituje się nad nami; pokona nasze nieprawości i wrzuci w głębiny morza wszystkie nasze grzechy.<verse eid="MIC 7:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="MIC 7:20" />Pokażesz prawdę Jakubowi i okażesz miłosierdzie Abrahamowi, tak jak przysiągłeś naszym ojcom za dawnych dni.<verse eid="MIC 7:20" />
+  </para>
+  <chapter eid="MIC 7" />
+</usx>
