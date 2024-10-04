@@ -1,6 +1,9 @@
-# Zasoby Uwspółcześnionej Bibli Gdańskiej
-Dane uzyskane bezpośrednio z Fundacja Wrota Nadziei
- 
+# Zasoby Uwspółcześnionej Biblii Gdańskiej
+Dane uzyskane bezpośrednio z Fundacja Wrota Nadziei.
+
+Version: 2021-04-29
+Aktualnie wersja z naniesionymi korektami z 2021-05-13 - Errata do UBG 20210429.docx
+
 ## Licencja
 > Dajemy zgodę na korzystanie z tego pliku bezpłatnie pod warunkiem, że nie będą
 > wprowadzone żadnych zmian do tekstu i że będzie udostępniony zupełnie za darmo.
@@ -16,11 +19,16 @@ Pliki ont jest zgodny ze specyfikacją programu https://www.theword.net
 Więcej o formacie danych można znaleźć pod adresem: https://www.theword.net/docs/tw3-bible-module-spec.doc
 
 W katalogu dist znajdują się:
- * główny plik pubg.ont - to jest nasz źródłowy plik na podstawie którego generujemy inne
+ * główny plik pubg.ont - to jest nasz źródłowy plik na podstawie którego generujemy inne formaty
+ * plik pubg-red.ont - plik wzbogacony o oznaczenia słów naszeg Pana Jezusa na czerwono 
  * indeks rozdziałów i wersetów index.ont
- * name.ont (nazwy ksiąg) - todo
 
 Ważne jest to, że dla plików ont mamy 31102 linie wersetów (wg numeracji KJV)
+
+## Pozostałe dostępne formaty
+ * docx dla desktopowego oprogramowania Logos
+ * opensong
+ * usx dla oprogramowania Paratext (do weryfikacji wersja xml USX3)
 
 ## Do sprawdzenia
 
