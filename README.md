@@ -43,3 +43,8 @@ było => 1Chr 17:9 Ustanowię miejsce dla swego ludu Izraela i zasadzę go <i>ta
 [2]
 jest => 2Chr 6:4 I powiedział: Błogosławiony <i>niech będzie</i> PAN, Bóg Izraelem, który swoimi rękami wypełnił to, co mówił swoimi ustami do mojego ojca Dawida:
 było => 2Chr 6:4 I powiedział: Błogosławiony <i>niech będzie</i> PAN, Bóg Izraela, który swoimi rękami wypełnił to, co mówił swoimi ustami do mojego ojca Dawida:
+
+
+## Generacja innych formatów przy użyciu BibleMultiConverter 
+
+    java -jar BibleMultiConverter-AllInOneEdition.jar TheWord pubg-text.ont OSIS pubg-osis.xml
