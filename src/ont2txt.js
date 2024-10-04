@@ -136,4 +136,4 @@ index.forEach((item, i) => {
 
 out.push('') //dodatkowa końcowa spacja
 
-fs.writeFileSync('./dist/PUBG2021_full_Bible.txt', out.join('\r\n'), {encoding: 'utf-8'})
+fs.writeFileSync('../dist/txt/PUBG2021_full_Bible.txt', out.join('\r\n'), {encoding: 'utf-8'})

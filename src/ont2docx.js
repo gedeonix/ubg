@@ -157,4 +157,4 @@ doc.setData({
 doc.render()
 
 let buf = doc.getZip().generate({type:"nodebuffer"});
-fs.writeFile('./dist/BibliaUBG-logos.docx', buf, (err) => { })
+fs.writeFile('../dist/logos/BibliaUBG-logos.docx', buf, (err) => { })

@@ -3,7 +3,6 @@ const fs = require('fs')
 
 let out = []
 
-// let data = fs.readFileSync(path.join(__dirname, '../dist/pubg.ont'), 'utf8').toString()
 let data = fs.readFileSync(path.join(__dirname, '../dist/pubg-red.ont'), 'utf8').toString()
 if (data.charCodeAt(0) === 0xFEFF) {
     data = data.slice(1)
@@ -11,11 +10,6 @@ if (data.charCodeAt(0) === 0xFEFF) {
 data = data.split(/\n/)
 
 console.log('[UBG]', data.length)
-
-/*
-let input = fs.readFileSync(path.join(__dirname, '../src/arch/ubg-old.txt'), 'utf8').toString().split(/\n/)
-console.log('[UBG old', input.length)
-*/
 
 // czytamy kolejne wiersze
 
@@ -90,4 +84,4 @@ data.forEach((item, i) => {
     }
 })
 
-fs.writeFileSync('./dist/pubg-red.ont',  '\ufeff' + out.join('\n'), {encoding: 'utf-8'})
+fs.writeFileSync('../dist/pubg-red.ont',  '\ufeff' + out.join('\n'), {encoding: 'utf-8'})

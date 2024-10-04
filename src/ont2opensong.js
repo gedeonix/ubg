@@ -160,4 +160,4 @@ out.push('  </b>')
 out.push('</bible>')
 out.push('') //dodatkowa końcowa spacja
 
-fs.writeFileSync('./dist/opensong/Uwspółcześniona Biblia Gdańska', out.join('\r\n'), {encoding: 'utf-8'})
+fs.writeFileSync('../dist/opensong/Uwspółcześniona Biblia Gdańska', out.join('\r\n'), {encoding: 'utf-8'})
