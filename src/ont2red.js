@@ -90,4 +90,4 @@ data.forEach((item, i) => {
     }
 })
 
-fs.writeFileSync('./dist/pubg-red-v2.ont',  '\ufeff' + out.join('\n'), {encoding: 'utf-8'})
+fs.writeFileSync('./dist/pubg-red.ont',  '\ufeff' + out.join('\n'), {encoding: 'utf-8'})
