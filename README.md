@@ -1,8 +1,8 @@
 # Zasoby Uwspółcześnionej Biblii Gdańskiej
 Dane uzyskane bezpośrednio z Fundacja Wrota Nadziei.
 
-Version: 2021-04-29
-Aktualnie wersja z naniesionymi korektami z 2021-05-13 - Errata do UBG 20210429.docx
+Version: 2024-06-04
+Aktualnie wersja z naniesionymi korektami  - Errata do UBG 20240604.docx
 
 ## Licencja
 > Dajemy zgodę na korzystanie z tego pliku bezpłatnie pod warunkiem, że nie będą
