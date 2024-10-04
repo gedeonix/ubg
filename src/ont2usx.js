@@ -71,7 +71,7 @@ const books = [
     { code: 'REV', abbr: 'Obj', short: 'Objawienie', long: 'Objawienie Jana' }
 ]
 
-let index = fs.readFileSync(path.join(__dirname, '../dist/index.ont'), 'utf8').toString().split(/\n/).map(item => {
+let index = fs.readFileSync(path.join(__dirname, './index.ont'), 'utf8').toString().split(/\n/).map(item => {
     let row = item.split('|')
     return {
         b: parseFloat(row[0]),
@@ -80,7 +80,7 @@ let index = fs.readFileSync(path.join(__dirname, '../dist/index.ont'), 'utf8').t
     }
 })
 
-let data = fs.readFileSync(path.join(__dirname, '../dist/pubg.ont'), 'utf8').toString()
+let data = fs.readFileSync(path.join(__dirname, './pubg-red.ont'), 'utf8').toString()
 
 if (data.charCodeAt(0) === 0xFEFF) {
     data = data.slice(1)
@@ -119,6 +119,9 @@ const convert = (index, data, meta, b, output) => {
                 .replace(/<TS>([^>]*)<Ts>/g, '')
                 .replace(/<FI>/g, '')
                 .replace(/<Fi>/g, '')
+                .replace(/<FR>/g, '')
+                .replace(/<Fr>/g, '')
+                .replace(/  /g, ' ')
                 // .replace(/\–/g, '&ndash;')
                 //.replace(/\„/g, '&bdquo;')
                 //.replace(/\”/g, '&rdquo;')

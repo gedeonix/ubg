@@ -19,31 +19,27 @@ Pliki ont jest zgodny ze specyfikacją programu https://www.theword.net
 Więcej o formacie danych można znaleźć pod adresem: https://www.theword.net/docs/tw3-bible-module-spec.doc
 
 W katalogu dist znajdują się:
- * główny plik pubg.ont - to jest nasz źródłowy plik na podstawie którego generujemy inne formaty
- * plik pubg-red.ont - plik wzbogacony o oznaczenia słów naszeg Pana Jezusa na czerwono 
- * indeks rozdziałów i wersetów index.ont
+ * pubg-red.ont - główny plik źródłowy na podstawie którego generujemy inne formaty
+ * pubg.ont - plik bez oznaczeń na czerwoni słów naszeg Pana Jezusa 
+ * index.ont i lines.ont- indeksy rozdziałów i wersetów
 
-Ważne jest to, że dla plików ont mamy 31102 linie wersetów (wg numeracji KJV)
+Ważne jest to, że dla plików ont (Old & New Testament) mamy 31102 linie wersetów (wg numeracji KJV)
 
 ## Pozostałe dostępne formaty
- * docx dla desktopowego oprogramowania Logos
- * opensong
- * usx dla oprogramowania Paratext (do weryfikacji wersja xml USX3)
-
-## Do sprawdzenia
-
- [1]
- jest => 1Chr 17:9 Ustanowię miejsce dla swego ludu Izraelem i zasadzę go <i>tam</i>, i będzie mieszkał na swoim miejscu, i nie poruszy się więcej ani już nie będą go gnębić synowie nieprawości jak dawniej;
- było => 1Chr 17:9 Ustanowię miejsce dla swego ludu Izraela i zasadzę go <i>tam</i>, i będzie mieszkał na swoim miejscu, i nie poruszy się więcej ani już nie będą go gnębić synowie nieprawości jak dawniej;
-
- [2]
- jest => 2Chr 6:4 I powiedział: Błogosławiony <i>niech będzie</i> PAN, Bóg Izraelem, który swoimi rękami wypełnił to, co mówił swoimi ustami do mojego ojca Dawida:
- było => 2Chr 6:4 I powiedział: Błogosławiony <i>niech będzie</i> PAN, Bóg Izraela, który swoimi rękami wypełnił to, co mówił swoimi ustami do mojego ojca Dawida:
+ * logos - plik docx dla desktopowego oprogramowania Logos
+ * opensong 
+ * usx - pliku USX3 dla oprogramowania Paratext
 
 ## Dokumentacja i info zmian (także wprowadzane erraty)
 
     https://docs.google.com/document/d/179Uk1jZGFy-4xGVB-55p7NFQFcFxLX0UOgyhjNErvLI/edit?usp=sharing
 
-Ezd 10,25
-Eelazar
-Eleazar
+## Do sprawdzenia
+
+[1]
+jest => 1Chr 17:9 Ustanowię miejsce dla swego ludu Izraelem i zasadzę go <i>tam</i>, i będzie mieszkał na swoim miejscu, i nie poruszy się więcej ani już nie będą go gnębić synowie nieprawości jak dawniej;
+było => 1Chr 17:9 Ustanowię miejsce dla swego ludu Izraela i zasadzę go <i>tam</i>, i będzie mieszkał na swoim miejscu, i nie poruszy się więcej ani już nie będą go gnębić synowie nieprawości jak dawniej;
+
+[2]
+jest => 2Chr 6:4 I powiedział: Błogosławiony <i>niech będzie</i> PAN, Bóg Izraelem, który swoimi rękami wypełnił to, co mówił swoimi ustami do mojego ojca Dawida:
+było => 2Chr 6:4 I powiedział: Błogosławiony <i>niech będzie</i> PAN, Bóg Izraela, który swoimi rękami wypełnił to, co mówił swoimi ustami do mojego ojca Dawida:
