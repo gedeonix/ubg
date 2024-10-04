@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="1TI" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">I Tymoteusza</para>
+  <para style="toc1">I List do Tymoteusza</para>
+  <para style="toc2">I Tymoteusza</para>
+  <para style="toc3">1Tm</para>
+  <para style="mt1">I List do Tymoteusza</para>
+  <chapter number="1" style="c" sid="1TI 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 1:1" />Paweł, apostoł Jezusa Chrystusa według nakazu Boga, naszego Zbawiciela, i Pana Jezusa Chrystusa, który jest naszą nadzieją;<verse eid="1TI 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TI 1:2" />Do Tymoteusza, mego własnego syna w wierze. Łaska, miłosierdzie i pokój od Boga, naszego Ojca, i Chrystusa Jezusa, naszego Pana.<verse eid="1TI 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 1:3" />Jak cię prosiłem, gdy wybierałem się do Macedonii, byś pozostał w Efezie, tak teraz proszę, abyś nakazał niektórym, żeby inaczej nie nauczali;<verse eid="1TI 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TI 1:4" />I nie zajmowali się baśniami i niekończącymi się rodowodami, które wywołują raczej spory niż zbudowanie Boże, które oparte jest na wierze.<verse eid="1TI 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 1:5" />Końcem zaś przykazania jest miłość płynąca z czystego serca, z prawego sumienia i wiary nieobłudnej;<verse eid="1TI 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 1:6" />Od czego niektórzy odstąpili i zwrócili się ku czczej gadaninie;<verse eid="1TI 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TI 1:7" />Chcąc być nauczycielami prawa, nie rozumiejąc ani tego, co mówią, ani tego, co stanowczo twierdzą.<verse eid="1TI 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 1:8" />Wiemy zaś, że prawo jest dobre, jeśli ktoś je właściwie stosuje.<verse eid="1TI 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 1:9" />Rozumiemy, że prawo nie jest ustanowione dla sprawiedliwego, ale dla nieprawych i nieposłusznych, dla bezbożnych i grzeszników, dla niegodziwych i nieczystych, dla ojcobójców, matkobójców i morderców;<verse eid="1TI 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 1:10" />Dla rozpustników, mężczyzn współżyjących ze sobą, handlarzy ludźmi, dla kłamców, krzywoprzysięzców i dla wszystkiego, co jest przeciwne zdrowej nauce;<verse eid="1TI 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 1:11" />Zgodnie z chwalebną ewangelią błogosławionego Boga, którą mi powierzono.<verse eid="1TI 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 1:12" />Dziękuję więc temu, który mnie umocnił, Chrystusowi Jezusowi, naszemu Panu, że uznał mnie za wiernego, przeznaczając mnie do posługi;<verse eid="1TI 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 1:13" />Mnie, który przedtem byłem bluźniercą, prześladowcą i gnębicielem, ale dostąpiłem miłosierdzia, bo czyniłem to nieświadomie, w niewierze.<verse eid="1TI 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 1:14" />A łaska naszego Pana stała się bardzo obfita wraz z wiarą i miłością, która jest w Chrystusie Jezusie.<verse eid="1TI 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 1:15" />Wiarygodne to słowa i godne całkowitego przyjęcia, że Chrystus Jezus przyszedł na świat, aby zbawić grzeszników, z których ja jestem pierwszy.<verse eid="1TI 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TI 1:16" />Lecz dostąpiłem miłosierdzia po to, aby we mnie pierwszym Jezus Chrystus okazał wszelką cierpliwość jako przykład dla tych, którzy mają w niego uwierzyć ku życiu wiecznemu.<verse eid="1TI 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TI 1:17" />A Królowi wieków, nieśmiertelnemu, niewidzialnemu, jedynemu mądremu Bogu niech będzie cześć i chwała na wieki wieków. Amen.<verse eid="1TI 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1TI 1:18" />Ten nakaz daję tobie, synu Tymoteuszu, według wcześniej wygłoszonych o tobie proroctw, abyś toczył zgodnie z nimi dobry bój;<verse eid="1TI 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1TI 1:19" />Mając wiarę i czyste sumienie, które niektórzy odrzucili i stali się rozbitkami w wierze.<verse eid="1TI 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1TI 1:20" />Do nich należą Hymenajos i Aleksander, których oddałem szatanowi, aby nauczyli się nie bluźnić.<verse eid="1TI 1:20" />
+  </para>
+  <chapter eid="1TI 1" />
+  <chapter number="2" style="c" sid="1TI 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 2:1" />Zachęcam więc przede wszystkim, aby zanoszone były prośby, modlitwy, wstawiennictwa i dziękczynienia za wszystkich ludzi;<verse eid="1TI 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TI 2:2" />Za królów i za wszystkich sprawujących władzę, abyśmy mogli prowadzić życie ciche i spokojne, z całą pobożnością i uczciwością.<verse eid="1TI 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 2:3" />Jest to bowiem rzecz dobra i miła w oczach Boga, naszego Zbawiciela;<verse eid="1TI 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TI 2:4" />Który chce, aby wszyscy ludzie zostali zbawieni i doszli do poznania prawdy.<verse eid="1TI 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 2:5" />Jeden bowiem jest Bóg, jeden też pośrednik między Bogiem a ludźmi, człowiek Chrystus Jezus;<verse eid="1TI 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 2:6" />Który wydał samego siebie na okup za wszystkich, na świadectwo we właściwym czasie.<verse eid="1TI 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TI 2:7" />Ze względu na nie zostałem ustanowiony kaznodzieją i apostołem – mówię prawdę w Chrystusie, nie kłamię – nauczycielem pogan w wierze i prawdzie.<verse eid="1TI 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 2:8" />Chcę więc, aby mężczyźni modlili się na każdym miejscu, podnosząc ręce czyste, bez gniewu i sporu.<verse eid="1TI 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 2:9" />Podobnie też kobiety niech się zdobią ubiorem przyzwoitym, ze wstydliwością i umiarem, nie z zaplatanymi włosami albo złotem, albo perłami, albo kosztownymi strojami;<verse eid="1TI 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 2:10" />Lecz dobrymi uczynkami, jak przystoi kobietom, które uznają się za pobożne.<verse eid="1TI 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 2:11" />Kobieta niech się uczy w cichości, w pełnej uległości.<verse eid="1TI 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 2:12" />Nie pozwalam zaś kobiecie nauczać ani mieć władzy nad mężczyzną, lecz aby trwała w cichości.<verse eid="1TI 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 2:13" />Bo Adam został stworzony najpierw, potem Ewa.<verse eid="1TI 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 2:14" />I nie Adam został zwiedziony, lecz kobieta, gdy została zwiedziona, popadła w przestępstwo.<verse eid="1TI 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 2:15" />Lecz będzie zbawiona przez rodzenie dzieci, jeśli zostaną w wierze, miłości i świętości z umiarem.<verse eid="1TI 2:15" />
+  </para>
+  <chapter eid="1TI 2" />
+  <chapter number="3" style="c" sid="1TI 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 3:1" />Wiarygodne to słowa: Jeśli ktoś pragnie biskupstwa, pragnie dobrej pracy.<verse eid="1TI 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TI 3:2" />Biskup więc ma być nienaganny, mąż jednej żony, czujny, trzeźwy, przyzwoity, gościnny, zdolny do nauczania;<verse eid="1TI 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 3:3" />Nieoddający się piciu wina, nieskłonny do bicia, niełakomy na brudny zysk, ale opanowany, niekłótliwy, niechciwy;<verse eid="1TI 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TI 3:4" />Dobrze rządzący własnym domem, trzymający dzieci w posłuszeństwie i wszelkim szacunku;<verse eid="1TI 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 3:5" />Jeśli bowiem ktoś nie umie rządzić własnym domem, jakże będzie mógł troszczyć się o kościół Boży?<verse eid="1TI 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 3:6" />Nie nowicjusz, żeby nie wbił się w pychę i nie wpadł w potępienie diabelskie.<verse eid="1TI 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TI 3:7" />Musi też mieć dobre świadectwo od tych, którzy są na zewnątrz, żeby nie ściągał na siebie hańby i nie wpadł w sidła diabła.<verse eid="1TI 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 3:8" />Diakoni także mają być poważni, niedwulicowi, nienadużywający wina, niełakomi na brudny zysk;<verse eid="1TI 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 3:9" />Zachowujący tajemnicę wiary w czystym sumieniu.<verse eid="1TI 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 3:10" />I niech będą najpierw wypróbowani, a potem niech służą, jeśli są nienaganni.<verse eid="1TI 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 3:11" />Ich żony także niech będą poważne, nierzucające oszczerstw, trzeźwe, wierne we wszystkim.<verse eid="1TI 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 3:12" />Diakoni niech będą mężami jednej żony, rządzący dobrze dziećmi i własnymi domami.<verse eid="1TI 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 3:13" />Ci bowiem, którzy dobrze pełnią służbę, zyskują sobie zaszczytny stopień i wielką śmiałość w wierze, która jest w Chrystusie Jezusie.<verse eid="1TI 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 3:14" />Piszę ci to, mając nadzieję, że wkrótce przybędę do ciebie.<verse eid="1TI 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 3:15" />A gdybym się opóźniał, piszę, abyś wiedział, jak należy postępować w domu Bożym, który jest kościołem Boga żywego, filarem i podporą prawdy.<verse eid="1TI 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TI 3:16" />A bez wątpienia wielka jest tajemnica pobożności: Bóg objawiony został w ciele, usprawiedliwiony w Duchu, widziany był przez anioły, głoszony był poganom, uwierzono mu na świecie, wzięty został w górę do chwały.<verse eid="1TI 3:16" />
+  </para>
+  <chapter eid="1TI 3" />
+  <chapter number="4" style="c" sid="1TI 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 4:1" />A Duch otwarcie mówi, że w czasach ostatecznych niektórzy odstąpią od wiary, dając posłuch zwodniczym duchom i naukom demonów;<verse eid="1TI 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TI 4:2" />Mówiąc kłamstwo w obłudzie, mając napiętnowane sumienie;<verse eid="1TI 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 4:3" />Zabraniając wstępować w związki małżeńskie, nakazując powstrzymywać się od pokarmów, które Bóg stworzył, aby je przyjmowali z dziękczynieniem wierzący i ci, którzy poznali prawdę.<verse eid="1TI 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TI 4:4" />Wszelkie bowiem stworzenie Boże jest dobre i nie należy odrzucać niczego, co się przyjmuje z dziękczynieniem.<verse eid="1TI 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 4:5" />Uświęcone bowiem zostaje przez słowo Boże i modlitwę.<verse eid="1TI 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 4:6" />Przedkładając to braciom, będziesz dobrym sługą Chrystusa Jezusa, wykarmionym słowami wiary i dobrej nauki, za którą poszedłeś.<verse eid="1TI 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TI 4:7" />Odrzucaj natomiast pospolite i babskie baśnie. Sam zaś ćwicz się w pobożności.<verse eid="1TI 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 4:8" />Ćwiczenie cielesne bowiem przynosi niewiele pożytku, lecz pobożność do wszystkiego jest przydatna, gdyż zawiera obietnicę życia obecnego i przyszłego.<verse eid="1TI 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 4:9" />Wiarygodne to słowa i godne całkowitego przyjęcia.<verse eid="1TI 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 4:10" />Dlatego pracujemy i jesteśmy lżeni, że pokładamy nadzieję w Bogu żywym, który jest Zbawicielem wszystkich ludzi, zwłaszcza wierzących.<verse eid="1TI 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 4:11" />To nakazuj i tego nauczaj.<verse eid="1TI 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 4:12" />Niech nikt nie lekceważy twego młodego wieku; lecz bądź dla wierzących przykładem w mowie, w postępowaniu, w miłości, w duchu, w wierze, w czystości.<verse eid="1TI 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 4:13" />Dopóki nie przyjdę, pilnuj czytania, zachęcania i nauki.<verse eid="1TI 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 4:14" />Nie zaniedbuj daru, który jest w tobie, który został ci dany przez proroctwo wraz z nałożeniem rąk starszych.<verse eid="1TI 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 4:15" />O tym rozmyślaj, temu się oddawaj, aby twoje postępy były widoczne dla wszystkich.<verse eid="1TI 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TI 4:16" />Pilnuj samego siebie i nauki, trwaj w tych rzeczach, bo to czyniąc, i samego siebie zbawisz, i tych, którzy cię słuchają.<verse eid="1TI 4:16" />
+  </para>
+  <chapter eid="1TI 4" />
+  <chapter number="5" style="c" sid="1TI 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 5:1" />Starszego człowieka nie strofuj, lecz nakłaniaj jak ojca, młodszych – jak braci;<verse eid="1TI 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TI 5:2" />Starsze kobiety – jak matki, młodsze – jak siostry, z całą czystością.<verse eid="1TI 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 5:3" />Okazuj szacunek wdowom, które rzeczywiście są wdowami.<verse eid="1TI 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TI 5:4" />Jeśli zaś jakaś wdowa ma dzieci lub wnuki, niech się one najpierw uczą być pobożnymi względem własnego domu i odwzajemniać się rodzicom; jest to bowiem rzecz dobra i miła w oczach Boga.<verse eid="1TI 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 5:5" />Ta zaś, która rzeczywiście jest wdową i jest osamotniona, pokłada nadzieję w Bogu i trwa w prośbach i modlitwach we dnie i w nocy.<verse eid="1TI 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 5:6" />Lecz ta, która oddaje się rozkoszom, jest martwa, chociaż żyje.<verse eid="1TI 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TI 5:7" />To więc nakazuj, żeby były nienaganne.<verse eid="1TI 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 5:8" />A jeśli ktoś nie dba o swoich, a zwłaszcza o domowników, ten wyparł się wiary i gorszy jest od niewierzącego.<verse eid="1TI 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 5:9" />Do wdów niech będzie zaliczona taka, która nie ma mniej niż sześćdziesiąt lat, była żoną jednego męża;<verse eid="1TI 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 5:10" />Znana z dobrych uczynków, jeśli wychowała dzieci, jeśli udzielała gościny, jeśli obmywała nogi świętym, jeśli wspomagała strapionych, jeśli wykonywała każdy dobry uczynek.<verse eid="1TI 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 5:11" />Natomiast młodszych wdów do nich nie zaliczaj, bo gdy rozkosze odwodzą je od Chrystusa, chcą wyjść za mąż;<verse eid="1TI 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 5:12" />Ściągając na siebie potępienie, ponieważ odrzuciły pierwszą wiarę.<verse eid="1TI 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 5:13" />Co więcej, uczą się bezczynności, chodząc od domu do domu, i nie tylko są bezczynne, lecz też gadatliwe, wścibskie, mówiące to, co nie wypada.<verse eid="1TI 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 5:14" />Chcę więc, żeby młodsze wychodziły za mąż, rodziły dzieci, zajmowały się domem, nie dawały przeciwnikowi żadnego powodu do obmowy.<verse eid="1TI 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 5:15" />Już bowiem niektóre odwróciły się i poszły za szatanem.<verse eid="1TI 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TI 5:16" />A jeśli jakiś wierzący lub wierząca ma w rodzinie wdowy, niech im pomaga, aby kościół nie był obciążony i mógł przyjść z pomocą tym, które rzeczywiście są wdowami.<verse eid="1TI 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TI 5:17" />Starsi, którzy dobrze przewodzą, niech będą uważani za godnych podwójnej czci, a zwłaszcza ci, którzy pracują w słowie i w nauce.<verse eid="1TI 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1TI 5:18" />Mówi bowiem Pismo: Młócącemu wołowi nie zawiążesz pyska, oraz: Godny jest robotnik swojej zapłaty.<verse eid="1TI 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1TI 5:19" />Nie przyjmuj oskarżenia przeciwko starszemu, chyba że na podstawie zeznania dwóch albo trzech świadków.<verse eid="1TI 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1TI 5:20" />A tych, którzy grzeszą, strofuj w obecności wszystkich, aby i inni się bali.<verse eid="1TI 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1TI 5:21" />Zaklinam cię wobec Boga i Pana Jezusa Chrystusa, i wybranych aniołów, abyś tego przestrzegał, nie mając względu na osoby, nie kierując się stronniczością.<verse eid="1TI 5:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1TI 5:22" />Rąk na nikogo pospiesznie nie wkładaj ani nie bądź uczestnikiem cudzych grzechów. Siebie samego zachowaj czystym.<verse eid="1TI 5:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1TI 5:23" />Samej wody już nie pij, ale używaj trochę wina ze względu na twój żołądek i częste niedomagania.<verse eid="1TI 5:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1TI 5:24" />Grzechy niektórych ludzi są jawne, jeszcze zanim zostaną osądzone, a za niektórymi idą w ślad.<verse eid="1TI 5:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1TI 5:25" />Podobnie dobre uczynki są jawne, a te, które nie są, pozostać w ukryciu nie mogą.<verse eid="1TI 5:25" />
+  </para>
+  <chapter eid="1TI 5" />
+  <chapter number="6" style="c" sid="1TI 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 6:1" />Wszyscy słudzy, którzy są pod jarzmem, niech uważają swych panów za godnych wszelkiej czci, aby nie bluźniono imieniu Boga i nauce.<verse eid="1TI 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TI 6:2" />A ci, którzy mają panów wierzących, niech ich nie lekceważą dlatego, że są braćmi, ale tym bardziej niech im służą, bo są wiernymi i umiłowanymi, uczestnikami dobrodziejstwa. Tego nauczaj i do tego zachęcaj.<verse eid="1TI 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 6:3" />Jeśli ktoś inaczej naucza i nie trzyma się zdrowych słów naszego Pana Jezusa Chrystusa i nauki zgodnej z pobożnością;<verse eid="1TI 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TI 6:4" />Ten jest nadęty i nic nie wie, lecz ma chorobliwą skłonność do dociekań i sporów o słowa, z których rodzą się zawiść, spory, złorzeczenia, złośliwe podejrzenia;<verse eid="1TI 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 6:5" />Przewrotne spory ludzi o wypaczonym umyśle, pozbawionych prawdy, którzy uważają, że pobożność jest zyskiem cielesnym. Strońcie od takich.<verse eid="1TI 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 6:6" />Wielkim zaś zyskiem jest pobożność wraz z poprzestawaniem na tym, co się ma.<verse eid="1TI 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TI 6:7" />Niczego bowiem nie przynieśliśmy na ten świat, z pewnością też niczego wynieść nie możemy.<verse eid="1TI 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 6:8" />Mając natomiast jedzenie i ubranie, poprzestawajmy na tym.<verse eid="1TI 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 6:9" />A ci, którzy chcą być bogaci, wpadają w pokusy i w sidła oraz w wiele głupich i szkodliwych pożądliwości, które pogrążają ludzi w zgubie i zatraceniu.<verse eid="1TI 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 6:10" />Korzeniem bowiem wszelkiego zła jest miłość do pieniędzy; niektórzy, pragnąc ich, zboczyli z drogi wiary i poprzebijali się wieloma boleściami.<verse eid="1TI 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 6:11" />Ty zaś, człowieku Boży, uciekaj od tego wszystkiego, a podążaj za sprawiedliwością, pobożnością, wiarą, miłością, cierpliwością, łagodnością.<verse eid="1TI 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 6:12" />Staczaj dobrą walkę wiary, uchwyć się życia wiecznego, do którego też zostałeś powołany i o którym złożyłeś dobre wyznanie wobec wielu świadków.<verse eid="1TI 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 6:13" />Nakazuję ci przed Bogiem, który ożywia wszystko, i przed Chrystusem Jezusem, który złożył dobre wyznanie przed Poncjuszem Piłatem;<verse eid="1TI 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 6:14" />Abyś zachował to przykazanie bez skazy i bez zarzutu aż do objawienia się naszego Pana Jezusa Chrystusa;<verse eid="1TI 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 6:15" />Które we właściwym czasie ukaże błogosławiony i jedyny Władca, Król królów i Pan panów;<verse eid="1TI 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TI 6:16" />Jedyny mający nieśmiertelność i mieszkający w światłości niedostępnej, którego żaden z ludzi nie widział ani widzieć nie może; jemu niech będzie cześć i moc wieczna. Amen.<verse eid="1TI 6:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TI 6:17" />Bogaczom tego świata nakazuj, aby się nie wynosili i nie pokładali nadziei w niepewnym bogactwie, lecz w Bogu żywym, który nam wszystkiego obficie udziela, abyśmy z tego korzystali.<verse eid="1TI 6:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1TI 6:18" />Niech innym dobrze czynią, bogacą się w dobre uczynki, chętnie dają i dzielą się z innymi;<verse eid="1TI 6:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1TI 6:19" />Gromadząc sobie skarby jako dobry fundament na przyszłość, aby uchwycić się życia wiecznego.<verse eid="1TI 6:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1TI 6:20" />Tymoteuszu, strzeż tego, co ci powierzono, unikaj pospolitej, czczej gadaniny i sprzecznych twierdzeń rzekomej wiedzy;<verse eid="1TI 6:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1TI 6:21" />Którą się niektórzy szczycąc, pobłądzili w wierze. Łaska niech będzie z tobą. Amen.<verse eid="1TI 6:21" />
+  </para>
+  <chapter eid="1TI 6" />
+</usx>

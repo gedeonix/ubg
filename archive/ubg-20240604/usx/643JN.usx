@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="3JN" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">III Jana</para>
+  <para style="toc1">III List Jana</para>
+  <para style="toc2">III Jana</para>
+  <para style="toc3">3J</para>
+  <para style="mt1">III List Jana</para>
+  <chapter number="1" style="c" sid="3JN 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="3JN 1:1" />Starszy do umiłowanego Gajusa, którego miłuję w prawdzie.<verse eid="3JN 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="3JN 1:2" />Umiłowany, pragnę przede wszystkim, aby ci się dobrze powodziło i abyś był zdrowy, tak jak dobrze się powodzi twojej duszy.<verse eid="3JN 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="3JN 1:3" />Uradowałem się bowiem bardzo, gdy przyszli bracia i dali świadectwo o prawdzie w tobie, jak postępujesz w prawdzie.<verse eid="3JN 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="3JN 1:4" />Nie ma dla mnie większej radości od tej, gdy słyszę, że moje dzieci postępują w prawdzie.<verse eid="3JN 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="3JN 1:5" />Umiłowany, wiernie wykonujesz wszystko, co robisz dla braci oraz dla obcych.<verse eid="3JN 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="3JN 1:6" />Dali oni świadectwo przed kościołem o twojej miłości. Dobrze też zrobisz, jeśli ich wyprawisz, jak przystoi przed Bogiem.<verse eid="3JN 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="3JN 1:7" />Wyruszyli bowiem dla jego imienia, nie biorąc niczego od pogan.<verse eid="3JN 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="3JN 1:8" />Powinniśmy więc takich przyjmować, abyśmy się stali współpracownikami dla prawdy.<verse eid="3JN 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="3JN 1:9" />Napisałem do kościoła, lecz Diotrefes, który chce być pierwszym wśród nich, nie przyjmuje nas.<verse eid="3JN 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="3JN 1:10" />Dlatego, jeśli przybędę, przypomnę jego uczynki, których się dopuszcza, gdy nas obmawia złośliwymi słowami. A nie poprzestając na tym, sam braci nie przyjmuje, a nawet zabrania tym, którzy chcą ich przyjąć, i wyrzuca ich z kościoła.<verse eid="3JN 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="3JN 1:11" />Umiłowany, nie naśladuj tego, co złe, lecz to, co dobre. Kto czyni dobrze, jest z Boga, kto zaś czyni źle, nie widział Boga.<verse eid="3JN 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="3JN 1:12" />Demetriuszowi wystawili dobre świadectwo wszyscy, nawet sama prawda. My również dajemy o nim świadectwo, a wiecie, że nasze świadectwo jest prawdziwe.<verse eid="3JN 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="3JN 1:13" />Wiele miałem do napisania, ale nie chcę posługiwać się atramentem i piórem.<verse eid="3JN 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="3JN 1:14" />Mam bowiem nadzieję, że zobaczę cię wkrótce, a wtedy porozmawiamy osobiście. Pokój tobie. Pozdrawiają cię przyjaciele. Ty też pozdrów przyjaciół imiennie.<verse eid="3JN 1:14" />
+  </para>
+  <chapter eid="3JN 1" />
+</usx>

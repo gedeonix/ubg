@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="JUD" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Judy</para>
+  <para style="toc1">List Judy</para>
+  <para style="toc2">Judy</para>
+  <para style="toc3">Jud</para>
+  <para style="mt1">List Judy</para>
+  <chapter number="1" style="c" sid="JUD 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="JUD 1:1" />Juda, sługa Jezusa Chrystusa, a brat Jakuba, do uświęconych przez Boga Ojca, zachowanych w Jezusie Chrystusie i powołanych:<verse eid="JUD 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JUD 1:2" />Miłosierdzie, pokój i miłość niech się wam pomnożą.<verse eid="JUD 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JUD 1:3" />Umiłowani, podejmując usilne starania, aby pisać wam o wspólnym zbawieniu, uznałem za konieczne napisać do was i zachęcić do walki o wiarę raz przekazaną świętym.<verse eid="JUD 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JUD 1:4" />Wkradli się bowiem pewni ludzie, od dawna przeznaczeni na to potępienie, bezbożni, którzy łaskę naszego Boga zamieniają na rozpustę i wypierają się jedynego Pana Boga i naszego Pana Jezusa Chrystusa.<verse eid="JUD 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JUD 1:5" />Chcę więc wam przypomnieć, chociaż już kiedyś o tym wiedzieliście, że Pan, który wybawił lud z ziemi Egiptu, potem wytracił tych, którzy nie uwierzyli.<verse eid="JUD 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JUD 1:6" />Także aniołów, którzy nie zachowali swego pierwotnego stanu, lecz opuścili własne mieszkanie, zatrzymał w wiecznych pętach w ciemnościach na sąd wielkiego dnia.<verse eid="JUD 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JUD 1:7" />Tak samo Sodoma i Gomora oraz okoliczne miasta, które w podobny sposób jak i one oddały się nierządowi i podążały za cudzym ciałem, służą za przykład, ponosząc karę wiecznego ognia.<verse eid="JUD 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JUD 1:8" />Podobnie ci ludzie rojący sny plugawią ciało, gardzą panowaniem i bluźnią przełożonym.<verse eid="JUD 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JUD 1:9" />Lecz archanioł Michał, rozprawiając z diabłem, spierał się o ciało Mojżesza, nie ośmielił się wypowiedzieć przeciwko niemu bluźnierczego oskarżenia, ale powiedział: Niech cię Pan zgromi.<verse eid="JUD 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JUD 1:10" />Ci zaś bluźnią przeciwko temu, czego nie znają, a to, co znają w sposób naturalny, jak bezrozumne zwierzęta, w tym psują samych siebie.<verse eid="JUD 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JUD 1:11" />Biada im, bo poszli drogą Kaina, udali się za błędem Baalama dla zapłaty i zginęli w buncie Koracha.<verse eid="JUD 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JUD 1:12" />Oni są zakałami na waszych ucztach braterskich, którzy z wami bez bojaźni ucztują, pasąc samych siebie. Są to bezwodne chmury wiatrami unoszone; drzewa zwiędłe, bez owoców, dwukrotnie obumarłe i wykorzenione;<verse eid="JUD 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JUD 1:13" />Rozhukane fale morskie wypluwające swoją hańbę; błąkające się gwiazdy, dla których mroki ciemności zachowane są na wieki.<verse eid="JUD 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JUD 1:14" />O nich też prorokował Henoch, siódmy po Adamie, mówiąc: Oto idzie Pan z tysiącami swoich świętych;<verse eid="JUD 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JUD 1:15" />Aby dokonać sądu nad wszystkimi i ukarać wszystkich bezbożników spośród nich za wszystkie ich bezbożne czyny, których się bezbożnie dopuścili, i za wszystkie ostre słowa, które wypowiadali przeciwko niemu bezbożni grzesznicy.<verse eid="JUD 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JUD 1:16" />Oni to zawsze szemrają, narzekają, postępują według swoich pożądliwości. Ich usta wypowiadają zuchwałe słowa i schlebiają ludziom dla korzyści.<verse eid="JUD 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JUD 1:17" />Wy zaś, umiłowani, pamiętajcie słowa wcześniej wypowiedziane przez apostołów naszego Pana Jezusa Chrystusa;<verse eid="JUD 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JUD 1:18" />Gdy mówili do was, że w czasach ostatecznych pojawią się szydercy, postępujący według własnych bezbożnych pożądliwości.<verse eid="JUD 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JUD 1:19" />Oni są tymi, którzy sami się odłączają, zmysłowi, niemający Ducha.<verse eid="JUD 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JUD 1:20" />Wy jednak, umiłowani, budując samych siebie na waszej najświętszej wierze, modląc się w Duchu Świętym;<verse eid="JUD 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JUD 1:21" />Zachowajcie samych siebie w miłości Boga, oczekując miłosierdzia naszego Pana Jezusa Chrystusa ku życiu wiecznemu.<verse eid="JUD 1:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JUD 1:22" />I rozróżniając, nad jednymi zmiłujcie się;<verse eid="JUD 1:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JUD 1:23" />Innych zaś ratujcie przez strach, wyrywając ich z ognia, mając w nienawiści nawet szatę, która została skalana przez ciało.<verse eid="JUD 1:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JUD 1:24" />A temu, który może was ustrzec od upadku i z radością przedstawić jako nienagannych przed obliczem swojej chwały;<verse eid="JUD 1:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JUD 1:25" />Jedynemu mądremu Bogu, naszemu Zbawicielowi, niech będzie chwała i majestat, moc i władza, teraz i po wszystkie wieki. Amen.<verse eid="JUD 1:25" />
+  </para>
+  <chapter eid="JUD 1" />
+</usx>

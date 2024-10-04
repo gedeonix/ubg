@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="EPH" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Efezjan</para>
+  <para style="toc1">List do Efezjan</para>
+  <para style="toc2">Efezjan</para>
+  <para style="toc3">Ef</para>
+  <para style="mt1">List do Efezjan</para>
+  <chapter number="1" style="c" sid="EPH 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="EPH 1:1" />Paweł, apostoł Jezusa Chrystusa z woli Boga, do świętych, którzy są w Efezie, i wiernych w Chrystusie Jezusie.<verse eid="EPH 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EPH 1:2" />Łaska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa.<verse eid="EPH 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EPH 1:3" />Błogosławiony niech będzie Bóg i Ojciec naszego Pana Jezusa Chrystusa, który pobłogosławił nas wszelkim duchowym błogosławieństwem w miejscach niebiańskich w Chrystusie.<verse eid="EPH 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EPH 1:4" />Jak nas wybrał w nim przed założeniem świata, abyśmy byli święci i nienaganni przed jego obliczem w miłości.<verse eid="EPH 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EPH 1:5" />Przeznaczył nas dla siebie, ku usynowieniu przez Jezusa Chrystusa, według upodobania swojej woli;<verse eid="EPH 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EPH 1:6" />Dla uwielbienia chwały swojej łaski, którą obdarzył nas w umiłowanym;<verse eid="EPH 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EPH 1:7" />W którym mamy odkupienie przez jego krew, przebaczenie grzechów, według bogactwa jego łaski;<verse eid="EPH 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EPH 1:8" />Którą nam hojnie okazał we wszelkiej mądrości i roztropności;<verse eid="EPH 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EPH 1:9" />Oznajmiając nam tajemnicę swojej woli, według swego upodobania, które sam w sobie postanowił;<verse eid="EPH 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EPH 1:10" />Aby w zarządzeniu pełni czasów wszystko zebrał w jedno w Chrystusie, i to, co w niebiosach, i to, co na ziemi.<verse eid="EPH 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EPH 1:11" />W nim, mówię, w którym też dostąpiliśmy udziału, przeznaczeni według postanowienia tego, który dokonuje wszystkiego według rady swojej woli;<verse eid="EPH 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EPH 1:12" />Abyśmy istnieli dla uwielbienia jego chwały, my, którzy wcześniej położyliśmy nadzieję w Chrystusie.<verse eid="EPH 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EPH 1:13" />W nim i wy położyliście nadzieję, kiedy usłyszeliście słowo prawdy, ewangelię waszego zbawienia, w nim też, gdy uwierzyliście, zostaliście zapieczętowani obiecanym Duchem Świętym;<verse eid="EPH 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EPH 1:14" />Który jest zadatkiem naszego dziedzictwa, aż nastąpi odkupienie nabytej własności, dla uwielbienia jego chwały.<verse eid="EPH 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EPH 1:15" />Dlatego i ja, gdy usłyszałem o waszej wierze w Pana Jezusa i o miłości względem wszystkich świętych;<verse eid="EPH 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EPH 1:16" />Nie przestaję dziękować za was, czyniąc o was wzmiankę w moich modlitwach;<verse eid="EPH 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EPH 1:17" />Prosząc, aby Bóg naszego Pana Jezusa Chrystusa, Ojciec chwały, dał wam Ducha mądrości i objawienia w poznaniu jego samego;<verse eid="EPH 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EPH 1:18" />Ażeby oświecił oczy waszego umysłu, abyście wiedzieli, czym jest nadzieja jego powołania, czym jest bogactwo chwały jego dziedzictwa w świętych;<verse eid="EPH 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EPH 1:19" />I czym jest przemożna wielkość jego mocy wobec nas, którzy wierzymy, według działania potęgi jego siły.<verse eid="EPH 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EPH 1:20" />Okazał ją w Chrystusie, gdy go wskrzesił z martwych i posadził po swojej prawicy w miejscach niebiańskich;<verse eid="EPH 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EPH 1:21" />Wysoko ponad wszelką zwierzchnością i władzą, mocą, panowaniem i ponad wszelkim imieniem wypowiadanym nie tylko w tym świecie, ale i w przyszłym.<verse eid="EPH 1:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EPH 1:22" />I wszystko poddał pod jego stopy, a jego samego dał jako głowę ponad wszystkim kościołowi;<verse eid="EPH 1:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="EPH 1:23" />Który jest jego ciałem i pełnią tego, który wszystko we wszystkich napełnia.<verse eid="EPH 1:23" />
+  </para>
+  <chapter eid="EPH 1" />
+  <chapter number="2" style="c" sid="EPH 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="EPH 2:1" />I was ożywił, którzy byliście umarli w upadkach i w grzechach;<verse eid="EPH 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EPH 2:2" />W których niegdyś postępowaliście według zwyczaju tego świata i według władcy, który rządzi w powietrzu, ducha, który teraz działa w synach nieposłuszeństwa.<verse eid="EPH 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EPH 2:3" />Wśród nich i my wszyscy żyliśmy niegdyś w pożądliwościach naszego ciała, czyniąc to, co się podobało ciału i myślom, i byliśmy z natury dziećmi gniewu, jak i inni.<verse eid="EPH 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EPH 2:4" />Lecz Bóg, który jest bogaty w miłosierdzie, z powodu swojej wielkiej miłości, którą nas umiłował;<verse eid="EPH 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EPH 2:5" />I to wtedy, gdy byliśmy umarli w grzechach, ożywił nas razem z Chrystusem, gdyż łaską jesteście zbawieni;<verse eid="EPH 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EPH 2:6" />I razem z nim wskrzesił, i razem z nim posadził w miejscach niebiańskich w Chrystusie Jezusie;<verse eid="EPH 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EPH 2:7" />Aby okazać w przyszłych wiekach przemożne bogactwo swojej łaski przez swoją dobroć względem nas w Chrystusie Jezusie.<verse eid="EPH 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EPH 2:8" />Łaską bowiem jesteście zbawieni przez wiarę, i to nie jest z was, jest to dar Boga.<verse eid="EPH 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EPH 2:9" />Nie z uczynków, aby nikt się nie chlubił.<verse eid="EPH 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EPH 2:10" />Jesteśmy bowiem jego dziełem, stworzeni w Chrystusie Jezusie do dobrych uczynków, które Bóg wcześniej przygotował, abyśmy w nich postępowali.<verse eid="EPH 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EPH 2:11" />Dlatego pamiętajcie, że wy, niegdyś poganie w ciele, zwani nieobrzezaniem przez tych, których zwano obrzezaniem dokonanym ręką na ciele;<verse eid="EPH 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EPH 2:12" />Byliście w tamtym czasie bez Chrystusa, obcy względem społeczności Izraela i obcy przymierzom obietnicy, niemający nadziei i bez Boga na świecie.<verse eid="EPH 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EPH 2:13" />Lecz teraz w Chrystusie Jezusie wy, którzy niegdyś byliście daleko, staliście się bliscy przez krew Chrystusa.<verse eid="EPH 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EPH 2:14" />On bowiem jest naszym pokojem, on, który z obydwu uczynił jedno i zburzył stojący pośrodku mur, który był przegrodą;<verse eid="EPH 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EPH 2:15" />Znosząc przez swoje ciało nieprzyjaźń, prawo przykazań wyrażone w przepisach, aby z dwóch stworzyć w samym sobie jednego nowego człowieka, czyniąc pokój;<verse eid="EPH 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EPH 2:16" />I aby pojednać z Bogiem obydwu w jednym ciele przez krzyż, zgładziwszy przez niego nieprzyjaźń.<verse eid="EPH 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EPH 2:17" />A gdy przyszedł, zwiastował pokój wam, którzy byliście daleko, i tym, którzy byli bliscy.<verse eid="EPH 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EPH 2:18" />Przez niego bowiem my, obie strony, mamy przystęp w jednym Duchu do Ojca.<verse eid="EPH 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EPH 2:19" />A więc nie jesteście już więcej obcymi i przybyszami, ale współobywatelami ze świętymi i domownikami Boga;<verse eid="EPH 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EPH 2:20" />Zbudowani na fundamencie apostołów i proroków, gdzie kamieniem węgielnym jest sam Jezus Chrystus;<verse eid="EPH 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EPH 2:21" />Na którym cała budowla razem zespolona rośnie w świętą świątynię w Panu;<verse eid="EPH 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EPH 2:22" />Na którym i wy razem się budujecie, aby być mieszkaniem Boga przez Ducha.<verse eid="EPH 2:22" />
+  </para>
+  <chapter eid="EPH 2" />
+  <chapter number="3" style="c" sid="EPH 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="EPH 3:1" />Dlatego ja, Paweł, więzień Chrystusa Jezusa dla was, pogan;<verse eid="EPH 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EPH 3:2" />Jeśli tylko słyszeliście o udzieleniu łaski Boga, która jest mi dana dla was;<verse eid="EPH 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EPH 3:3" />Że przez objawienie została mi oznajmiona tajemnica, jak to wam przedtem krótko napisałem.<verse eid="EPH 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EPH 3:4" />Dlatego czytając to, możecie zrozumieć moje poznanie tajemnicy Chrystusa;<verse eid="EPH 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EPH 3:5" />Która w innych wiekach nie była znana synom ludzkim, jak teraz została objawiona jego świętym apostołom i prorokom przez Ducha;<verse eid="EPH 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EPH 3:6" />Mianowicie, że poganie są współdziedzicami i członkami tego samego ciała, i współuczestnikami jego obietnicy w Chrystusie przez ewangelię.<verse eid="EPH 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EPH 3:7" />Stałem się jej sługą według daru łaski Boga danej mi przez działanie jego mocy.<verse eid="EPH 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EPH 3:8" />Mnie, najmniejszemu ze wszystkich świętych, została dana ta łaska, abym wśród pogan głosił te niezgłębione bogactwa Chrystusa;<verse eid="EPH 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EPH 3:9" />I żebym ujawnił wszystkim, jaka jest wspólnota tej tajemnicy ukrytej od wieków w Bogu, który wszystko stworzył przez Jezusa Chrystusa;<verse eid="EPH 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EPH 3:10" />Aby teraz wieloraka mądrość Boga poprzez kościół stała się jawna zwierzchnościom i władzom w miejscach niebiańskich;<verse eid="EPH 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EPH 3:11" />Zgodnie z wiecznym postanowieniem, które powziął w Chrystusie Jezusie, naszym Panu.<verse eid="EPH 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EPH 3:12" />W nim mamy śmiałość i przystęp z ufnością przez wiarę jego.<verse eid="EPH 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EPH 3:13" />Proszę zatem, abyście nie zniechęcali się z powodu moich utrapień, jakie znoszę dla was, bo to one są waszą chwałą.<verse eid="EPH 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EPH 3:14" />Dlatego zginam swoje kolana przed Ojcem naszego Pana Jezusa Chrystusa;<verse eid="EPH 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EPH 3:15" />Od którego cała rodzina na niebie i na ziemi bierze swoją nazwę;<verse eid="EPH 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EPH 3:16" />Aby według bogactwa swej chwały sprawił, żeby wasz wewnętrzny człowiek był utwierdzony mocą przez jego Ducha;<verse eid="EPH 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EPH 3:17" />Aby Chrystus przez wiarę mieszkał w waszych sercach, abyście zakorzenieni i ugruntowani w miłości;<verse eid="EPH 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EPH 3:18" />Mogli pojąć wraz ze wszystkimi świętymi, jaka jest szerokość, długość, głębokość i wysokość;<verse eid="EPH 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EPH 3:19" />I poznać miłość Chrystusa, która przewyższa wszelkie poznanie, abyście zostali napełnieni całą pełnią Boga.<verse eid="EPH 3:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EPH 3:20" />Temu zaś, który według mocy działającej w nas może uczynić o wiele obficiej ponad to wszystko, o co prosimy albo o czym myślimy;<verse eid="EPH 3:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EPH 3:21" />Jemu niech będzie chwała w kościele przez Chrystusa Jezusa po wszystkie pokolenia na wieki wieków. Amen.<verse eid="EPH 3:21" />
+  </para>
+  <chapter eid="EPH 3" />
+  <chapter number="4" style="c" sid="EPH 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="EPH 4:1" />Proszę więc was ja, więzień w Panu, abyście postępowali w sposób godny powołania, do jakiego zostaliście wezwani;<verse eid="EPH 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EPH 4:2" />Z całą pokorą, łagodnością i z cierpliwością, znosząc jedni drugich w miłości;<verse eid="EPH 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EPH 4:3" />Starając się zachować jedność Ducha w więzi pokoju.<verse eid="EPH 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EPH 4:4" />Jedno jest ciało i jeden Duch, jak też zostaliście powołani w jednej nadziei waszego powołania.<verse eid="EPH 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EPH 4:5" />Jeden Pan, jedna wiara, jeden chrzest;<verse eid="EPH 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EPH 4:6" />Jeden Bóg i Ojciec wszystkich, który jest ponad wszystkimi, przez wszystkich i w was wszystkich.<verse eid="EPH 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EPH 4:7" />A każdemu z nas została dana łaska według miary daru Chrystusa.<verse eid="EPH 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EPH 4:8" />Dlatego Pismo mówi: Wstąpiwszy na wysokość, poprowadził pojmanych jeńców i dał ludziom dary.<verse eid="EPH 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EPH 4:9" />Lecz to, że wstąpił, cóż oznacza, jeśli nie to, że najpierw zstąpił do niższych regionów ziemi?<verse eid="EPH 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EPH 4:10" />Ten, który zstąpił, jest i tym, który wstąpił wysoko ponad wszystkie niebiosa, aby napełnić wszystko.<verse eid="EPH 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EPH 4:11" />I on ustanowił jednych apostołami, drugich prorokami, innych ewangelistami, a jeszcze innych pasterzami i nauczycielami;<verse eid="EPH 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EPH 4:12" />Dla przysposobienia świętych, dla dzieła posługiwania, dla budowania ciała Chrystusa;<verse eid="EPH 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EPH 4:13" />Aż dojdziemy wszyscy do jedności wiary i poznania Syna Bożego, do człowieka doskonałego, do miary dojrzałości pełni Chrystusa;<verse eid="EPH 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EPH 4:14" />Abyśmy już nie byli dziećmi miotanymi i unoszonymi każdym powiewem nauki przez oszustwo ludzkie i przez podstęp prowadzący na manowce błędu.<verse eid="EPH 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EPH 4:15" />Lecz będąc szczerymi w miłości, wzrastajmy we wszystkim w tego, który jest głową – w Chrystusa.<verse eid="EPH 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EPH 4:16" />Z niego całe ciało harmonijnie złożone i zespolone we wszystkich stawach, dzięki działaniu każdego członka, stosownie do jego miary, przyczynia sobie wzrostu dla budowania samego siebie w miłości.<verse eid="EPH 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EPH 4:17" />To więc mówię i zaświadczam w Panu, abyście już więcej nie postępowali tak, jak postępują inni poganie w próżności ich umysłu;<verse eid="EPH 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EPH 4:18" />Mając przyćmiony rozum, obcy dla życia Bożego z powodu niewiedzy, która w nich jest, z powodu zatwardziałości ich serca.<verse eid="EPH 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EPH 4:19" />Oni, stawszy się nieczuli, oddali się rozpuście, dopuszczając się wszelkiej nieczystości z zachłannością.<verse eid="EPH 4:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EPH 4:20" />Lecz wy nie tak nauczyliście się Chrystusa;<verse eid="EPH 4:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EPH 4:21" />Jeśli tylko słyszeliście go i byliście pouczeni przez niego, zgodnie z prawdą, jaka jest w Jezusie;<verse eid="EPH 4:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EPH 4:22" />Że – co się tyczy poprzedniego postępowania – powinniście zrzucić z siebie starego człowieka, który ulega zepsuciu przez zwodnicze żądze;<verse eid="EPH 4:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="EPH 4:23" />I odnowić się w duchu waszego umysłu;<verse eid="EPH 4:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="EPH 4:24" />I przyoblec się w nowego człowieka, który jest stworzony według Boga w sprawiedliwości i w prawdziwej świętości.<verse eid="EPH 4:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="EPH 4:25" />Dlatego odrzuciwszy kłamstwo, niech każdy mówi prawdę swojemu bliźniemu, bo jesteśmy członkami jedni drugich.<verse eid="EPH 4:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="EPH 4:26" />Gniewajcie się, lecz nie grzeszcie; niech nad waszym gniewem nie zachodzi słońce.<verse eid="EPH 4:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="EPH 4:27" />Nie dawajcie miejsca diabłu.<verse eid="EPH 4:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="EPH 4:28" />Kto kradł, niech więcej nie kradnie, ale raczej niech pracuje, czyniąc własnymi rękami to, co jest dobre, aby miał z czego udzielać potrzebującemu.<verse eid="EPH 4:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="EPH 4:29" />Żadne plugawe słowo niech nie wychodzi z waszych ust, lecz tylko dobre, dla zbudowania, aby przynosiło łaskę słuchającym.<verse eid="EPH 4:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="EPH 4:30" />I nie zasmucajcie Bożego Ducha Świętego, którym jesteście zapieczętowani na dzień odkupienia.<verse eid="EPH 4:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="EPH 4:31" />Wszelka gorycz i zapalczywość, gniew, wrzask i złorzeczenie niech zostaną usunięte spośród was wraz ze wszelką złośliwością.<verse eid="EPH 4:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="EPH 4:32" />Bądźcie dla siebie nawzajem życzliwi, miłosierni, przebaczając sobie, jak i wam Bóg przebaczył w Chrystusie.<verse eid="EPH 4:32" />
+  </para>
+  <chapter eid="EPH 4" />
+  <chapter number="5" style="c" sid="EPH 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="EPH 5:1" />Bądźcie więc naśladowcami Boga jako umiłowane dzieci;<verse eid="EPH 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EPH 5:2" />I postępujcie w miłości, jak i Chrystus umiłował nas i wydał samego siebie za nas jako dar i ofiarę Bogu na miłą woń.<verse eid="EPH 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EPH 5:3" />A nierząd i wszelka nieczystość albo chciwość niech nie będą nawet wśród was wspominane, jak przystoi świętym;<verse eid="EPH 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EPH 5:4" />Także sprośność, niedorzeczne gadanie i nieprzyzwoite żarty, ale raczej dziękczynienie.<verse eid="EPH 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EPH 5:5" />Bo wiecie o tym, że żaden rozpustnik ani nieczysty, ani chciwiec, to znaczy bałwochwalca, nie ma dziedzictwa w królestwie Chrystusa i Boga.<verse eid="EPH 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EPH 5:6" />Niech was nikt nie zwodzi próżnymi słowami, bo z powodu tych rzeczy przychodzi gniew Boga na synów nieposłuszeństwa.<verse eid="EPH 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EPH 5:7" />Nie bądźcie więc ich wspólnikami.<verse eid="EPH 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EPH 5:8" />Byliście bowiem niegdyś ciemnością, lecz teraz jesteście światłością w Panu. Postępujcie jak dzieci światłości;<verse eid="EPH 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EPH 5:9" />(Bo owoc Ducha jest we wszelkiej dobroci, sprawiedliwości i prawdzie).<verse eid="EPH 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EPH 5:10" />Badając to, co podoba się Panu;<verse eid="EPH 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EPH 5:11" />I nie miejcie nic wspólnego z bezowocnymi uczynkami ciemności, ale je raczej strofujcie.<verse eid="EPH 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EPH 5:12" />O tym bowiem, co się u nich po kryjomu dzieje, wstyd nawet mówić.<verse eid="EPH 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EPH 5:13" />A wszystko to, gdy jest strofowane, przez światło staje się jawne; to wszystko bowiem, co ujawnia, jest światłem.<verse eid="EPH 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EPH 5:14" />Dlatego Pismo mówi: Obudź się, który śpisz, i powstań z martwych, a zajaśnieje ci Chrystus.<verse eid="EPH 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EPH 5:15" />Uważajcie więc, żebyście postępowali rozważnie, nie jak niemądrzy, ale jak mądrzy;<verse eid="EPH 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EPH 5:16" />Odkupując czas, bo dni są złe.<verse eid="EPH 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EPH 5:17" />Dlatego nie bądźcie nierozumnymi, ale rozumiejcie, jaka jest wola Pana.<verse eid="EPH 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EPH 5:18" />A nie upijajcie się winem, w którym jest rozwiązłość, ale bądźcie napełnieni Duchem;<verse eid="EPH 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EPH 5:19" />Rozmawiając ze sobą przez psalmy, hymny i pieśni duchowe, śpiewając i grając Panu w swoim sercu;<verse eid="EPH 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EPH 5:20" />Dziękując zawsze za wszystko Bogu i Ojcu w imię naszego Pana Jezusa Chrystusa;<verse eid="EPH 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EPH 5:21" />Będąc poddani sobie nawzajem w bojaźni Boga.<verse eid="EPH 5:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EPH 5:22" />Żony, bądźcie poddane swoim mężom jak Panu.<verse eid="EPH 5:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="EPH 5:23" />Bo mąż jest głową żony, jak i Chrystus głową kościoła, jest on też Zbawicielem ciała.<verse eid="EPH 5:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="EPH 5:24" />Jak więc kościół poddany jest Chrystusowi, tak też żony swoim mężom we wszystkim.<verse eid="EPH 5:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="EPH 5:25" />Mężowie, miłujcie swoje żony, jak i Chrystus umiłował kościół i wydał za niego samego siebie;<verse eid="EPH 5:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="EPH 5:26" />Aby go uświęcić, oczyściwszy obmyciem wodą przez słowo;<verse eid="EPH 5:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="EPH 5:27" />By stawić przed sobą kościół chwalebny, niemający skazy ani zmarszczki, ani czegoś podobnego, lecz żeby był święty i nienaganny.<verse eid="EPH 5:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="EPH 5:28" />Tak też mężowie powinni miłować swoje żony jak własne ciało. Kto miłuje swoją żonę, samego siebie miłuje.<verse eid="EPH 5:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="EPH 5:29" />Nikt bowiem nigdy nie miał w nienawiści swego ciała, ale je żywi i pielęgnuje, jak i Pan kościół.<verse eid="EPH 5:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="EPH 5:30" />Gdyż jesteśmy członkami jego ciała, z ciała jego i z kości jego.<verse eid="EPH 5:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="EPH 5:31" />Dlatego opuści człowiek swego ojca i matkę i połączy się ze swoją żoną, i będą dwoje jednym ciałem.<verse eid="EPH 5:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="EPH 5:32" />Tajemnica to wielka, lecz ja mówię w odniesieniu do Chrystusa i kościoła.<verse eid="EPH 5:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="EPH 5:33" />Niech więc każdy z was z osobna miłuje swoją żonę jak samego siebie, a żona niech poważa swego męża.<verse eid="EPH 5:33" />
+  </para>
+  <chapter eid="EPH 5" />
+  <chapter number="6" style="c" sid="EPH 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="EPH 6:1" />Dzieci, bądźcie posłuszne waszym rodzicom w Panu, bo jest to sprawiedliwe.<verse eid="EPH 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="EPH 6:2" />Czcij swego ojca i matkę – jest to pierwsze przykazanie z obietnicą;<verse eid="EPH 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="EPH 6:3" />Aby ci się dobrze powodziło i abyś długo żył na ziemi.<verse eid="EPH 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="EPH 6:4" />A wy, ojcowie, nie pobudzajcie do gniewu waszych dzieci, lecz wychowujcie je w karności i w napominaniu Pana.<verse eid="EPH 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="EPH 6:5" />Słudzy, z bojaźnią i z drżeniem bądźcie posłuszni panom według ciała, w prostocie serca, jak Chrystusowi;<verse eid="EPH 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="EPH 6:6" />Nie służąc dla oka, jak ci, którzy chcą podobać się ludziom, lecz jak słudzy Chrystusa, czyniąc wolę Boga z serca;<verse eid="EPH 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="EPH 6:7" />Służąc z życzliwością, tak jak Panu, a nie ludziom;<verse eid="EPH 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="EPH 6:8" />Wiedząc, że każdy, kto uczyni coś dobrego, to też otrzyma od Pana, czy niewolnik, czy wolny.<verse eid="EPH 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="EPH 6:9" />A wy, panowie, tak samo wobec nich postępujcie, porzucając groźby, wiedząc, że i wy sami macie Pana w niebie, a u niego nie ma względu na osoby.<verse eid="EPH 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="EPH 6:10" />W końcu, moi bracia, umacniajcie się w Panu i w potędze jego mocy.<verse eid="EPH 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="EPH 6:11" />Przywdziejcie pełną zbroję Bożą, abyście mogli się ostać wobec zasadzek diabła.<verse eid="EPH 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="EPH 6:12" />Nie toczymy bowiem walki przeciw krwi i ciału, ale przeciw zwierzchnościom, przeciw władzom, przeciw rządcom ciemności tego świata, przeciw duchowemu złu na wyżynach niebieskich.<verse eid="EPH 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="EPH 6:13" />Dlatego weźcie pełną zbroję Bożą, abyście mogli przeciwstawić się w dzień zły, a wykonawszy wszystko, ostać się.<verse eid="EPH 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="EPH 6:14" />Stańcie więc, przepasawszy wasze biodra prawdą, przywdziawszy pancerz sprawiedliwości;<verse eid="EPH 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="EPH 6:15" />I obuwszy nogi w gotowość ewangelii pokoju.<verse eid="EPH 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="EPH 6:16" />A przede wszystkim weźcie tarczę wiary, którą będziecie mogli zgasić wszystkie ogniste strzały złego.<verse eid="EPH 6:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="EPH 6:17" />Weźcie też hełm zbawienia i miecz Ducha, którym jest słowo Boże;<verse eid="EPH 6:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="EPH 6:18" />We wszelkiej modlitwie i prośbie modląc się w każdym czasie w Duchu, czuwając nad tym z całą wytrwałością i z prośbą za wszystkich świętych;<verse eid="EPH 6:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="EPH 6:19" />I za mnie, aby była mi dana mowa, bym z odwagą otworzył moje usta do oznajmienia tajemnicy ewangelii;<verse eid="EPH 6:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="EPH 6:20" />Dla której sprawuję poselstwo w łańcuchach, abym o niej odważnie mówił, tak jak powinienem mówić.<verse eid="EPH 6:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="EPH 6:21" />Żebyście zaś wiedzieli i wy, co się ze mną dzieje i co robię, wszystko oznajmi wam Tychik, miły brat i wierny sługa w Panu;<verse eid="EPH 6:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="EPH 6:22" />Którego posłałem do was właśnie po to, abyście poznali nasze sprawy i aby pocieszył wasze serca.<verse eid="EPH 6:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="EPH 6:23" />Pokój braciom i miłość wraz z wiarą od Boga Ojca i Pana Jezusa Chrystusa.<verse eid="EPH 6:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="EPH 6:24" />Łaska niech będzie ze wszystkimi, którzy miłują naszego Pana Jezusa Chrystusa w szczerości. Amen.<verse eid="EPH 6:24" />
+  </para>
+  <chapter eid="EPH 6" />
+</usx>

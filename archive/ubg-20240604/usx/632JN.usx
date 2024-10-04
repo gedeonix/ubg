@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="2JN" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">II Jana</para>
+  <para style="toc1">II List Jana</para>
+  <para style="toc2">II Jana</para>
+  <para style="toc3">2J</para>
+  <para style="mt1">II List Jana</para>
+  <chapter number="1" style="c" sid="2JN 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="2JN 1:1" />Starszy do wybranej pani i do jej dzieci, które miłuję w prawdzie, a nie tylko ja, ale i wszyscy, którzy poznali prawdę;<verse eid="2JN 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="2JN 1:2" />Ze względu na prawdę, która pozostaje w nas i będzie z nami na wieki.<verse eid="2JN 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="2JN 1:3" />Łaska, miłosierdzie i pokój od Boga Ojca i od Pana Jezusa Chrystusa, Syna Ojca, niech będzie z wami w prawdzie i miłości.<verse eid="2JN 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="2JN 1:4" />Ucieszyłem się bardzo, że wśród twoich dzieci znalazłem takie, które postępują w prawdzie, jak otrzymaliśmy przykazanie od Ojca.<verse eid="2JN 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="2JN 1:5" />A teraz proszę cię, pani, nie piszę ci jako nowe przykazanie, ale jako to, które mieliśmy od początku, abyśmy się wzajemnie miłowali.<verse eid="2JN 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="2JN 1:6" />A na tym polega miłość, żebyśmy postępowali według jego przykazań. A przykazanie jest takie, jak słyszeliście od początku, że macie według niego postępować.<verse eid="2JN 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="2JN 1:7" />Gdyż pojawiło się na świecie wielu zwodzicieli, którzy nie uznają, że Jezus Chrystus przyszedł w ciele. Taki jest zwodzicielem i antychrystem.<verse eid="2JN 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="2JN 1:8" />Miejcie się na baczności, żebyśmy nie stracili tego, nad czym pracowaliśmy, ale żebyśmy otrzymali pełną zapłatę.<verse eid="2JN 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="2JN 1:9" />Każdy, kto wykracza poza naukę Chrystusa, a nie pozostaje w niej, ten nie ma Boga. Kto pozostaje w nauce Chrystusa, ten ma i Ojca, i Syna.<verse eid="2JN 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="2JN 1:10" />Jeśli ktoś przychodzi do was i nie przynosi tej nauki, nie przyjmujcie go do domu ani go nie pozdrawiajcie.<verse eid="2JN 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="2JN 1:11" />Kto bowiem takiego pozdrawia, staje się uczestnikiem jego złych uczynków.<verse eid="2JN 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="2JN 1:12" />Mam wam wiele do napisania, ale nie chcę posługiwać się papierem i atramentem. Mam jednak nadzieję, że przybędę do was i porozmawiam z wami osobiście, aby nasza radość była pełna.<verse eid="2JN 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="2JN 1:13" />Pozdrawiają cię dzieci twojej wybranej siostry. Amen.<verse eid="2JN 1:13" />
+  </para>
+  <chapter eid="2JN 1" />
+</usx>

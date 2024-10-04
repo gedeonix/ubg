@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="PHP" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Filipian</para>
+  <para style="toc1">List do Filipian</para>
+  <para style="toc2">Filipian</para>
+  <para style="toc3">Flp</para>
+  <para style="mt1">List do Filipian</para>
+  <chapter number="1" style="c" sid="PHP 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="PHP 1:1" />Paweł i Tymoteusz, słudzy Jezusa Chrystusa, do wszystkich świętych w Chrystusie Jezusie, którzy są w Filippi, wraz z biskupami i diakonami.<verse eid="PHP 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PHP 1:2" />Łaska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa.<verse eid="PHP 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PHP 1:3" />Dziękuję memu Bogu, ilekroć was wspominam;<verse eid="PHP 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PHP 1:4" />Zawsze w każdej mojej modlitwie prosząc z radością za was wszystkich;<verse eid="PHP 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PHP 1:5" />Za wasz współudział w ewangelii od pierwszego dnia aż do chwili obecnej;<verse eid="PHP 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PHP 1:6" />Będąc tego pewien, że ten, który rozpoczął w was dobre dzieło, dokończy je do dnia Jezusa Chrystusa.<verse eid="PHP 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PHP 1:7" />Słuszne jest, abym tak myślał o was wszystkich, dlatego że mam was w moim sercu, bo w moim więzieniu, jak i w obronie i utwierdzaniu ewangelii wszyscy jesteście ze mną uczestnikami łaski.<verse eid="PHP 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PHP 1:8" />Bóg bowiem jest mi świadkiem, jak tęsknię do was wszystkich najgłębszymi uczuciami Jezusa Chrystusa.<verse eid="PHP 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PHP 1:9" />I o to się modlę, aby wasza miłość coraz bardziej obfitowała w poznanie i we wszelkie zrozumienie;<verse eid="PHP 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PHP 1:10" />Abyście mogli rozpoznać to, co lepsze, żebyście byli szczerzy i bez zarzutu na dzień Chrystusa;<verse eid="PHP 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PHP 1:11" />Napełnieni owocami sprawiedliwości, które przynosicie przez Jezusa Chrystusa ku chwale i czci Boga.<verse eid="PHP 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PHP 1:12" />A chcę, bracia, abyście wiedzieli, że to, co mnie spotkało, spowodowało jeszcze większe rozkrzewienie ewangelii;<verse eid="PHP 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PHP 1:13" />Tak że moje więzy z powodu Chrystusa stały się znane w całym pałacu i u wszystkich innych.<verse eid="PHP 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PHP 1:14" />A wielu braci w Panu nabrało otuchy z powodu moich więzów i z większą odwagą, bez lęku zaczęło głosić słowo.<verse eid="PHP 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PHP 1:15" />Niektórzy wprawdzie z zazdrości i sporu, inni zaś z dobrej woli głoszą Chrystusa.<verse eid="PHP 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PHP 1:16" />Jedni ze sporu głoszą Chrystusa nieszczerze, sądząc, że dodadzą ucisku moim więzom;<verse eid="PHP 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PHP 1:17" />Inni zaś z miłości, wiedząc, że jestem przeznaczony do obrony ewangelii.<verse eid="PHP 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PHP 1:18" />Cóż więc? Mimo wszystko każdym sposobem, czy obłudnie, czy szczerze, Chrystus jest głoszony. Z tego się raduję i będę się radował.<verse eid="PHP 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PHP 1:19" />Wiem bowiem, że to doprowadzi do mojego zbawienia dzięki waszej modlitwie i pomocy Ducha Jezusa Chrystusa;<verse eid="PHP 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PHP 1:20" />Zgodnie z moim gorliwym oczekiwaniem i nadzieją, że w niczym nie będę zawstydzony, lecz z całą odwagą, jak zawsze, tak i teraz, uwielbiony będzie Chrystus w moim ciele, czy to przez życie, czy przez śmierć.<verse eid="PHP 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PHP 1:21" />Dla mnie bowiem życie to Chrystus, a śmierć to zysk.<verse eid="PHP 1:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PHP 1:22" />Lecz jeśli życie w ciele jest dla mnie owocem mojej pracy, to nie wiem, co mam wybrać.<verse eid="PHP 1:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PHP 1:23" />Jedno i drugie bowiem mnie naciska: chcę odejść i być z Chrystusem, bo to o wiele lepsze;<verse eid="PHP 1:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PHP 1:24" />Lecz pozostać w ciele jest bardziej potrzebne ze względu na was.<verse eid="PHP 1:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PHP 1:25" />A będąc tego pewien, wiem, że pozostanę i będę z wami wszystkimi dla waszego rozwoju i radości wiary;<verse eid="PHP 1:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PHP 1:26" />Aby obfitowała wasza chluba w Chrystusie Jezusie ze mnie, gdy znowu przybędę do was.<verse eid="PHP 1:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PHP 1:27" />Tylko postępujcie jak przystoi na ewangelię Chrystusa, abym czy przyjdę i zobaczę was, czy nie przyjdę, słyszał o was, że trwacie w jednym duchu, jednomyślnie walcząc o wiarę ewangelii;<verse eid="PHP 1:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PHP 1:28" />I w niczym nie dając się zastraszyć przeciwnikom. Dla nich jest to dowód zguby, a dla was zbawienia, i to od Boga.<verse eid="PHP 1:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PHP 1:29" />Gdyż wam dla Chrystusa dane jest nie tylko w niego wierzyć, ale też dla niego cierpieć;<verse eid="PHP 1:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PHP 1:30" />Staczając tę samą walkę, którą widzieliście we mnie, i o której słyszycie, że teraz we mnie się toczy.<verse eid="PHP 1:30" />
+  </para>
+  <chapter eid="PHP 1" />
+  <chapter number="2" style="c" sid="PHP 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="PHP 2:1" />Jeśli więc jest jakieś pocieszenie w Chrystusie, jeśli jakaś pociecha miłości, jeśli jakaś wspólnota Ducha, jeśli jakieś współczucie i miłosierdzie;<verse eid="PHP 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PHP 2:2" />Dopełnijcie mojej radości, bądźcie tej samej myśli, mając tę samą miłość, będąc zgodni i jednomyślni;<verse eid="PHP 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PHP 2:3" />Nie czyńcie nic z kłótliwości ani z próżnej chwały, lecz w pokorze uważajcie jedni drugich za wyższych od siebie.<verse eid="PHP 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PHP 2:4" />Niech każdy dba nie tylko o to, co jego, ale i o to, co innych.<verse eid="PHP 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PHP 2:5" />Niech będzie w was takie nastawienie umysłu, jakie też było w Chrystusie Jezusie;<verse eid="PHP 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PHP 2:6" />Który, będąc w postaci Boga, nie uważał bycia równym Bogu za grabież;<verse eid="PHP 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PHP 2:7" />Lecz ogołocił samego siebie, przyjmując postać sługi i stając się podobny do ludzi;<verse eid="PHP 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PHP 2:8" />A z postawy uznany za człowieka, uniżył samego siebie i był posłuszny aż do śmierci, i to śmierci krzyżowej.<verse eid="PHP 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PHP 2:9" />Dlatego też Bóg wielce go wywyższył i darował mu imię, które jest ponad wszelkie imię;<verse eid="PHP 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PHP 2:10" />Aby na imię Jezusa zginało się wszelkie kolano na niebie, na ziemi i pod ziemią.<verse eid="PHP 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PHP 2:11" />I aby wszelki język wyznawał, że Jezus Chrystus jest Panem ku chwale Boga Ojca.<verse eid="PHP 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PHP 2:12" />Dlatego, moi umiłowani, tak jak zawsze byliście posłuszni, nie tylko w mojej obecności, ale jeszcze bardziej teraz, pod moją nieobecność, z bojaźnią i drżeniem wykonujcie swoje zbawienie.<verse eid="PHP 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PHP 2:13" />Bóg bowiem sprawia w was i chęć, i wykonanie według jego upodobania.<verse eid="PHP 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PHP 2:14" />Wszystko czyńcie bez szemrania i sporów;<verse eid="PHP 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PHP 2:15" />Abyście byli nienagannymi i niewinnymi dziećmi Bożymi, bez zarzutu pośród narodu złego i przewrotnego, wśród którego świecicie jak światła na świecie;<verse eid="PHP 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PHP 2:16" />Zachowując słowo życia, abym mógł się chlubić w dniu Chrystusa, że nie na próżno biegłem i nie na próżno pracowałem.<verse eid="PHP 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PHP 2:17" />Lecz choćbym został złożony na ofiarę i w posłudze waszej wiary, raduję się i cieszę z wami wszystkimi.<verse eid="PHP 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PHP 2:18" />Z tego i wy radujcie się i cieszcie ze mną.<verse eid="PHP 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PHP 2:19" />A mam nadzieję w Panu Jezusie, że wkrótce poślę do was Tymoteusza, abym został pocieszony, dowiedziawszy się, co się u was dzieje.<verse eid="PHP 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PHP 2:20" />Nie mam bowiem nikogo o równych jemu myślach, który by się szczerze troszczył o wasze sprawy.<verse eid="PHP 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PHP 2:21" />Bo wszyscy szukają swego, a nie tego, co jest Jezusa Chrystusa.<verse eid="PHP 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PHP 2:22" />Wiecie zaś, że on jest wypróbowany, gdyż jak syn z ojcem, tak on wraz ze mną służył w ewangelii.<verse eid="PHP 2:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PHP 2:23" />Mam więc nadzieję, że poślę go do was, gdy tylko zobaczę, co dalej ze mną będzie.<verse eid="PHP 2:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PHP 2:24" />A mam ufność w Panu, że i sam wkrótce do was przybędę.<verse eid="PHP 2:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PHP 2:25" />Uznałem też za konieczne posłać do was Epafrodyta, mego brata, współpracownika i współbojownika, a waszego wysłannika i sługę w moich potrzebach;<verse eid="PHP 2:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PHP 2:26" />Ponieważ tęsknił za wami wszystkimi i bardzo się smucił, gdyż słyszeliście, że zachorował.<verse eid="PHP 2:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PHP 2:27" />Rzeczywiście bowiem chorował tak, że był bliski śmierci. Lecz Bóg zmiłował się nad nim, a nie tylko nad nim, ale i nade mną, abym nie doznawał smutku za smutkiem.<verse eid="PHP 2:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PHP 2:28" />Dlatego tym pilniej posłałem go, abyście widząc go znowu, ucieszyli się, a ja żebym doznawał mniej smutku.<verse eid="PHP 2:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PHP 2:29" />Przyjmijcie go więc w Panu z całą radością i miejcie takich w poszanowaniu;<verse eid="PHP 2:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PHP 2:30" />Ponieważ dla sprawy Chrystusa bliski był śmierci, narażając swoje życie, aby dopełnić to, czego brakowało w waszej posłudze wobec mnie.<verse eid="PHP 2:30" />
+  </para>
+  <chapter eid="PHP 2" />
+  <chapter number="3" style="c" sid="PHP 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="PHP 3:1" />W końcu, moi bracia, radujcie się w Panu. Pisać do was o tym samym mnie nie męczy, a dla was jest bezpieczne.<verse eid="PHP 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PHP 3:2" />Strzeżcie się psów, strzeżcie się złych pracowników, strzeżcie się obrzezywaczy.<verse eid="PHP 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PHP 3:3" />My bowiem jesteśmy obrzezaniem, którzy w duchu służymy Bogu i chlubimy się w Chrystusie Jezusie, a nie pokładamy ufności w ciele.<verse eid="PHP 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PHP 3:4" />Chociaż i ja mógłbym pokładać ufność w ciele. Jeśli ktoś inny uważa, że może pokładać ufność w ciele, bardziej ja:<verse eid="PHP 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PHP 3:5" />Obrzezany ósmego dnia, z rodu Izraela, z pokolenia Beniamina, Hebrajczyk z Hebrajczyków, co do prawa – faryzeusz;<verse eid="PHP 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PHP 3:6" />Co do gorliwości – prześladowca kościoła, co do sprawiedliwości opartej na prawie – nienaganny.<verse eid="PHP 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PHP 3:7" />Lecz to, co było dla mnie zyskiem, ze względu na Chrystusa uznałem za stratę.<verse eid="PHP 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PHP 3:8" />Owszem, wszystko uznaję za stratę dla znakomitości poznania Chrystusa Jezusa, mojego Pana, dla którego wszystko utraciłem i uznaję to za gnój, aby zyskać Chrystusa;<verse eid="PHP 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PHP 3:9" />I znaleźć się w nim, nie mając własnej sprawiedliwości, tej, która jest z prawa, ale tę, która jest przez wiarę Chrystusa, to jest sprawiedliwość z Boga przez wiarę;<verse eid="PHP 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PHP 3:10" />Żeby poznać jego i moc jego zmartwychwstania oraz swój udział w jego cierpieniach, upodabniając się do jego śmierci;<verse eid="PHP 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PHP 3:11" />Abym jakimkolwiek sposobem dostąpił powstania z martwych.<verse eid="PHP 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PHP 3:12" />Nie żebym to już osiągnął albo już był doskonały, ale dążę, aby pochwycić to, do czego też zostałem pochwycony przez Chrystusa Jezusa.<verse eid="PHP 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PHP 3:13" />Bracia, ja o sobie nie myślę, że już pochwyciłem. Lecz jedno czynię: zapominając o tym, co za mną, a zdążając do tego, co przede mną;<verse eid="PHP 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PHP 3:14" />Biegnę do mety, do nagrody powołania Bożego, które jest z góry w Chrystusie Jezusie.<verse eid="PHP 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PHP 3:15" />Ilu więc nas jest doskonałych, tak myślmy. A jeśli o czymś inaczej myślicie, i to wam Bóg objawi.<verse eid="PHP 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PHP 3:16" />Jednak w tym, do czego doszliśmy, postępujmy według jednej miary i to samo myślmy.<verse eid="PHP 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PHP 3:17" />Bądźcie, bracia, wszyscy razem moimi naśladowcami i przypatrujcie się tym, którzy postępują według wzoru, jaki w nas macie.<verse eid="PHP 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PHP 3:18" />Wielu bowiem, o których wam często mówiłem, postępuje inaczej, a teraz nawet z płaczem mówię, że są wrogami krzyża Chrystusa.<verse eid="PHP 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PHP 3:19" />Ich końcem jest zatracenie, ich Bogiem jest brzuch, a ich chwała jest w hańbie; myślą oni o tym, co ziemskie.<verse eid="PHP 3:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PHP 3:20" />Nasza zaś ojczyzna jest w niebie, skąd też oczekujemy Zbawiciela, Pana Jezusa Chrystusa.<verse eid="PHP 3:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PHP 3:21" />On przemieni nasze podłe ciało, aby było podobne do jego chwalebnego ciała, zgodnie ze skuteczną mocą, którą też może poddać sobie wszystko.<verse eid="PHP 3:21" />
+  </para>
+  <chapter eid="PHP 3" />
+  <chapter number="4" style="c" sid="PHP 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="PHP 4:1" />Dlatego, moi bracia umiłowani i utęsknieni, moja radości i korono, tak trwajcie w Panu, moi umiłowani.<verse eid="PHP 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PHP 4:2" />Proszę Ewodię i proszę Syntychę, aby były jednomyślne w Panu.<verse eid="PHP 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PHP 4:3" />Proszę też i ciebie, wierny towarzyszu, pomagaj tym, które razem ze mną pracowały w ewangelii, wraz z Klemensem i z innymi moimi współpracownikami, których imiona są w księdze życia.<verse eid="PHP 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PHP 4:4" />Radujcie się zawsze w Panu; mówię ponownie, radujcie się.<verse eid="PHP 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PHP 4:5" />Niech wasza skromność będzie znana wszystkim ludziom. Pan jest blisko.<verse eid="PHP 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PHP 4:6" />Nie troszczcie się o nic, ale we wszystkim przez modlitwę i prośbę z dziękczynieniem niech wasze pragnienia będą znane Bogu.<verse eid="PHP 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PHP 4:7" />A pokój Boży, który przewyższa wszelkie zrozumienie, będzie strzegł waszych serc i myśli w Chrystusie Jezusie.<verse eid="PHP 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PHP 4:8" />W końcu, bracia, co prawdziwe, co uczciwe, co sprawiedliwe, co czyste, co miłe, co chwalebne, jeśli jest jakaś cnota i jakaś chwała – o tym myślcie.<verse eid="PHP 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PHP 4:9" />Czyńcie to, czego się też nauczyliście, co przyjęliście, co słyszeliście i widzieliście we mnie, a Bóg pokoju będzie z wami.<verse eid="PHP 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PHP 4:10" />Uradowałem się bardzo w Panu, że teraz zakwitło na nowo wasze staranie o mnie, bo staraliście się o to, lecz nie mieliście sposobności.<verse eid="PHP 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PHP 4:11" />Nie mówię tego z powodu niedostatku, bo nauczyłem się poprzestawać na tym, co mam.<verse eid="PHP 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PHP 4:12" />Umiem uniżać się, umiem też obfitować. Wszędzie i we wszystkim jestem wyćwiczony: umiem być syty i cierpieć głód, obfitować i znosić niedostatek.<verse eid="PHP 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PHP 4:13" />Wszystko mogę w Chrystusie, który mnie umacnia.<verse eid="PHP 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PHP 4:14" />Jednak dobrze uczyniliście, uczestnicząc w moim ucisku.<verse eid="PHP 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PHP 4:15" />A wy, Filipianie, wiecie, że na początku ewangelii, gdy opuściłem Macedonię, żaden kościół nie uczestniczył ze mną w dawaniu i braniu, tylko wy sami.<verse eid="PHP 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PHP 4:16" />Bo nawet do Tesaloniki raz i drugi posłaliście, czego mi było potrzeba.<verse eid="PHP 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PHP 4:17" />Nie żebym pragnął daru, ale pragnę owocu, który by wzrastał na wasze konto.<verse eid="PHP 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PHP 4:18" />Gdyż mam wszystko, i to w obfitości, jestem w pełni zaopatrzony, otrzymawszy od Epafrodyta to, co zostało posłane przez was, woń dobrego zapachu, ofiarę przyjemną i podobającą się Bogu.<verse eid="PHP 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PHP 4:19" />Lecz mój Bóg zaspokoi wszelką waszą potrzebę według swego bogactwa w chwale, w Chrystusie Jezusie.<verse eid="PHP 4:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PHP 4:20" />A Bogu i Ojcu naszemu niech będzie chwała na wieki wieków. Amen.<verse eid="PHP 4:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PHP 4:21" />Pozdrówcie każdego świętego w Chrystusie Jezusie. Pozdrawiają was bracia, którzy są ze mną.<verse eid="PHP 4:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PHP 4:22" />Pozdrawiają was wszyscy święci, szczególnie zaś ci z domu cesarskiego.<verse eid="PHP 4:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PHP 4:23" />Łaska naszego Pana Jezusa Chrystusa niech będzie z wami wszystkimi. Amen.<verse eid="PHP 4:23" />
+  </para>
+  <chapter eid="PHP 4" />
+</usx>

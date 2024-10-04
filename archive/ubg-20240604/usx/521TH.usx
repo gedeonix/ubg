@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="1TH" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">I Tesaloniczan</para>
+  <para style="toc1">I List do Tesaloniczan</para>
+  <para style="toc2">I Tesaloniczan</para>
+  <para style="toc3">1Tes</para>
+  <para style="mt1">I List do Tesaloniczan</para>
+  <chapter number="1" style="c" sid="1TH 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 1:1" />Paweł, Sylwan i Tymoteusz do kościoła Tesaloniczan, który jest w Bogu Ojcu i Panu Jezusie Chrystusie. Łaska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa.<verse eid="1TH 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TH 1:2" />Zawsze dziękujemy Bogu za was wszystkich, czyniąc wzmiankę o was w naszych modlitwach;<verse eid="1TH 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TH 1:3" />Nieustannie wspominając wasze dzieło wiary i trud miłości, i wytrwałość w nadziei w naszym Panu Jezusie Chrystusie, przed Bogiem i naszym Ojcem;<verse eid="1TH 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TH 1:4" />Wiedząc, umiłowani bracia, że zostaliście wybrani przez Boga;<verse eid="1TH 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TH 1:5" />Gdyż nasza ewangelia nie doszła was tylko w słowie, ale także w mocy i w Duchu Świętym, i w pełnym przekonaniu. Wiecie bowiem, jacy byliśmy dla was, przebywając wśród was.<verse eid="1TH 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TH 1:6" />A wy staliście się naśladowcami naszymi i Pana, przyjmując słowo pośród wielkiego ucisku, z radością Ducha Świętego;<verse eid="1TH 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TH 1:7" />Tak że staliście się wzorem dla wszystkich wierzących w Macedonii i Achai.<verse eid="1TH 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TH 1:8" />Od was bowiem słowo Pańskie rozbrzmiewało nie tylko w Macedonii i Achai, ale też wasza wiara w Boga rozkrzewiła się w każdym miejscu, tak że nie trzeba nam mówić czegokolwiek;<verse eid="1TH 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TH 1:9" />Ponieważ oni sami opowiadają o nas, jakie było nasze przybycie do was i jak nawróciliście się od bożków do Boga, aby służyć żywemu i prawdziwemu Bogu;<verse eid="1TH 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TH 1:10" />I oczekiwać z niebios jego Syna, którego wskrzesił z martwych, Jezusa, który nas wyrwał od nadchodzącego gniewu.<verse eid="1TH 1:10" />
+  </para>
+  <chapter eid="1TH 1" />
+  <chapter number="2" style="c" sid="1TH 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 2:1" />Sami bowiem wiecie, bracia, że nasze przybycie do was nie było daremne;<verse eid="1TH 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TH 2:2" />Lecz chociaż przedtem, jak wiecie, doznaliśmy cierpień i byliśmy znieważeni w Filippi, to jednak odważyliśmy się w naszym Bogu, by wśród wielu zmagań głosić wam ewangelię Boga.<verse eid="1TH 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TH 2:3" />Nasze pouczenie bowiem nie wzięło się z błędu ani z nieczystości, ani z podstępu;<verse eid="1TH 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TH 2:4" />Lecz jak przez Boga zostaliśmy uznani za godnych powierzenia nam ewangelii, tak ją głosimy, nie aby podobać się ludziom, ale Bogu, który bada nasze serca.<verse eid="1TH 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TH 2:5" />Nigdy bowiem nie posługiwaliśmy się pochlebstwem w mowie, jak wiecie, ani nie kierowaliśmy się ukrytą chciwością, Bóg jest świadkiem;<verse eid="1TH 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TH 2:6" />Ani nie szukaliśmy chwały u ludzi, ani u was, ani u innych, mogąc być dla was ciężarem jako apostołowie Chrystusa;<verse eid="1TH 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TH 2:7" />Byliśmy jednak wśród was łagodni jak karmicielka troszcząca się o swoje dzieci.<verse eid="1TH 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TH 2:8" />Darzyliśmy was taką życzliwością, że gotowi byliśmy użyczyć wam nie tylko ewangelii Boga, ale i naszych dusz, bo staliście się nam drodzy.<verse eid="1TH 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TH 2:9" />Pamiętacie przecież, bracia, naszą pracę i trud. Pracując bowiem dniem i nocą, aby nie obciążyć nikogo z was, głosiliśmy wam ewangelię Boga.<verse eid="1TH 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TH 2:10" />Wy i Bóg jesteście świadkami, że zachowywaliśmy się w świętości, w sprawiedliwości i nienagannie pośród was, którzy wierzycie.<verse eid="1TH 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TH 2:11" />Wiecie bowiem, że każdego z was, jak ojciec swoje dzieci, zachęcaliśmy i pocieszaliśmy, i zaklinaliśmy;<verse eid="1TH 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TH 2:12" />Abyście postępowali w sposób godny Boga, który was powołał do swego królestwa i chwały.<verse eid="1TH 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TH 2:13" />Dlatego też nieustannie dziękujemy Bogu, że gdy przyjęliście słowo Boże, które słyszeliście od nas, przyjęliście je nie jako słowo ludzkie, ale – jak jest naprawdę – jako słowo Boże, które też w was, którzy wierzycie, skutecznie działa.<verse eid="1TH 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TH 2:14" />Wy bowiem, bracia, staliście się naśladowcami kościołów Bożych, które są w Judei w Chrystusie Jezusie, bo wy to samo wycierpieliście od swoich rodaków, co i oni od Żydów;<verse eid="1TH 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TH 2:15" />Którzy zabili i Pana Jezusa, i swoich własnych proroków, i nas prześladowali; a nie podobają się Bogu i sprzeciwiają się wszystkim ludziom.<verse eid="1TH 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TH 2:16" />Zabraniają nam zwiastować poganom, żeby ci nie byli zbawieni, aby zawsze dopełniali miary swoich grzechów; nadszedł bowiem na nich ostateczny gniew.<verse eid="1TH 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TH 2:17" />My zaś, bracia, rozłączeni z wami na krótko ciałem, ale nie sercem, z tym większym pragnieniem staraliśmy się was zobaczyć.<verse eid="1TH 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1TH 2:18" />Dlatego chcieliśmy przybyć do was, zwłaszcza ja, Paweł, raz i drugi, ale przeszkodził nam szatan.<verse eid="1TH 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1TH 2:19" />Co bowiem jest naszą nadzieją, radością albo koroną chluby? Czy nie wy nią jesteście przed naszym Panem Jezusem Chrystusem w czasie jego przyjścia?<verse eid="1TH 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1TH 2:20" />Wy bowiem jesteście naszą chwałą i radością.<verse eid="1TH 2:20" />
+  </para>
+  <chapter eid="1TH 2" />
+  <chapter number="3" style="c" sid="1TH 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 3:1" />Dlatego nie mogąc tego dłużej znosić, postanowiliśmy sami pozostać w Atenach;<verse eid="1TH 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TH 3:2" />A Tymoteusza, naszego brata, sługę Boga i współpracownika w ewangelii Chrystusa posłaliśmy, aby was utwierdził i dodał wam otuchy w wierze;<verse eid="1TH 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TH 3:3" />Aby nikt się nie zachwiał wśród tych utrapień. Sami przecież wiecie, że do tego zostaliśmy wyznaczeni.<verse eid="1TH 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TH 3:4" />Gdy bowiem byliśmy u was, zapowiadaliśmy wam, że będziemy cierpieć ucisk, co się też stało, jak wiecie.<verse eid="1TH 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TH 3:5" />Dlatego i ja, nie mogąc tego dłużej znosić, posłałem go, aby rozeznał się w waszej wierze, czy was kusiciel czasem nie kusił, a nasza praca nie okazała się daremna.<verse eid="1TH 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TH 3:6" />Teraz zaś Tymoteusz wrócił od was do nas i zwiastował nam radosną wieść o waszej wierze i miłości, i o tym, że nas zawsze dobrze wspominacie, pragnąc nas widzieć, podobnie jak my was.<verse eid="1TH 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TH 3:7" />Dlatego dzięki wam, bracia, zostaliśmy pocieszeni przez waszą wiarę we wszelkim naszym ucisku i potrzebie.<verse eid="1TH 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TH 3:8" />Teraz bowiem żyjemy, jeśli wy trwacie w Panu.<verse eid="1TH 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TH 3:9" />Jakie więc dziękczynienie możemy złożyć Bogu za was, za całą radość, jakiej z powodu was doznajemy przed naszym Bogiem;<verse eid="1TH 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TH 3:10" />Gdy w nocy i we dnie bardzo gorliwie modlimy się, abyśmy mogli zobaczyć was osobiście i uzupełnić braki waszej wiary?<verse eid="1TH 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TH 3:11" />A sam Bóg i nasz Ojciec i nasz Pan Jezus Chrystus niech utoruje naszą drogę do was.<verse eid="1TH 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TH 3:12" />Pan zaś niech sprawi, że będziecie wzrastać i obfitować w miłość do siebie nawzajem i do wszystkich, taką, jaką i my mamy do was;<verse eid="1TH 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TH 3:13" />Aby wasze serca zostały utwierdzone jako nienaganne w świętości wobec naszego Boga i Ojca na przyjście naszego Pana Jezusa Chrystusa wraz ze wszystkimi jego świętymi.<verse eid="1TH 3:13" />
+  </para>
+  <chapter eid="1TH 3" />
+  <chapter number="4" style="c" sid="1TH 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 4:1" />Ponadto, bracia, prosimy was i zachęcamy przez Pana Jezusa, abyście – według otrzymanego od nas pouczenia o tym, jak należy postępować i podobać się Bogu – coraz bardziej w tym obfitowali.<verse eid="1TH 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TH 4:2" />Wiecie przecież, jakie nakazy daliśmy wam przez Pana Jezusa.<verse eid="1TH 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TH 4:3" />Taka jest bowiem wola Boga, wasze uświęcenie, żebyście powstrzymywali się od nierządu;<verse eid="1TH 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TH 4:4" />Aby każdy z was umiał utrzymać swoje naczynie w świętości i poszanowaniu;<verse eid="1TH 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TH 4:5" />Nie w namiętności żądzy jak poganie, którzy nie znają Boga;<verse eid="1TH 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TH 4:6" />I aby nikt nie wykorzystywał i nie oszukiwał w żadnej sprawie swego brata, bo Pan jest mścicielem tego wszystkiego, jak wam to przedtem mówiliśmy i zaświadczaliśmy.<verse eid="1TH 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TH 4:7" />Bóg bowiem nie powołał nas do nieczystości, ale do świętości.<verse eid="1TH 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TH 4:8" />A więc kto to odrzuca, odrzuca nie człowieka, lecz Boga, który nam też dał swego Ducha Świętego.<verse eid="1TH 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TH 4:9" />A o miłości braterskiej nie ma potrzeby wam pisać, bo sami zostaliście pouczeni przez Boga, aby się wzajemnie miłować.<verse eid="1TH 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TH 4:10" />Czynicie to przecież względem wszystkich braci w całej Macedonii; ale zachęcamy was, bracia, żebyście coraz bardziej w nią obfitowali;<verse eid="1TH 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TH 4:11" />I gorliwie starali się żyć spokojnie, dbać o swoje sprawy i pracować własnymi rękami, jak wam nakazaliśmy;<verse eid="1TH 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TH 4:12" />Abyście uczciwie postępowali wobec tych, którzy są na zewnątrz, i w niczym nie mieli niedostatku.<verse eid="1TH 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TH 4:13" />A nie chcę, bracia, abyście byli w niewiedzy co do tych, którzy zasnęli, abyście się nie smucili jak inni, którzy nie mają nadziei.<verse eid="1TH 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TH 4:14" />Jeśli bowiem wierzymy, że Jezus umarł i zmartwychwstał, to też tych, którzy zasnęli w Jezusie, Bóg przyprowadzi wraz z nim.<verse eid="1TH 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TH 4:15" />Bo to wam mówimy przez słowo Pana, że my, którzy pozostaniemy żywi do przyjścia Pana, nie wyprzedzimy tych, którzy zasnęli.<verse eid="1TH 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TH 4:16" />Gdyż sam Pan z okrzykiem, z głosem archanioła i dźwiękiem trąby Bożej zstąpi z nieba, a zmarli w Chrystusie powstaną pierwsi.<verse eid="1TH 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TH 4:17" />Potem my, którzy pozostaniemy żywi, razem z nimi będziemy porwani w obłoki, w powietrze, na spotkanie Pana, i tak zawsze będziemy z Panem.<verse eid="1TH 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1TH 4:18" />Dlatego pocieszajcie się wzajemnie tymi słowami.<verse eid="1TH 4:18" />
+  </para>
+  <chapter eid="1TH 4" />
+  <chapter number="5" style="c" sid="1TH 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 5:1" />A o czasach i porach, bracia, nie potrzebujecie, aby wam pisano.<verse eid="1TH 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TH 5:2" />Sami bowiem dokładnie wiecie, że dzień Pana przyjdzie jak złodziej w nocy.<verse eid="1TH 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TH 5:3" />Bo gdy będą mówić: Pokój i bezpieczeństwo – wtedy przyjdzie na nich nagła zguba, jak bóle na kobietę brzemienną, i nie ujdą.<verse eid="1TH 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TH 5:4" />Lecz wy, bracia, nie jesteście w ciemności, aby ten dzień zaskoczył was jak złodziej.<verse eid="1TH 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TH 5:5" />Wy wszyscy jesteście synami światłości i synami dnia. Nie jesteśmy synami nocy ani ciemności.<verse eid="1TH 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TH 5:6" />Nie śpijmy więc jak inni, ale czuwajmy i bądźmy trzeźwi.<verse eid="1TH 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TH 5:7" />Ci bowiem, którzy śpią, w nocy śpią, a ci, którzy się upijają, w nocy się upijają.<verse eid="1TH 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TH 5:8" />My zaś, którzy należymy do dnia, bądźmy trzeźwi, przywdziawszy pancerz wiary i miłości oraz hełm nadziei zbawienia.<verse eid="1TH 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TH 5:9" />Gdyż Bóg nie przeznaczył nas na gniew, lecz abyśmy otrzymali zbawienie przez naszego Pana Jezusa Chrystusa;<verse eid="1TH 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TH 5:10" />Który umarł za nas, abyśmy, czy czuwamy, czy śpimy, razem z nim żyli.<verse eid="1TH 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TH 5:11" />Dlatego zachęcajcie jedni drugich i budujcie się wzajemnie, jak to zresztą czynicie.<verse eid="1TH 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TH 5:12" />I prosimy was, bracia, abyście darzyli uznaniem tych, którzy pracują wśród was, którzy są waszymi przełożonymi w Panu i was napominają;<verse eid="1TH 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TH 5:13" />Ze względu na ich pracę darzcie ich jak najgorętszą miłością. Zachowujcie pokój między sobą.<verse eid="1TH 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TH 5:14" />Prosimy was też, bracia, napominajcie niekarnych, pocieszajcie bojaźliwych, podtrzymujcie słabych, bądźcie cierpliwi dla wszystkich.<verse eid="1TH 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TH 5:15" />Uważajcie, aby nikt nikomu nie odpłacał złem za zło, ale zawsze dążcie do tego, co dobre dla siebie nawzajem i dla wszystkich.<verse eid="1TH 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TH 5:16" />Zawsze się radujcie.<verse eid="1TH 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TH 5:17" />Nieustannie się módlcie.<verse eid="1TH 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="1TH 5:18" />Za wszystko dziękujcie. Taka jest bowiem wola Boga w Chrystusie Jezusie względem was.<verse eid="1TH 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="1TH 5:19" />Ducha nie gaście.<verse eid="1TH 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="1TH 5:20" />Proroctw nie lekceważcie.<verse eid="1TH 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="1TH 5:21" />Wszystko badajcie, a trzymajcie się tego, co dobre.<verse eid="1TH 5:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="1TH 5:22" />Od wszelkiego pozoru zła powstrzymujcie się.<verse eid="1TH 5:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="1TH 5:23" />A sam Bóg pokoju niech was w pełni uświęci, a cały wasz duch, dusza i ciało niech będą zachowane bez zarzutu na przyjście naszego Pana Jezusa Chrystusa.<verse eid="1TH 5:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="1TH 5:24" />Wierny jest ten, który was powołuje; on też tego dokona.<verse eid="1TH 5:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="1TH 5:25" />Bracia, módlcie się za nas.<verse eid="1TH 5:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="1TH 5:26" />Pozdrówcie wszystkich braci świętym pocałunkiem.<verse eid="1TH 5:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="1TH 5:27" />Zaklinam was na Pana, aby ten list został przeczytany wszystkim świętym braciom.<verse eid="1TH 5:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="1TH 5:28" />Łaska naszego Pana Jezusa Chrystusa niech będzie z wami. Amen.<verse eid="1TH 5:28" />
+  </para>
+  <chapter eid="1TH 5" />
+</usx>

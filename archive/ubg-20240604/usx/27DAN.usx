@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="DAN" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Daniela</para>
+  <para style="toc1">Księga Daniela</para>
+  <para style="toc2">Daniela</para>
+  <para style="toc3">Dn</para>
+  <para style="mt1">Księga Daniela</para>
+  <chapter number="1" style="c" sid="DAN 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 1:1" />W trzecim roku panowania Joakima, króla Judy, do Jerozolimy nadciągnął Nabuchodonozor, król Babilonu, i obległ ją.<verse eid="DAN 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 1:2" />I Pan wydał w jego rękę Joakima, króla Judy, oraz część naczyń domu Bożego, a on je zabrał do ziemi Szinear, do domu swego boga, i wniósł te naczynia do skarbca swego boga.<verse eid="DAN 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 1:3" />I król rozkazał Aszpenazowi, przełożonemu swoich eunuchów, aby przyprowadził niektórych spośród synów Izraela, z potomstwa króla i z książąt;<verse eid="DAN 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 1:4" />Młodzieńców, w których by nie było żadnej skazy, o pięknym wyglądzie, biegłych we wszelkiej mądrości, posiadających wiedzę i pojętnych w nauce, którzy byliby zdatni stanąć w pałacu króla, i aby ich nauczać pisma i języka chaldejskiego.<verse eid="DAN 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 1:5" />I król wyznaczył im codzienną porcję potraw królewskich i wina, które on sam pił. Mieli być tak wychowywani, by po upływie trzech lat mogli stanąć przed królem.<verse eid="DAN 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 1:6" />Wśród nich, spośród synów Judy, byli: Daniel, Chananiasz, Miszael i Azariasz.<verse eid="DAN 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 1:7" />I przełożony eunuchów nadał im imiona: Daniela nazwał Belteszassarem, Chananiasza – Szadrakiem, Miszaela – Meszakiem i Azariasza – Abed-Nego.<verse eid="DAN 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 1:8" />Ale Daniel postanowił w swoim sercu, że nie splami się potrawami króla ani winem, które król pił. Poprosił więc przełożonego eunuchów, aby nie musiał się splamić.<verse eid="DAN 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 1:9" />I Bóg zjednał Danielowi łaskę i miłość przełożonego eunuchów.<verse eid="DAN 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 1:10" />Przełożony eunuchów powiedział do Daniela: Boję się króla, mojego pana, który wyznaczył wasz pokarm i wasz napój. Jeśli zobaczy, że wasze twarze są chudsze niż innych młodzieńców, którzy razem z wami mają być wychowani, wtedy narazicie u króla na niebezpieczeństwo moją głowę.<verse eid="DAN 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 1:11" />Wtedy Daniel powiedział do sługi, którego przełożony eunuchów ustanowił nad Danielem, Chananiaszem, Miszaelem i Azariaszem;<verse eid="DAN 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 1:12" />Poddaj próbie, proszę, twoje sługi przez dziesięć dni. Niech nam dają jarzyny do jedzenia i wodę do picia.<verse eid="DAN 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 1:13" />Potem przypatrzysz się naszym twarzom oraz twarzom młodzieńców, którzy jadają pokarm z potraw królewskich, i według tego, co zobaczysz, tak postąpisz ze swoimi sługami.<verse eid="DAN 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 1:14" />I posłuchał ich w tej sprawie, i poddał ich próbie przez dziesięć dni.<verse eid="DAN 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 1:15" />A po upływie dziesięciu dni okazało się, że ich twarze wyglądały lepiej i ich ciała były tęższe niż wszystkich młodzieńców, którzy jadali pokarm z potraw królewskich.<verse eid="DAN 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 1:16" />Sługa zabrał więc ich potrawy oraz wino, które mieli pić, a dał im jarzyny.<verse eid="DAN 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 1:17" />Tym czterem młodzieńcom dał Bóg wiedzę i zrozumienie we wszelkim piśmie oraz mądrość. Ponadto Danielowi dał zrozumienie wszelkich widzeń i snów.<verse eid="DAN 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 1:18" />Gdy minęły dni wyznaczone przez króla, by ich przyprowadzić, przełożony dworzan wprowadził ich przed Nabuchodonozora.<verse eid="DAN 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 1:19" />I król rozmawiał z nimi, ale nie znalazł się pośród nich wszystkich nikt taki, jak Daniel, Chananiasz, Miszael i Azariasz. I stanęli przed królem.<verse eid="DAN 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 1:20" />We wszystkich sprawach mądrości i rozumu, o które pytał ich król, stwierdzał, że są dziesięciokrotnie bieglejsi od wszystkich magów i astrologów, którzy byli w całym jego królestwie.<verse eid="DAN 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 1:21" />I Daniel był tam aż do pierwszego roku króla Cyrusa.<verse eid="DAN 1:21" />
+  </para>
+  <chapter eid="DAN 1" />
+  <chapter number="2" style="c" sid="DAN 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 2:1" />W drugim roku panowania Nabuchodonozora miał Nabuchodonozor sen i strwożył się jego duch, i nie mógł spać.<verse eid="DAN 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 2:2" />Wtedy król rozkazał zwołać magów, astrologów, czarowników i Chaldejczyków, aby opowiedzieli królowi jego sen. Przyszli więc i stanęli przed królem.<verse eid="DAN 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 2:3" />Król powiedział do nich: Miałem sen i strwożył się mój duch, i chcę wiedzieć, co ten sen oznacza.<verse eid="DAN 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 2:4" />Wtedy Chaldejczycy odpowiedzieli królowi po syryjsku: Królu, żyj na wieki! Opowiedz sen swoim sługom, a objaśnimy jego znaczenie.<verse eid="DAN 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 2:5" />Król odpowiedział Chaldejczykom: Ta sprawa już uleciała mi z pamięci. Jeśli nie oznajmicie mi snu i jego znaczenia, będziecie rozsiekani na kawałki, a wasze domy będą zamienione w gnojowisko.<verse eid="DAN 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 2:6" />Ale jeśli oznajmicie mi sen i jego znaczenie, otrzymacie ode mnie dary i nagrody oraz wielką cześć. Dlatego oznajmijcie mi sen i jego znaczenie.<verse eid="DAN 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 2:7" />Odpowiedzieli powtórnie: Niech król opowie sen swoim sługom, a objaśnimy jego znaczenie.<verse eid="DAN 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 2:8" />Król odpowiedział: Wiem na pewno, że celowo to odkładacie, gdyż wiecie, że ten sen uleciał mi z pamięci.<verse eid="DAN 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 2:9" />Jeśli więc nie oznajmicie mi snu, jest dla was tylko jeden dekret. Postanowiliście bowiem mówić wobec mnie słowa kłamliwe i przewrotne, aż czas upłynie. Dlatego oznajmijcie mi sen, a przekonam się, że będziecie mogli objaśnić mi jego znaczenie.<verse eid="DAN 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 2:10" />Chaldejczycy odpowiedzieli królowi: Nie ma człowieka na ziemi, który by mógł oznajmić tę rzecz królowi. Dlatego żaden król, książę albo władca nie wymaga takiej rzeczy od żadnego maga, astrologa lub Chaldejczyka.<verse eid="DAN 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 2:11" />Rzecz, której król wymaga, jest trudna, a nie ma nikogo, kto by mógł ją oznajmić królowi, oprócz bogów, którzy nie mieszkają wśród ludzi.<verse eid="DAN 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 2:12" />Z tej przyczyny król się rozzłościł i bardzo się rozgniewał, i rozkazał wytracić wszystkich mędrców Babilonu.<verse eid="DAN 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 2:13" />A gdy wyszedł dekret, aby zgładzić mędrców, szukano także Daniela i jego towarzyszy, aby ich wymordować.<verse eid="DAN 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 2:14" />Wtedy Daniel odpowiedział mądrze i roztropnie Ariochowi, dowódcy gwardii królewskiej, który wyszedł zabić mędrców Babilonu;<verse eid="DAN 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 2:15" />Powiedział do Ariocha, dowódcy króla: Czemu ten dekret tak szybko wyszedł od króla? Wtedy Arioch oznajmił Danielowi sprawę.<verse eid="DAN 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 2:16" />Wszedł więc Daniel do króla i poprosił go, aby dał mu czas na oznajmienie królowi znaczenia snu.<verse eid="DAN 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 2:17" />Potem Daniel poszedł do swego domu i opowiedział sprawę swoim towarzyszom: Chananiaszowi, Miszaelowi i Azariaszowi;<verse eid="DAN 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 2:18" />Aby prosili Boga nieba o miłosierdzie względem tej tajemnicy, żeby nie zginęli Daniel i jego towarzysze z resztą mędrców Babilonu.<verse eid="DAN 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 2:19" />Wtedy Danielowi została objawiona ta tajemnica w nocnym widzeniu, za co Daniel błogosławił Bogu nieba.<verse eid="DAN 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 2:20" />Daniel powiedział: Niech będzie błogosławione imię Boga na wieki wieków, bo mądrość i moc do niego należą;<verse eid="DAN 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 2:21" />On zmienia czasy i okresy, usuwa królów i ustanawia królów. Daje mądrość mądrym, a wiedzę rozumnym;<verse eid="DAN 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="DAN 2:22" />On objawia rzeczy głębokie i ukryte, wie, co jest w ciemności, a światłość z nim mieszka.<verse eid="DAN 2:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="DAN 2:23" />Ciebie, Boże moich ojców, wysławiam i chwalę za to, że dałeś mi mądrość i moc, że oznajmiłeś mi teraz to, o co cię prosiliśmy. Oznajmiłeś nam bowiem sen króla.<verse eid="DAN 2:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="DAN 2:24" />Dlatego Daniel wszedł do Ariocha, którego król ustanowił, aby wytracił mędrców Babilonu. Gdy przyszedł, tak powiedział do niego: Nie trać mędrców Babilonu. Wprowadź mnie do króla, a ja oznajmię królowi znaczenie snu.<verse eid="DAN 2:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="DAN 2:25" />Wtedy Arioch z pośpiechem wprowadził Daniela do króla i tak mu powiedział: Znalazłem męża spośród uprowadzonych z Judy, który oznajmi królowi znaczenie snu.<verse eid="DAN 2:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="DAN 2:26" />Król odpowiedział Danielowi, któremu na imię było Belteszassar: Czy potrafisz oznajmić mi sen, który miałem, oraz jego znaczenie?<verse eid="DAN 2:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="DAN 2:27" />Daniel odpowiedział królowi: Tajemnicy, o którą król pyta, nie mogą oznajmić królowi mędrcy, astrologowie, magowie i wróżbici;<verse eid="DAN 2:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="DAN 2:28" />Jest jednak Bóg w niebie, który objawia tajemnice, i on oznajmił królowi Nabuchodonozorowi, co nastąpi w ostatecznych dniach. Twój sen i widzenia w twojej głowie, które miałeś na swoim łożu, są takie;<verse eid="DAN 2:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="DAN 2:29" />Tobie, królu, przychodziły na twoim łożu myśli o tym, co ma nastąpić później. Ten zaś, który objawia tajemnice, oznajmił ci to, co nastąpi.<verse eid="DAN 2:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="DAN 2:30" />I mnie została objawiona tajemnica, nie za jakąś mądrość, jakbym miał jej więcej niż wszyscy żyjący, ale przez modlitwę, aby znaczenie snu było oznajmione królowi i abyś poznał myśli swego serca.<verse eid="DAN 2:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="DAN 2:31" />Ty, królu, miałeś takie widzenie: Oto posąg wielki; ten wielki posąg o nadzwyczajnym blasku stał przed tobą, a jego wygląd był straszny.<verse eid="DAN 2:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="DAN 2:32" />Głowa tego posągu wykonana była z czystego złota, jego piersi i ramiona – ze srebra, jego brzuch i biodra – z brązu;<verse eid="DAN 2:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="DAN 2:33" />Jego golenie – z żelaza, jego stopy – częściowo z żelaza, częściowo z gliny.<verse eid="DAN 2:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="DAN 2:34" />Patrzyłeś na to, aż został odcięty kamień bez pomocy rąk, i uderzył posąg w jego stopy z żelaza i gliny, i skruszył je.<verse eid="DAN 2:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="DAN 2:35" />Wtedy zostały skruszone razem: żelazo, glina, brąz, srebro i złoto i stały się jak plewy na klepisku w lecie; i wiatr niósł je tak, że nie znaleziono ich w żadnym miejscu. Kamień zaś, który uderzył w posąg, stał się wielką górą i napełnił całą ziemię.<verse eid="DAN 2:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="DAN 2:36" />Taki jest sen. Jego znaczenie też wypowiemy przed królem;<verse eid="DAN 2:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="DAN 2:37" />Ty, królu, jesteś królem królów, bo tobie Bóg nieba dał królestwo, moc, potęgę i sławę.<verse eid="DAN 2:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="DAN 2:38" />I dał w twoją rękę wszystko to, gdzie mieszkają synowie ludzi, zwierzęta polne i ptactwo niebieskie, i ustanowił cię panem nad tym wszystkim. Ty jesteś tą głową ze złota.<verse eid="DAN 2:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="DAN 2:39" />Ale po tobie powstanie inne królestwo, mniejsze od twojego, a potem trzecie królestwo z brązu, które będzie panować nad całą ziemią.<verse eid="DAN 2:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="DAN 2:40" />Czwarte królestwo będzie mocne jak żelazo, bo jak żelazo kruszy i miażdży wszystko, jak żelazo łamie wszystko, tak i ono połamie i pokruszy wszystko.<verse eid="DAN 2:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="DAN 2:41" />A że widziałeś stopy i palce częściowo z gliny garncarskiej, a częściowo z żelaza – oznacza to, że królestwo będzie podzielone. Będzie w nim nieco siły żelaza, tak jak widziałeś żelazo zmieszane z mulistą gliną;<verse eid="DAN 2:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="DAN 2:42" />A palce stóp częściowo z żelaza a częściowo z gliny znaczą, że królestwo będzie częściowo silne, a częściowo kruche.<verse eid="DAN 2:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="DAN 2:43" />A że widziałeś żelazo zmieszane z mulistą gliną, oznacza to, że się zmieszają ze sobą ludzie, ale nie będzie się trzymał jeden drugiego, tak jak żelaza nie można zmieszać z gliną.<verse eid="DAN 2:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="DAN 2:44" />Ale w dniach tych królów Bóg nieba wzbudzi królestwo, które nigdy nie będzie zniszczone. To królestwo nie przejdzie na inny lud, ale połamie i zniszczy wszystkie te królestwa, samo zaś będzie trwać na wieki.<verse eid="DAN 2:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="DAN 2:45" />To, że widziałeś, jak kamień został odcięty z góry bez pomocy rąk i skruszył żelazo, brąz, glinę, srebro i złoto, oznacza, że wielki Bóg oznajmił królowi, co nastąpi potem. Sen jest prawdziwy i jego znaczenie pewne.<verse eid="DAN 2:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="DAN 2:46" />Wtedy król Nabuchodonozor padł na twarz, oddał pokłon Danielowi i rozkazał, aby złożono mu ofiarę i kadzidło.<verse eid="DAN 2:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="DAN 2:47" />Następnie król zwrócił się do Daniela i powiedział: Zaprawdę wasz Bóg jest Bogiem bogów i Panem królów, który objawia tajemnice, ponieważ zdołałeś objawić tę tajemnicę.<verse eid="DAN 2:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="DAN 2:48" />Potem król wywyższył Daniela i dał mu wiele wielkich darów, i uczynił go panem nad całą prowincją Babilonu i głównym przełożonym nad wszystkimi mędrcami Babilonu.<verse eid="DAN 2:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="DAN 2:49" />Ale Daniel wyprosił od króla, aby ustanowił nad sprawami prowincji Babilonu Szadraka, Meszaka i Abed-Nego; Daniel zaś pozostał w bramie króla.<verse eid="DAN 2:49" />
+  </para>
+  <chapter eid="DAN 2" />
+  <chapter number="3" style="c" sid="DAN 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 3:1" />Król Nabuchodonozor wykonał złoty posąg o wysokości sześćdziesięciu łokci i szerokości sześciu łokci i postawił go na równinie Dura w prowincji Babilonu.<verse eid="DAN 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 3:2" />Wtedy król Nabuchodonozor rozesłał posłów, aby zebrali książąt, starostów, dowódców, sędziów, skarbników, prawników, urzędników i wszystkich przełożonych prowincji, by przyszli na poświęcenie posągu, który wystawił król Nabuchodonozor.<verse eid="DAN 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 3:3" />Wtedy zgromadzili się książęta, starostowie, dowódcy, sędziowie, skarbnicy, prawnicy, urzędnicy i wszyscy przełożeni prowincji na poświęcenie posągu, który wzniósł król Nabuchodonozor; i stanęli przed posągiem, który wystawił Nabuchodonozor.<verse eid="DAN 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 3:4" />A herold zawołał donośnym głosem: Rozkazuje się wam, ludy, narody i języki;<verse eid="DAN 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 3:5" />W chwili gdy usłyszycie dźwięk trąby, fletu, harfy, sambuki, psałterionu, cymbałów i wszelkiego instrumentu muzycznego, macie paść i oddać pokłon złotemu posągowi, który wystawił król Nabuchodonozor.<verse eid="DAN 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 3:6" />A kto nie upadnie i nie odda pokłonu, zostanie w tej samej godzinie wrzucony do pieca rozpalonego ogniem.<verse eid="DAN 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 3:7" />W chwili więc, gdy wszyscy ludzie usłyszeli dźwięk trąby, fletu, harfy, sambuki, psałterionu i wszelkich instrumentów muzycznych, upadli wszyscy ludzie, wszystkie narody i języki i oddali pokłon złotemu posągowi, który wystawił król Nabuchodonozor.<verse eid="DAN 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 3:8" />Dlatego w tym czasie przyszli niektórzy Chaldejczycy i złożyli skargę przeciwko Żydom.<verse eid="DAN 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 3:9" />Mówili do króla Nabuchodonozora: Królu, żyj na wieki!<verse eid="DAN 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 3:10" />Ty, królu, wydałeś dekret, aby każdy człowiek, który usłyszy dźwięk trąby, fletu, harfy, sambuki, psałterionu, cymbałów i wszelkich instrumentów muzycznych, upadł i oddał pokłon złotemu posągowi;<verse eid="DAN 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 3:11" />A kto by nie upadł i nie oddał pokłonu, aby został wrzucony do pieca rozpalonego ogniem.<verse eid="DAN 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 3:12" />Znaleźli się jednak niektórzy Żydzi, których ustanowiłeś nad sprawami prowincji Babilonu: Szadrak, Meszak i Abed-Nego. Ci mężczyźni zlekceważyli twój dekret, królu. Nie chwalą twoich bogów i nie oddają pokłonu złotemu posągowi, który wystawiłeś.<verse eid="DAN 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 3:13" />Wtedy Nabuchodonozor we wściekłości i gniewie rozkazał przyprowadzić Szadraka, Meszaka i Abed-Nego; przyprowadzono więc ich przed króla.<verse eid="DAN 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 3:14" />I zwrócił się do nich Nabuchodonozor, i zapytał ich: Czy to prawda, Szadraku, Meszaku i Abed-Nego, że nie czcicie moich bogów i nie oddajecie pokłonu złotemu posągowi, który wystawiłem?<verse eid="DAN 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 3:15" />Teraz więc bądźcie gotowi, aby w chwili, gdy usłyszycie dźwięk trąby, fletu, harfy, sambuki, psałterionu, cymbałów i wszelkich instrumentów muzycznych, upaść i oddać pokłon posągowi, który wykonałem. Jeśli nie oddacie pokłonu, zostaniecie w tej samej godzinie wrzuceni do środka pieca rozpalonego ogniem, a kim jest ten Bóg, który by mógł was wyrwać z mojej ręki?<verse eid="DAN 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 3:16" />Szadrak, Meszak i Abed-Nego odpowiedzieli królowi: Nabuchodonozorze, my się nie martwimy tym, co odpowiedzieć.<verse eid="DAN 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 3:17" />Nasz Bóg, którego chwalimy, może nas wyrwać z pieca rozpalonego ogniem i z twojej ręki. Czy wyrwie nas, królu;<verse eid="DAN 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 3:18" />Czy nie wyrwie, niech ci będzie wiadomo, królu, że nie będziemy chwalić twoich bogów ani nie oddamy pokłonu złotemu posągowi, który wystawiłeś.<verse eid="DAN 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 3:19" />Wtedy Nabuchodonozor napełnił się wściekłością, tak że wyraz jego twarzy zmienił się wobec Szadraka, Meszaka i Abed-Nego. Wydał rozkaz, by rozpalono piec siedem razy mocniej, niż zwykle rozpalano.<verse eid="DAN 3:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 3:20" />Najsilniejszym ludziom ze swego wojska rozkazał związać Szadraka, Meszaka i Abed-Nego i wrzucić do pieca rozpalonego ogniem.<verse eid="DAN 3:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 3:21" />Wtedy związano tych mężczyzn w ich płaszczach i ubraniach, w ich czapkach i szatach i wrzucono ich do środka pieca rozpalonego ogniem.<verse eid="DAN 3:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="DAN 3:22" />Ponieważ rozkaz króla przynaglał, a piec był bardzo rozpalony, płomień ognia zabił tych ludzi, którzy wrzucili Szadraka, Meszaka i Abed-Nego.<verse eid="DAN 3:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="DAN 3:23" />A ci trzej mężowie, Szadrak, Meszak i Abed-Nego, wpadli związani do środka pieca rozpalonego ogniem.<verse eid="DAN 3:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="DAN 3:24" />Wtedy król Nabuchodonozor zdumiał się, powstał spiesznie i zapytał swoich doradców: Czy nie wrzuciliśmy trzech związanych mężów do środka ognia? A oni odpowiedzieli królowi: Prawda, królu.<verse eid="DAN 3:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="DAN 3:25" />A on odpowiedział: Oto widzę czterech mężów rozwiązanych, przechadzających się pośród ognia, i nie odnoszą żadnej szkody, a wygląd czwartej osoby jest podobny do Syna Bożego.<verse eid="DAN 3:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="DAN 3:26" />Wtedy zbliżył się Nabuchodonozor do otworu pieca rozpalonego ogniem i powiedział: Szadraku, Meszaku i Abed-Nego, słudzy Najwyższego Boga, wyjdźcie i przyjdźcie tutaj. Wyszli więc Szadrak, Meszak i Abed-Nego ze środka ognia.<verse eid="DAN 3:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="DAN 3:27" />A zgromadziwszy się, książęta, starostowie, urzędnicy i dowódcy króla widzieli tych mężczyzn, to, że ogień nie miał żadnej mocy nad ich ciałami, włosy z ich głowy nie spaliły się, ich płaszcze nie były zniszczone ani swąd ognia ich nie przeniknął.<verse eid="DAN 3:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="DAN 3:28" />Wtedy Nabuchodonozor powiedział: Błogosławiony niech będzie Bóg Szadraka, Meszaka i Abed-Nego, który posłał swego Anioła i wyrwał swoje sługi, którzy mu ufali, którzy nie posłuchali słowa króla, ale oddali swe ciała, aby nie służyć ani oddawać pokłonu żadnemu bogu oprócz swego Boga.<verse eid="DAN 3:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="DAN 3:29" />Dlatego wydaję taki dekret: Ktokolwiek ze wszelkiego ludu, narodu i języka wypowie bluźnierstwo przeciwko Bogu Szadraka, Meszaka i Abed-Nego, zostanie rozsiekany na kawałki, a jego dom zamieniony w gnojowisko, gdyż nie ma innego Boga, który mógłby wyrwać jak ten.<verse eid="DAN 3:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="DAN 3:30" />Wtedy król wywyższył Szadraka, Meszaka i Abed-Nego w prowincji Babilonu.<verse eid="DAN 3:30" />
+  </para>
+  <chapter eid="DAN 3" />
+  <chapter number="4" style="c" sid="DAN 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 4:1" />Król Nabuchodonozor do wszystkich ludzi, narodów i języków, którzy mieszkają w całej ziemi: Niech pokój się wam rozmnoży!<verse eid="DAN 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 4:2" />Uważałem za stosowne opowiedzieć o znakach i cudach, które uczynił dla mnie Bóg Najwyższy.<verse eid="DAN 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 4:3" />Jakże wielkie są jego znaki i jak potężne jego cuda! Jego królestwo jest królestwem wiecznym i jego władza trwa z pokolenia na pokolenie.<verse eid="DAN 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 4:4" />Ja, Nabuchodonozor, żyłem spokojnie w swoim domu i rozkwitałem w swoim pałacu.<verse eid="DAN 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 4:5" />Miałem sen, który mnie przestraszył, a myśli, które miałem na swoim łożu, oraz widzenia w mojej głowie zatrwożyły mnie.<verse eid="DAN 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 4:6" />Wydałem więc dekret, aby przyprowadzano przede mnie wszystkich mędrców Babilonu, żeby oznajmili mi znaczenie tego snu.<verse eid="DAN 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 4:7" />Wtedy przyszli magowie, astrologowie, Chaldejczycy i wróżbici; i opowiedziałem im sen, ale nie potrafili mi oznajmić jego znaczenia;<verse eid="DAN 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 4:8" />Aż w końcu przyszedł przede mnie Daniel, którego imię brzmi Belteszassar, zgodnie z imieniem mojego boga, a w którym jest duch świętych bogów, i przed nim opowiedziałem sen;<verse eid="DAN 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 4:9" />Belteszassarze, przełożony magów, wiem, że duch świętych bogów jest w tobie i że żadna tajemnica nie jest dla ciebie trudna. Posłuchaj widzenia z mojego snu, który miałem, i powiedz mi jego znaczenie.<verse eid="DAN 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 4:10" />Takie są widzenia w mojej głowie, jakie miałem na swoim łożu: Patrzyłem, a oto drzewo pośrodku ziemi, a jego wysokość była ogromna.<verse eid="DAN 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 4:11" />Drzewo rosło i było potężne, a jego wysokość dosięgła nieba i było widoczne aż po krańce całej ziemi.<verse eid="DAN 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 4:12" />Jego liście były piękne, jego owoc obfity i na nim był pokarm dla wszystkich. Pod nim znajdowały cień zwierzęta polne, na jego gałęziach mieszkało ptactwo niebieskie i z niego miało pożywienie wszelkie ciało.<verse eid="DAN 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 4:13" />Widziałem jeszcze w widzeniach w mojej głowie na swoim łożu: Oto stróż i święty zstąpił z nieba;<verse eid="DAN 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 4:14" />Zawołał ze wszystkich sił i tak powiedział: Wyrąbcie to drzewo i obetnijcie jego gałęzie, otrząśnijcie jego liście i rozrzućcie jego owoc. Niech zwierzę ucieknie spod niego i ptactwo z jego gałęzi.<verse eid="DAN 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 4:15" />Lecz pień jego korzenia zostawcie w ziemi i to w okowach żelaza i brązu na polnej trawie, aby był skrapiany rosą z nieba, a trawę ziemi niech dzieli ze zwierzętami.<verse eid="DAN 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 4:16" />Niech się odmieni jego ludzkie serce i niech będzie mu dane serce zwierzęce, a niech przejdzie nad nim siedem czasów.<verse eid="DAN 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 4:17" />Ta sprawa jest według dekretu stróżów i to żądanie jest według słowa świętych po to, aby wszyscy żyjący poznali, że Najwyższy panuje nad królestwem ludzkim i daje je, komu chce, a najniższych z ludzi ustanawia nad nim.<verse eid="DAN 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 4:18" />Taki sen miałem ja, król Nabuchodonozor. A ty, Belteszassarze, powiedz jego znaczenie, gdyż wszyscy mędrcy mojego królestwa nie mogli mi oznajmić jego znaczenia. Ale ty możesz, bo duch świętych bogów jest w tobie.<verse eid="DAN 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 4:19" />Wtedy Daniel, który miał na imię Belteszassar, stał osłupiony przez jedną godzinę i jego myśli trwożyły go. Król odezwał się i powiedział: Belteszassarze, niech cię nie trwoży sen i jego znaczenie. Belteszassar odpowiedział: Mój panie, niech ten sen spadnie na tych, którzy cię nienawidzą, a jego znaczenie na twoich wrogów.<verse eid="DAN 4:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 4:20" />Drzewo, które widziałeś, które rosło i było potężne, jego wysokość dosięgła nieba, a było widoczne na całej ziemi;<verse eid="DAN 4:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 4:21" />Którego liście były piękne, a owoc obfity, na którym był pokarm dla wszystkich, pod którym mieszkało zwierzę polne i na którego gałęziach przebywało ptactwo niebieskie;<verse eid="DAN 4:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="DAN 4:22" />To ty, królu, który rosłeś i stałeś się potężny, twoja wielkość urosła i dosięgła nieba, a twoja władza – aż po krańce ziemi.<verse eid="DAN 4:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="DAN 4:23" />A to, że król widział stróża i świętego zstępującego z nieba i mówiącego: Wyrąbcie to drzewo i zniszczcie je, lecz pień jego korzeni zostawcie w ziemi i to w okowach żelaza i brązu na polnej trawie, aby był skrapiany rosą z nieba; a trawę polną niech dzieli ze zwierzętami polnymi, aż wypełni się siedem czasów nad nim;<verse eid="DAN 4:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="DAN 4:24" />Takie jest znaczenie, o królu, i dekret Najwyższego, który przyszedł na króla, mego pana;<verse eid="DAN 4:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="DAN 4:25" />Wypędzą cię spośród ludzi, będziesz mieszkał ze zwierzętami polnymi, będą cię żywić trawą jak woły, będziesz skrapiany rosą z nieba i wypełni się nad tobą siedem czasów, aż poznasz, że Najwyższy panuje nad królestwem ludzkim i daje je, komu chce.<verse eid="DAN 4:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="DAN 4:26" />A to, że rozkazano zostawić pień korzeni tego drzewa, oznacza, że twoje królestwo zostanie przy tobie, gdy poznasz, że niebiosa sprawują władzę.<verse eid="DAN 4:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="DAN 4:27" />Dlatego, królu, niech ci się spodoba moja rada i przerwij swoje grzechy sprawiedliwością, a swoje nieprawości miłosierdziem nad biednymi; może przedłuży się twój pokój.<verse eid="DAN 4:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="DAN 4:28" />To wszystko przyszło na króla Nabuchodonozora.<verse eid="DAN 4:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="DAN 4:29" />Po upływie dwunastu miesięcy, gdy przechadzał się w pałacu królewskim w Babilonie;<verse eid="DAN 4:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="DAN 4:30" />Król zaczął mówić: Czy to nie jest ten wielki Babilon, który ja, w sile swej potęgi, zbudowałem jako siedzibę królestwa i dla chwały swojego majestatu?<verse eid="DAN 4:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="DAN 4:31" />A gdy słowo to jeszcze było w ustach króla, oto spadł głos z nieba: Do ciebie się mówi, królu Nabuchodonozorze. Twoje królestwo odeszło od ciebie.<verse eid="DAN 4:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="DAN 4:32" />Wypędzą cię spośród ludzi, będziesz mieszkał ze zwierzętami polnymi, będą cię żywić trawą jak woły i wypełni się nad tobą siedem czasów, aż poznasz, że Najwyższy panuje nad królestwem ludzkim i daje je, komu chce.<verse eid="DAN 4:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="DAN 4:33" />Tej godziny wypełniło się to słowo nad Nabuchodonozorem: Wypędzono go spośród ludzi, jadł trawę jak woły i jego ciało było skrapiane rosą z nieba, aż jego włosy urosły jak pióra orłów, a jego paznokcie jak szpony ptaków.<verse eid="DAN 4:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="DAN 4:34" />Pod koniec tych dni, ja, Nabuchodonozor, podniosłem swoje oczy do nieba i wrócił mi mój rozum. Wtedy błogosławiłem Najwyższego i chwaliłem go, i wysławiałem Żyjącego na wieki, bo jego władza to władza wieczna, a jego królestwo trwa z pokolenia na pokolenie.<verse eid="DAN 4:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="DAN 4:35" />Wszyscy mieszkańcy ziemi są uważani za nic. Według swojej woli postępuje z wojskiem niebieskim i z mieszkańcami ziemi, a nie ma nikogo, kto by wstrzymał jego rękę lub powiedział mu: Co czynisz?<verse eid="DAN 4:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="DAN 4:36" />W tym czasie wrócił mi mój rozum i ku chwale mego królestwa wróciła do mnie moja dostojność i mój blask. Ponadto moi doradcy i książęta szukali mnie, zostałem umocniony w swoim królestwie i dano mi jeszcze większy majestat.<verse eid="DAN 4:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="DAN 4:37" />A teraz ja, Nabuchodonozor, chwalę, wywyższam i wysławiam Króla niebios, którego wszystkie dzieła są prawdą, a jego ścieżki sprawiedliwością, a tych, którzy postępują w pysze, może on poniżyć.<verse eid="DAN 4:37" />
+  </para>
+  <chapter eid="DAN 4" />
+  <chapter number="5" style="c" sid="DAN 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 5:1" />Król Belszazar urządził wielką ucztę dla tysiąca swoich książąt i przed tym tysiącem pił wino.<verse eid="DAN 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 5:2" />A gdy Belszazar pił wino, rozkazał przynieść złote i srebrne naczynia, które jego ojciec, Nabuchodonozor, zabrał ze świątyni w Jerozolimie, aby pili z nich król, jego książęta, jego żony i jego nałożnice.<verse eid="DAN 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 5:3" />Wtedy przyniesiono złote naczynia, które zabrano ze świątyni domu Bożego, który był w Jerozolimie, i pili z nich król, jego książęta, jego żony i jego nałożnice.<verse eid="DAN 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 5:4" />Pili wino i chwalili bogów ze złota i srebra, z brązu i żelaza, z drewna i kamienia.<verse eid="DAN 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 5:5" />W tej samej godzinie ukazały się palce ręki ludzkiej, które pisały naprzeciw świecznika na wapnie ściany pałacu króla, a król widział część ręki, która pisała.<verse eid="DAN 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 5:6" />Wtedy oblicze króla zmieniło się, jego myśli zatrwożyły go, stawy jego bioder rozluźniły się i jego kolana uderzały jedno o drugie.<verse eid="DAN 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 5:7" />I zawołał król ze wszystkich sił, aby przyprowadzono astrologów, Chaldejczyków i wróżbitów. Król powiedział do mędrców Babilonu: Ktokolwiek to pismo odczyta i oznajmi mi jego znaczenie, będzie odziany w purpurę, dadzą mu złoty łańcuch na szyję i będzie panował w królestwie jako trzeci.<verse eid="DAN 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 5:8" />Weszli więc wszyscy mędrcy króla, ale nie mogli odczytać pisma ani oznajmić królowi jego znaczenia.<verse eid="DAN 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 5:9" />Wtedy król Belszazar bardzo się zatrwożył i jego oblicze się zmieniło, a jego książęta struchleli.<verse eid="DAN 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 5:10" />Wówczas królowa weszła do domu uczty z powodu słów króla i jego książąt. Odezwała się królowa i powiedziała: Królu, żyj na wieki! Niech cię nie trwożą twoje myśli i niech się nie zmienia twoje oblicze.<verse eid="DAN 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 5:11" />Jest w twoim królestwie mężczyzna, w którym jest duch świętych bogów, w którym za dni twego ojca znalazły się światło, rozum i mądrość podobna do mądrości bogów i którego król Nabuchodonozor, twój ojciec, mówię ci, twój ojciec, król, ustanowił przełożonym magów, astrologów, Chaldejczyków i wróżbitów;<verse eid="DAN 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 5:12" />Dlatego że znalazły się w nim nadzwyczajny duch, wiedza, rozum, wykładanie snów, objawianie zagadek i rozwiązywanie rzeczy trudnych, w Danielu, któremu król nadał imię Belteszassar. Niech więc teraz wezwą Daniela, a on oznajmi znaczenie pisma.<verse eid="DAN 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 5:13" />Wtedy Daniel został przyprowadzony do króla. A król zapytał Daniela: Czy ty jesteś tym Danielem z synów uprowadzonych z Judy, którego król, mój ojciec, sprowadził z ziemi Judy?<verse eid="DAN 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 5:14" />Słyszałem o tobie, że duch bogów jest w tobie, że światło, rozum i obfita mądrość znajdują się w tobie.<verse eid="DAN 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 5:15" />Właśnie przyprowadzono przede mnie mędrców i astrologów, aby mi to pismo odczytali i oznajmili jego znaczenie. Oni jednak nie potrafili tego zrobić.<verse eid="DAN 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 5:16" />A słyszałem o tobie, że możesz dawać wyjaśnienie i rozwiązywać trudności. Jeśli więc teraz możesz to pismo odczytać i oznajmić mi jego znaczenie, będziesz odziany w purpurę, będzie włożony złoty łańcuch na twoją szyję i będziesz panował w królestwie jako trzeci.<verse eid="DAN 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 5:17" />Wtedy Daniel odpowiedział przed królem: Twoje upominki niech pozostaną przy tobie, a twoje dary daj innemu; pismo jednak odczytam królowi i oznajmię mu znaczenie.<verse eid="DAN 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 5:18" />Ty, królu, posłuchaj. Bóg Najwyższy dał Nabuchodonozorowi, twemu ojcu, królestwo, majestat, sławę i cześć;<verse eid="DAN 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 5:19" />A z powodu wielkości, którą mu dał, wszyscy ludzie, narody i języki drżały przed nim i bały się go. Kogo chciał, zabijał, a kogo chciał, zostawiał przy życiu, kogo chciał, wywyższał, a kogo chciał, poniżał.<verse eid="DAN 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 5:20" />Ale gdy jego serce stało się wyniosłe i jego duch utwierdził się w pysze, został strącony z tronu swego królestwa i odebrano mu sławę;<verse eid="DAN 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 5:21" />Został wypędzony spośród synów ludzkich, jego serce stało się podobne do serca zwierzęcia i mieszkał z dzikimi osłami. Żywili go trawą jak woły i jego ciało było skrapiane rosą z nieba, aż poznał, że Bóg Najwyższy ma władzę nad królestwem ludzkim i ustanawia nad nim, kogo chce.<verse eid="DAN 5:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="DAN 5:22" />Ty, też, Belszazarze, jego synu, nie ukorzyłeś swego serca, chociaż o tym wszystkim wiedziałeś.<verse eid="DAN 5:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="DAN 5:23" />Lecz uniosłeś się przeciwko Panu nieba i naczynia jego domu przyniesiono przed ciebie, a ty, twoi książęta, twoje żony i twoje nałożnice piliście wino z nich. Ponadto chwaliłeś bogów ze srebra, złota, brązu, żelaza, drewna i kamienia, które nie widzą ani nie słyszą i nic nie wiedzą. Bogu zaś, w którego ręku jest twoje tchnienie i u którego są wszystkie twoje drogi, nie oddałeś czci.<verse eid="DAN 5:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="DAN 5:24" />Dlatego przez niego została posłana część ręki i pismo to zostało napisane.<verse eid="DAN 5:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="DAN 5:25" />A to jest pismo, które zostało napisane: Mene, Mene, Tekel, Uparsin.<verse eid="DAN 5:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="DAN 5:26" />Takie jest znaczenie tych słów: Mene: Bóg policzył twoje królestwo i doprowadził je do końca.<verse eid="DAN 5:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="DAN 5:27" />Tekel: Zważono cię na wadze i okazałeś się lekki.<verse eid="DAN 5:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="DAN 5:28" />Peres: Twoje królestwo zostało podzielone i oddane Medom i Persom.<verse eid="DAN 5:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="DAN 5:29" />Wtedy Belszazar wydał rozkaz i odziano Daniela w purpurę, złoty łańcuch włożono mu na szyję i ogłoszono o nim, że będzie panował jako trzeci w królestwie.<verse eid="DAN 5:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="DAN 5:30" />Tej samej nocy Belszazar, król Chaldejczyków, został zabity.<verse eid="DAN 5:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="DAN 5:31" />A Dariusz, Med, przejął królestwo, mając około sześćdziesięciu dwóch lat.<verse eid="DAN 5:31" />
+  </para>
+  <chapter eid="DAN 5" />
+  <chapter number="6" style="c" sid="DAN 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 6:1" />Dariuszowi spodobało się ustanowić nad królestwem stu dwudziestu satrapów, którzy byliby po całym królestwie;<verse eid="DAN 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 6:2" />A nad nimi trzech zwierzchników, z których Daniel był pierwszym. Im zdawali sprawozdanie satrapowie, aby król nie doznał żadnej szkody.<verse eid="DAN 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 6:3" />A sam Daniel przewyższał tych książąt i satrapów, ponieważ był w nim nadzwyczajny duch, i król zamierzał ustanowić go nad całym królestwem.<verse eid="DAN 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 6:4" />Wtedy zwierzchnicy i satrapowie usiłowali znaleźć przeciwko Danielowi powód oskarżenia dotyczący królestwa; nie mogli jednak znaleźć żadnego pretekstu ani wady, ponieważ był on wierny i żadnej winy ani wady nie można było w nim znaleźć.<verse eid="DAN 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 6:5" />Dlatego ci mężczyźni powiedzieli: Nie znajdziemy przeciwko temu Danielowi żadnego powodu do oskarżenia, chyba że znajdziemy coś przeciwko niemu w prawie jego Boga.<verse eid="DAN 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 6:6" />Wtedy ci zwierzchnicy i satrapowie zgromadzili się przy królu i tak mu powiedzieli: Królu Dariuszu, żyj na wieki!<verse eid="DAN 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 6:7" />Wszyscy zwierzchnicy królestwa, przełożeni i satrapowie, urzędnicy i dowódcy uzgodnili, aby ustanowić dekret królewski i zatwierdzić prawo, że ktokolwiek w ciągu trzydziestu dni poprosi o cokolwiek któregokolwiek boga lub człowieka prócz ciebie, królu, zostanie wrzucony do lwiej jamy.<verse eid="DAN 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 6:8" />I tak teraz, królu, zatwierdź to prawo i podaj je na piśmie, aby było nieodwołalne według prawa Medów i Persów, które nie może być cofnięte.<verse eid="DAN 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 6:9" />Król Dariusz ogłosił więc na piśmie to prawo.<verse eid="DAN 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 6:10" />A gdy Daniel dowiedział się, że zostało podane na piśmie, wszedł do swego domu; a otwierając okna w swoim pokoju w stronę Jerozolimy, trzy razy dziennie klękał na kolanach, modlił się i chwalił swego Boga, jak to czynił przedtem.<verse eid="DAN 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 6:11" />Wtedy ci mężczyźni zgromadzili się i kiedy znaleźli Daniela modlącego się i błagającego swego Boga;<verse eid="DAN 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 6:12" />Przyszli i powiedzieli królowi o dekrecie królewskim: Czy nie wydałeś dekretu, że każdy człowiek, który w ciągu trzydziestu dni poprosi o cokolwiek któregokolwiek boga lub człowieka prócz ciebie, królu, zostanie wrzucony do lwiej jamy? Król odpowiedział: Prawdziwa to jest mowa, zgodnie z prawem Medów i Persów, które nie może być cofnięte.<verse eid="DAN 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 6:13" />Wtedy odezwali się i powiedzieli do króla: Ten Daniel, który jest z uprowadzonych synów Judy, nie liczy się z tobą, królu, ani z twoim dekretem, który wydałeś, bo trzy razy dziennie odmawia swoją modlitwę.<verse eid="DAN 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 6:14" />Gdy król usłyszał te słowa, bardzo się zasmucił z tego powodu i postanowił wybawić Daniela; aż do zachodu słońca usiłował go uratować.<verse eid="DAN 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 6:15" />Ale ci mężczyźni zgromadzili się przy królu i powiedzieli do niego: Wiedz, królu, że prawo u Medów i Persów jest takie, że żadne prawo ani żaden dekret, który król ustanowił, nie może być zmieniony.<verse eid="DAN 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 6:16" />Wtedy król rozkazał, aby przyprowadzono Daniela i wrzucono go do lwiej jamy. A król powiedział do Daniela: Twój Bóg, któremu nieustannie służysz, on wybawi cię.<verse eid="DAN 6:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 6:17" />I przyniesiono kamień, i położono go na otworze jamy, a król opieczętował go swoim sygnetem i sygnetami swoich książąt, aby dekret wydany przeciwko Danielowi nie był zmieniony.<verse eid="DAN 6:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 6:18" />Następnie król poszedł do swego pałacu i pościł przez całą noc. Nie dopuścił do siebie niczego, co mogłoby go weselić, i sen odszedł od niego.<verse eid="DAN 6:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 6:19" />Potem król wstał bardzo wcześnie, o świcie, i spiesznie poszedł do lwiej jamy.<verse eid="DAN 6:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 6:20" />A gdy się zbliżył do jamy, zawołał do Daniela żałosnym głosem. Król zapytał Daniela: Danielu, sługo Boga żywego, czy twój Bóg, któremu nieustannie służysz, mógł cię wybawić od lwów?<verse eid="DAN 6:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 6:21" />Wtedy Daniel odpowiedział królowi: Królu, żyj na wieki!<verse eid="DAN 6:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="DAN 6:22" />Mój Bóg posłał swego Anioła, który zamknął paszcze lwom, aby mi nie wyrządziły żadnej szkody, dlatego że przed nim znalazła się we mnie niewinność. Owszem, również przed tobą, królu, nic złego nie uczyniłem.<verse eid="DAN 6:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="DAN 6:23" />Wtedy król bardzo się ucieszył z tego i rozkazał wyciągnąć Daniela z jamy. I wyciągnięto Daniela z jamy i nie znaleziono na nim żadnej rany, bo wierzył w swojego Boga.<verse eid="DAN 6:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="DAN 6:24" />I król rozkazał przyprowadzić tych mężczyzn, którzy oskarżyli Daniela, i wrzucono ich do lwiej jamy, ich samych, ich synów i ich żony. A zanim wpadli na dno jamy, lwy ich pochwyciły i zmiażdżyły wszystkie ich kości.<verse eid="DAN 6:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="DAN 6:25" />Wtedy król Dariusz napisał do wszystkich ludzi, narodów i języków, którzy mieszkali po całej ziemi: Niech pokój wam się rozmnoży!<verse eid="DAN 6:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="DAN 6:26" />Wydaję dekret, aby w całym państwie mego królestwa wszyscy drżeli i bali się Boga Daniela, bo on jest Bogiem żywym i trwa na wieki, a jego królestwo nie będzie zniszczone i jego władza będzie trwać do końca.<verse eid="DAN 6:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="DAN 6:27" />On wyrywa i wybawia, czyni znaki i cuda na niebie i na ziemi; on wyrwał Daniela z mocy lwów.<verse eid="DAN 6:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="DAN 6:28" />A Danielowi dobrze się powodziło w królestwie Dariusza i w królestwie Cyrusa Persa.<verse eid="DAN 6:28" />
+  </para>
+  <chapter eid="DAN 6" />
+  <chapter number="7" style="c" sid="DAN 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 7:1" />W pierwszym roku Belszazara, króla Babilonu, Daniel miał sen i widzenia w swojej głowie na swoim łożu. Wtedy spisał ten sen i podał ogół rzeczy.<verse eid="DAN 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 7:2" />Daniel powiedział: Oto co zobaczyłem w swoim widzeniu w nocy: Oto cztery wiatry niebieskie potykały się na wielkim morzu.<verse eid="DAN 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 7:3" />A cztery wielkie bestie wyszły z morza, jedna różniła się od drugiej.<verse eid="DAN 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 7:4" />Pierwsza była podobna do lwa i miała orle skrzydła. Przypatrywałem się jej, aż jej skrzydła zostały wyrwane i podniosła się z ziemi tak, że stanęła na nogach jak człowiek, a dano jej serce ludzkie.<verse eid="DAN 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 7:5" />Potem oto druga bestia, podobna do niedźwiedzia. I stanęła na jednym boku, mając trzy żebra w paszczy między zębami. I tak mówiono do niej: Wstań, pożeraj dużo mięsa.<verse eid="DAN 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 7:6" />Potem spojrzałem, a oto inna bestia, podobna do pantery, która miała cztery ptasie skrzydła na grzbiecie. Bestia miała także cztery głowy i dano jej władzę.<verse eid="DAN 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 7:7" />Potem widziałem w nocnych widzeniach: Oto czwarta bestia, straszna, przerażająca i bardzo silna, mająca wielkie żelazne zęby. Pożerała i miażdżyła, a resztę deptała swoimi nogami. Różniła się od wszystkich bestii, które były przed nią, i miała dziesięć rogów.<verse eid="DAN 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 7:8" />Uważnie przypatrywałem się rogom, a oto mały róg wyrósł między nimi i trzy spośród tych pierwszych rogów zostały wyrwane przed nim. A oto w tym rogu były oczy podobne do oczu ludzkich i usta mówiące wielkie rzeczy.<verse eid="DAN 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 7:9" />I patrzyłem, aż trony zostały postawione, a Odwieczny zasiadł; jego szata była biała jak śnieg, a włosy jego głowy jak czysta wełna, jego tron jak ogniste płomienie, a jego koła jak płonący ogień.<verse eid="DAN 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 7:10" />Strumień ognia wypływał i tryskał sprzed niego. Tysiąc tysięcy służyło mu, a dziesięć tysięcy po dziesięć tysięcy stało przed nim. Sąd zasiadł i otwarto księgi.<verse eid="DAN 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 7:11" />Wtedy patrzyłem z powodu głosu wielkich słów, które wypowiedział róg. Przypatrywałem się, aż bestia została zabita, a jej ciało zniszczone i wydane na spalenie w ogniu.<verse eid="DAN 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 7:12" />Także i pozostałym bestiom odebrano władzę i dano im przedłużenie życia aż do zamierzonego okresu i czasu.<verse eid="DAN 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 7:13" />Widziałem też w nocnym widzeniu: Oto w obłokach nieba przybył ktoś podobny do Syna Człowieka, przyszedł aż do Odwiecznego i przyprowadzono go przed niego.<verse eid="DAN 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 7:14" />I dano mu władzę, cześć i królestwo, aby wszyscy ludzie, wszystkie narody i języki służyli mu. Jego władza jest władzą wieczną, która nie przeminie, a jego królestwo nie będzie zniszczone.<verse eid="DAN 7:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 7:15" />I ja, Daniel, zatrwożyłem się w duchu, w środku mego ciała, a widzenia w mojej głowie przestraszyły mnie.<verse eid="DAN 7:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 7:16" />Wtedy zbliżyłem się do jednego z tych, którzy tam stali, i pytałem go o prawdziwość tego wszystkiego. I powiedział mi, i oznajmił mi znaczenie tych rzeczy.<verse eid="DAN 7:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 7:17" />Te wielkie bestie, w liczbie czterech, to czterej królowie, którzy powstaną z ziemi.<verse eid="DAN 7:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 7:18" />Ale święci Najwyższego wezmą królestwo i posiądą je na wieki, aż na wieki wieków.<verse eid="DAN 7:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 7:19" />Wtedy pragnąłem poznać prawdę o czwartej bestii, która różniła się od wszystkich innych, straszna nad miarę, której zęby były żelazne, a pazury z brązu; która pożerała i miażdżyła, a resztę deptała swoimi nogami;<verse eid="DAN 7:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 7:20" />Także o tych dziesięciu rogach, które były na jej głowie, i o innym, który wyrósł, przed którym upadły trzy, o tym właśnie rogu, który miał oczy i usta mówiące wielkie rzeczy, a wyglądał na większy od innych rogów.<verse eid="DAN 7:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 7:21" />I przypatrywałem się, a oto ten róg walczył ze świętymi i przemagał ich;<verse eid="DAN 7:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="DAN 7:22" />Aż przyszedł Odwieczny i oddano sąd świętym Najwyższego; i nadszedł czas, aby święci otrzymali królestwo.<verse eid="DAN 7:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="DAN 7:23" />I powiedział tak: Czwarta bestia oznacza czwarte królestwo na ziemi, które będzie różniło się od wszystkich królestw, i pożre całą ziemię, podepcze i zmiażdży ją.<verse eid="DAN 7:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="DAN 7:24" />A dziesięć rogów oznacza, że z tego królestwa powstanie dziesięciu królów, a po nich powstanie inny, który będzie różnił się od pierwszych i poniży trzech królów;<verse eid="DAN 7:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="DAN 7:25" />Będzie mówił słowa przeciw Najwyższemu i wytracał świętych Najwyższego; będzie zamierzał zmienić czasy i prawa, gdyż będą wydane w jego ręce aż do czasu, czasów i połowy czasu.<verse eid="DAN 7:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="DAN 7:26" />Potem zasiądzie sąd i tam odbiorą mu władzę, aby została zniszczona i wytracona aż do końca.<verse eid="DAN 7:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="DAN 7:27" />A królestwo, władza i wielkość królestwa pod całym niebem zostaną oddane ludowi świętych Najwyższego, którego królestwo będzie królestwem wiecznym, a wszystkie zwierzchności będą mu służyć i jego słuchać.<verse eid="DAN 7:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="DAN 7:28" />Tutaj jest koniec tych słów. A mnie Daniela bardzo zatrwożyły moje myśli i moje oblicze zmieniło się. Zachowałem jednak tę sprawę w swoim sercu.<verse eid="DAN 7:28" />
+  </para>
+  <chapter eid="DAN 7" />
+  <chapter number="8" style="c" sid="DAN 8" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 8:1" />W trzecim roku panowania króla Belszazara ukazało mi się widzenie, mnie Danielowi, po tym, które ukazało mi się na początku.<verse eid="DAN 8:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 8:2" />Zobaczyłem w widzeniu, że jestem w pałacu Suza, który znajdował się w prowincji Elam; zobaczyłem w widzeniu, że jestem nad rzeką Ulaj.<verse eid="DAN 8:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 8:3" />I podniosłem swoje oczy, i spojrzałem, a oto nad rzeką stał baran mający dwa rogi. Te dwa rogi były wysokie, lecz jeden był wyższy od drugiego, ale ten wyższy wyrósł później.<verse eid="DAN 8:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 8:4" />Widziałem, jak baran bódł na zachód, na północ i na południe, a żadna bestia nie mogła stać przed nim i nie było nikogo, kto by wyrwał się z jego ręki. Czynił on według swojej woli i stał się wielki.<verse eid="DAN 8:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 8:5" />Gdy się zastanawiałem nad tym, oto przyszedł kozioł z zachodu po powierzchni całej ziemi, nie dotykając ziemi. A ten kozioł miał okazały róg między swoimi oczami.<verse eid="DAN 8:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 8:6" />I przyszedł aż do tego barana, który miał dwa rogi, którego widziałem stojącego nad rzeką; podbiegł do niego w zapalczywości swojej siły.<verse eid="DAN 8:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 8:7" />Widziałem także, że natarł na tego barana, a rozjuszywszy się na niego, uderzył barana, tak że złamał mu oba rogi. I baran nie miał siły, aby go odeprzeć; i rzucił go o ziemię, zdeptał go, a nie było nikogo, kto by wyrwał barana z jego mocy.<verse eid="DAN 8:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 8:8" />Wtedy kozioł stawał się bardzo wielki, ale gdy stał się potężny, złamał się wielki róg, a na jego miejsce wyrosły cztery rogi okazałe na cztery strony świata.<verse eid="DAN 8:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 8:9" />Z jednego z nich wyrósł mały róg, a ten bardzo wzrastał ku południu, ku wschodowi i ku wspaniałej ziemi.<verse eid="DAN 8:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 8:10" />Wzrósł aż do wojska niebieskiego i zrzucił na ziemię część wojska oraz gwiazd i podeptał je.<verse eid="DAN 8:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 8:11" />Wzniósł się nawet aż do księcia tego wojska i przez niego została odjęta codzienna ofiara i zostało porzucone miejsce jego świątyni.<verse eid="DAN 8:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 8:12" />Także wojsko zostało mu podane przeciwko codziennej ofierze z powodu przestępstwa i porzucił prawdę na ziemię, a cokolwiek czynił, powodziło mu się.<verse eid="DAN 8:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 8:13" />Wtedy usłyszałem jednego ze świętych mówiącego, a inny święty zapytał tego, który mówił: Jak długo będzie trwać widzenie o codziennej ofierze i przestępstwie spustoszenia, a świątynia i wojsko będą podane na podeptanie?<verse eid="DAN 8:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 8:14" />I powiedział do mnie: Aż do dwóch tysięcy trzystu wieczorów i poranków. Wtedy świątynia zostanie oczyszczona.<verse eid="DAN 8:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 8:15" />A gdy ja, Daniel, patrzyłem na to widzenie i pytałem się o jego znaczenie, oto stanął przede mną ktoś o wyglądzie mężczyzny.<verse eid="DAN 8:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 8:16" />Usłyszałem też ludzki głos między brzegami Ulaj, który zawołał: Gabrielu, wyjaśnij mu to widzenie.<verse eid="DAN 8:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 8:17" />I przyszedł do mnie, gdzie stałem. A gdy przyszedł, zląkłem się i padłem na twarz. I powiedział do mnie: Zrozum, synu człowieczy, bo to widzenie spełni się w czasie ostatecznym.<verse eid="DAN 8:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 8:18" />Gdy mówił do mnie, zapadłem w głęboki sen, leżąc twarzą ku ziemi. Wtedy dotknął mnie i postawił na nogi.<verse eid="DAN 8:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 8:19" />I powiedział: Oto oznajmię tobie, co się będzie dziać, kiedy skończy się gniew, bo koniec nastąpi w czasie oznaczonym.<verse eid="DAN 8:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 8:20" />Ten baran, którego widziałeś, o dwóch rogach, to są królowie Medów i Persów.<verse eid="DAN 8:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 8:21" />A ten kosmaty kozioł to król Grecji, a ten wielki róg między jego oczami to pierwszy król.<verse eid="DAN 8:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="DAN 8:22" />A to, że został złamany, a powstały cztery inne w jego miejsce, oznacza, że cztery królestwa powstaną z jego narodu, ale nie będą miały jego potęgi.<verse eid="DAN 8:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="DAN 8:23" />A pod koniec ich panowania, gdy przestępcy dopełnią swej miary, powstanie król o srogim obliczu i podstępny;<verse eid="DAN 8:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="DAN 8:24" />Jego moc będzie potężna, lecz nie dzięki własnej sile. Będzie niszczył w sposób zadziwiający i szczęśliwie mu się powiedzie w działaniu, bo zniszczy mocarzy i lud święty.<verse eid="DAN 8:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="DAN 8:25" />A dzięki jego pomyślności poszczęści mu się podstęp w jego ręku, będzie się wynosił w swoim sercu i w czasie pokoju zniszczy wielu. Ponadto powstanie przeciw Księciu książąt, lecz bez udziału ręki ludzkiej zostanie skruszony.<verse eid="DAN 8:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="DAN 8:26" />A to widzenie wieczorne i poranne, o którym była mowa, jest prawdą. Dlatego zapieczętuj to widzenie, bo spełni się po wielu dniach.<verse eid="DAN 8:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="DAN 8:27" />Wtedy ja, Daniel, zemdlałem i chorowałem przez kilka dni; potem wstałem i załatwiałem sprawy króla; zdumiewałem się nad tym widzeniem, ale nikt go nie rozumiał.<verse eid="DAN 8:27" />
+  </para>
+  <chapter eid="DAN 8" />
+  <chapter number="9" style="c" sid="DAN 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 9:1" />W pierwszym roku Dariusza, syna Aswerusa, z rodu Medów, który był ustanowiony królem nad królestwem Chaldejczyków;<verse eid="DAN 9:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 9:2" />W pierwszym roku jego królowania ja, Daniel, zrozumiałem dzięki księgom liczbę lat, o których doszło słowo PANA do proroka Jeremiasza, że miało się wypełnić spustoszenie Jerozolimy w siedemdziesiąt lat.<verse eid="DAN 9:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 9:3" />I zwróciłem swoją twarz do Pana Boga, by szukać go modlitwą i błaganiem, w poście, worze i popiele.<verse eid="DAN 9:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 9:4" />Modliłem się więc do PANA, mojego Boga, wyznawałem i mówiłem: Panie, Boże wielki i straszny, strzegący przymierza i miłosierdzia względem tych, którzy cię miłują i przestrzegają twoich przykazań;<verse eid="DAN 9:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 9:5" />Zgrzeszyliśmy, dopuściliśmy się nieprawości, postępowaliśmy niegodziwie i zbuntowaliśmy się, odstępując od twoich przykazań i praw;<verse eid="DAN 9:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 9:6" />I nie usłuchaliśmy twoich sług, proroków, którzy mówili w twoim imieniu do naszych królów, do naszych książąt, do naszych ojców i do całego ludu ziemi.<verse eid="DAN 9:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 9:7" />Do ciebie, Panie, należy sprawiedliwość, a nam się należy wstyd na twarzach, jak to jest dziś, oraz mężczyznom Judy, mieszkańcom Jerozolimy i całemu Izraelowi, bliskim i dalekim we wszystkich ziemiach, do których ich wygnałeś z powodu ich występków, jakie popełnili przeciwko tobie.<verse eid="DAN 9:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 9:8" />Panie, nam się należy wstyd na twarzy, naszym królom, naszym książętom i naszym ojcom, bo zgrzeszyliśmy przeciwko tobie.<verse eid="DAN 9:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 9:9" />Ale do Pana, naszego Boga, należą miłosierdzie i przebaczenie, choć zbuntowaliśmy się przeciwko niemu;<verse eid="DAN 9:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 9:10" />A nie byliśmy posłuszni głosowi PANA, naszego Boga, by postępować według jego ustaw, które dał nam przez swoje sługi, proroków;<verse eid="DAN 9:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 9:11" />Owszem, cały Izrael przekroczył twoje prawo i odstąpił od ciebie, aby nie słuchać twego głosu. Dlatego wylały się na nas przekleństwo i przysięga, które są zapisane w Prawie Mojżesza, sługi Boga. Zgrzeszyli bowiem przeciwko niemu.<verse eid="DAN 9:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 9:12" />A on spełnił swoje słowa, które wypowiedział przeciwko nam i przeciwko naszym sędziom, którzy nas sądzili, i sprowadził na nas to wielkie nieszczęście. Nie zdarzyło się bowiem pod całym niebem to, co zdarzyło się w Jerozolimie.<verse eid="DAN 9:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 9:13" />Tak jak jest napisane w Prawie Mojżesza, całe to nieszczęście spadło na nas. My jednak nie błagaliśmy PANA, naszego Boga, o to, abyśmy mogli odwrócić się od naszych nieprawości i mieli wzgląd na twoją prawdę.<verse eid="DAN 9:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 9:14" />Dlatego czuwał PAN nad tym nieszczęściem i sprowadził je na nas, bo PAN, nasz Bóg, jest sprawiedliwy we wszystkich swoich dziełach, których dokonuje. My zaś nie usłuchaliśmy jego głosu.<verse eid="DAN 9:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 9:15" />A teraz, Panie, nasz Boże, który wyprowadziłeś swój lud z ziemi Egiptu mocną ręką i uczyniłeś sobie imię, jak to jest dziś: zgrzeszyliśmy i postępowaliśmy niegodziwie.<verse eid="DAN 9:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 9:16" />Panie, według wszelkiej twojej sprawiedliwości proszę, niech się odwróci twoja zapalczywość i twój gniew od twojego miasta, Jerozolimy, od twojej świętej góry, bo z powodu naszych grzechów i nieprawości naszych ojców Jerozolima i twój lud stały się przedmiotem zniewagi wśród wszystkich, którzy są dokoła nas.<verse eid="DAN 9:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 9:17" />Teraz więc wysłuchaj, nasz Boże, modlitwy twego sługi i jego błagań, a rozjaśnij swe oblicze nad swoją spustoszoną świątynią ze względu na Pana.<verse eid="DAN 9:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 9:18" />Nakłoń, mój Boże, swego ucha i wysłuchaj; otwórz swe oczy i zobacz nasze spustoszenia i miasto, które jest nazwane twoim imieniem, bo nie ze względu na naszą sprawiedliwość zanosimy swoje błagania przed ciebie, ale ze względu na twoje wielkie miłosierdzie.<verse eid="DAN 9:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 9:19" />Panie, wysłuchaj! Panie, przebacz! Panie, spójrz i działaj. Nie zwlekaj ze względu na siebie samego, mój Boże, bo twoje miasto i twój lud są nazwane twoim imieniem.<verse eid="DAN 9:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 9:20" />A gdy jeszcze mówiłem, modliłem się i wyznawałem swój grzech oraz grzech mego ludu Izraela, i zanosiłem swoje błagania przed PANA, mojego Boga, za świętą górę mojego Boga;<verse eid="DAN 9:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 9:21" />Gdy jeszcze mówiłem w modlitwie, oto mąż Gabriel, którego widziałem w widzeniu na początku, przyleciał spiesznie i dotknął mnie w czasie ofiary wieczornej.<verse eid="DAN 9:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="DAN 9:22" />I wyjaśniał mi, i rozmawiał ze mną, mówiąc: Danielu, teraz wyszedłem, aby uczynić cię zdolnym do zrozumienia.<verse eid="DAN 9:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="DAN 9:23" />Na początku twoich błagań wyszło słowo, a ja przybyłem, aby ci je oznajmić, bo jesteś bardzo umiłowany. Tak więc rozważ to słowo i zrozum widzenie.<verse eid="DAN 9:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="DAN 9:24" />Siedemdziesiąt tygodni wyznaczono nad twoim ludem i twoim świętym miastem na zakończenie przestępstwa, na zgładzenie grzechów i na przebłaganie za nieprawość, na wprowadzenie wiecznej sprawiedliwości, na opieczętowanie widzenia i proroctwa oraz na namaszczenie Najświętszego.<verse eid="DAN 9:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="DAN 9:25" />Dlatego wiedz i zrozum, że od wyjścia nakazu o przywróceniu i odbudowaniu Jerozolimy aż do Księcia Mesjasza będzie siedem tygodni i sześćdziesiąt dwa tygodnie. Zostaną odbudowane ulica i mur, ale w czasach trudnych.<verse eid="DAN 9:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="DAN 9:26" />A po tych sześćdziesięciu dwóch tygodniach zostanie zabity Mesjasz, lecz nie za siebie. A lud księcia, który przyjdzie, zniszczy miasto i świątynię i jego koniec nastąpi wśród powodzi; i do końca wojny są postanowione spustoszenia.<verse eid="DAN 9:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="DAN 9:27" />Utrwali przymierze z wieloma przez jeden tydzień. A w połowie tego tygodnia sprawi, że ustanie ofiara spalana i ofiara z pokarmów, a przez mnóstwo obrzydliwości uczyni spustoszenie aż do końca, i wyleje się to, co postanowione, na to, które ma być spustoszone.<verse eid="DAN 9:27" />
+  </para>
+  <chapter eid="DAN 9" />
+  <chapter number="10" style="c" sid="DAN 10" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 10:1" />W trzecim roku Cyrusa, króla Persji, zostało objawione słowo Danielowi, któremu nadano imię Belteszassar; to słowo było prawdziwe i zamierzony czas był długi. Zrozumiał to słowo, bo otrzymał zrozumienie w widzeniu.<verse eid="DAN 10:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 10:2" />W tych dniach ja, Daniel, byłem smutny przez trzy tygodnie.<verse eid="DAN 10:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 10:3" />Nie jadłem smacznego chleba, mięsa i wina nie brałem do ust, i nie namaszczałem się olejkiem, aż się wypełniły trzy tygodnie.<verse eid="DAN 10:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 10:4" />A dwudziestego czwartego dnia pierwszego miesiąca byłem nad brzegiem wielkiej rzeki, to jest Chiddekel;<verse eid="DAN 10:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 10:5" />I podniosłem swoje oczy, i spojrzałem, a oto stał pewien mąż ubrany w lnianą szatę, a jego biodra były przepasane czystym złotem z Ufas;<verse eid="DAN 10:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 10:6" />Jego ciało było jak z berylu, jego oblicze z wyglądu jak błyskawica, jego oczy – jak pochodnie ogniste, jego ramiona i nogi – jak blask wypolerowanej miedzi, a dźwięk jego słów – jak głos tłumu.<verse eid="DAN 10:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 10:7" />Tylko ja sam, Daniel, miałem to widzenie. Mężczyźni, którzy byli ze mną, nie mieli tego widzenia; ale wielki strach padł na nich i pouciekali, aby się ukryć.<verse eid="DAN 10:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 10:8" />A ja sam zostałem i miałem to wielkie widzenie, ale nie pozostało we mnie siły. Moja uroda zmieniła się i zepsuła, i nie miałem żadnej siły.<verse eid="DAN 10:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 10:9" />Wtedy usłyszałem dźwięk jego słów; a gdy usłyszałem dźwięk jego słów, upadłem na twarz w głęboki sen, twarzą ku ziemi.<verse eid="DAN 10:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 10:10" />I oto dotknęła mnie ręka, i podniosła mnie na moje kolana i na dłonie moich rąk.<verse eid="DAN 10:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 10:11" />I powiedział do mnie: Danielu, mężu bardzo umiłowany, uważaj na moje słowa, które mówię do ciebie, i stań na nogi, bo jestem teraz posłany do ciebie. A gdy przemówił do mnie to słowo, stanąłem drżąc.<verse eid="DAN 10:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 10:12" />Wtedy powiedział do mnie: Nie bój się, Danielu, bo od pierwszego dnia, gdy wziąłeś sobie do serca to, aby zrozumieć i ukorzyć się przed swoim Bogiem, twoje słowa zostały wysłuchane, a ja przybyłem ze względu na twoje słowa.<verse eid="DAN 10:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 10:13" />Lecz książę królestwa Persji sprzeciwiał mi się przez dwadzieścia jeden dni, ale oto Michał, jeden z przedniejszych książąt, przyszedł mi z pomocą; a ja zostałem tam przy królach Persji.<verse eid="DAN 10:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 10:14" />Ale przybyłem, aby ci oznajmić, co spotka twój lud w dniach ostatecznych, bo to widzenie będzie jeszcze na te dni.<verse eid="DAN 10:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 10:15" />A gdy mówił do mnie tymi słowy, opuściłem twarz ku ziemi i zamilkłem.<verse eid="DAN 10:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 10:16" />A oto ktoś jakby podobny do synów ludzkich dotknął moich warg. Otworzyłem usta i mówiłem, powiedziałem do stojącego przede mną: Mój panie, z powodu tego widzenia dopadły mnie boleści i nie mam żadnej siły.<verse eid="DAN 10:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 10:17" />A jakże będzie mógł taki sługa mego pana rozmawiać w ten sposób z moim panem? Gdyż od tego czasu nie została we mnie siła i nie ma we mnie tchu.<verse eid="DAN 10:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 10:18" />Wtedy ponownie dotknął mnie ten, który był podobny do człowieka, i wzmocnił mnie;<verse eid="DAN 10:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 10:19" />I powiedział: Nie bój się, mężu bardzo umiłowany, pokój tobie! Wzmocnij się, mówię, wzmocnij się. A gdy mówił do mnie, nabrałem siły i powiedziałem: Niech mój pan mówi, bo mnie wzmocniłeś.<verse eid="DAN 10:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 10:20" />Powiedział: Czy wiesz, dlaczego przybyłem do ciebie? Teraz wrócę, aby walczyć z księciem Persji. A gdy odejdę stamtąd, oto nadejdzie książę Grecji.<verse eid="DAN 10:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 10:21" />Ale oznajmię ci to, co jest zapisane w piśmie prawdy. I nie ma nikogo, który by mężnie stał przy mnie w tych sprawach, oprócz Michała, waszego księcia.<verse eid="DAN 10:21" />
+  </para>
+  <chapter eid="DAN 10" />
+  <chapter number="11" style="c" sid="DAN 11" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 11:1" />W pierwszym roku Dariusza Meda stanąłem, aby go pokrzepić i wzmocnić.<verse eid="DAN 11:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 11:2" />A teraz oznajmię ci prawdę: Oto jeszcze trzej królowie będą panować w Persji, potem czwarty wzbogaci się o wiele bardziej niż wszyscy, a gdy się umocni w swoich bogactwach, podburzy wszystkich przeciw królestwu Grecji.<verse eid="DAN 11:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 11:3" />I powstanie potężny król, który będzie sprawował wielką władzę, i będzie czynił według swojej woli.<verse eid="DAN 11:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 11:4" />A gdy on się umocni, jego królestwo zostanie pokruszone i rozdzielone na cztery strony świata, ale nie między jego potomków i nie według władzy, jaką sprawował. Jego królestwo bowiem zostanie wykorzenione, a dostanie się innym, ale nie tym.<verse eid="DAN 11:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 11:5" />Wtedy umocni się król południa oraz jeden z jego książąt. Ten będzie mocniejszy od niego i będzie panować, a jego władza będzie władzą rozległą.<verse eid="DAN 11:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 11:6" />Lecz po upływie kilku lat połączą się, bo córka króla południa przybędzie do króla północy, aby zawrzeć przymierze. Ona jednak nie otrzyma siły ramienia ani on nie ostoi się ze swoim ramieniem. Ale zostanie ona wydana, a z nią ci, którzy ją sprowadzili, jej syn oraz ten, co ją umacniał w tych czasach.<verse eid="DAN 11:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 11:7" />Potem z latorośli jej korzenia powstanie ktoś na jego miejsce, kto nadciągnie ze swoim wojskiem, wkroczy do twierdzy króla północy, będzie rządził nimi i zwycięży.<verse eid="DAN 11:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 11:8" />Także ich bogów wraz z ich książętami i drogimi naczyniami ze srebra i złota uprowadzi do niewoli do Egiptu; i będzie bezpieczny przez wiele lat od króla północy.<verse eid="DAN 11:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 11:9" />A król południa wtargnie do królestwa i wróci do swojej ziemi.<verse eid="DAN 11:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 11:10" />Ale jego synowie będą walczyć i zgromadzą mnóstwo wielkich wojsk. Jeden z nich nadciągnie z siłą jak powódź i przejdzie. Potem wróci i wojskiem będzie nacierać aż do jego twierdzy.<verse eid="DAN 11:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 11:11" />Wtedy król południa, będąc rozjuszony, wyruszy i będzie walczył z nim, to jest z królem północy. Uszykuje wielkie mnóstwo, ale to mnóstwo zostanie wydane w jego rękę.<verse eid="DAN 11:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 11:12" />A gdy to mnóstwo zostanie rozbite, jego serce się wywyższy, a choć powali dziesiątki tysięcy, nie umocni się.<verse eid="DAN 11:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 11:13" />Wróci bowiem król północy i uszykuje większe mnóstwo niż poprzednie, i po upływie kilku lat przyjdzie na pewno z wielkim wojskiem i mnóstwem bogactw.<verse eid="DAN 11:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="DAN 11:14" />W tych czasach wielu powstanie przeciwko królowi południa. Synowie zbójców spośród twego ludu powstaną, aby utwierdzić widzenie, ale upadną.<verse eid="DAN 11:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="DAN 11:15" />Nadciągnie więc król północy, usypie wały i zdobędzie miasta warowne, a nie oprą się ramiona południa ani jego lud wybrany, i nie będą mieć siły, by stawić opór.<verse eid="DAN 11:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="DAN 11:16" />Ten, który nadciągnie przeciwko niemu, uczyni według swojej woli, i nie będzie nikogo, kto by mu się przeciwstawił; stanie też w pięknej ziemi, która zostanie zniszczona przez jego rękę.<verse eid="DAN 11:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="DAN 11:17" />Potem zwróci swoją twarz, aby przyjść z siłą całego swego królestwa, i będzie wyglądał, jakby szukał zgody, i uczyni tak: da mu córkę piękną, aby doprowadził go przez nią do zguby. Ale ona nie będzie go wspierać ani nie będzie za nim.<verse eid="DAN 11:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="DAN 11:18" />Potem zwróci swoją twarz ku wyspom i zdobędzie ich wiele. Ale pewien wódz położy kres jego zniewadze, ponadto odpłaci mu za tę zniewagę.<verse eid="DAN 11:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="DAN 11:19" />Dlatego zwróci swoją twarz ku twierdzom swojej ziemi, lecz potknie się i upadnie, i nie będzie już znaleziony.<verse eid="DAN 11:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="DAN 11:20" />I powstanie na jego miejsce taki, który roześle poborców w chwale królestwa. Ale po niewielu dniach zostanie zniszczony, lecz nie w gniewie ani nie w bitwie.<verse eid="DAN 11:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="DAN 11:21" />Potem powstanie na jego miejsce człowiek godny pogardy, któremu nie dadzą godności królestwa. Przyjdzie jednak w pokoju i zdobędzie królestwo pochlebstwem.<verse eid="DAN 11:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="DAN 11:22" />A ramionami, jakby powodzią, zostaną porwani sprzed jego oblicza i skruszeni, a także książę przymierza.<verse eid="DAN 11:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="DAN 11:23" />Po zawarciu przymierza z nim będzie postępował zdradliwie. Nadciągnie bowiem i umocni się z niewielkim ludem.<verse eid="DAN 11:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="DAN 11:24" />Nieoczekiwanie wkroczy nawet do najbogatszych miejsc prowincji i uczyni to, czego nie czynili jego ojcowie ani ojcowie jego ojców. Łup, zdobycz i bogactwo rozdzieli między nich. Uknuje plany przeciw warowniom, ale do czasu.<verse eid="DAN 11:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="DAN 11:25" />Potem pobudzi swoją moc i swe serce przeciw królowi południa z wielkim wojskiem. Król południa przygotuje się do walki z wielkim i potężnym wojskiem, ale się nie oprze, gdyż obmyślą przeciwko niemu zdradę.<verse eid="DAN 11:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="DAN 11:26" />Ci, którzy jedzą jego chleb, zniszczą go, gdy jego wojsko najedzie jak powódź, i padnie wielu zabitych.<verse eid="DAN 11:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="DAN 11:27" />Obaj królowie w swych sercach będą mieli złe zamiary i przy jednym stole będą mówić kłamstwa; ale to się im nie uda, gdyż koniec będzie w jeszcze innym wyznaczonym czasie.<verse eid="DAN 11:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="DAN 11:28" />Potem powróci do swojej ziemi z wielkim bogactwem, a jego serce zwróci się przeciwko świętemu przymierzu; tak będzie działał i wróci do swojej ziemi.<verse eid="DAN 11:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="DAN 11:29" />W czasie wyznaczonym wróci i skieruje się na południe, ale nie powiedzie mu się tak jak za pierwszym i drugim razem.<verse eid="DAN 11:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="DAN 11:30" />Przeciwko niemu bowiem wyruszą okręty z Kittim, będzie przygnębiony, wróci i rozgniewa się na święte przymierze; tak będzie działał. I znowu wróci, i zawrze porozumienie z tymi, którzy opuścili święte przymierze.<verse eid="DAN 11:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="DAN 11:31" />A powstaną przez niego wojska, które zbezczeszczą świątynię-twierdzę i zniosą codzienną ofiarę, a postawią obrzydliwość spustoszenia.<verse eid="DAN 11:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="DAN 11:32" />A tych, którzy będą postępować niegodziwie przeciwko przymierzu, splugawi pochlebstwem. Ale lud znający swego Boga umocni się i będzie działać.<verse eid="DAN 11:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="DAN 11:33" />A rozumni wśród ludu będą nauczać wielu, ale będą padać od miecza, od ognia, od niewoli i od łupu przez wiele dni.<verse eid="DAN 11:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="DAN 11:34" />Gdy padną, będą mieli niewielką pomoc i wielu przyłączy się do nich pochlebstwem.<verse eid="DAN 11:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="DAN 11:35" />Spośród tych rozumnych niektórzy padną, aby byli doświadczeni, oczyszczeni i wybieleni aż do czasu ostatecznego, bo to jeszcze potrwa aż do czasu wyznaczonego.<verse eid="DAN 11:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="DAN 11:36" />A król uczyni według swojej woli, wyniesie się i wywyższy się ponad każdego boga; będzie mówić dziwne rzeczy przeciwko Bogu bogów i poszczęści mu się, aż dokona się gniew. To bowiem, co zostało postanowione, dokona się.<verse eid="DAN 11:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="DAN 11:37" />Nie będzie miał względu ani na boga swoich ojców, ani na pożądanie kobiet, ani na żadnego boga, gdyż wyniesie się ponad wszystko.<verse eid="DAN 11:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="DAN 11:38" />Zamiast tego będzie czcił boga twierdz; boga, którego nie znali jego ojcowie, będzie czcił złotem, srebrem i drogocennymi kamieniami, i kosztownościami.<verse eid="DAN 11:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="DAN 11:39" />Tak postąpi w twierdzach obcego boga, a którego uzna i obdarzy sławą. I sprawi, że będą panowali nad wieloma, i rozdzieli im ziemię jako zapłatę.<verse eid="DAN 11:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="DAN 11:40" />A pod koniec czasu będzie z nim walczył król południa; ale król północy uderzy na niego jak burza z rydwanami, jeźdźcami i licznymi okrętami, wtargnie do krajów, zaleje je i przejdzie.<verse eid="DAN 11:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="DAN 11:41" />Potem wkroczy do pięknej ziemi i wiele krajów padnie. Te jednak ujdą z jego rąk: Edom, Moab i pierwsi z synów Ammona.<verse eid="DAN 11:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="DAN 11:42" />Wyciągnie swą rękę po kraje, a ziemia Egiptu nie zdoła mu ujść.<verse eid="DAN 11:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="DAN 11:43" />Opanuje skarby złota i srebra oraz wszystkie kosztowności Egiptu, a Libijczycy i Etiopczycy pójdą za nim.<verse eid="DAN 11:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="DAN 11:44" />Ale wieści ze wschodu i z północy przestraszą go. Dlatego wyruszy z wielkim gniewem, aby wielu wygubić i wytępić.<verse eid="DAN 11:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="DAN 11:45" />I rozbije namioty swego pałacu między morzami na pięknej górze świętej; ale jego koniec przyjdzie na niego i nikt mu nie pomoże.<verse eid="DAN 11:45" />
+  </para>
+  <chapter eid="DAN 11" />
+  <chapter number="12" style="c" sid="DAN 12" />
+  <para style="m">
+    <verse number="1" style="v" sid="DAN 12:1" />W tym czasie powstanie Michał, wielki książę, który wstawia się za synami twego ludu. Nastanie czas ucisku, jakiego nie było, odkąd narody zaczęły istnieć aż do tego czasu. W tym czasie twój lud zostanie wybawiony, każdy, kto znajdzie się zapisany w księdze.<verse eid="DAN 12:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="DAN 12:2" />A wielu z tych, którzy śpią w prochu ziemi, obudzi się, jedni do życia wiecznego, a drudzy ku hańbie i wiecznej pogardzie.<verse eid="DAN 12:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="DAN 12:3" />Ci, którzy są mądrzy, będą świecić jak blask firmamentu, a ci, którzy przyprowadzili wielu do sprawiedliwości – jak gwiazdy na wieki wieków.<verse eid="DAN 12:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="DAN 12:4" />Ale ty Danielu zamknij te słowa i zapieczętuj tę księgę aż do czasu ostatecznego. Wielu będzie przebiegać, a pomnoży się wiedza.<verse eid="DAN 12:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="DAN 12:5" />I ja, Daniel, spojrzałem, a oto stało dwóch innych, jeden na brzegu rzeki po tej stronie, a drugi na brzegu rzeki po tamtej stronie.<verse eid="DAN 12:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="DAN 12:6" />Jeden powiedział do męża odzianego w lnianą szatę, który stał nad wodami rzeki: Kiedy będzie koniec tych dziwnych rzeczy?<verse eid="DAN 12:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="DAN 12:7" />I usłyszałem tego męża odzianego w lnianą szatę, który stał nad wodami rzeki. Podniósł swoją prawą i lewą rękę do nieba i przysiągł na Żyjącego na wieki, że będzie to na czas, czasy i połowę czasu. I gdy doszczętnie rozproszy siłę świętego ludu, wtedy to się wszystko wypełni.<verse eid="DAN 12:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="DAN 12:8" />Ja to usłyszałem, ale nie zrozumiałem, więc zapytałem: Mój Panie, jaki będzie koniec tych rzeczy?<verse eid="DAN 12:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="DAN 12:9" />Wtedy odpowiedział: Idź, Danielu, bo te słowa są zamknięte i zapieczętowane aż do czasu ostatecznego.<verse eid="DAN 12:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="DAN 12:10" />Wielu będzie oczyszczonych, wybielonych i doświadczonych, ale bezbożni będą postępować bezbożnie. Żaden bezbożny nie zrozumie, ale mądrzy zrozumieją.<verse eid="DAN 12:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="DAN 12:11" />A od tego czasu, kiedy zostanie zniesiona ofiara codzienna i będzie postawiona obrzydliwość spustoszenia, upłynie tysiąc dwieście dziewięćdziesiąt dni.<verse eid="DAN 12:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="DAN 12:12" />Błogosławiony, kto doczeka i dojdzie do tysiąca trzystu trzydziestu pięciu dni.<verse eid="DAN 12:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="DAN 12:13" />Ale ty idź swoją drogą do końca. Odpoczniesz i pozostaniesz w swoim losie przy końcu dni.<verse eid="DAN 12:13" />
+  </para>
+  <chapter eid="DAN 12" />
+</usx>

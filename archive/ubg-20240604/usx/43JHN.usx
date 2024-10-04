@@ -1,0 +1,2688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="JHN" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Jana</para>
+  <para style="toc1">Ewangelia Jana</para>
+  <para style="toc2">Jana</para>
+  <para style="toc3">J</para>
+  <para style="mt1">Ewangelia Jana</para>
+  <chapter number="1" style="c" sid="JHN 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 1:1" />Na początku było Słowo, a Słowo było u Boga i Bogiem było Słowo.<verse eid="JHN 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 1:2" />Ono było na początku u Boga.<verse eid="JHN 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 1:3" />Wszystko przez nie się stało, a bez niego nic się nie stało, co się stało.<verse eid="JHN 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 1:4" />W nim było życie, a życie było światłością ludzi.<verse eid="JHN 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 1:5" />A ta światłość świeci w ciemności, ale ciemność jej nie ogarnęła.<verse eid="JHN 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 1:6" />Był człowiek posłany od Boga, któremu na imię było Jan.<verse eid="JHN 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 1:7" />Przyszedł on na świadectwo, aby świadczyć o tej światłości, by wszyscy przez niego uwierzyli.<verse eid="JHN 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 1:8" />Nie był on tą światłością, ale przyszedł, aby świadczyć o tej światłości.<verse eid="JHN 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 1:9" />Ten był tą prawdziwą światłością, która oświeca każdego człowieka przychodzącego na świat.<verse eid="JHN 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 1:10" />Był na świecie, a świat został przez niego stworzony, ale świat go nie poznał.<verse eid="JHN 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 1:11" />Do swej własności przyszedł, ale swoi go nie przyjęli.<verse eid="JHN 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 1:12" />Lecz wszystkim tym, którzy go przyjęli, dał moc, aby się stali synami Bożymi, to jest tym, którzy wierzą w jego imię;<verse eid="JHN 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 1:13" />Którzy są narodzeni nie z krwi ani z woli ciała, ani z woli mężczyzny, ale z Boga.<verse eid="JHN 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 1:14" />A to Słowo stało się ciałem i mieszkało wśród nas (i widzieliśmy jego chwałę, chwałę jako jednorodzonego od Ojca), pełne łaski i prawdy.<verse eid="JHN 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 1:15" />Jan świadczył o nim i wołał: To był ten, o którym mówiłem: Ten, który po mnie przychodzi, uprzedził mnie, bo wcześniej był niż ja.<verse eid="JHN 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 1:16" />A z jego pełni my wszyscy otrzymaliśmy i łaskę za łaskę.<verse eid="JHN 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 1:17" />Prawo bowiem zostało dane przez Mojżesza, a łaska i prawda przyszły przez Jezusa Chrystusa.<verse eid="JHN 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 1:18" />Boga nikt nigdy nie widział. Jednorodzony Syn, który jest w łonie Ojca, on nam o nim opowiedział.<verse eid="JHN 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 1:19" />A takie jest świadectwo Jana, gdy Żydzi posłali z Jerozolimy kapłanów i lewitów, aby go zapytali: Kim ty jesteś?<verse eid="JHN 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 1:20" />I wyznał, a nie zaprzeczył, ale wyznał: Ja nie jestem Chrystusem.<verse eid="JHN 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 1:21" />I pytali go: Kim więc jesteś? Jesteś Eliaszem? A on powiedział: Nie jestem. A oni: Jesteś tym prorokiem? I odpowiedział: Nie jestem.<verse eid="JHN 1:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 1:22" />Wtedy go zapytali: Kim jesteś, abyśmy mogli dać odpowiedź tym, którzy nas posłali? Co mówisz sam o sobie?<verse eid="JHN 1:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 1:23" />Odpowiedział: Ja jestem głosem wołającego na pustyni: Prostujcie drogę Pana, jak powiedział prorok Izajasz.<verse eid="JHN 1:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 1:24" />A ci, którzy byli posłani, byli z faryzeuszy.<verse eid="JHN 1:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 1:25" />I zapytali go: Czemu więc chrzcisz, jeśli nie jesteś Chrystusem ani Eliaszem, ani tym prorokiem?<verse eid="JHN 1:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 1:26" />Odpowiedział im Jan: Ja chrzczę wodą, ale pośród was stoi ten, którego wy nie znacie.<verse eid="JHN 1:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 1:27" />To jest ten, który przyszedłszy po mnie, uprzedził mnie, któremu ja nie jestem godny rozwiązać rzemyka u jego obuwia.<verse eid="JHN 1:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 1:28" />Działo się to w Betabarze za Jordanem, gdzie Jan chrzcił.<verse eid="JHN 1:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 1:29" />A nazajutrz Jan zobaczył Jezusa przychodzącego do niego i powiedział: Oto Baranek Boży, który gładzi grzech świata.<verse eid="JHN 1:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 1:30" />To jest ten, o którym mówiłem, że idzie za mną człowiek, który mnie uprzedził, bo wcześniej był niż ja.<verse eid="JHN 1:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 1:31" />Ja go nie znałem, ale przyszedłem, chrzcząc wodą, po to, aby został objawiony Izraelowi.<verse eid="JHN 1:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 1:32" />I świadczył Jan: Widziałem Ducha zstępującego jak gołębica z nieba i spoczął na nim.<verse eid="JHN 1:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 1:33" />A ja go nie znałem, ale ten, który mnie posłał, abym chrzcił wodą, powiedział do mnie: Na kogo ujrzysz Ducha zstępującego i spoczywającego na nim, to jest ten, który chrzci Duchem Świętym.<verse eid="JHN 1:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 1:34" />Ja to widziałem i świadczyłem, że on jest Synem Bożym.<verse eid="JHN 1:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 1:35" />Nazajutrz znowu stał tam Jan i dwóch z jego uczniów.<verse eid="JHN 1:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 1:36" />A gdy zobaczył Jezusa przechodzącego, powiedział: Oto Baranek Boży.<verse eid="JHN 1:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 1:37" />I słyszeli ci dwaj uczniowie, jak mówił, i poszli za Jezusem.<verse eid="JHN 1:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 1:38" />A Jezus, odwróciwszy się i ujrzawszy, że idą za nim, zapytał ich: Czego szukacie? A oni mu odpowiedzieli: Rabbi – co się tłumaczy: Mistrzu – gdzie mieszkasz?<verse eid="JHN 1:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 1:39" />Powiedział im: Chodźcie i zobaczcie. Poszli więc i zobaczyli, gdzie mieszka. I zostali z nim tego dnia, bo było około godziny dziesiątej.<verse eid="JHN 1:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 1:40" />A Andrzej, brat Szymona Piotra, był jednym z tych dwóch, którzy to usłyszeli od Jana i poszli za nim.<verse eid="JHN 1:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 1:41" />On najpierw znalazł Szymona, swego brata, i powiedział do niego: Znaleźliśmy Mesjasza – co się tłumaczy: Chrystusa.<verse eid="JHN 1:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 1:42" />I przyprowadził go do Jezusa. A Jezus spojrzał na niego i powiedział: Ty jesteś Szymon, syn Jonasza. Ty będziesz nazwany Kefas – co się tłumaczy: Piotr.<verse eid="JHN 1:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="JHN 1:43" />A nazajutrz Jezus chciał pójść do Galilei. Znalazł Filipa i powiedział do niego: Pójdź za mną.<verse eid="JHN 1:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="JHN 1:44" />A Filip był z Betsaidy, z miasta Andrzeja i Piotra.<verse eid="JHN 1:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="JHN 1:45" />Filip znalazł Natanaela i powiedział do niego: Znaleźliśmy tego, o którym pisał Mojżesz w Prawie, a także prorocy – Jezusa z Nazaretu, syna Józefa.<verse eid="JHN 1:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="JHN 1:46" />I zapytał go Natanael: Czyż z Nazaretu może być coś dobrego? Filip mu odpowiedział: Chodź i zobacz!<verse eid="JHN 1:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="JHN 1:47" />Gdy więc Jezus zobaczył Natanaela zbliżającego się do niego, powiedział o nim: Oto prawdziwie Izraelita, w którym nie ma podstępu.<verse eid="JHN 1:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="JHN 1:48" />Natanael go zapytał: Skąd mnie znasz? Odpowiedział mu Jezus: Zanim Filip cię zawołał, gdy byłeś pod drzewem figowym, widziałem cię.<verse eid="JHN 1:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="JHN 1:49" />Odpowiedział mu Natanael: Mistrzu, ty jesteś Synem Bożym, ty jesteś królem Izraela.<verse eid="JHN 1:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="JHN 1:50" />Jezus mu odpowiedział: Czy wierzysz dlatego, że ci powiedziałem: Widziałem cię pod drzewem figowym? Ujrzysz większe rzeczy niż te.<verse eid="JHN 1:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="JHN 1:51" />I powiedział do niego: Zaprawdę, zaprawdę powiadam wam: Odtąd ujrzycie niebo otwarte i aniołów Boga wstępujących i zstępujących na Syna Człowieczego.<verse eid="JHN 1:51" />
+  </para>
+  <chapter eid="JHN 1" />
+  <chapter number="2" style="c" sid="JHN 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 2:1" />A trzeciego dnia odbywało się wesele w Kanie Galilejskiej i była tam matka Jezusa.<verse eid="JHN 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 2:2" />Zaproszono na to wesele także Jezusa i jego uczniów.<verse eid="JHN 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 2:3" />A gdy zabrakło wina, matka Jezusa powiedziała do niego: Nie mają wina.<verse eid="JHN 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 2:4" />Jezus jej odpowiedział: Co ja mam z tobą, kobieto? Jeszcze nie nadeszła moja godzina.<verse eid="JHN 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 2:5" />Jego matka powiedziała do sług: Zróbcie wszystko, co wam powie.<verse eid="JHN 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 2:6" />A było tam sześć stągwi kamiennych, postawionych według żydowskiego zwyczaju oczyszczenia, mieszczących każda dwa albo trzy wiadra.<verse eid="JHN 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 2:7" />Jezus im powiedział: Napełnijcie te stągwie wodą. I napełnili je aż po brzegi.<verse eid="JHN 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 2:8" />Wtedy powiedział do nich: Zaczerpnijcie teraz i zanieście przełożonemu wesela. I zanieśli.<verse eid="JHN 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 2:9" />A gdy przełożony wesela skosztował wody, która stała się winem (a nie wiedział, skąd pochodziło, lecz słudzy, którzy zaczerpnęli wody, wiedzieli), zawołał oblubieńca.<verse eid="JHN 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 2:10" />I powiedział do niego: Każdy człowiek najpierw podaje dobre wino, a gdy sobie podpiją, wtedy gorsze. A ty dobre wino zachowałeś aż do tej pory.<verse eid="JHN 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 2:11" />Taki początek cudów uczynił Jezus w Kanie Galilejskiej i objawił swoją chwałę, i uwierzyli w niego jego uczniowie.<verse eid="JHN 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 2:12" />Potem on, jego matka, jego bracia i jego uczniowie poszli do Kafarnaum i mieszkali tam kilka dni.<verse eid="JHN 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 2:13" />A ponieważ zbliżała się Pascha żydowska, Jezus poszedł do Jerozolimy.<verse eid="JHN 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 2:14" />I zastał w świątyni sprzedających woły, owce i gołębie oraz tych, którzy siedzieli i wymieniali pieniądze.<verse eid="JHN 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 2:15" />A zrobiwszy bicz z powrozków, wypędził wszystkich ze świątyni, także owce i woły, rozsypał pieniądze wymieniających i poprzewracał stoły.<verse eid="JHN 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 2:16" />A do sprzedających gołębie powiedział: Wynieście to stąd, a nie róbcie z domu mego Ojca domu kupieckiego.<verse eid="JHN 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 2:17" />I przypomnieli sobie jego uczniowie, że jest napisane: Gorliwość o twój dom zżarła mnie.<verse eid="JHN 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 2:18" />Wtedy Żydzi zapytali: Jaki nam znak pokażesz, skoro to czynisz?<verse eid="JHN 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 2:19" />Odpowiedział im Jezus: Zburzcie tę świątynię, a w trzy dni ją wzniosę.<verse eid="JHN 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 2:20" />Wtedy Żydzi powiedzieli: Czterdzieści sześć lat budowano tę świątynię, a ty ją w trzy dni wzniesiesz?<verse eid="JHN 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 2:21" />Ale on mówił o świątyni swego ciała.<verse eid="JHN 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 2:22" />Gdy więc zmartwychwstał, jego uczniowie przypomnieli sobie, że im to powiedział, i uwierzyli Pismu i słowu, które wypowiedział Jezus.<verse eid="JHN 2:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 2:23" />A gdy był w Jerozolimie podczas Paschy w święto, wielu uwierzyło w jego imię, widząc cuda, które czynił.<verse eid="JHN 2:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 2:24" />Ale Jezus nie powierzał im samego siebie, bo on znał wszystkich;<verse eid="JHN 2:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 2:25" />I nie potrzebował, aby mu ktoś dawał świadectwo o człowieku. On bowiem wiedział, co było w człowieku.<verse eid="JHN 2:25" />
+  </para>
+  <chapter eid="JHN 2" />
+  <chapter number="3" style="c" sid="JHN 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 3:1" />A był pewien człowiek z faryzeuszy, imieniem Nikodem, dostojnik żydowski.<verse eid="JHN 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 3:2" />Przyszedł on do Jezusa w nocy i powiedział: Mistrzu, wiemy, że przyszedłeś od Boga jako nauczyciel. Nikt bowiem nie mógłby czynić tych cudów, które ty czynisz, gdyby Bóg z nim nie był.<verse eid="JHN 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 3:3" />Odpowiedział mu Jezus: Zaprawdę, zaprawdę powiadam ci: Jeśli się ktoś nie narodzi na nowo, nie może ujrzeć królestwa Bożego.<verse eid="JHN 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 3:4" />Nikodem zapytał go: Jakże może się człowiek narodzić, będąc stary? Czy może powtórnie wejść do łona swojej matki i narodzić się?<verse eid="JHN 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 3:5" />Jezus odpowiedział: Zaprawdę, zaprawdę powiadam ci: Jeśli się ktoś nie narodzi z wody i z Ducha, nie może wejść do królestwa Bożego.<verse eid="JHN 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 3:6" />Co się narodziło z ciała, jest ciałem, a co się narodziło z Ducha, jest duchem.<verse eid="JHN 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 3:7" />Nie dziw się, że ci powiedziałem: Musicie się na nowo narodzić.<verse eid="JHN 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 3:8" />Wiatr wieje, gdzie chce, i słyszysz jego głos, ale nie wiesz, skąd przychodzi i dokąd zmierza. Tak jest z każdym, kto się narodził z Ducha.<verse eid="JHN 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 3:9" />Nikodem go zapytał: Jakże się to może stać?<verse eid="JHN 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 3:10" />Odpowiedział mu Jezus: Ty jesteś nauczycielem w Izraelu, a tego nie wiesz?<verse eid="JHN 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 3:11" />Zaprawdę, zaprawdę powiadam ci, że co wiemy, to mówimy, a co widzieliśmy, o tym świadczymy, ale nie przyjmujecie naszego świadectwa.<verse eid="JHN 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 3:12" />Jeśli nie wierzycie, gdy wam mówiłem o ziemskich sprawach, jakże uwierzycie, jeśli będę wam mówił o niebieskich?<verse eid="JHN 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 3:13" />A nikt nie wstąpił do nieba, tylko ten, który zstąpił z nieba, Syn Człowieczy, który jest w niebie.<verse eid="JHN 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 3:14" />A jak Mojżesz wywyższył węża na pustyni, tak musi być wywyższony Syn Człowieczy;<verse eid="JHN 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 3:15" />Aby każdy, kto w niego wierzy, nie zginął, ale miał życie wieczne.<verse eid="JHN 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 3:16" />Tak bowiem Bóg umiłował świat, że dał swego jednorodzonego Syna, aby każdy, kto w niego wierzy, nie zginął, ale miał życie wieczne.<verse eid="JHN 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 3:17" />Bo Bóg nie posłał swego Syna na świat, aby potępił świat, lecz aby świat był przez niego zbawiony.<verse eid="JHN 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 3:18" />Kto wierzy w niego, nie będzie potępiony, ale kto nie wierzy, już jest potępiony, bo nie uwierzył w imię jednorodzonego Syna Bożego.<verse eid="JHN 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 3:19" />A potępienie polega na tym, że światłość przyszła na świat, lecz ludzie umiłowali ciemność bardziej niż światłość, bo ich uczynki były złe.<verse eid="JHN 3:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 3:20" />Każdy bowiem, kto źle czyni, nienawidzi światłości i nie idzie do światłości, aby jego uczynki nie były zganione.<verse eid="JHN 3:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 3:21" />Lecz kto czyni prawdę, przychodzi do światłości, aby jego uczynki były jawne, że w Bogu są dokonane.<verse eid="JHN 3:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 3:22" />Potem Jezus przyszedł wraz ze swymi uczniami do Judei i tam przemieszkiwał z nimi, i chrzcił.<verse eid="JHN 3:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 3:23" />Także Jan chrzcił w Ainon, blisko Salim, bo było tam wiele wody. A ludzie przychodzili i chrzcili się.<verse eid="JHN 3:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 3:24" />Jan bowiem jeszcze nie był wtrącony do więzienia.<verse eid="JHN 3:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 3:25" />Wtedy wszczęła się dyskusja między uczniami Jana i Żydami o oczyszczaniu.<verse eid="JHN 3:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 3:26" />I przyszli do Jana, i powiedzieli mu: Mistrzu, ten, który był z tobą za Jordanem, o którym ty dałeś świadectwo, oto on chrzci, a wszyscy idą do niego.<verse eid="JHN 3:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 3:27" />Odpowiedział Jan: Człowiek nie może otrzymać niczego, jeśli mu nie będzie dane z nieba.<verse eid="JHN 3:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 3:28" />Wy sami jesteście mi świadkami, że powiedziałem: Ja nie jestem Chrystusem, ale jestem posłany przed nim.<verse eid="JHN 3:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 3:29" />Kto ma oblubienicę, ten jest oblubieńcem, a przyjaciel oblubieńca, który stoi i słucha go, raduje się niezmiernie z powodu głosu oblubieńca. Dlatego ta moja radość stała się pełna.<verse eid="JHN 3:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 3:30" />On musi wzrastać, a ja stawać się mniejszym.<verse eid="JHN 3:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 3:31" />Kto przyszedł z góry, jest nad wszystkimi. Kto jest z ziemi, jest ziemski i mówi ziemskie rzeczy. Ten, który przyszedł z nieba, jest nad wszystkimi.<verse eid="JHN 3:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 3:32" />A świadczy o tym, co widział i słyszał, ale nikt nie przyjmuje jego świadectwa.<verse eid="JHN 3:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 3:33" />Kto przyjmuje jego świadectwo, ten zapieczętował, że Bóg jest prawdziwy.<verse eid="JHN 3:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 3:34" />Ten bowiem, którego Bóg posłał, mówi słowa Boże, bo Bóg daje mu Ducha bez miary.<verse eid="JHN 3:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 3:35" />Ojciec miłuje Syna i wszystko dał w jego ręce.<verse eid="JHN 3:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 3:36" />Kto wierzy w Syna, ma życie wieczne, ale kto nie wierzy Synowi, nie ujrzy życia, lecz gniew Boży zostaje na nim.<verse eid="JHN 3:36" />
+  </para>
+  <chapter eid="JHN 3" />
+  <chapter number="4" style="c" sid="JHN 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 4:1" />A gdy Pan poznał, że faryzeusze usłyszeli, iż Jezus więcej ludzi czynił uczniami i chrzcił niż Jan;<verse eid="JHN 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 4:2" />(Chociaż sam Jezus nie chrzcił, lecz jego uczniowie);<verse eid="JHN 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 4:3" />Opuścił Judeę i odszedł znowu do Galilei.<verse eid="JHN 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 4:4" />A musiał iść przez Samarię.<verse eid="JHN 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 4:5" />I przyszedł do miasta w Samarii, zwanego Sychar, blisko pola, które Jakub dał swemu synowi Józefowi.<verse eid="JHN 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 4:6" />A była tam studnia Jakuba. Jezus więc, zmęczony drogą, usiadł sobie na studni. A było około godziny szóstej.<verse eid="JHN 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 4:7" />I przyszła kobieta z Samarii, aby zaczerpnąć wody. Jezus powiedział do niej: Daj mi pić.<verse eid="JHN 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 4:8" />Jego uczniowie bowiem poszli do miasta, aby nakupić żywności.<verse eid="JHN 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 4:9" />Wtedy Samarytanka powiedziała do niego: Jakże ty, będąc Żydem, prosisz mnie, Samarytankę, o coś do picia? Gdyż Żydzi nie obcują z Samarytanami.<verse eid="JHN 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 4:10" />Jezus jej odpowiedział: Gdybyś znała ten dar Boży i wiedziała, kim jest ten, który ci mówi: Daj mi pić, ty prosiłabyś go, a dałby ci wody żywej.<verse eid="JHN 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 4:11" />I powiedziała do niego kobieta: Panie, nie masz czym naczerpać, a studnia jest głęboka. Skąd więc masz tę wodę żywą?<verse eid="JHN 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 4:12" />Czy ty jesteś większy niż nasz ojciec Jakub, który nam dał tę studnię i sam z niej pił, a także jego synowie i jego dobytek?<verse eid="JHN 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 4:13" />Odpowiedział jej Jezus: Każdy, kto pije tę wodę, znowu będzie pragnął.<verse eid="JHN 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 4:14" />Lecz kto by pił wodę, którą ja mu dam, nigdy nie będzie pragnął, ale woda, którą ja mu dam, stanie się w nim źródłem wody wytryskującej ku życiu wiecznemu.<verse eid="JHN 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 4:15" />Kobieta powiedziała do niego: Panie, daj mi tej wody, abym nie pragnęła i nie przychodziła tu czerpać.<verse eid="JHN 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 4:16" />Jezus jej powiedział: Idź, zawołaj swego męża i przyjdź tu.<verse eid="JHN 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 4:17" />Odpowiedziała kobieta: Nie mam męża. Jezus jej powiedział: Dobrze powiedziałaś: Nie mam męża.<verse eid="JHN 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 4:18" />Miałaś bowiem pięciu mężów, a ten, którego masz teraz, nie jest twoim mężem. Prawdę powiedziałaś.<verse eid="JHN 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 4:19" />Kobieta mu powiedziała: Panie, widzę, że jesteś prorokiem.<verse eid="JHN 4:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 4:20" />Nasi ojcowie na tej górze czcili Boga, a wy mówicie, że w Jerozolimie jest miejsce, gdzie należy go czcić.<verse eid="JHN 4:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 4:21" />Jezus powiedział do niej: Kobieto, wierz mi, że nadchodzi godzina, gdy ani na tej górze, ani w Jerozolimie nie będziecie czcić Ojca.<verse eid="JHN 4:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 4:22" />Wy czcicie to, czego nie znacie, a my czcimy to, co znamy, ponieważ zbawienie pochodzi od Żydów.<verse eid="JHN 4:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 4:23" />Ale nadchodzi godzina, i teraz jest, gdy prawdziwi czciciele będą czcić Ojca w duchu i w prawdzie. Bo i Ojciec szuka takich, którzy będą go czcić.<verse eid="JHN 4:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 4:24" />Bóg jest duchem, więc ci, którzy go czczą, powinni go czcić w duchu i w prawdzie.<verse eid="JHN 4:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 4:25" />Kobieta mu powiedziała: Wiem, że przyjdzie Mesjasz, zwany Chrystusem. Gdy on przyjdzie, oznajmi nam wszystko.<verse eid="JHN 4:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 4:26" />Jezus jej powiedział: Ja, który mówię z tobą, jestem nim.<verse eid="JHN 4:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 4:27" />A wtem przyszli jego uczniowie i dziwili się, że rozmawia z kobietą. Nikt jednak nie powiedział: O co się pytasz? albo: Dlaczego z nią rozmawiasz?<verse eid="JHN 4:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 4:28" />I zostawiła kobieta swoje wiadro, poszła do miasta i powiedziała ludziom:<verse eid="JHN 4:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 4:29" />Chodźcie, zobaczcie człowieka, który mi powiedział wszystko, co zrobiłam. Czy to nie jest Chrystus?<verse eid="JHN 4:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 4:30" />Wyszli więc z miasta i przyszli do niego.<verse eid="JHN 4:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 4:31" />A tymczasem uczniowie prosili go: Mistrzu, jedz.<verse eid="JHN 4:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 4:32" />A on im powiedział: Ja mam pokarm do jedzenia, o którym wy nie wiecie.<verse eid="JHN 4:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 4:33" />Uczniowie więc mówili między sobą: Czy ktoś przyniósł mu jedzenie?<verse eid="JHN 4:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 4:34" />Jezus im powiedział: Moim pokarmem jest wypełniać wolę tego, który mnie posłał, i dokonać jego dzieła.<verse eid="JHN 4:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 4:35" />Czyż nie mówicie, że jeszcze cztery miesiące, a przyjdzie żniwo? Oto mówię wam: Podnieście wasze oczy i przypatrzcie się polom, że już są białe, gotowe do żniwa.<verse eid="JHN 4:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 4:36" />A kto żnie, otrzymuje zapłatę i zbiera owoc na życie wieczne, aby i ten, kto sieje, i ten, kto żnie, razem się radowali.<verse eid="JHN 4:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 4:37" />W tym właśnie prawdziwe jest przysłowie: Kto inny sieje, a kto inny żnie.<verse eid="JHN 4:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 4:38" />Ja was posłałem żąć to, nad czym nie pracowaliście. Inni pracowali, a wy weszliście w ich pracę.<verse eid="JHN 4:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 4:39" />Wtedy wielu Samarytan z tego miasta uwierzyło w niego z powodu opowiadania tej kobiety, która świadczyła: Powiedział mi wszystko, co zrobiłam.<verse eid="JHN 4:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 4:40" />Gdy więc Samarytanie przyszli do niego, prosili go, aby u nich został. I został tam przez dwa dni.<verse eid="JHN 4:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 4:41" />I o wiele więcej ich uwierzyło z powodu jego słowa.<verse eid="JHN 4:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 4:42" />A tej kobiecie mówili: Wierzymy już nie z powodu twojego opowiadania. Sami bowiem słyszeliśmy i wiemy, że to jest prawdziwie Zbawiciel świata, Chrystus.<verse eid="JHN 4:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="JHN 4:43" />A po dwóch dniach odszedł stamtąd i poszedł do Galilei.<verse eid="JHN 4:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="JHN 4:44" />Sam Jezus bowiem dał świadectwo, że prorok nie doznaje czci w swojej ojczyźnie.<verse eid="JHN 4:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="JHN 4:45" />A gdy przyszedł do Galilei, Galilejczycy przyjęli go, widząc wszystko, co uczynił w Jerozolimie w święto. Oni bowiem też przyszli na święto.<verse eid="JHN 4:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="JHN 4:46" />Wtedy Jezus znowu przyszedł do Kany Galilejskiej, gdzie przemienił wodę w wino. A był w Kafarnaum pewien dworzanin królewski, którego syn chorował.<verse eid="JHN 4:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="JHN 4:47" />Ten, usłyszawszy, że Jezus przyszedł z Judei do Galilei, udał się do niego i prosił go, aby przyszedł i uzdrowił jego syna, gdyż był umierający.<verse eid="JHN 4:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="JHN 4:48" />I powiedział do niego Jezus: Jeśli nie ujrzycie znaków i cudów, nie uwierzycie.<verse eid="JHN 4:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="JHN 4:49" />Dworzanin królewski powiedział do niego: Panie, przyjdź, zanim umrze moje dziecko.<verse eid="JHN 4:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="JHN 4:50" />Jezus mu powiedział: Idź, twój syn żyje. I uwierzył ten człowiek słowu, które powiedział mu Jezus, i poszedł.<verse eid="JHN 4:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="JHN 4:51" />A gdy już szedł, jego słudzy wyszli mu naprzeciw i oznajmili: Twoje dziecko żyje.<verse eid="JHN 4:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="JHN 4:52" />Wtedy zapytał ich o godzinę, w której poczuło się lepiej. I odpowiedzieli mu: Wczoraj o godzinie siódmej opuściła go gorączka.<verse eid="JHN 4:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="JHN 4:53" />Wówczas ojciec poznał, że to była ta godzina, w której Jezus powiedział do niego: Twój syn żyje. I uwierzył on sam i cały jego dom.<verse eid="JHN 4:53" />
+  </para>
+  <para style="m">
+    <verse number="54" style="v" sid="JHN 4:54" />To był drugi cud, który Jezus uczynił, przyszedłszy z Judei do Galilei.<verse eid="JHN 4:54" />
+  </para>
+  <chapter eid="JHN 4" />
+  <chapter number="5" style="c" sid="JHN 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 5:1" />Potem było święto żydowskie i Jezus udał się do Jerozolimy.<verse eid="JHN 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 5:2" />A jest w Jerozolimie przy Owczej Bramie sadzawka, zwana po hebrajsku Betesda, mająca pięć ganków.<verse eid="JHN 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 5:3" />Leżało w nich mnóstwo niedołężnych, ślepych, chromych i wychudłych, którzy czekali na poruszenie wody.<verse eid="JHN 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 5:4" />Anioł bowiem co pewien czas zstępował do sadzawki i poruszał wodę. A kto pierwszy wszedł po poruszeniu wody, stawał się zdrowym, jakąkolwiek chorobą był dotknięty.<verse eid="JHN 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 5:5" />A był tam pewien człowiek, który przez trzydzieści osiem lat był złożony chorobą.<verse eid="JHN 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 5:6" />Gdy Jezus zobaczył go leżącego i poznał, że już długi czas choruje, zapytał: Chcesz być zdrowy?<verse eid="JHN 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 5:7" />Chory mu odpowiedział: Panie, nie mam człowieka, który wniósłby mnie do sadzawki, gdy woda zostaje poruszona. Lecz gdy ja idę, inny wchodzi przede mną.<verse eid="JHN 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 5:8" />Jezus mu powiedział: Wstań, weź swoje posłanie i chodź.<verse eid="JHN 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 5:9" />I natychmiast człowiek ten odzyskał zdrowie, wziął swoje posłanie i chodził. A tego dnia był szabat.<verse eid="JHN 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 5:10" />Wtedy Żydzi powiedzieli do uzdrowionego: Jest szabat, nie wolno ci nosić posłania.<verse eid="JHN 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 5:11" />Odpowiedział im: Ten, który mnie uzdrowił, powiedział do mnie: Weź swoje posłanie i chodź.<verse eid="JHN 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 5:12" />I pytali go: Który człowiek ci powiedział: Weź swoje posłanie i chodź?<verse eid="JHN 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 5:13" />A uzdrowiony nie wiedział, kto to był, bo Jezus odszedł, ponieważ mnóstwo ludzi było na tym miejscu.<verse eid="JHN 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 5:14" />Potem Jezus znalazł go w świątyni i powiedział do niego: Oto wyzdrowiałeś. Nie grzesz więcej, aby nie przydarzyło ci się coś gorszego.<verse eid="JHN 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 5:15" />Wtedy człowiek ten odszedł i powiedział Żydom, że to Jezus go uzdrowił.<verse eid="JHN 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 5:16" />I dlatego Żydzi prześladowali Jezusa i szukali sposobności, aby go zabić, bo uczynił to w szabat.<verse eid="JHN 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 5:17" />A Jezus im odpowiedział: Mój Ojciec działa aż dotąd i ja działam.<verse eid="JHN 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 5:18" />Dlatego Żydzi tym bardziej usiłowali go zabić, bo nie tylko łamał szabat, ale mówił, że Bóg jest jego Ojcem, czyniąc się równym Bogu.<verse eid="JHN 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 5:19" />Wtedy Jezus im odpowiedział: Zaprawdę, zaprawdę powiadam wam: Syn nie może nic czynić sam od siebie, tylko to, co widzi, że czyni Ojciec. Co bowiem on czyni, to i Syn czyni tak samo.<verse eid="JHN 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 5:20" />Bo Ojciec miłuje Syna i ukazuje mu wszystko, co sam czyni. I pokaże mu większe dzieła niż te, abyście się dziwili.<verse eid="JHN 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 5:21" />Jak bowiem Ojciec wskrzesza umarłych i ożywia, tak i Syn ożywia tych, których chce.<verse eid="JHN 5:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 5:22" />Bo Ojciec nikogo nie sądzi, lecz cały sąd dał Synowi;<verse eid="JHN 5:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 5:23" />Aby wszyscy czcili Syna, jak czczą Ojca. Kto nie czci Syna, nie czci i Ojca, który go posłał.<verse eid="JHN 5:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 5:24" />Zaprawdę, zaprawdę powiadam wam: Kto słucha mego słowa i wierzy temu, który mnie posłał, ma życie wieczne i nie będzie potępiony, ale przeszedł ze śmierci do życia.<verse eid="JHN 5:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 5:25" />Zaprawdę, zaprawdę powiadam wam: Nadchodzi godzina, i teraz jest, gdy umarli usłyszą głos Syna Bożego, a ci, którzy usłyszą, będą żyć.<verse eid="JHN 5:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 5:26" />Jak bowiem Ojciec ma życie sam w sobie, tak dał i Synowi, aby miał życie w samym sobie.<verse eid="JHN 5:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 5:27" />I dał mu władzę wykonywania sądu, bo jest Synem Człowieczym.<verse eid="JHN 5:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 5:28" />Nie dziwcie się temu, bo nadchodzi godzina, w której wszyscy, którzy są w grobach, usłyszą jego głos;<verse eid="JHN 5:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 5:29" />I ci, którzy dobrze czynili, wyjdą na zmartwychwstanie do życia, ale ci, którzy źle czynili, na zmartwychwstanie na potępienie.<verse eid="JHN 5:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 5:30" />Ja sam od siebie nie mogę nic czynić. Jak słyszę, tak sądzę, a mój sąd jest sprawiedliwy, bo nie szukam swojej woli, ale woli tego, który mnie posłał, Ojca.<verse eid="JHN 5:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 5:31" />Jeśli ja świadczę sam o sobie, moje świadectwo nie jest prawdziwe.<verse eid="JHN 5:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 5:32" />Jest ktoś inny, kto świadczy o mnie, i wiem, że świadectwo, które daje o mnie, jest prawdziwe.<verse eid="JHN 5:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 5:33" />Wy posłaliście do Jana, a on dał świadectwo prawdzie.<verse eid="JHN 5:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 5:34" />Lecz ja nie przyjmuję świadectwa od człowieka, ale to mówię, abyście byli zbawieni.<verse eid="JHN 5:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 5:35" />On był płonącą i świecącą lampą, a wy chcieliście do czasu radować się w jego światłości.<verse eid="JHN 5:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 5:36" />Ale ja mam świadectwo większe niż Jana. Dzieła bowiem, które Ojciec dał mi do wykonania, te właśnie dzieła, które czynię, świadczą o mnie, że Ojciec mnie posłał.<verse eid="JHN 5:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 5:37" />A Ojciec, który mnie posłał, on świadczył o mnie. Nigdy nie słyszeliście jego głosu ani nie widzieliście jego postaci.<verse eid="JHN 5:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 5:38" />I nie macie jego słowa trwającego w was, bo temu, którego on posłał, nie wierzycie.<verse eid="JHN 5:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 5:39" />Badajcie Pisma; sądzicie bowiem, że w nich macie życie wieczne, a one dają świadectwo o mnie.<verse eid="JHN 5:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 5:40" />A jednak nie chcecie przyjść do mnie, aby mieć życie.<verse eid="JHN 5:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 5:41" />Nie przyjmuję chwały od ludzi.<verse eid="JHN 5:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 5:42" />Ale poznałem was, że nie macie w sobie miłości Boga.<verse eid="JHN 5:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="JHN 5:43" />Przyszedłem w imieniu mego Ojca, a nie przyjmujecie mnie. Jeśli ktoś inny przyjdzie we własnym imieniu, tego przyjmiecie.<verse eid="JHN 5:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="JHN 5:44" />Jakże możecie wierzyć, skoro przyjmujecie chwałę jedni od drugich, a nie szukacie chwały, która jest od samego Boga?<verse eid="JHN 5:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="JHN 5:45" />Nie sądźcie, że ja was będę oskarżał przed Ojcem. Jest ktoś, kto was oskarża, Mojżesz, w którym wy pokładacie nadzieję.<verse eid="JHN 5:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="JHN 5:46" />Bo gdybyście wierzyli Mojżeszowi, wierzylibyście i mnie, gdyż on pisał o mnie.<verse eid="JHN 5:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="JHN 5:47" />Jeśli jednak nie wierzycie jego pismom, jakże uwierzycie moim słowom?<verse eid="JHN 5:47" />
+  </para>
+  <chapter eid="JHN 5" />
+  <chapter number="6" style="c" sid="JHN 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 6:1" />Potem Jezus odszedł za Morze Galilejskie, czyli Tyberiadzkie.<verse eid="JHN 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 6:2" />A szedł za nim wielki tłum, bo widzieli cuda, które czynił na chorych.<verse eid="JHN 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 6:3" />I wszedł Jezus na górę, i usiadł tam ze swoimi uczniami.<verse eid="JHN 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 6:4" />A zbliżała się Pascha, święto żydowskie.<verse eid="JHN 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 6:5" />Wtedy Jezus, podniósłszy oczy i ujrzawszy, że mnóstwo ludzi idzie do niego, zapytał Filipa: Gdzie kupimy chleba, aby oni mogli jeść?<verse eid="JHN 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 6:6" />Ale mówił to, wystawiając go na próbę. Wiedział bowiem, co miał czynić.<verse eid="JHN 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 6:7" />Filip mu odpowiedział: Za dwieście groszy nie wystarczy dla nich chleba, choćby każdy z nich wziął tylko trochę.<verse eid="JHN 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 6:8" />Jeden z jego uczniów, Andrzej, brat Szymona Piotra, powiedział do niego:<verse eid="JHN 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 6:9" />Jest tu jeden chłopiec, który ma pięć chlebów jęczmiennych i dwie rybki. Ale cóż to jest na tak wielu?<verse eid="JHN 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 6:10" />Wtedy Jezus powiedział: Każcie ludziom usiąść. A było dużo trawy na tym miejscu. Usiedli więc mężczyźni w liczbie około pięciu tysięcy.<verse eid="JHN 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 6:11" />Wówczas Jezus wziął te chleby i podziękowawszy, rozdał uczniom, a uczniowie siedzącym. Podobnie i z tych rybek, ile tylko chcieli.<verse eid="JHN 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 6:12" />A gdy się nasycili, powiedział do swoich uczniów: Zbierzcie kawałki, które zostały, żeby nic nie przepadło.<verse eid="JHN 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 6:13" />Zebrali więc i napełnili dwanaście koszy kawałkami, które zostały z tych pięciu chlebów jęczmiennych po tych, którzy jedli.<verse eid="JHN 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 6:14" />A ci ludzie, ujrzawszy cud, który uczynił Jezus, mówili: To jest prawdziwie ten prorok, który miał przyjść na świat.<verse eid="JHN 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 6:15" />Wtedy Jezus, poznawszy, że mieli przyjść i porwać go, aby go obwołać królem, odszedł znowu sam jeden na górę.<verse eid="JHN 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 6:16" />A gdy był wieczór, jego uczniowie zeszli nad morze;<verse eid="JHN 6:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 6:17" />Wsiedli do łodzi i płynęli na drugi brzeg, do Kafarnaum. Było już ciemno, a Jezus jeszcze do nich nie przybył.<verse eid="JHN 6:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 6:18" />A kiedy powstał wielki wiatr, morze zaczęło się burzyć.<verse eid="JHN 6:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 6:19" />Gdy odpłynęli na około dwadzieścia pięć lub trzydzieści stadiów, ujrzeli Jezusa chodzącego po morzu i zbliżającego się do łodzi i zlękli się.<verse eid="JHN 6:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 6:20" />A on powiedział do nich: To ja jestem, nie bójcie się.<verse eid="JHN 6:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 6:21" />Wzięli go więc chętnie do łodzi i natychmiast łódź przypłynęła do ziemi, do której płynęli.<verse eid="JHN 6:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 6:22" />Nazajutrz ludzie, którzy byli po drugiej stronie morza, zobaczyli, że tam nie było innej łodzi, tylko ta jedna, do której wsiedli jego uczniowie, i że Jezus nie wsiadł do łodzi ze swoimi uczniami, ale jego uczniowie odpłynęli sami.<verse eid="JHN 6:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 6:23" />(Przypłynęły też inne łodzie z Tyberiady w pobliże tego miejsca, gdzie jedli chleb, gdy Pan złożył dziękczynienie.)<verse eid="JHN 6:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 6:24" />Gdy więc ludzie zobaczyli, że tam nie było Jezusa ani jego uczniów, wsiedli i oni do łodzi i przeprawili się do Kafarnaum, szukając Jezusa.<verse eid="JHN 6:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 6:25" />Kiedy znaleźli go po drugiej stronie morza, zapytali: Mistrzu, kiedy tu przybyłeś?<verse eid="JHN 6:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 6:26" />Jezus im odpowiedział: Zaprawdę, zaprawdę powiadam wam: Szukacie mnie nie dlatego, że widzieliście cuda, ale dlatego, że jedliście chleb i nasyciliście się.<verse eid="JHN 6:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 6:27" />Zabiegajcie nie o pokarm, który ginie, ale o pokarm, który trwa ku życiu wiecznemu, który wam da Syn Człowieczy. Jego bowiem zapieczętował Bóg Ojciec.<verse eid="JHN 6:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 6:28" />Wtedy zapytali go: Cóż mamy robić, abyśmy wykonywali dzieła Boga?<verse eid="JHN 6:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 6:29" />Odpowiedział im Jezus: To jest dzieło Boga, abyście wierzyli w tego, którego on posłał.<verse eid="JHN 6:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 6:30" />Powiedzieli mu więc: Jaki znak czynisz, abyśmy widzieli i wierzyli tobie? Cóż czynisz?<verse eid="JHN 6:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 6:31" />Nasi ojcowie jedli mannę na pustyni, jak jest napisane: Chleb z nieba dał im do jedzenia.<verse eid="JHN 6:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 6:32" />Wtedy Jezus im odpowiedział: Zaprawdę, zaprawdę powiadam wam: Nie Mojżesz dał wam chleb z nieba, ale mój Ojciec daje wam prawdziwy chleb z nieba.<verse eid="JHN 6:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 6:33" />Chlebem Boga bowiem jest ten, który zstępuje z nieba i daje światu życie.<verse eid="JHN 6:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 6:34" />Wtedy powiedzieli do niego: Panie, dawaj nam zawsze tego chleba.<verse eid="JHN 6:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 6:35" />I odpowiedział im Jezus: Ja jestem chlebem życia. Kto przychodzi do mnie, nie będzie głodny, a kto wierzy we mnie, nigdy nie będzie odczuwał pragnienia.<verse eid="JHN 6:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 6:36" />Ale wam powiedziałem: Chociaż widzieliście mnie, nie wierzycie.<verse eid="JHN 6:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 6:37" />Wszystko, co mi daje Ojciec, przyjdzie do mnie, a tego, który przyjdzie do mnie, nie wyrzucę precz.<verse eid="JHN 6:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 6:38" />Zstąpiłem bowiem z nieba nie po to, żeby czynić swoją wolę, ale wolę tego, który mnie posłał.<verse eid="JHN 6:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 6:39" />A to jest wola Ojca, który mnie posłał, abym nie stracił nic z tego wszystkiego, co mi dał, ale abym to wskrzesił w dniu ostatecznym.<verse eid="JHN 6:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 6:40" />I to jest wola tego, który mnie posłał, aby każdy, kto widzi Syna i wierzy w niego, miał życie wieczne, a ja go wskrzeszę w dniu ostatecznym.<verse eid="JHN 6:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 6:41" />Wtedy szemrali Żydzi o nim, bo powiedział: Ja jestem chlebem, który zstąpił z nieba.<verse eid="JHN 6:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 6:42" />I mówili: Czyż to nie jest Jezus, syn Józefa, którego ojca i matkę znamy? Jakże więc on może mówić: Zstąpiłem z nieba?<verse eid="JHN 6:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="JHN 6:43" />Wtedy Jezus im odpowiedział: Nie szemrajcie między sobą.<verse eid="JHN 6:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="JHN 6:44" />Nikt nie może przyjść do mnie, jeśli go nie pociągnie mój Ojciec, który mnie posłał. A ja go wskrzeszę w dniu ostatecznym.<verse eid="JHN 6:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="JHN 6:45" />Napisane jest u Proroków: I wszyscy będą wyuczeni przez Boga. Każdy więc, kto słyszał od Ojca i nauczył się, przychodzi do mnie.<verse eid="JHN 6:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="JHN 6:46" />Nie jakby ktoś widział Ojca, oprócz tego, który jest od Boga; ten widział Ojca.<verse eid="JHN 6:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="JHN 6:47" />Zaprawdę, zaprawdę powiadam wam: Kto wierzy we mnie, ma życie wieczne.<verse eid="JHN 6:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="JHN 6:48" />Ja jestem tym chlebem życia.<verse eid="JHN 6:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="JHN 6:49" />Wasi ojcowie jedli mannę na pustyni, a poumierali.<verse eid="JHN 6:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="JHN 6:50" />To jest ten chleb, który zstępuje z nieba, aby ten, kto go je, nie umarł.<verse eid="JHN 6:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="JHN 6:51" />Ja jestem chlebem żywym, który zstąpił z nieba. Jeśli ktoś będzie jadł z tego chleba, będzie żył na wieki. A chleb, który ja dam, to moje ciało, które ja dam za życie świata.<verse eid="JHN 6:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="JHN 6:52" />Żydzi więc sprzeczali się między sobą i mówili: Jakże on może dać nam swoje ciało do jedzenia?<verse eid="JHN 6:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="JHN 6:53" />I powiedział im Jezus: Zaprawdę, zaprawdę powiadam wam: Jeśli nie będziecie jeść ciała Syna Człowieczego i pić jego krwi, nie będziecie mieć życia w sobie.<verse eid="JHN 6:53" />
+  </para>
+  <para style="m">
+    <verse number="54" style="v" sid="JHN 6:54" />Kto je moje ciało i pije moją krew, ma życie wieczne, a ja go wskrzeszę w dniu ostatecznym.<verse eid="JHN 6:54" />
+  </para>
+  <para style="m">
+    <verse number="55" style="v" sid="JHN 6:55" />Moje ciało bowiem prawdziwie jest pokarmem, a moja krew prawdziwie jest napojem.<verse eid="JHN 6:55" />
+  </para>
+  <para style="m">
+    <verse number="56" style="v" sid="JHN 6:56" />Kto je moje ciało i pije moją krew, mieszka we mnie, a ja w nim.<verse eid="JHN 6:56" />
+  </para>
+  <para style="m">
+    <verse number="57" style="v" sid="JHN 6:57" />Jak mnie posłał żyjący Ojciec i ja żyję przez Ojca, tak kto mnie spożywa, będzie żył przeze mnie.<verse eid="JHN 6:57" />
+  </para>
+  <para style="m">
+    <verse number="58" style="v" sid="JHN 6:58" />To jest ten chleb, który zstąpił z nieba. Nie jak wasi ojcowie jedli mannę, a pomarli. Kto je ten chleb, będzie żył na wieki.<verse eid="JHN 6:58" />
+  </para>
+  <para style="m">
+    <verse number="59" style="v" sid="JHN 6:59" />To mówił w synagodze, nauczając w Kafarnaum.<verse eid="JHN 6:59" />
+  </para>
+  <para style="m">
+    <verse number="60" style="v" sid="JHN 6:60" />Wielu więc z jego uczniów, słysząc to, mówiło: Twarda to jest mowa, któż jej może słuchać?<verse eid="JHN 6:60" />
+  </para>
+  <para style="m">
+    <verse number="61" style="v" sid="JHN 6:61" />Ale Jezus świadomy tego, że jego uczniowie o tym szemrali, powiedział do nich: To was obraża?<verse eid="JHN 6:61" />
+  </para>
+  <para style="m">
+    <verse number="62" style="v" sid="JHN 6:62" />Cóż dopiero, gdybyście ujrzeli Syna Człowieczego wstępującego tam, gdzie był przedtem?<verse eid="JHN 6:62" />
+  </para>
+  <para style="m">
+    <verse number="63" style="v" sid="JHN 6:63" />Duch jest tym, który ożywia, ciało nic nie pomaga. Słowa, które ja wam mówię, są duchem i są życiem.<verse eid="JHN 6:63" />
+  </para>
+  <para style="m">
+    <verse number="64" style="v" sid="JHN 6:64" />Lecz są wśród was tacy, którzy nie wierzą. Jezus wiedział bowiem od początku, którzy nie wierzyli i kto miał go zdradzić.<verse eid="JHN 6:64" />
+  </para>
+  <para style="m">
+    <verse number="65" style="v" sid="JHN 6:65" />I mówił: Dlatego wam powiedziałem, że nikt nie może przyjść do mnie, jeśli mu to nie jest dane od mojego Ojca.<verse eid="JHN 6:65" />
+  </para>
+  <para style="m">
+    <verse number="66" style="v" sid="JHN 6:66" />Od tego czasu wielu jego uczniów zawróciło i więcej z nim nie chodziło.<verse eid="JHN 6:66" />
+  </para>
+  <para style="m">
+    <verse number="67" style="v" sid="JHN 6:67" />Wtedy Jezus powiedział do dwunastu: Czy i wy chcecie odejść?<verse eid="JHN 6:67" />
+  </para>
+  <para style="m">
+    <verse number="68" style="v" sid="JHN 6:68" />I odpowiedział mu Szymon Piotr: Panie, do kogo pójdziemy? Ty masz słowa życia wiecznego.<verse eid="JHN 6:68" />
+  </para>
+  <para style="m">
+    <verse number="69" style="v" sid="JHN 6:69" />A my uwierzyliśmy i poznaliśmy, że ty jesteś Chrystusem, Synem Boga żywego.<verse eid="JHN 6:69" />
+  </para>
+  <para style="m">
+    <verse number="70" style="v" sid="JHN 6:70" />Jezus im odpowiedział: Czy ja nie wybrałem was dwunastu? A jeden z was jest diabłem.<verse eid="JHN 6:70" />
+  </para>
+  <para style="m">
+    <verse number="71" style="v" sid="JHN 6:71" />A to mówił o Judaszu Iskariocie, synu Szymona, bo on miał go zdradzić, będąc jednym z dwunastu.<verse eid="JHN 6:71" />
+  </para>
+  <chapter eid="JHN 6" />
+  <chapter number="7" style="c" sid="JHN 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 7:1" />A potem Jezus chodził po Galilei. Nie chciał bowiem przebywać w Judei, bo Żydzi szukali sposobności, aby go zabić.<verse eid="JHN 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 7:2" />I zbliżało się żydowskie Święto Namiotów.<verse eid="JHN 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 7:3" />Wtedy jego bracia powiedzieli do niego: Odejdź stąd i idź do Judei, żeby twoi uczniowie widzieli dzieła, których dokonujesz.<verse eid="JHN 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 7:4" />Nikt bowiem nie czyni nic w ukryciu, jeśli chce być znany. Dlatego ty, jeśli takie rzeczy czynisz, objaw się światu.<verse eid="JHN 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 7:5" />Bo nawet jego bracia nie wierzyli w niego.<verse eid="JHN 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 7:6" />I powiedział do nich Jezus: Mój czas jeszcze nie nadszedł, ale wasz czas zawsze jest w pogotowiu.<verse eid="JHN 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 7:7" />Świat nie może was nienawidzić, ale mnie nienawidzi, bo ja świadczę o nim, że jego uczynki są złe.<verse eid="JHN 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 7:8" />Wy idźcie na święto, ja jeszcze nie pójdę na to święto, bo mój czas jeszcze się nie wypełnił.<verse eid="JHN 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 7:9" />Powiedziawszy im to, pozostał w Galilei.<verse eid="JHN 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 7:10" />A gdy jego bracia poszli, wtedy i on poszedł na święto, nie jawnie, ale jakby potajemnie.<verse eid="JHN 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 7:11" />A Żydzi szukali go podczas święta i mówili: Gdzie on jest?<verse eid="JHN 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 7:12" />I wiele szemrało się o nim wśród ludzi, bo jedni mówili: Jest dobry. A inni mówili: Przeciwnie, zwodzi ludzi.<verse eid="JHN 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 7:13" />Nikt jednak nie mówił o nim jawnie z obawy przed Żydami.<verse eid="JHN 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 7:14" />A gdy już minęła połowa święta, Jezus wszedł do świątyni i nauczał.<verse eid="JHN 7:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 7:15" />I dziwili się Żydzi, mówiąc: Skąd on zna Pismo, skoro się nie uczył?<verse eid="JHN 7:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 7:16" />Odpowiedział im Jezus: Moja nauka nie jest moją, ale tego, który mnie posłał.<verse eid="JHN 7:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 7:17" />Jeśli ktoś chce wypełniać jego wolę, ten będzie umiał rozeznać, czy ta nauka jest od Boga, czy ja mówię sam od siebie.<verse eid="JHN 7:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 7:18" />Kto mówi z samego siebie, szuka własnej chwały. Kto zaś szuka chwały tego, który go posłał, ten jest prawdziwy i nie ma w nim niesprawiedliwości.<verse eid="JHN 7:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 7:19" />Czy Mojżesz nie dał wam prawa? A żaden z was nie przestrzega prawa. Dlaczego chcecie mnie zabić?<verse eid="JHN 7:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 7:20" />Odpowiedzieli ludzie: Masz demona. Kto chce cię zabić?<verse eid="JHN 7:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 7:21" />Jezus im odpowiedział: Jeden uczynek spełniłem, a wszyscy się temu dziwicie.<verse eid="JHN 7:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 7:22" />Przecież Mojżesz dał wam obrzezanie (nie jakoby było od Mojżesza, ale od ojców), a w szabat obrzezujecie człowieka.<verse eid="JHN 7:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 7:23" />Jeśli człowiek przyjmuje obrzezanie w szabat, aby nie było złamane Prawo Mojżesza, to dlaczego gniewacie się na mnie, że w szabat całkowicie uzdrowiłem człowieka?<verse eid="JHN 7:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 7:24" />Nie sądźcie po pozorach, ale sądźcie sprawiedliwym sądem.<verse eid="JHN 7:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 7:25" />Wtedy niektórzy z mieszkańców Jerozolimy mówili: Czy to nie jest ten, którego chcą zabić?<verse eid="JHN 7:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 7:26" />A oto jawnie przemawia i nic mu nie mówią. Czy przełożeni rzeczywiście poznali, że to jest prawdziwie Chrystus?<verse eid="JHN 7:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 7:27" />Ale wiemy, skąd on pochodzi, lecz gdy Chrystus przyjdzie, nikt nie będzie wiedział, skąd jest.<verse eid="JHN 7:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 7:28" />Wtedy Jezus, nauczając w świątyni, wołał: I znacie mnie, i wiecie, skąd jestem. A ja nie przyszedłem sam od siebie, ale prawdziwy jest ten, który mnie posłał, którego wy nie znacie.<verse eid="JHN 7:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 7:29" />Lecz ja go znam, bo od niego jestem i on mnie posłał.<verse eid="JHN 7:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 7:30" />I usiłowali go schwytać, ale nikt nie podniósł na niego ręki, bo jeszcze nie nadeszła jego godzina.<verse eid="JHN 7:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 7:31" />A wielu z ludu uwierzyło w niego i mówiło: Gdy Chrystus przyjdzie, czyż uczyni więcej cudów, niż on uczynił?<verse eid="JHN 7:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 7:32" />Faryzeusze słyszeli, że tak ludzie o nim szemrali. I faryzeusze i naczelni kapłani posłali sługi, aby go schwytać.<verse eid="JHN 7:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 7:33" />Wtedy Jezus powiedział im: Jeszcze krótki czas jestem z wami, potem odejdę do tego, który mnie posłał.<verse eid="JHN 7:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 7:34" />Będziecie mnie szukać, ale nie znajdziecie, a gdzie ja będę, wy przyjść nie możecie.<verse eid="JHN 7:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 7:35" />Wówczas Żydzi mówili między sobą: Dokąd on pójdzie, że go nie znajdziemy? Czy pójdzie do rozproszonych wśród pogan i będzie nauczał pogan?<verse eid="JHN 7:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 7:36" />Cóż to za słowo, które wypowiedział: Będziecie mnie szukać, ale nie znajdziecie, a gdzie ja będę, wy przyjść nie możecie?<verse eid="JHN 7:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 7:37" />A w ostatnim, wielkim dniu tego święta, Jezus stanął i wołał: Jeśli ktoś pragnie, niech przyjdzie do mnie i pije.<verse eid="JHN 7:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 7:38" />Kto wierzy we mnie, jak mówi Pismo, rzeki wody żywej popłyną z jego wnętrza.<verse eid="JHN 7:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 7:39" />A to mówił o Duchu, którego mieli otrzymać wierzący w niego. Duch Święty bowiem jeszcze nie był dany, ponieważ Jezus nie został jeszcze uwielbiony.<verse eid="JHN 7:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 7:40" />Wielu więc z tych ludzi, słysząc te słowa, mówiło: To jest prawdziwie ten prorok.<verse eid="JHN 7:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 7:41" />A inni mówili: To jest Chrystus. Lecz niektórzy mówili: Czyż Chrystus przyjdzie z Galilei?<verse eid="JHN 7:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 7:42" />Czyż Pismo nie mówi, że Chrystus przyjdzie z potomstwa Dawida i z miasteczka Betlejem, gdzie mieszkał Dawid?<verse eid="JHN 7:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="JHN 7:43" />I tak z jego powodu nastąpił rozłam wśród ludu.<verse eid="JHN 7:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="JHN 7:44" />I niektórzy z nich chcieli go schwytać, ale nikt nie podniósł na niego ręki.<verse eid="JHN 7:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="JHN 7:45" />Wtedy słudzy wrócili do naczelnych kapłanów i do faryzeuszy, którzy ich zapytali: Dlaczego go nie przyprowadziliście?<verse eid="JHN 7:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="JHN 7:46" />Słudzy odpowiedzieli: Nikt nigdy nie mówił tak, jak ten człowiek.<verse eid="JHN 7:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="JHN 7:47" />I odpowiedzieli im faryzeusze: Czy i wy jesteście zwiedzeni?<verse eid="JHN 7:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="JHN 7:48" />Czy ktoś z przełożonych albo z faryzeuszy uwierzył w niego?<verse eid="JHN 7:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="JHN 7:49" />A to pospólstwo, które nie zna prawa, jest przeklęte.<verse eid="JHN 7:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="JHN 7:50" />Jeden z nich, Nikodem, ten, który przyszedł w nocy do niego, powiedział im:<verse eid="JHN 7:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="JHN 7:51" />Czy nasze prawo potępia człowieka, zanim go najpierw nie wysłucha i nie zbada, co czyni?<verse eid="JHN 7:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="JHN 7:52" />A oni mu odpowiedzieli: Czy i ty jesteś Galilejczykiem? Zbadaj i zobacz, że żaden prorok nie powstał z Galilei.<verse eid="JHN 7:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="JHN 7:53" />I poszedł każdy do swego domu.<verse eid="JHN 7:53" />
+  </para>
+  <chapter eid="JHN 7" />
+  <chapter number="8" style="c" sid="JHN 8" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 8:1" />A Jezus poszedł na Górę Oliwną.<verse eid="JHN 8:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 8:2" />Potem znowu wcześnie rano przyszedł do świątyni, a cały lud zszedł się do niego. I siadłszy, nauczał ich.<verse eid="JHN 8:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 8:3" />I przyprowadzili do niego uczeni w Piśmie i faryzeusze kobietę przyłapaną na cudzołóstwie, a postawiwszy ją pośrodku;<verse eid="JHN 8:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 8:4" />Powiedzieli do niego: Nauczycielu, tę kobietę przyłapano na uczynku cudzołóstwa.<verse eid="JHN 8:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 8:5" />W prawie Mojżesz nakazał nam takie kamienować. A ty co mówisz?<verse eid="JHN 8:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 8:6" />A mówili to, wystawiając go na próbę, aby mogli go oskarżyć. Jezus zaś, schyliwszy się, pisał palcem po ziemi.<verse eid="JHN 8:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 8:7" />A gdy nie przestawali go pytać, podniósł się i powiedział do nich: Kto z was jest bez grzechu, niech pierwszy rzuci w nią kamieniem.<verse eid="JHN 8:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 8:8" />I znowu schyliwszy się, pisał po ziemi.<verse eid="JHN 8:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 8:9" />A gdy oni to usłyszeli, będąc przekonani przez sumienie, odchodzili jeden po drugim, począwszy od starszych aż do ostatnich. Pozostał tylko sam Jezus i ta kobieta stojąca pośrodku.<verse eid="JHN 8:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 8:10" />A Jezus podniósł się i nie widząc nikogo oprócz tej kobiety, powiedział do niej: Kobieto, gdzież są ci, którzy cię oskarżali? Nikt cię nie potępił?<verse eid="JHN 8:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 8:11" />Ona odpowiedziała: Nikt, Panie. A Jezus powiedział do niej: I ja ciebie nie potępiam. Idź i już więcej nie grzesz.<verse eid="JHN 8:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 8:12" />Jezus znowu powiedział do nich: Ja jestem światłością świata. Kto idzie za mną, nie będzie chodził w ciemności, ale będzie miał światłość życia.<verse eid="JHN 8:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 8:13" />Powiedzieli więc do niego faryzeusze: Ty świadczysz sam o sobie, a twoje świadectwo nie jest prawdziwe.<verse eid="JHN 8:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 8:14" />Odpowiedział im Jezus: Chociaż ja świadczę sam o sobie, jednak moje świadectwo jest prawdziwe, bo wiem, skąd przyszedłem i dokąd idę. Lecz wy nie wiecie, skąd przyszedłem i dokąd idę.<verse eid="JHN 8:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 8:15" />Wy sądzicie według ciała, ale ja nie sądzę nikogo.<verse eid="JHN 8:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 8:16" />A choćbym i sądził, mój sąd jest prawdziwy, bo nie jestem sam, ale jestem ja i Ojciec, który mnie posłał.<verse eid="JHN 8:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 8:17" />A w waszym Prawie jest napisane, że świadectwo dwóch ludzi jest prawdziwe.<verse eid="JHN 8:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 8:18" />Ja jestem tym, który świadczy sam o sobie i świadczy o mnie Ojciec, który mnie posłał.<verse eid="JHN 8:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 8:19" />Wtedy zapytali go: Gdzie jest twój Ojciec? Jezus odpowiedział: Nie znacie ani mnie, ani mego Ojca. Gdybyście mnie znali, znalibyście i mego Ojca.<verse eid="JHN 8:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 8:20" />Te słowa mówił Jezus w skarbcu, nauczając w świątyni, a nikt go nie schwytał, bo jeszcze nie nadeszła jego godzina.<verse eid="JHN 8:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 8:21" />Wówczas Jezus znowu powiedział do nich: Ja odchodzę, a wy będziecie mnie szukać i umrzecie w swoim grzechu. Gdzie ja idę, wy przyjść nie możecie.<verse eid="JHN 8:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 8:22" />Wtedy Żydzi mówili: Czyż sam się zabije, skoro mówi: Gdzie ja idę, wy przyjść nie możecie?<verse eid="JHN 8:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 8:23" />I powiedział do nich: Wy jesteście z niskości, a ja jestem z wysoka. Wy jesteście z tego świata, ja zaś nie jestem z tego świata.<verse eid="JHN 8:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 8:24" />Dlatego wam powiedziałem, że umrzecie w swoich grzechach. Bo jeśli nie uwierzycie, że ja jestem, umrzecie w swoich grzechach.<verse eid="JHN 8:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 8:25" />Wtedy zapytali go: Kim ty jesteś? I odpowiedział im Jezus: Tym, kim wam od początku mówię.<verse eid="JHN 8:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 8:26" />Wiele mam o was do powiedzenia i do sądzenia. Ale ten, który mnie posłał, jest prawdziwy, a ja mówię na świecie to, co od niego słyszałem.<verse eid="JHN 8:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 8:27" />Nie zrozumieli jednak, że mówił im o Ojcu.<verse eid="JHN 8:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 8:28" />Dlatego Jezus powiedział do nich: Gdy wywyższycie Syna Człowieczego, wtedy poznacie, że ja jestem, a nie czynię nic sam od siebie, ale mówię to, czego mnie nauczył mój Ojciec.<verse eid="JHN 8:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 8:29" />A ten, który mnie posłał, jest ze mną. Ojciec nie zostawił mnie samego, bo ja zawsze czynię to, co mu się podoba.<verse eid="JHN 8:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 8:30" />Gdy to mówił, wielu uwierzyło w niego.<verse eid="JHN 8:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 8:31" />Wtedy Jezus mówił do tych Żydów, którzy mu uwierzyli: Jeśli będziecie trwać w moim słowie, będziecie prawdziwie moimi uczniami.<verse eid="JHN 8:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 8:32" />I poznacie prawdę, a prawda was wyzwoli.<verse eid="JHN 8:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 8:33" />Odpowiedzieli mu: My jesteśmy potomstwem Abrahama i nigdy nie służyliśmy nikomu. Jakże możesz mówić: Będziecie wolni?<verse eid="JHN 8:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 8:34" />Jezus im odpowiedział: Zaprawdę, zaprawdę powiadam wam, że każdy, kto popełnia grzech, jest sługą grzechu.<verse eid="JHN 8:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 8:35" />A sługa nie mieszka w domu na wieki, lecz Syn mieszka na wieki.<verse eid="JHN 8:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 8:36" />Jeśli więc Syn was wyzwoli, będziecie prawdziwie wolni.<verse eid="JHN 8:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 8:37" />Wiem, że jesteście potomstwem Abrahama, lecz usiłujecie mnie zabić, bo moje słowo nie znajduje w was miejsca.<verse eid="JHN 8:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 8:38" />Ja mówię to, co widziałem u mego Ojca, a wy też robicie to, co widzieliście u waszego ojca.<verse eid="JHN 8:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 8:39" />Odpowiedzieli mu: Naszym ojcem jest Abraham. Jezus im powiedział: Gdybyście byli synami Abrahama, spełnialibyście uczynki Abrahama.<verse eid="JHN 8:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 8:40" />Lecz teraz usiłujecie mnie zabić, człowieka, który wam mówił prawdę, którą słyszał od Boga. Tego Abraham nie robił.<verse eid="JHN 8:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 8:41" />Wy spełniacie uczynki waszego ojca. Wtedy powiedzieli mu: My nie jesteśmy spłodzeni z nierządu. Mamy jednego Ojca – Boga.<verse eid="JHN 8:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 8:42" />Jezus im powiedział: Gdyby Bóg był waszym Ojcem, miłowalibyście mnie, gdyż ja od Boga wyszedłem i przyszedłem, a nie przyszedłem sam od siebie, ale on mnie posłał.<verse eid="JHN 8:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="JHN 8:43" />Dlaczego nie pojmujecie tego, co mówię? Dlatego że nie możecie słuchać mojego słowa.<verse eid="JHN 8:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="JHN 8:44" />Wy jesteście z waszego ojca – diabła i chcecie spełniać pożądliwości waszego ojca. On był mordercą od początku i nie został w prawdzie, bo nie ma w nim prawdy. Gdy mówi kłamstwo, mówi od siebie, bo jest kłamcą i ojcem kłamstwa.<verse eid="JHN 8:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="JHN 8:45" />A ponieważ ja mówię prawdę, nie wierzycie mi.<verse eid="JHN 8:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="JHN 8:46" />Któż z was obwini mnie o grzech? Jeśli mówię prawdę, dlaczego mi nie wierzycie?<verse eid="JHN 8:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="JHN 8:47" />Kto jest z Boga, słucha słów Bożych. Wy dlatego nie słuchacie, że nie jesteście z Boga.<verse eid="JHN 8:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="JHN 8:48" />Wtedy Żydzi mu odpowiedzieli: Czy nie dobrze mówimy, że jesteś Samarytaninem i masz demona?<verse eid="JHN 8:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="JHN 8:49" />Jezus odpowiedział: Ja nie mam demona, ale czczę mego Ojca, a wy mnie znieważacie.<verse eid="JHN 8:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="JHN 8:50" />Ja nie szukam swojej chwały. Jest ktoś, kto szuka i sądzi.<verse eid="JHN 8:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="JHN 8:51" />Zaprawdę, zaprawdę powiadam wam: Jeśli ktoś będzie zachowywał moje słowa, nigdy nie ujrzy śmierci.<verse eid="JHN 8:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="JHN 8:52" />Wtedy Żydzi powiedzieli do niego: Teraz wiemy, że masz demona. Abraham umarł i prorocy, a ty mówisz: Jeśli ktoś będzie zachowywał moje słowa, nigdy nie skosztuje śmierci.<verse eid="JHN 8:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="JHN 8:53" />Czy ty jesteś większy od naszego ojca Abrahama, który umarł? I prorocy poumierali. Kim ty się czynisz?<verse eid="JHN 8:53" />
+  </para>
+  <para style="m">
+    <verse number="54" style="v" sid="JHN 8:54" />Jezus odpowiedział: Jeśli ja sam siebie chwalę, moja chwała jest niczym. Mój Ojciec jest tym, który mnie chwali, o którym wy mówicie, że jest waszym Bogiem.<verse eid="JHN 8:54" />
+  </para>
+  <para style="m">
+    <verse number="55" style="v" sid="JHN 8:55" />Lecz nie znacie go, a ja go znam. I jeślibym powiedział, że go nie znam, byłbym podobnym do was kłamcą. Ale znam go i zachowuję jego słowa.<verse eid="JHN 8:55" />
+  </para>
+  <para style="m">
+    <verse number="56" style="v" sid="JHN 8:56" />Abraham, wasz ojciec, z radością pragnął ujrzeć mój dzień. I ujrzał, i radował się.<verse eid="JHN 8:56" />
+  </para>
+  <para style="m">
+    <verse number="57" style="v" sid="JHN 8:57" />Wówczas Żydzi powiedzieli do niego: Pięćdziesięciu lat jeszcze nie masz, a Abrahama widziałeś?<verse eid="JHN 8:57" />
+  </para>
+  <para style="m">
+    <verse number="58" style="v" sid="JHN 8:58" />Jezus im odpowiedział: Zaprawdę, zaprawdę powiadam wam: Zanim Abraham był, ja jestem.<verse eid="JHN 8:58" />
+  </para>
+  <para style="m">
+    <verse number="59" style="v" sid="JHN 8:59" />Wtedy porwali kamienie, aby w niego rzucać. Jezus jednak ukrył się i wyszedł ze świątyni, przechodząc między nimi, i tak odszedł.<verse eid="JHN 8:59" />
+  </para>
+  <chapter eid="JHN 8" />
+  <chapter number="9" style="c" sid="JHN 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 9:1" />A przechodząc, zobaczył człowieka ślepego od urodzenia.<verse eid="JHN 9:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 9:2" />I pytali go jego uczniowie: Mistrzu, kto zgrzeszył, on czy jego rodzice, że się urodził ślepy?<verse eid="JHN 9:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 9:3" />Jezus odpowiedział: Ani on nie zgrzeszył, ani jego rodzice, ale stało się tak, żeby się na nim objawiły dzieła Boga.<verse eid="JHN 9:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 9:4" />Ja muszę wykonywać dzieła tego, który mnie posłał, dopóki jest dzień. Nadchodzi noc, gdy nikt nie będzie mógł działać.<verse eid="JHN 9:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 9:5" />Dopóki jestem na świecie, jestem światłością świata.<verse eid="JHN 9:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 9:6" />To powiedziawszy, splunął na ziemię, zrobił błoto ze śliny i pomazał tym błotem oczy ślepego.<verse eid="JHN 9:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 9:7" />I powiedział do niego: Idź, umyj się w sadzawce Siloam – co się tłumaczy: Posłany. Poszedł więc, umył się i wrócił, widząc.<verse eid="JHN 9:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 9:8" />A sąsiedzi i ci, którzy go przedtem widywali ślepego, mówili: Czy to nie jest ten, który siadał i żebrał?<verse eid="JHN 9:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 9:9" />Jedni mówili: To on. A inni: Jest do niego podobny. Lecz on mówił: To ja jestem.<verse eid="JHN 9:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 9:10" />Wtedy zapytali go: Jak zostały otworzone twoje oczy?<verse eid="JHN 9:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 9:11" />A on odpowiedział: Człowiek, którego nazywają Jezusem, zrobił błoto, pomazał moje oczy i powiedział do mnie: Idź do sadzawki Siloam i umyj się. Poszedłem więc, umyłem się i przejrzałem.<verse eid="JHN 9:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 9:12" />Wtedy zapytali go: Gdzież on jest? Odpowiedział: Nie wiem.<verse eid="JHN 9:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 9:13" />Przyprowadzili więc do faryzeuszy tego, który przedtem był ślepy.<verse eid="JHN 9:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 9:14" />A tego dnia, gdy Jezus zrobił błoto i otworzył jego oczy, był szabat.<verse eid="JHN 9:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 9:15" />Wówczas również faryzeusze pytali go, w jaki sposób przejrzał. A on im odpowiedział: Nałożył mi błoto na oczy, umyłem się i widzę.<verse eid="JHN 9:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 9:16" />Wtedy niektórzy z faryzeuszy powiedzieli: Ten człowiek nie jest z Boga, bo nie przestrzega szabatu. Inni natomiast mówili: Jak może grzeszny człowiek czynić takie cuda? I nastąpił wśród nich rozłam.<verse eid="JHN 9:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 9:17" />Zapytali więc znowu ślepego: Co mówisz o nim, skoro otworzył twoje oczy? A on odpowiedział: Jest prorokiem.<verse eid="JHN 9:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 9:18" />A Żydzi nie wierzyli, że był ślepy i odzyskał wzrok, aż zawołali rodziców tego, który przejrzał.<verse eid="JHN 9:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 9:19" />I pytali ich: Czy to jest wasz syn, o którym mówicie, że się urodził ślepy? Jakże więc teraz widzi?<verse eid="JHN 9:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 9:20" />Odpowiedzieli im jego rodzice: Wiemy, że to jest nasz syn i że się urodził ślepy.<verse eid="JHN 9:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 9:21" />Lecz jakim sposobem teraz widzi, nie wiemy, ani kto otworzył jego oczy, nie wiemy. Ma swoje lata, pytajcie go, on sam o sobie powie.<verse eid="JHN 9:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 9:22" />Tak mówili jego rodzice, bo bali się Żydów. Żydzi bowiem już postanowili, że każdy, kto wyzna, iż on jest Chrystusem, będzie wyłączony z synagogi.<verse eid="JHN 9:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 9:23" />Dlatego jego rodzice powiedzieli: Ma swoje lata, jego pytajcie.<verse eid="JHN 9:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 9:24" />Wtedy znowu zawołali tego człowieka, który był ślepy i powiedzieli do niego: Oddaj chwałę Bogu. My wiemy, że ten człowiek jest grzeszny.<verse eid="JHN 9:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 9:25" />A on odpowiedział: Czy jest grzeszny, nie wiem. To tylko wiem, że byłem ślepy, a teraz widzę.<verse eid="JHN 9:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 9:26" />I zapytali go znowu: Cóż ci uczynił? Jak otworzył twoje oczy?<verse eid="JHN 9:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 9:27" />Odpowiedział im: Już wam powiedziałem, a nie słuchaliście. Dlaczego jeszcze chcecie słuchać? Czy i wy chcecie być jego uczniami?<verse eid="JHN 9:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 9:28" />Wtedy złorzeczyli mu i powiedzieli: Ty bądź sobie jego uczniem, my zaś jesteśmy uczniami Mojżesza.<verse eid="JHN 9:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 9:29" />My wiemy, że Bóg mówił do Mojżesza, lecz skąd on jest, nie wiemy.<verse eid="JHN 9:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 9:30" />Odpowiedział im ten człowiek: To naprawdę rzecz dziwna, że wy nie wiecie, skąd jest, a otworzył moje oczy.<verse eid="JHN 9:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 9:31" />A wiemy, że Bóg nie wysłuchuje grzeszników, ale jeśli ktoś jest czcicielem Boga i wypełnia jego wolę, tego wysłuchuje.<verse eid="JHN 9:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 9:32" />Od wieków nie słyszano, aby ktoś otworzył oczy ślepego od urodzenia.<verse eid="JHN 9:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 9:33" />Gdyby on nie był od Boga, nie mógłby nic uczynić.<verse eid="JHN 9:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 9:34" />Odpowiedzieli mu: Urodziłeś się cały w grzechach i ty nas uczysz? I wypędzili go precz.<verse eid="JHN 9:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 9:35" />A gdy Jezus usłyszał, że go wypędzili, znalazł go i zapytał: Czy wierzysz w Syna Bożego?<verse eid="JHN 9:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 9:36" />A on odpowiedział: A któż to jest, Panie, abym w niego wierzył?<verse eid="JHN 9:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 9:37" />I powiedział do niego Jezus: I widziałeś go, i ten, który mówi z tobą, jest nim.<verse eid="JHN 9:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 9:38" />A on powiedział: Wierzę, Panie! I oddał mu pokłon.<verse eid="JHN 9:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 9:39" />Jezus mu powiedział: Przyszedłem na ten świat na sąd, aby ci, którzy nie widzą, widzieli, a ci, którzy widzą, stali się ślepi.<verse eid="JHN 9:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 9:40" />I usłyszeli to niektórzy z faryzeuszy, którzy z nim byli, i zapytali go: Czy i my jesteśmy ślepi?<verse eid="JHN 9:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 9:41" />Jezus im odpowiedział: Gdybyście byli ślepi, nie mielibyście grzechu, lecz teraz mówicie: Widzimy – dlatego wasz grzech pozostaje.<verse eid="JHN 9:41" />
+  </para>
+  <chapter eid="JHN 9" />
+  <chapter number="10" style="c" sid="JHN 10" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 10:1" />Zaprawdę, zaprawdę powiadam wam: Kto nie wchodzi do owczarni drzwiami, ale wchodzi inną drogą, ten jest złodziejem i bandytą.<verse eid="JHN 10:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 10:2" />Lecz kto wchodzi drzwiami, jest pasterzem owiec.<verse eid="JHN 10:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 10:3" />Temu odźwierny otwiera i owce słuchają jego głosu, a on woła swoje własne owce po imieniu i wyprowadza je.<verse eid="JHN 10:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 10:4" />A gdy wypuści swoje owce, idzie przed nimi, a owce idą za nim, bo znają jego głos.<verse eid="JHN 10:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 10:5" />Ale za obcym nie idą, lecz uciekają od niego, bo nie znają głosu obcych.<verse eid="JHN 10:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 10:6" />Tę przypowieść powiedział im Jezus, lecz oni nie zrozumieli tego, co im mówił.<verse eid="JHN 10:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 10:7" />Wtedy Jezus znowu powiedział do nich: Zaprawdę, zaprawdę powiadam wam: Ja jestem drzwiami dla owiec.<verse eid="JHN 10:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 10:8" />Wszyscy, ilu ich przede mną przyszło, są złodziejami i bandytami, ale owce ich nie słuchały.<verse eid="JHN 10:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 10:9" />Ja jestem drzwiami. Jeśli ktoś wejdzie przeze mnie, będzie zbawiony; wejdzie i wyjdzie, i znajdzie pastwisko.<verse eid="JHN 10:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 10:10" />Złodziej przychodzi tylko po to, żeby kraść, zabijać i niszczyć. Ja przyszedłem, aby miały życie i aby miały je w obfitości.<verse eid="JHN 10:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 10:11" />Ja jestem dobrym pasterzem. Dobry pasterz oddaje swoje życie za owce.<verse eid="JHN 10:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 10:12" />Lecz najemnik, który nie jest pasterzem, do którego owce nie należą, widząc nadchodzącego wilka, opuszcza owce i ucieka, a wilk porywa i rozprasza owce.<verse eid="JHN 10:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 10:13" />Najemnik ucieka, bo jest najemnikiem i nie troszczy się o owce.<verse eid="JHN 10:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 10:14" />Ja jestem dobrym pasterzem i znam moje owce, a moje mnie znają.<verse eid="JHN 10:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 10:15" />Jak mnie zna Ojciec, i ja znam Ojca; i oddaję moje życie za owce.<verse eid="JHN 10:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 10:16" />A mam także inne owce, które nie są z tej owczarni. Również te muszę przyprowadzić i będą słuchać mego głosu, i będzie jedna owczarnia i jeden pasterz.<verse eid="JHN 10:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 10:17" />Dlatego Ojciec mnie miłuje, bo ja oddaję swoje życie, aby je znowu wziąć.<verse eid="JHN 10:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 10:18" />Nikt mi go nie odbiera, ale ja oddaję je sam z siebie. Mam moc je oddać i mam moc znowu je wziąć. Ten nakaz otrzymałem od mego Ojca.<verse eid="JHN 10:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 10:19" />Wtedy znowu nastąpił rozłam wśród Żydów z powodu tych słów.<verse eid="JHN 10:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 10:20" />I wielu z nich mówiło: Ma demona i szaleje. Czemu go słuchacie?<verse eid="JHN 10:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 10:21" />Inni mówili: To nie są słowa człowieka mającego demona. Czy demon może otwierać oczy ślepych?<verse eid="JHN 10:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 10:22" />Była wtedy w Jerozolimie uroczystość poświęcenia świątyni. A była zima.<verse eid="JHN 10:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 10:23" />I przechadzał się Jezus w świątyni, w przedsionku Salomona.<verse eid="JHN 10:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 10:24" />Wtedy Żydzi obstąpili go i zapytali: Jak długo będziesz nas trzymał w niepewności? Jeśli ty jesteś Chrystusem, powiedz nam otwarcie.<verse eid="JHN 10:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 10:25" />Jezus im odpowiedział: Powiedziałem wam, a nie wierzycie. Dzieła, które wykonuję w imieniu mego Ojca, one świadczą o mnie.<verse eid="JHN 10:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 10:26" />Ale wy nie wierzycie, bo nie jesteście z moich owiec, jak wam powiedziałem.<verse eid="JHN 10:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 10:27" />Moje owce słuchają mego głosu i ja je znam, a one idą za mną.<verse eid="JHN 10:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 10:28" />A ja daję im życie wieczne i nigdy nie zginą ani nikt nie wydrze ich z mojej ręki.<verse eid="JHN 10:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 10:29" />Mój Ojciec, który mi je dał, większy jest od wszystkich i nikt nie może wydrzeć ich z ręki mego Ojca.<verse eid="JHN 10:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 10:30" />Ja i Ojciec jedno jesteśmy.<verse eid="JHN 10:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 10:31" />Wtedy Żydzi znowu porwali kamienie, aby go ukamienować.<verse eid="JHN 10:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 10:32" />Jezus powiedział do nich: Ukazałem wam wiele dobrych uczynków od mego Ojca. Za który z tych uczynków mnie kamienujecie?<verse eid="JHN 10:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 10:33" />Odpowiedzieli mu Żydzi: Nie kamienujemy cię za dobry uczynek, ale za bluźnierstwo, to znaczy, że ty, będąc człowiekiem, czynisz samego siebie Bogiem.<verse eid="JHN 10:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 10:34" />Jezus im odpowiedział: Czy nie jest napisane w waszym Prawie: Ja powiedziałem: Jesteście bogami?<verse eid="JHN 10:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 10:35" />Jeśli nazwał bogami tych, do których doszło słowo Boże, a Pismo nie może być naruszone;<verse eid="JHN 10:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 10:36" />To jakże do mnie, którego Ojciec uświęcił i posłał na świat, mówicie: Bluźnisz, bo powiedziałem: Jestem Synem Bożym?<verse eid="JHN 10:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 10:37" />Jeśli nie wykonuję dzieł mego Ojca, nie wierzcie mi.<verse eid="JHN 10:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 10:38" />A jeśli wykonuję, choćbyście mnie nie wierzyli, wierzcie uczynkom, abyście poznali i uwierzyli, że Ojciec jest we mnie, a ja w nim.<verse eid="JHN 10:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 10:39" />Znowu więc usiłowali go schwytać, ale wymknął się im z rąk.<verse eid="JHN 10:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 10:40" />I ponownie odszedł za Jordan, na miejsce, gdzie przedtem Jan chrzcił, i tam przebywał.<verse eid="JHN 10:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 10:41" />A wielu przychodziło do niego i mówiło: Jan wprawdzie nie uczynił żadnego cudu, ale wszystko, co Jan o nim powiedział, było prawdziwe.<verse eid="JHN 10:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 10:42" />I wielu tam uwierzyło w niego.<verse eid="JHN 10:42" />
+  </para>
+  <chapter eid="JHN 10" />
+  <chapter number="11" style="c" sid="JHN 11" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 11:1" />A był chory pewien człowiek, Łazarz z Betanii, z miasteczka Marii i jej siostry Marty.<verse eid="JHN 11:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 11:2" />A to była ta Maria, która namaściła Pana maścią i wycierała jego nogi swoimi włosami. Jej to brat, Łazarz, chorował.<verse eid="JHN 11:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 11:3" />Siostry więc posłały do niego wiadomość: Panie, oto ten, którego miłujesz, choruje.<verse eid="JHN 11:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 11:4" />A gdy Jezus to usłyszał, powiedział: Ta choroba nie jest na śmierć, ale na chwałę Bożą, aby przez nią był uwielbiony Syn Boży.<verse eid="JHN 11:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 11:5" />Jezus zaś miłował Martę i jej siostrę, i Łazarza.<verse eid="JHN 11:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 11:6" />A gdy usłyszał, że choruje, został jeszcze dwa dni w miejscu, w którym przebywał.<verse eid="JHN 11:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 11:7" />Lecz potem powiedział do swoich uczniów: Chodźmy znowu do Judei.<verse eid="JHN 11:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 11:8" />Uczniowie mu powiedzieli: Mistrzu, Żydzi dopiero co usiłowali cię ukamienować, a znowu tam idziesz?<verse eid="JHN 11:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 11:9" />Jezus odpowiedział: Czyż dzień nie ma dwunastu godzin? Jeśli ktoś chodzi we dnie, nie potknie się, bo widzi światłość tego świata.<verse eid="JHN 11:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 11:10" />A jeśli ktoś chodzi w nocy, potknie się, bo nie ma w nim światłości.<verse eid="JHN 11:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 11:11" />To powiedział, a potem dodał: Łazarz, nasz przyjaciel, śpi, ale idę, aby obudzić go ze snu.<verse eid="JHN 11:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 11:12" />Wtedy jego uczniowie powiedzieli: Panie, jeśli śpi, będzie zdrowy.<verse eid="JHN 11:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 11:13" />Ale Jezus mówił o jego śmierci, lecz oni myśleli, że mówił o zaśnięciu zwykłym snem.<verse eid="JHN 11:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 11:14" />Wówczas Jezus powiedział im otwarcie: Łazarz umarł.<verse eid="JHN 11:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 11:15" />I ze względu na was raduję się, że mnie tam nie było, abyście uwierzyli. Ale chodźmy do niego.<verse eid="JHN 11:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 11:16" />Wtedy Tomasz, zwany Didymos, powiedział do współuczniów: Chodźmy i my, aby z nim umrzeć.<verse eid="JHN 11:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 11:17" />Kiedy Jezus przyszedł, zastał go już cztery dni leżącego w grobie.<verse eid="JHN 11:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 11:18" />A Betania była niedaleko Jerozolimy, w odległości około piętnastu stadiów.<verse eid="JHN 11:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 11:19" />A wielu Żydów przyszło do Marty i Marii, aby je pocieszyć po stracie brata.<verse eid="JHN 11:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 11:20" />Gdy Marta usłyszała, że Jezus nadchodzi, wybiegła mu naprzeciw. Ale Maria siedziała w domu.<verse eid="JHN 11:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 11:21" />I powiedziała Marta do Jezusa: Panie, gdybyś tu był, mój brat by nie umarł.<verse eid="JHN 11:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 11:22" />Ale i teraz wiem, że Bóg da tobie, o cokolwiek go poprosisz.<verse eid="JHN 11:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 11:23" />Jezus jej odpowiedział: Twój brat zmartwychwstanie.<verse eid="JHN 11:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 11:24" />Marta mu powiedziała: Wiem, że zmartwychwstanie przy zmartwychwstaniu w dniu ostatecznym.<verse eid="JHN 11:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 11:25" />I powiedział do niej Jezus: Ja jestem zmartwychwstaniem i życiem. Kto we mnie wierzy, choćby i umarł, będzie żył.<verse eid="JHN 11:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 11:26" />A każdy, kto żyje i wierzy we mnie, nigdy nie umrze. Czy wierzysz w to?<verse eid="JHN 11:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 11:27" />Odpowiedziała mu: Tak, Panie. Ja uwierzyłam, że ty jesteś Chrystusem, Synem Bożym, który miał przyjść na świat.<verse eid="JHN 11:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 11:28" />A to powiedziawszy, poszła i potajemnie zawołała swoją siostrę Marię, i powiedziała: Jest tu Nauczyciel i woła cię.<verse eid="JHN 11:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 11:29" />Gdy tylko ona to usłyszała, zaraz wstała i poszła do niego.<verse eid="JHN 11:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 11:30" />A Jezus jeszcze nie wszedł do miasteczka, lecz był na tym miejscu, gdzie Marta wyszła mu naprzeciw.<verse eid="JHN 11:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 11:31" />Wtedy Żydzi, którzy byli z nią w domu i pocieszali ją, widząc, że Maria szybko wstała i wyszła, poszli za nią, mówiąc: Idzie do grobu, aby tam płakać.<verse eid="JHN 11:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 11:32" />A gdy Maria przyszła tam, gdzie był Jezus, ujrzała go, przypadła mu do nóg i powiedziała: Panie, gdybyś tu był, mój brat by nie umarł.<verse eid="JHN 11:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 11:33" />Kiedy Jezus zobaczył ją płaczącą i płaczących Żydów, którzy z nią przyszli, rozrzewnił się w duchu i zasmucił się.<verse eid="JHN 11:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 11:34" />I zapytał: Gdzie go położyliście? Odpowiedzieli mu: Panie, chodź i zobacz.<verse eid="JHN 11:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 11:35" />I Jezus zapłakał.<verse eid="JHN 11:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 11:36" />Wtedy Żydzi powiedzieli: Patrzcie, jak go miłował.<verse eid="JHN 11:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 11:37" />A niektórzy z nich mówili: Czyż ten, który otworzył oczy ślepego, nie mógł sprawić, aby on nie umarł?<verse eid="JHN 11:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 11:38" />Jezus zaś ponownie się rozrzewnił i przyszedł do grobu. Była to jaskinia, a u jej wejścia był położony kamień.<verse eid="JHN 11:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 11:39" />I powiedział Jezus: Usuńcie ten kamień. Powiedziała do niego Marta, siostra zmarłego: Panie, już cuchnie, bo od czterech dni leży w grobie.<verse eid="JHN 11:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 11:40" />Jezus jej rzekł: Czyż nie powiedziałem ci, że jeśli uwierzysz, ujrzysz chwałę Bożą?<verse eid="JHN 11:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 11:41" />Wtedy usunęli kamień z miejsca, gdzie był położony zmarły. Jezus zaś podniósł oczy w górę i powiedział: Ojcze, dziękuję ci, że mnie wysłuchałeś.<verse eid="JHN 11:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 11:42" />A ja wiedziałem, że mnie zawsze wysłuchujesz, ale powiedziałem to ze względu na stojących wokoło ludzi, aby uwierzyli, że ty mnie posłałeś.<verse eid="JHN 11:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="JHN 11:43" />Gdy to powiedział, zawołał donośnym głosem: Łazarzu, wyjdź na zewnątrz!<verse eid="JHN 11:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="JHN 11:44" />I wyszedł ten, który umarł, mając ręce i nogi powiązane opaskami, a twarz obwiązaną chustką. Powiedział do nich Jezus: Rozwiążcie go i pozwólcie mu odejść.<verse eid="JHN 11:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="JHN 11:45" />Wielu więc z Żydów, którzy przyszli do Marii i widzieli to, czego Jezus dokonał, uwierzyło w niego.<verse eid="JHN 11:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="JHN 11:46" />Lecz niektórzy z nich odeszli do faryzeuszy i powiedzieli im, co Jezus uczynił.<verse eid="JHN 11:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="JHN 11:47" />Wtedy naczelni kapłani i faryzeusze zebrali się na naradę i mówili: Co zrobimy? Bo ten człowiek czyni wiele cudów.<verse eid="JHN 11:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="JHN 11:48" />Jeśli go tak zostawimy, wszyscy uwierzą w niego i przyjdą Rzymianie, i zabiorą nam to nasze miejsce i naród.<verse eid="JHN 11:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="JHN 11:49" />A jeden z nich, Kajfasz, który był tego roku najwyższym kapłanem, powiedział do nich: Wy nic nie wiecie;<verse eid="JHN 11:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="JHN 11:50" />I nie bierzecie pod uwagę, że pożyteczniej jest dla nas, żeby jeden człowiek umarł za lud, a żeby cały ten naród nie zginął.<verse eid="JHN 11:50" />
+  </para>
+  <para style="m">
+    <verse number="51" style="v" sid="JHN 11:51" />A nie mówił tego sam od siebie, ale będąc tego roku najwyższym kapłanem, prorokował, że Jezus miał umrzeć za ten naród;<verse eid="JHN 11:51" />
+  </para>
+  <para style="m">
+    <verse number="52" style="v" sid="JHN 11:52" />A nie tylko za ten naród, ale też po to, aby zgromadzić w jedno rozproszone dzieci Boże.<verse eid="JHN 11:52" />
+  </para>
+  <para style="m">
+    <verse number="53" style="v" sid="JHN 11:53" />Od tego więc dnia naradzali się wspólnie nad tym, aby go zabić.<verse eid="JHN 11:53" />
+  </para>
+  <para style="m">
+    <verse number="54" style="v" sid="JHN 11:54" />A Jezus już nie chodził jawnie wśród Żydów, ale odszedł stamtąd do krainy, która leży w pobliżu pustyni, do miasta zwanego Efraim, i tam mieszkał ze swoimi uczniami.<verse eid="JHN 11:54" />
+  </para>
+  <para style="m">
+    <verse number="55" style="v" sid="JHN 11:55" />A zbliżała się Pascha żydowska. I wielu z tej okolicy szło do Jerozolimy przed Paschą, aby się oczyścić.<verse eid="JHN 11:55" />
+  </para>
+  <para style="m">
+    <verse number="56" style="v" sid="JHN 11:56" />Szukali Jezusa i stojąc w świątyni, mówili jedni do drugich: Czy myślicie, że nie przyjdzie na święto?<verse eid="JHN 11:56" />
+  </para>
+  <para style="m">
+    <verse number="57" style="v" sid="JHN 11:57" />A naczelni kapłani i faryzeusze wydali nakaz, aby, jeśli ktoś się dowie, gdzie jest, oznajmił to, żeby go mogli schwytać.<verse eid="JHN 11:57" />
+  </para>
+  <chapter eid="JHN 11" />
+  <chapter number="12" style="c" sid="JHN 12" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 12:1" />Na sześć dni przed Paschą Jezus przyszedł do Betanii, gdzie był Łazarz, który umarł, a którego wskrzesił z martwych.<verse eid="JHN 12:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 12:2" />Tam przygotowali mu wieczerzę, a Marta usługiwała. Łazarz zaś był jednym z tych, którzy razem z nim siedzieli przy stole.<verse eid="JHN 12:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 12:3" />Wówczas Maria, wziąwszy funt bardzo drogiej maści nardowej, namaściła nogi Jezusa i wytarła je swoimi włosami, a dom napełnił się wonią tej maści.<verse eid="JHN 12:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 12:4" />Wtedy jeden z jego uczniów, Judasz Iskariota, syn Szymona, ten, który miał go zdradzić, powiedział:<verse eid="JHN 12:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 12:5" />Dlaczego tej maści nie sprzedano za trzysta groszy i nie rozdano ich ubogim?<verse eid="JHN 12:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 12:6" />A to mówił nie dlatego, że troszczył się o ubogich, ale ponieważ był złodziejem i miał sakiewkę, a nosił to, co do niej włożono.<verse eid="JHN 12:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 12:7" />Wtedy Jezus powiedział: Zostaw ją; zachowała to na dzień mego pogrzebu.<verse eid="JHN 12:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 12:8" />Ubogich bowiem zawsze macie u siebie, ale mnie nie zawsze będziecie mieć.<verse eid="JHN 12:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 12:9" />Wtedy wielu Żydów dowiedziało się, że tam jest; i przyszli nie tylko z powodu Jezusa, ale także, by zobaczyć Łazarza, którego wskrzesił z martwych.<verse eid="JHN 12:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 12:10" />I naradzali się naczelni kapłani nad tym, żeby zabić również Łazarza;<verse eid="JHN 12:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 12:11" />Gdyż z jego powodu wielu spośród Żydów odstąpiło i uwierzyło w Jezusa.<verse eid="JHN 12:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 12:12" />Nazajutrz mnóstwo ludzi, którzy przyszli na święto, usłyszawszy, że Jezus idzie do Jerozolimy;<verse eid="JHN 12:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 12:13" />Nabrało gałązek palmowych, wyszło mu naprzeciw i wołało: Hosanna! Błogosławiony, który przychodzi w imieniu Pana, król Izraela!<verse eid="JHN 12:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 12:14" />A Jezus, znalazłszy oślątko, wsiadł na nie, jak jest napisane:<verse eid="JHN 12:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 12:15" />Nie bój się, córko Syjonu. Oto twój król przychodzi, siedząc na oślątku.<verse eid="JHN 12:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 12:16" />Z początku jego uczniowie tego nie zrozumieli, ale gdy Jezus został uwielbiony, wtedy przypomnieli sobie, że to było o nim napisane i że mu tak uczynili.<verse eid="JHN 12:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 12:17" />Dawali więc świadectwo ludzie, którzy z nim byli, gdy Łazarza wywołał z grobowca i wskrzesił go z martwych.<verse eid="JHN 12:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 12:18" />Dlatego też ludzie wyszli mu naprzeciw, bo usłyszeli, że on uczynił ten cud.<verse eid="JHN 12:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 12:19" />Wtedy faryzeusze mówili między sobą: Widzicie, że nic nie zdziałacie. Oto świat poszedł za nim.<verse eid="JHN 12:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 12:20" />A wśród tych, którzy przychodzili do Jerozolimy, żeby oddać cześć Bogu w święto, byli pewni Grecy.<verse eid="JHN 12:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 12:21" />Oni to przyszli do Filipa, który był z Betsaidy w Galilei, i prosili go: Panie, chcemy zobaczyć Jezusa.<verse eid="JHN 12:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 12:22" />Filip przyszedł i powiedział Andrzejowi, a z kolei Andrzej i Filip powiedzieli Jezusowi.<verse eid="JHN 12:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 12:23" />A Jezus im odpowiedział: Nadeszła godzina, aby Syn Człowieczy został uwielbiony.<verse eid="JHN 12:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 12:24" />Zaprawdę, zaprawdę powiadam wam: Jeśli ziarno pszenicy, wpadłszy w ziemię, nie obumrze, samo zostaje. Jeśli jednak obumrze, wydaje obfity plon.<verse eid="JHN 12:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 12:25" />Kto miłuje swoje życie, utraci je, a kto nienawidzi swego życia na tym świecie, zachowa je na życie wieczne.<verse eid="JHN 12:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 12:26" />Jeśli ktoś mi służy, niech idzie za mną, a gdzie ja jestem, tam będzie i mój sługa. A jeśli ktoś będzie mi służył, uczci go mój Ojciec.<verse eid="JHN 12:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 12:27" />Teraz moja dusza jest zatrwożona. I cóż powiem? Ojcze, zachowaj mnie od tej godziny? Przecież dlatego przyszedłem na tę godzinę.<verse eid="JHN 12:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 12:28" />Ojcze, uwielbij swoje imię. Wtedy rozległ się głos z nieba: Uwielbiłem i jeszcze uwielbię.<verse eid="JHN 12:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 12:29" />A ludzie, którzy stali i słyszeli, mówili: Zagrzmiało. A inni mówili: Anioł do niego przemówił.<verse eid="JHN 12:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 12:30" />Jezus odpowiedział: Ten głos rozległ się nie ze względu na mnie, ale ze względu na was.<verse eid="JHN 12:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 12:31" />Teraz odbywa się sąd tego świata, teraz władca tego świata będzie wyrzucony precz.<verse eid="JHN 12:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 12:32" />A ja, jeśli będę wywyższony nad ziemię, pociągnę wszystkich do siebie.<verse eid="JHN 12:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 12:33" />A mówił to, dając znać, jaką śmiercią miał umrzeć.<verse eid="JHN 12:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 12:34" />Ludzie mu odpowiedzieli: Dowiedzieliśmy się z prawa, że Chrystus trwa na wieki. Jakże więc ty możesz mówić, że Syn Człowieczy musi być wywyższony? Któż to jest Syn Człowieczy?<verse eid="JHN 12:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 12:35" />Wtedy Jezus powiedział im: Jeszcze przez krótki czas jest z wami światłość. Chodźcie więc, dopóki macie światłość, żeby was ciemność nie ogarnęła. Bo kto chodzi w ciemności, nie wie, dokąd idzie.<verse eid="JHN 12:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 12:36" />Dopóki macie światłość, wierzcie w światłość, abyście byli synami światłości. Gdy Jezus to powiedział, odszedł i ukrył się przed nimi.<verse eid="JHN 12:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 12:37" />A choć tak wiele cudów uczynił wobec nich, jednak nie uwierzyli w niego;<verse eid="JHN 12:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 12:38" />Aby się wypełniło słowo, które powiedział prorok Izajasz: Panie, któż uwierzył naszemu głoszeniu? I komu ramię Pańskie zostało objawione?<verse eid="JHN 12:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 12:39" />Dlatego nie mogli uwierzyć, bo jeszcze Izajasz powiedział:<verse eid="JHN 12:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 12:40" />Zaślepił ich oczy i zatwardził ich serce, aby oczami nie widzieli i sercem nie zrozumieli, aby się nie nawrócili, żebym ich nie uzdrowił.<verse eid="JHN 12:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 12:41" />To powiedział Izajasz, gdy widział jego chwałę i mówił o nim.<verse eid="JHN 12:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 12:42" />Jednak i z przełożonych wielu uwierzyło w niego, ale z powodu faryzeuszy nie wyznawali go, aby nie wyłączono ich z synagogi.<verse eid="JHN 12:42" />
+  </para>
+  <para style="m">
+    <verse number="43" style="v" sid="JHN 12:43" />Umiłowali bowiem chwałę ludzką bardziej niż chwałę Bożą.<verse eid="JHN 12:43" />
+  </para>
+  <para style="m">
+    <verse number="44" style="v" sid="JHN 12:44" />A Jezus wołał: Kto wierzy we mnie, nie we mnie wierzy, ale w tego, który mnie posłał.<verse eid="JHN 12:44" />
+  </para>
+  <para style="m">
+    <verse number="45" style="v" sid="JHN 12:45" />I kto mnie widzi, widzi tego, który mnie posłał.<verse eid="JHN 12:45" />
+  </para>
+  <para style="m">
+    <verse number="46" style="v" sid="JHN 12:46" />Ja, światłość, przyszedłem na świat, aby każdy, kto wierzy we mnie, nie pozostał w ciemności.<verse eid="JHN 12:46" />
+  </para>
+  <para style="m">
+    <verse number="47" style="v" sid="JHN 12:47" />A jeśli ktoś słucha moich słów, a nie uwierzy, ja go nie sądzę. Nie przyszedłem bowiem po to, żeby sądzić świat, ale żeby zbawić świat.<verse eid="JHN 12:47" />
+  </para>
+  <para style="m">
+    <verse number="48" style="v" sid="JHN 12:48" />Kto mną gardzi i nie przyjmuje moich słów, ma kogoś, kto go sądzi: słowo, które ja mówiłem, ono go osądzi w dniu ostatecznym.<verse eid="JHN 12:48" />
+  </para>
+  <para style="m">
+    <verse number="49" style="v" sid="JHN 12:49" />Bo ja nie mówiłem sam od siebie, ale ten, który mnie posłał, Ojciec, on mi dał nakaz, co mam powiedzieć i co mówić.<verse eid="JHN 12:49" />
+  </para>
+  <para style="m">
+    <verse number="50" style="v" sid="JHN 12:50" />I wiem, że jego nakaz jest życiem wiecznym. Dlatego to, co ja wam mówię, mówię tak, jak mi powiedział Ojciec.<verse eid="JHN 12:50" />
+  </para>
+  <chapter eid="JHN 12" />
+  <chapter number="13" style="c" sid="JHN 13" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 13:1" />A przed świętem Paschy Jezus, wiedząc, że nadeszła jego godzina, aby przeszedł z tego świata do Ojca, umiłowawszy swoich, którzy byli na świecie, umiłował ich aż do końca.<verse eid="JHN 13:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 13:2" />A gdy była wieczerza i diabeł już włożył w serce Judasza, syna Szymona Iskarioty, zamysł, aby go wydać;<verse eid="JHN 13:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 13:3" />Jezus, wiedząc, że Ojciec dał wszystko w jego ręce i że od Boga wyszedł, i do Boga idzie;<verse eid="JHN 13:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 13:4" />Wstał od wieczerzy i złożył szaty, a wziąwszy płócienny ręcznik, przepasał się.<verse eid="JHN 13:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 13:5" />Potem nalał wody do miednicy i zaczął myć nogi uczniom, i wycierać ręcznikiem, którym był przepasany.<verse eid="JHN 13:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 13:6" />I podszedł do Szymona Piotra, a on powiedział do niego: Panie, ty chcesz mi umyć nogi?<verse eid="JHN 13:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 13:7" />Jezus mu odpowiedział: Tego, co ja czynię, ty teraz nie rozumiesz, ale potem zrozumiesz.<verse eid="JHN 13:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 13:8" />Piotr mu powiedział: Nigdy nie będziesz mył moich nóg. Jezus mu odpowiedział: Jeśli cię nie umyję, nie będziesz miał działu ze mną.<verse eid="JHN 13:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 13:9" />Wtedy Szymon Piotr powiedział do niego: Panie, nie tylko moje nogi, ale i ręce, i głowę.<verse eid="JHN 13:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 13:10" />Jezus mu odpowiedział: Kto jest umyty, potrzebuje umyć tylko nogi, bo cały jest czysty. I wy jesteście czyści, lecz nie wszyscy.<verse eid="JHN 13:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 13:11" />Wiedział bowiem, kto ma go wydać, dlatego powiedział: Nie wszyscy jesteście czyści.<verse eid="JHN 13:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 13:12" />Gdy więc umył im nogi i wziął swoje szaty, usiadłszy znowu za stołem, powiedział do nich: Czy rozumiecie, co wam uczyniłem?<verse eid="JHN 13:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 13:13" />Wy nazywacie mnie Nauczycielem i Panem i dobrze mówicie, bo nim jestem.<verse eid="JHN 13:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 13:14" />Jeśli więc ja, Pan i Nauczyciel, umyłem wam nogi i wy powinniście sobie nawzajem myć nogi.<verse eid="JHN 13:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 13:15" />Dałem wam bowiem przykład, abyście i wy czynili tak, jak ja wam uczyniłem.<verse eid="JHN 13:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 13:16" />Zaprawdę, zaprawdę powiadam wam: Sługa nie jest większy od swego pana ani posłaniec nie jest większy od tego, który go posłał.<verse eid="JHN 13:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 13:17" />Jeśli to wiecie, będziecie błogosławieni, gdy tak uczynicie.<verse eid="JHN 13:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 13:18" />Nie mówię o was wszystkich. Ja wiem, których wybrałem, ale żeby się wypełniło Pismo: Ten, który je ze mną chleb, podniósł przeciwko mnie swoją piętę.<verse eid="JHN 13:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 13:19" />Teraz wam mówię, zanim to się stanie, abyście, gdy to się stanie, uwierzyli, że ja jestem.<verse eid="JHN 13:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 13:20" />Zaprawdę, zaprawdę powiadam wam: Kto przyjmuje tego, którego ja poślę, mnie przyjmuje, a kto mnie przyjmuje, przyjmuje tego, który mnie posłał.<verse eid="JHN 13:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 13:21" />To powiedziawszy, Jezus wzruszył się w duchu i oświadczył: Zaprawdę, zaprawdę powiadam wam, że jeden z was mnie wyda.<verse eid="JHN 13:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 13:22" />Wtedy uczniowie spojrzeli po sobie, niepewni, o kim to mówił.<verse eid="JHN 13:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 13:23" />A jeden z jego uczniów, ten, którego Jezus miłował, położył się na piersi Jezusa.<verse eid="JHN 13:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 13:24" />Skinął więc na niego Szymon Piotr, aby się wypytał, kto jest tym, o którym mówił.<verse eid="JHN 13:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 13:25" />A on, położywszy się na piersi Jezusa, zapytał go: Panie, kto to jest?<verse eid="JHN 13:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 13:26" />Jezus odpowiedział: To ten, któremu podam umoczony kawałek chleba. A umoczywszy kawałek chleba, dał Judaszowi Iskariocie, synowi Szymona.<verse eid="JHN 13:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 13:27" />A zaraz po tym kawałku chleba wszedł w niego szatan. Wtedy Jezus powiedział do niego: Co masz robić, rób szybko.<verse eid="JHN 13:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 13:28" />Żaden jednak z obecnych przy stole nie zrozumiał, dlaczego mu to powiedział.<verse eid="JHN 13:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 13:29" />A ponieważ Judasz miał sakiewkę, niektórzy sądzili, że Jezus mu powiedział: Nakup, czego nam potrzeba na święto, albo żeby coś dał ubogim.<verse eid="JHN 13:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 13:30" />Wtedy on wziął ten kawałek chleba i natychmiast wyszedł. A była noc.<verse eid="JHN 13:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 13:31" />A gdy wyszedł, Jezus powiedział: Teraz jest uwielbiony Syn Człowieczy i Bóg jest w nim uwielbiony.<verse eid="JHN 13:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 13:32" />A jeśli Bóg jest w nim uwielbiony, to go też Bóg uwielbi sam w sobie, i to wkrótce go uwielbi.<verse eid="JHN 13:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 13:33" />Dzieci, jeszcze krótko jestem z wami. Będziecie mnie szukać, ale jak powiedziałem Żydom: Gdzie ja idę, wy przyjść nie możecie – tak i wam teraz mówię.<verse eid="JHN 13:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 13:34" />Daję wam nowe przykazanie, abyście się wzajemnie miłowali; tak jak ja was umiłowałem, abyście i wy wzajemnie się miłowali.<verse eid="JHN 13:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 13:35" />Po tym wszyscy poznają, że jesteście moimi uczniami, jeśli będziecie się wzajemnie miłować.<verse eid="JHN 13:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 13:36" />Zapytał go Szymon Piotr: Panie, dokąd idziesz? Jezus mu odpowiedział: Dokąd ja idę, ty teraz za mną iść nie możesz, ale potem pójdziesz.<verse eid="JHN 13:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 13:37" />Wtedy Piotr powiedział mu: Panie, czemu teraz nie mogę iść za tobą? Moje życie oddam za ciebie.<verse eid="JHN 13:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 13:38" />Jezus mu odpowiedział: Swoje życie za mnie oddasz? Zaprawdę, zaprawdę powiadam ci: Zanim kogut zapieje, trzy razy się mnie wyprzesz.<verse eid="JHN 13:38" />
+  </para>
+  <chapter eid="JHN 13" />
+  <chapter number="14" style="c" sid="JHN 14" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 14:1" />Niech się nie trwoży wasze serce. Wierzycie w Boga, wierzcie i we mnie.<verse eid="JHN 14:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 14:2" />W domu mego Ojca jest wiele mieszkań. Gdyby tak nie było, powiedziałbym wam. Idę, aby wam przygotować miejsce.<verse eid="JHN 14:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 14:3" />A gdy odejdę i przygotuję wam miejsce, przyjdę znowu i wezmę was do siebie, żebyście, gdzie ja jestem, i wy byli.<verse eid="JHN 14:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 14:4" />A dokąd ja idę, wiecie i drogę znacie.<verse eid="JHN 14:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 14:5" />Powiedział do niego Tomasz: Panie, nie wiemy, dokąd idziesz, jakże więc możemy znać drogę?<verse eid="JHN 14:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 14:6" />Jezus mu odpowiedział: Ja jestem drogą, prawdą i życiem. Nikt nie przychodzi do Ojca jak tylko przeze mnie.<verse eid="JHN 14:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 14:7" />Gdybyście mnie znali, znalibyście też mego Ojca. I już teraz go znacie, i widzieliście go.<verse eid="JHN 14:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 14:8" />Powiedział do niego Filip: Panie, pokaż nam Ojca, a to nam wystarczy.<verse eid="JHN 14:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 14:9" />Jezus mu odpowiedział: Tak długo jestem z wami, a nie poznałeś mnie, Filipie? Kto mnie widzi, widzi i mego Ojca. Jak możesz mówić: Pokaż nam Ojca?<verse eid="JHN 14:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 14:10" />Nie wierzysz, że ja jestem w Ojcu, a Ojciec we mnie? Słów, które ja do was mówię, nie mówię od samego siebie, lecz Ojciec, który mieszka we mnie, on dokonuje dzieł.<verse eid="JHN 14:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 14:11" />Wierzcie mi, że ja jestem w Ojcu, a Ojciec we mnie. Przynajmniej z powodu samych dzieł wierzcie mi.<verse eid="JHN 14:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 14:12" />Zaprawdę, zaprawdę powiadam wam: Kto wierzy we mnie, dzieł, których ja dokonuję, i on będzie dokonywał, i większych od tych dokona, bo ja odchodzę do mego Ojca.<verse eid="JHN 14:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 14:13" />A o cokolwiek będziecie prosić w moje imię, to uczynię, aby Ojciec był uwielbiony w Synu.<verse eid="JHN 14:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 14:14" />Jeśli o coś będziecie prosić w moje imię, ja to uczynię.<verse eid="JHN 14:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 14:15" />Jeśli mnie miłujecie, zachowujcie moje przykazania.<verse eid="JHN 14:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 14:16" />A ja będę prosił Ojca i da wam innego Pocieszyciela, aby z wami był na wieki;<verse eid="JHN 14:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 14:17" />Ducha prawdy, którego świat nie może przyjąć, bo go nie widzi ani go nie zna. Wy jednak go znacie, gdyż z wami przebywa i w was będzie.<verse eid="JHN 14:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 14:18" />Nie zostawię was sierotami, przyjdę do was.<verse eid="JHN 14:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 14:19" />Jeszcze krótki czas, a świat nie będzie mnie już więcej oglądał, lecz wy będziecie mnie oglądać. Ponieważ ja żyję, wy też będziecie żyć.<verse eid="JHN 14:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 14:20" />W tym dniu poznacie, że ja jestem w moim Ojcu, a wy we mnie i ja w was.<verse eid="JHN 14:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 14:21" />Kto ma moje przykazania i zachowuje je, ten mnie miłuje. A kto mnie miłuje, będzie go też miłował mój Ojciec i ja go będę miłował, i objawię mu samego siebie.<verse eid="JHN 14:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 14:22" />Powiedział mu Judasz, ale nie Iskariota: Panie, cóż to jest, że masz się objawić nam, a nie światu?<verse eid="JHN 14:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 14:23" />Jezus mu odpowiedział: Jeśli ktoś mnie miłuje, będzie zachowywał moje słowo. I mój Ojciec go umiłuje, i przyjdziemy do niego, i u niego zamieszkamy.<verse eid="JHN 14:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 14:24" />Kto mnie nie miłuje, nie zachowuje moich słów. A słowo, które słyszycie, nie jest moje, ale tego, który mnie posłał, Ojca.<verse eid="JHN 14:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 14:25" />To wam powiedziałem, przebywając z wami.<verse eid="JHN 14:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 14:26" />Lecz Pocieszyciel, Duch Święty, którego Ojciec pośle w moim imieniu, on nauczy was wszystkiego i przypomni wam wszystko, co wam powiedziałem.<verse eid="JHN 14:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 14:27" />Pokój zostawiam wam, mój pokój daję wam; daję wam nie tak, jak daje świat. Niech się nie trwoży wasze serce ani się nie lęka.<verse eid="JHN 14:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 14:28" />Słyszeliście, że wam powiedziałem: Odchodzę i znowu przyjdę do was. Gdybyście mnie miłowali, radowalibyście się, ponieważ powiedziałem: Idę do Ojca. Mój Ojciec bowiem jest większy niż ja.<verse eid="JHN 14:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 14:29" />I teraz wam powiedziałem, zanim to się stanie, żebyście uwierzyli, gdy to się stanie.<verse eid="JHN 14:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 14:30" />Już nie będę z wami wiele mówił, nadchodzi bowiem władca tego świata, a on we mnie nic nie ma.<verse eid="JHN 14:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 14:31" />Ale żeby świat poznał, że miłuję Ojca i jak Ojciec mi nakazał, tak czynię. Wstańcie, chodźmy stąd.<verse eid="JHN 14:31" />
+  </para>
+  <chapter eid="JHN 14" />
+  <chapter number="15" style="c" sid="JHN 15" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 15:1" />Ja jestem prawdziwą winoroślą, a mój Ojciec jest winogrodnikiem.<verse eid="JHN 15:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 15:2" />Każdą latorośl, która we mnie nie wydaje owocu, odcina, a każdą, która wydaje owoc, oczyszcza, aby wydawała obfitszy owoc.<verse eid="JHN 15:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 15:3" />Wy już jesteście czyści z powodu słów, które do was mówiłem.<verse eid="JHN 15:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 15:4" />Trwajcie we mnie, a ja w was. Jak latorośl nie może wydawać owocu sama z siebie, jeśli nie będzie trwała w winorośli, tak i wy, jeśli nie będziecie trwać we mnie.<verse eid="JHN 15:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 15:5" />Ja jestem winoroślą, a wy jesteście latoroślami. Kto trwa we mnie, a ja w nim, ten wydaje obfity owoc, bo beze mnie nic nie możecie zrobić.<verse eid="JHN 15:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 15:6" />Jeśli ktoś nie trwa we mnie, zostanie wyrzucony precz jak latorośl i uschnie. Takie się zbiera i wrzuca do ognia, i płoną.<verse eid="JHN 15:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 15:7" />Jeśli będziecie trwać we mnie i moje słowa będą trwać w was, proście, o cokolwiek chcecie, a spełni się wam.<verse eid="JHN 15:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 15:8" />W tym będzie uwielbiony mój Ojciec, że wydacie obfity owoc; i będziecie moimi uczniami.<verse eid="JHN 15:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 15:9" />Jak mnie umiłował Ojciec, tak i ja was umiłowałem. Trwajcie w mojej miłości.<verse eid="JHN 15:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 15:10" />Jeśli zachowacie moje przykazania, będziecie trwać w mojej miłości, jak i ja zachowałem przykazania mego Ojca i trwam w jego miłości.<verse eid="JHN 15:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 15:11" />To wam powiedziałem, aby moja radość trwała w was i aby wasza radość była pełna.<verse eid="JHN 15:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 15:12" />To jest moje przykazanie, abyście się wzajemnie miłowali, jak i ja was umiłowałem.<verse eid="JHN 15:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 15:13" />Nikt nie ma większej miłości od tej, gdy ktoś oddaje swoje życie za swoich przyjaciół.<verse eid="JHN 15:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 15:14" />Wy jesteście moimi przyjaciółmi, jeśli robicie to, co wam przykazuję.<verse eid="JHN 15:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 15:15" />Już więcej nie będę nazywał was sługami, bo sługa nie wie, co robi jego pan. Lecz nazwałem was przyjaciółmi, bo oznajmiłem wam wszystko, co słyszałem od mego Ojca.<verse eid="JHN 15:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 15:16" />Nie wy mnie wybraliście, ale ja was wybrałem i przeznaczyłem, abyście wyszli i wydali owoc, i aby wasz owoc trwał, i aby Ojciec dał wam to, o cokolwiek poprosicie go w moje imię.<verse eid="JHN 15:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 15:17" />To wam przykazuję, abyście się wzajemnie miłowali.<verse eid="JHN 15:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 15:18" />Jeśli świat was nienawidzi, wiedzcie, że znienawidził mnie wcześniej niż was.<verse eid="JHN 15:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 15:19" />Gdybyście byli ze świata, świat miłowałby to, co jest jego. Ponieważ jednak nie jesteście ze świata, ale ja was wybrałem ze świata, dlatego świat was nienawidzi.<verse eid="JHN 15:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 15:20" />Przypomnijcie sobie słowo, które wam powiedziałem: Sługa nie jest większy od swego pana. Jeśli mnie prześladowali, to i was będą prześladować. Jeśli moje słowa zachowywali, to i wasze będą zachowywać.<verse eid="JHN 15:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 15:21" />Ale będą wam to wszystko czynić z powodu mego imienia, bo nie znają tego, który mnie posłał.<verse eid="JHN 15:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 15:22" />Gdybym nie przyszedł i nie mówił im, nie mieliby grzechu. Teraz jednak nie mają wytłumaczenia dla swego grzechu.<verse eid="JHN 15:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 15:23" />Kto mnie nienawidzi, nienawidzi też mego Ojca.<verse eid="JHN 15:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 15:24" />Gdybym nie spełniał wśród nich tych uczynków, których nikt inny nie spełniał, nie mieliby grzechu. Teraz jednak widzieli i nienawidzili i mnie, i mego Ojca.<verse eid="JHN 15:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 15:25" />Ale to się stało, żeby się wypełniło słowo, które jest napisane w ich Prawie: Nienawidzili mnie bez powodu.<verse eid="JHN 15:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 15:26" />Gdy jednak przyjdzie Pocieszyciel, którego ja wam poślę od Ojca, Duch prawdy, który wychodzi od Ojca, on będzie świadczył o mnie.<verse eid="JHN 15:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 15:27" />Ale i wy będziecie świadczyć, bo jesteście ze mną od początku.<verse eid="JHN 15:27" />
+  </para>
+  <chapter eid="JHN 15" />
+  <chapter number="16" style="c" sid="JHN 16" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 16:1" />To wam powiedziałem, abyście się nie gorszyli.<verse eid="JHN 16:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 16:2" />Będą was wyłączać z synagog; owszem, nadchodzi godzina, że każdy, kto was zabije, będzie sądził, że pełni służbę dla Boga.<verse eid="JHN 16:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 16:3" />A uczynią wam tak, bo nie poznali Ojca ani mnie.<verse eid="JHN 16:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 16:4" />Ale powiedziałem wam to, abyście, gdy nadejdzie ta godzina, przypomnieli sobie, że ja wam to powiedziałem. A nie mówiłem wam tego na początku, bo byłem z wami.<verse eid="JHN 16:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 16:5" />Lecz teraz idę do tego, który mnie posłał, a żaden z was nie pyta mnie: Dokąd idziesz?<verse eid="JHN 16:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 16:6" />Ale ponieważ wam to powiedziałem, smutek napełnił wasze serce.<verse eid="JHN 16:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 16:7" />Lecz ja mówię wam prawdę: Pożyteczniej jest dla was, abym odszedł. Jeśli bowiem nie odejdę, Pocieszyciel do was nie przyjdzie, a jeśli odejdę, poślę go do was.<verse eid="JHN 16:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 16:8" />A gdy on przyjdzie, będzie przekonywał świat o grzechu, o sprawiedliwości i o sądzie.<verse eid="JHN 16:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 16:9" />O grzechu, mówię, bo nie uwierzyli we mnie.<verse eid="JHN 16:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 16:10" />O sprawiedliwości, bo idę do mego Ojca i już więcej mnie nie zobaczycie.<verse eid="JHN 16:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 16:11" />A o sądzie, bo władca tego świata już jest osądzony.<verse eid="JHN 16:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 16:12" />Mam wam jeszcze wiele do powiedzenia, ale teraz nie możecie tego znieść.<verse eid="JHN 16:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 16:13" />Lecz gdy przyjdzie on, Duch prawdy, wprowadzi was we wszelką prawdę. Nie będzie bowiem mówił sam od siebie, ale będzie mówił to, co usłyszy, i oznajmi wam przyszłe rzeczy.<verse eid="JHN 16:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 16:14" />On mnie uwielbi, bo weźmie z mojego i wam oznajmi.<verse eid="JHN 16:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 16:15" />Wszystko, co ma Ojciec, jest moje. Dlatego powiedziałem, że weźmie z mojego i wam oznajmi.<verse eid="JHN 16:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 16:16" />Jeszcze krótki czas, a nie zobaczycie mnie, i znowu krótki czas, a zobaczycie mnie, bo ja idę do Ojca.<verse eid="JHN 16:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 16:17" />Wtedy niektórzy z jego uczniów mówili między sobą: Cóż znaczy to, co nam mówi: Jeszcze krótki czas, a nie zobaczycie mnie, i znowu krótki czas, a zobaczycie mnie? oraz: Ja idę do Ojca?<verse eid="JHN 16:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 16:18" />Dlatego mówili: Cóż znaczy to, co mówi: Krótki czas? Nie rozumiemy, co mówi.<verse eid="JHN 16:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 16:19" />Wówczas Jezus poznał, że chcieli go pytać i powiedział do nich: Pytacie się między sobą o to, co powiedziałem: Jeszcze krótki czas, a nie zobaczycie mnie, i znowu krótki czas, a zobaczycie mnie?<verse eid="JHN 16:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 16:20" />Zaprawdę, zaprawdę powiadam wam: Wy będziecie płakać i zawodzić, a świat będzie się radował. Będziecie smutni, ale wasz smutek zamieni się w radość.<verse eid="JHN 16:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 16:21" />Kobieta, gdy rodzi, smuci się, bo nadeszła jej godzina. Gdy jednak urodzi dziecko, już nie pamięta cierpienia z powodu radości, że człowiek przyszedł na świat.<verse eid="JHN 16:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 16:22" />I wy teraz się smucicie, ale znowu was zobaczę i wasze serce będzie się radowało, a nikt nie odbierze wam waszej radości.<verse eid="JHN 16:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 16:23" />A tego dnia nie będziecie mnie o nic pytać. Zaprawdę, zaprawdę powiadam wam: O cokolwiek poprosicie Ojca w moje imię, da wam.<verse eid="JHN 16:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 16:24" />Dotąd o nic nie prosiliście w moje imię. Proście, a otrzymacie, aby wasza radość była pełna.<verse eid="JHN 16:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 16:25" />Mówiłem wam o tym w przypowieściach. Ale nadchodzi godzina, gdy już więcej nie będę mówił wam w przypowieściach, ale otwarcie oznajmię wam o moim Ojcu.<verse eid="JHN 16:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 16:26" />W tym dniu będziecie prosić w moje imię. Nie mówię wam, że ja będę prosił Ojca za wami.<verse eid="JHN 16:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 16:27" />Sam bowiem Ojciec was miłuje, bo wy mnie umiłowaliście i uwierzyliście, że ja wyszedłem od Boga.<verse eid="JHN 16:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 16:28" />Wyszedłem od Ojca i przyszedłem na świat. Znowu opuszczam świat i idę do Ojca.<verse eid="JHN 16:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 16:29" />Jego uczniowie mu powiedzieli: Oto teraz mówisz otwarcie i nie opowiadasz żadnej przypowieści.<verse eid="JHN 16:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 16:30" />Teraz wiemy, że wszystko wiesz i nie potrzebujesz, aby cię ktoś pytał. Dlatego wierzymy, że wyszedłeś od Boga.<verse eid="JHN 16:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 16:31" />Jezus im odpowiedział: Teraz wierzycie?<verse eid="JHN 16:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 16:32" />Oto nadchodzi godzina, a nawet już nadeszła, że rozproszycie się każdy w swoją stronę, a mnie zostawicie samego. Ale nie jestem sam, bo Ojciec jest ze mną.<verse eid="JHN 16:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 16:33" />To wam powiedziałem, abyście mieli pokój we mnie. Na świecie będziecie mieć ucisk, ale ufajcie, ja zwyciężyłem świat.<verse eid="JHN 16:33" />
+  </para>
+  <chapter eid="JHN 16" />
+  <chapter number="17" style="c" sid="JHN 17" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 17:1" />To powiedziawszy, Jezus podniósł swoje oczy ku niebu i rzekł: Ojcze, nadeszła godzina. Uwielbij swego Syna, aby też twój Syn uwielbił ciebie;<verse eid="JHN 17:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 17:2" />Jak mu dałeś władzę nad wszelkim ciałem, aby dał życie wieczne tym wszystkim, których mu dałeś.<verse eid="JHN 17:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 17:3" />A to jest życie wieczne, aby poznali ciebie, jedynego prawdziwego Boga i tego, którego posłałeś, Jezusa Chrystusa.<verse eid="JHN 17:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 17:4" />Ja uwielbiłem ciebie na ziemi i dokończyłem dzieła, które mi dałeś do wykonania.<verse eid="JHN 17:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 17:5" />A teraz ty, Ojcze, uwielbij mnie u siebie tą chwałą, którą miałem u ciebie, zanim powstał świat.<verse eid="JHN 17:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 17:6" />Objawiłem twoje imię ludziom, których mi dałeś ze świata. Twoimi byli i dałeś mi ich, a oni zachowali twoje słowa.<verse eid="JHN 17:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 17:7" />A teraz poznali, że wszystko, co mi dałeś, pochodzi od ciebie.<verse eid="JHN 17:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 17:8" />Dałem im bowiem słowa, które mi dałeś, a oni je przyjęli i prawdziwie poznali, że wyszedłem od ciebie, i uwierzyli, że ty mnie posłałeś.<verse eid="JHN 17:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 17:9" />Ja proszę za nimi. Nie proszę za światem, ale za tymi, których mi dałeś, bo są twoi.<verse eid="JHN 17:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 17:10" />I wszystko moje jest twoje, a twoje jest moje i jestem uwielbiony w nich.<verse eid="JHN 17:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 17:11" />A nie jestem już na świecie, ale oni są na świecie, a ja idę do ciebie. Ojcze święty, zachowaj w twoim imieniu tych, których mi dałeś, aby byli jedno jak i my.<verse eid="JHN 17:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 17:12" />Gdy byłem z nimi na świecie, ja zachowywałem ich w twoim imieniu. Strzegłem tych, których mi dałeś, i żaden z nich nie zginął prócz syna zatracenia, żeby się wypełniło Pismo.<verse eid="JHN 17:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 17:13" />Ale teraz idę do ciebie i mówię to na świecie, aby mieli w sobie moją radość w pełni.<verse eid="JHN 17:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 17:14" />Ja dałem im twoje słowo, a świat ich znienawidził, bo nie są ze świata, jak i ja nie jestem ze świata.<verse eid="JHN 17:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 17:15" />Nie proszę, abyś zabrał ich ze świata, ale abyś zachował ich od złego.<verse eid="JHN 17:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 17:16" />Nie są ze świata, jak i ja nie jestem ze świata.<verse eid="JHN 17:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 17:17" />Uświęć ich w twojej prawdzie. Twoje słowo jest prawdą.<verse eid="JHN 17:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 17:18" />Jak ty posłałeś mnie na świat, tak i ja posłałem ich na świat.<verse eid="JHN 17:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 17:19" />A ja za nich uświęcam samego siebie, aby i oni byli uświęceni w prawdzie.<verse eid="JHN 17:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 17:20" />A nie tylko za nimi proszę, lecz i za tymi, którzy przez ich słowo uwierzą we mnie;<verse eid="JHN 17:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 17:21" />Aby wszyscy byli jedno, jak ty, Ojcze, we mnie, a ja w tobie, aby i oni byli w nas jedno, aby świat uwierzył, że ty mnie posłałeś.<verse eid="JHN 17:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 17:22" />I dałem im tę chwałę, którą mi dałeś, aby byli jedno, jak my jesteśmy jedno.<verse eid="JHN 17:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 17:23" />Ja w nich, a ty we mnie, aby byli doskonali w jedno, żeby świat poznał, że ty mnie posłałeś i że umiłowałeś ich, jak i mnie umiłowałeś.<verse eid="JHN 17:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 17:24" />Ojcze, chcę, aby ci, których mi dałeś, byli ze mną tam, gdzie ja jestem, aby oglądali moją chwałę, którą mi dałeś, ponieważ umiłowałeś mnie przed założeniem świata.<verse eid="JHN 17:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 17:25" />Ojcze sprawiedliwy, świat ciebie nie poznał, ale ja cię poznałem i oni poznali, że ty mnie posłałeś.<verse eid="JHN 17:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 17:26" />Objawiłem im twoje imię i jeszcze objawię, aby miłość, którą mnie umiłowałeś, była w nich i ja w nich.<verse eid="JHN 17:26" />
+  </para>
+  <chapter eid="JHN 17" />
+  <chapter number="18" style="c" sid="JHN 18" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 18:1" />To powiedziawszy, Jezus wyszedł ze swoimi uczniami za potok Cedron, gdzie był ogród, do którego wszedł on i jego uczniowie.<verse eid="JHN 18:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 18:2" />A Judasz, który go zdradził, znał to miejsce, bo Jezus często się tam zbierał ze swoimi uczniami.<verse eid="JHN 18:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 18:3" />Judasz więc, wziąwszy oddział żołnierzy i strażników od naczelnych kapłanów i faryzeuszy, przyszedł tam z latarniami, pochodniami i bronią.<verse eid="JHN 18:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 18:4" />Wtedy Jezus, wiedząc o wszystkim, co miało na niego przyjść, wyszedł im naprzeciw i zapytał: Kogo szukacie?<verse eid="JHN 18:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 18:5" />Odpowiedzieli mu: Jezusa z Nazaretu. Jezus powiedział do nich: Ja jestem. A stał z nimi i Judasz, który go zdradził.<verse eid="JHN 18:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 18:6" />Gdy tylko im powiedział: Ja jestem, cofnęli się i padli na ziemię.<verse eid="JHN 18:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 18:7" />Wtedy ich znowu spytał: Kogo szukacie? A oni odpowiedzieli: Jezusa z Nazaretu.<verse eid="JHN 18:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 18:8" />Jezus odpowiedział: Powiedziałem wam, że ja jestem. Jeśli więc mnie szukacie, pozwólcie tym odejść.<verse eid="JHN 18:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 18:9" />Stało się tak, aby się wypełniły słowa, które powiedział: Nie straciłem żadnego z tych, których mi dałeś.<verse eid="JHN 18:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 18:10" />Wówczas Szymon Piotr, mając miecz, dobył go, uderzył sługę najwyższego kapłana i odciął mu prawe ucho. A temu słudze było na imię Malchos.<verse eid="JHN 18:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 18:11" />I powiedział Jezus do Piotra: Włóż swój miecz do pochwy. Czy nie mam pić kielicha, który mi dał Ojciec?<verse eid="JHN 18:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 18:12" />Wtedy oddział żołnierzy i dowódca oraz strażnicy żydowscy schwytali Jezusa, związali go;<verse eid="JHN 18:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 18:13" />I zaprowadzili go najpierw do Annasza, bo był teściem Kajfasza, który tego roku był najwyższym kapłanem.<verse eid="JHN 18:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 18:14" />To Kajfasz był tym, który doradził Żydom, że pożyteczniej jest, aby jeden człowiek umarł za lud.<verse eid="JHN 18:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 18:15" />A szedł za Jezusem Szymon Piotr i inny uczeń. Ten uczeń zaś był znany najwyższemu kapłanowi i wszedł z Jezusem na dziedziniec najwyższego kapłana.<verse eid="JHN 18:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 18:16" />Ale Piotr stał na zewnątrz u drzwi. Wtedy wyszedł ten drugi uczeń, który był znany najwyższemu kapłanowi, pomówił z odźwierną i wprowadził Piotra.<verse eid="JHN 18:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 18:17" />Wówczas dziewczyna odźwierna zapytała Piotra: Czy i ty nie jesteś jednym z uczniów tego człowieka? On odpowiedział: Nie jestem.<verse eid="JHN 18:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 18:18" />A ponieważ było zimno, strażnicy i słudzy, rozpaliwszy ogień, stali i grzali się. Stał też z nimi Piotr i grzał się.<verse eid="JHN 18:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 18:19" />Tymczasem najwyższy kapłan pytał Jezusa o jego uczniów i o jego naukę.<verse eid="JHN 18:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 18:20" />Jezus mu odpowiedział: Ja jawnie mówiłem światu. Zawsze nauczałem w synagodze i w świątyni, gdzie zewsząd schodzą się Żydzi, a potajemnie nic nie mówiłem.<verse eid="JHN 18:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 18:21" />Dlaczego mnie pytasz? Zapytaj tych, którzy słyszeli to, co im mówiłem. Oto oni wiedzą, co mówiłem.<verse eid="JHN 18:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 18:22" />A gdy on to powiedział, jeden ze sług, który tam stał, wymierzył policzek Jezusowi, mówiąc: Tak odpowiadasz najwyższemu kapłanowi?<verse eid="JHN 18:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 18:23" />Jezus mu odpowiedział: Jeśli źle powiedziałem, daj świadectwo o złu, a jeśli dobrze, dlaczego mnie bijesz?<verse eid="JHN 18:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 18:24" />Bo Annasz odesłał go związanego do Kajfasza, najwyższego kapłana.<verse eid="JHN 18:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 18:25" />A Szymon Piotr stał i grzał się. I zapytali go: Czy i ty nie jesteś jednym z jego uczniów? A on się wyparł, mówiąc: Nie jestem.<verse eid="JHN 18:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 18:26" />Zapytał go jeden ze sług najwyższego kapłana, krewny tego, któremu Piotr odciął ucho: Czyż nie ciebie widziałem z nim w ogrodzie?<verse eid="JHN 18:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 18:27" />Wtedy Piotr znowu się wyparł. I zaraz zapiał kogut.<verse eid="JHN 18:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 18:28" />Od Kajfasza więc zaprowadzili Jezusa do ratusza; a było rano. Sami jednak nie weszli do ratusza, aby się nie skalać, lecz żeby mogli spożyć Paschę.<verse eid="JHN 18:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 18:29" />Wówczas Piłat wyszedł do nich i zapytał: Jaką skargę wnosicie przeciwko temu człowiekowi?<verse eid="JHN 18:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 18:30" />Odpowiedzieli mu: Gdyby on nie był złoczyńcą, nie wydalibyśmy go tobie.<verse eid="JHN 18:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 18:31" />I powiedział Piłat: Wy go weźcie i osądźcie według waszego prawa. Żydzi mu odpowiedzieli: Nam nie wolno nikogo zabijać.<verse eid="JHN 18:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 18:32" />Stało się tak, aby się wypełniły słowa, które powiedział Jezus, dając znać, jaką śmiercią miał umrzeć.<verse eid="JHN 18:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 18:33" />Wtedy Piłat znowu wszedł do ratusza, wezwał Jezusa i zapytał go: Czy ty jesteś królem Żydów?<verse eid="JHN 18:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 18:34" />Jezus mu odpowiedział: Czy mówisz to sam od siebie, czy inni powiedzieli ci o mnie?<verse eid="JHN 18:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 18:35" />Piłat odpowiedział: Czy ja jestem Żydem? Twój naród i naczelni kapłani wydali mi ciebie. Cóż więc uczyniłeś?<verse eid="JHN 18:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 18:36" />Jezus odpowiedział: Moje królestwo nie jest z tego świata. Gdyby moje królestwo było z tego świata, to moi słudzy walczyliby, abym nie został wydany Żydom. Teraz jednak moje królestwo nie jest stąd.<verse eid="JHN 18:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 18:37" />Wtedy Piłat zapytał go: A więc jesteś królem? Jezus mu odpowiedział: Ty mówisz, że jestem królem. Ja po to się narodziłem i po to przyszedłem na świat, aby dać świadectwo prawdzie. Każdy, kto jest z prawdy, słucha mego głosu.<verse eid="JHN 18:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 18:38" />Piłat powiedział do niego: Cóż to jest prawda? A to powiedziawszy, wyszedł znowu do Żydów i powiedział do nich: Ja nie znajduję w nim żadnej winy.<verse eid="JHN 18:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 18:39" />A u was jest zwyczaj, że na Paschę wypuszczam wam jednego więźnia. Chcecie więc, abym wam wypuścił króla Żydów?<verse eid="JHN 18:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 18:40" />Wówczas wszyscy znowu zawołali: Nie tego, ale Barabasza! A Barabasz był bandytą.<verse eid="JHN 18:40" />
+  </para>
+  <chapter eid="JHN 18" />
+  <chapter number="19" style="c" sid="JHN 19" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 19:1" />Wtedy Piłat wziął Jezusa i ubiczował go.<verse eid="JHN 19:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 19:2" />A żołnierze upletli koronę z cierni, włożyli mu ją na głowę i ubrali go w purpurowy płaszcz.<verse eid="JHN 19:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 19:3" />I mówili: Witaj, królu Żydów! I policzkowali go.<verse eid="JHN 19:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 19:4" />Piłat znowu wyszedł na zewnątrz i powiedział do nich: Oto wyprowadzam go do was na zewnątrz, abyście wiedzieli, że nie znajduję w nim żadnej winy.<verse eid="JHN 19:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 19:5" />Wtedy Jezus wyszedł na zewnątrz w cierniowej koronie i w purpurowym płaszczu. I powiedział do nich Piłat: Oto człowiek!<verse eid="JHN 19:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 19:6" />A gdy naczelni kapłani i ich słudzy zobaczyli go, zawołali: Ukrzyżuj, ukrzyżuj go! Piłat powiedział do nich: Wy go weźcie i ukrzyżujcie, bo ja nie znajduję w nim żadnej winy.<verse eid="JHN 19:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 19:7" />Żydzi mu odpowiedzieli: My mamy prawo i według naszego prawa powinien umrzeć, bo czynił siebie Synem Bożym.<verse eid="JHN 19:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 19:8" />A gdy Piłat usłyszał te słowa, jeszcze bardziej się zląkł.<verse eid="JHN 19:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 19:9" />I wszedł znowu do ratusza, i zapytał Jezusa: Skąd ty jesteś? Lecz Jezus nie dał mu odpowiedzi.<verse eid="JHN 19:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 19:10" />Wtedy Piłat powiedział do niego: Nie chcesz ze mną rozmawiać? Nie wiesz, że mam władzę ukrzyżować cię i mam władzę cię wypuścić?<verse eid="JHN 19:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 19:11" />Jezus odpowiedział: Nie miałbyś żadnej władzy nade mną, gdyby ci jej nie dano z góry. Dlatego ten, który mnie tobie wydał, ma większy grzech.<verse eid="JHN 19:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 19:12" />Odtąd Piłat starał się go wypuścić. Żydzi jednak wołali: Jeśli go wypuścisz, nie jesteś przyjacielem cesarza. Każdy, kto się czyni królem, sprzeciwia się cesarzowi.<verse eid="JHN 19:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 19:13" />Gdy więc Piłat usłyszał te słowa, wyprowadził Jezusa na zewnątrz i usiadł na krześle sędziowskim, na miejscu zwanym Litostrotos, a po hebrajsku Gabbata.<verse eid="JHN 19:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 19:14" />A był to dzień przygotowania Paschy, około godziny szóstej. I powiedział Piłat do Żydów: Oto wasz król!<verse eid="JHN 19:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 19:15" />Lecz oni zawołali: Strać, strać! Ukrzyżuj go! Piłat ich zapytał: Waszego króla mam ukrzyżować? Naczelni kapłani odpowiedzieli: Nie mamy króla poza cesarzem.<verse eid="JHN 19:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 19:16" />Wtedy im go wydał, żeby go ukrzyżowano. Wzięli więc Jezusa i wyprowadzili go.<verse eid="JHN 19:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 19:17" />A on, niosąc swój krzyż, wyszedł na miejsce zwane Miejscem Czaszki, a po hebrajsku Golgotą;<verse eid="JHN 19:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 19:18" />Gdzie go ukrzyżowali, a z nim dwóch innych z obu stron, pośrodku zaś Jezusa.<verse eid="JHN 19:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 19:19" />Sporządził też Piłat napis i umieścił na krzyżu. A było napisane: Jezus z Nazaretu, król Żydów.<verse eid="JHN 19:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 19:20" />Napis ten czytało wielu Żydów, bo miejsce, gdzie ukrzyżowano Jezusa, było blisko miasta. A było to napisane po hebrajsku, po grecku i po łacinie.<verse eid="JHN 19:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 19:21" />Wtedy naczelni kapłani żydowscy powiedzieli do Piłata: Nie pisz: Król Żydów, ale że on mówił: Jestem królem Żydów.<verse eid="JHN 19:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 19:22" />Piłat odpowiedział: Co napisałem, to napisałem.<verse eid="JHN 19:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 19:23" />A gdy żołnierze ukrzyżowali Jezusa, wzięli jego szaty i podzielili na cztery części, każdemu żołnierzowi część. Wzięli też tunikę, a tunika ta nie była szyta, ale od góry cała tkana.<verse eid="JHN 19:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 19:24" />Mówili więc między sobą: Nie rozcinajmy jej, ale rzućmy losy o to, do kogo ma należeć; aby się wypełniło Pismo, które mówi: Podzielili między siebie moje szaty, a o moje ubranie rzucali losy. To właśnie zrobili żołnierze.<verse eid="JHN 19:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 19:25" />A przy krzyżu Jezusa stały jego matka i siostra jego matki, Maria, żona Kleofasa, i Maria Magdalena.<verse eid="JHN 19:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 19:26" />Gdy więc Jezus zobaczył matkę i ucznia, którego miłował, stojącego obok, powiedział do swojej matki: Kobieto, oto twój syn.<verse eid="JHN 19:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 19:27" />Potem powiedział do ucznia: Oto twoja matka. I od tej godziny uczeń ten wziął ją do siebie.<verse eid="JHN 19:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 19:28" />Potem Jezus, widząc, że już wszystko się wykonało, aby się wypełniło Pismo, powiedział: Pragnę.<verse eid="JHN 19:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 19:29" />A stało tam naczynie pełne octu. Nasączono więc gąbkę octem, nałożono ją na hizop i podano mu do ust.<verse eid="JHN 19:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 19:30" />A gdy Jezus skosztował octu, powiedział: Wykonało się. I schyliwszy głowę, oddał ducha.<verse eid="JHN 19:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 19:31" />Wtedy Żydzi, aby ciała nie zostały na krzyżu na szabat, ponieważ był dzień przygotowania (bo ten dzień szabatu był wielkim dniem), prosili Piłata, aby połamano im golenie i zdjęto ich.<verse eid="JHN 19:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="JHN 19:32" />Przyszli więc żołnierze i połamali golenie pierwszemu i drugiemu, który z nim był ukrzyżowany.<verse eid="JHN 19:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="JHN 19:33" />Ale gdy przyszli do Jezusa i zobaczyli, że już umarł, nie łamali mu goleni;<verse eid="JHN 19:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="JHN 19:34" />Lecz jeden z żołnierzy przebił włócznią jego bok i natychmiast wypłynęła krew i woda.<verse eid="JHN 19:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 19:35" />A ten, który to widział, świadczył o tym, a jego świadectwo jest prawdziwe i on wie, że mówi prawdę, abyście wy wierzyli.<verse eid="JHN 19:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="JHN 19:36" />Stało się to bowiem, aby się wypełniło Pismo: Żadna jego kość nie będzie złamana.<verse eid="JHN 19:36" />
+  </para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 19:37" />I znowu w innym miejscu Pismo mówi: Ujrzą tego, którego przebili.<verse eid="JHN 19:37" />
+  </para>
+  <para style="m">
+    <verse number="38" style="v" sid="JHN 19:38" />A potem Józef z Arymatei, który z obawy przed Żydami był potajemnie uczniem Jezusa, prosił Piłata, aby mógł zdjąć ciało Jezusa. A Piłat zezwolił. Poszedł więc i zdjął ciało Jezusa.<verse eid="JHN 19:38" />
+  </para>
+  <para style="m">
+    <verse number="39" style="v" sid="JHN 19:39" />Przyszedł też Nikodem, który przedtem przyszedł w nocy do Jezusa, niosąc około stu funtów mieszaniny mirry i aloesu.<verse eid="JHN 19:39" />
+  </para>
+  <para style="m">
+    <verse number="40" style="v" sid="JHN 19:40" />Wzięli więc ciało Jezusa i owinęli je w płótna z tymi wonnościami, zgodnie z żydowskim zwyczajem grzebania zmarłych.<verse eid="JHN 19:40" />
+  </para>
+  <para style="m">
+    <verse number="41" style="v" sid="JHN 19:41" />A na miejscu, gdzie był ukrzyżowany, był ogród, a w ogrodzie nowy grobowiec, w którym jeszcze nikt nie był złożony.<verse eid="JHN 19:41" />
+  </para>
+  <para style="m">
+    <verse number="42" style="v" sid="JHN 19:42" />Tam więc położyli Jezusa z powodu żydowskiego dnia przygotowania, bo grób był blisko.<verse eid="JHN 19:42" />
+  </para>
+  <chapter eid="JHN 19" />
+  <chapter number="20" style="c" sid="JHN 20" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 20:1" />A pierwszego dnia po szabacie, rano, gdy jeszcze było ciemno, Maria Magdalena przyszła do grobu i zobaczyła kamień odwalony od grobowca.<verse eid="JHN 20:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 20:2" />Wtedy pobiegła i przyszła do Szymona Piotra i do drugiego ucznia, którego Jezus miłował, i powiedziała do nich: Zabrali Pana z grobu i nie wiemy, gdzie go położyli.<verse eid="JHN 20:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 20:3" />Wyszedł więc Piotr i ten drugi uczeń i poszli do grobu.<verse eid="JHN 20:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 20:4" />I biegli obaj razem, ale ten drugi uczeń wyprzedził Piotra i pierwszy przybył do grobu.<verse eid="JHN 20:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 20:5" />Kiedy się nachylił, zobaczył leżące płótna, jednak tam nie wszedł.<verse eid="JHN 20:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 20:6" />Przyszedł też Szymon Piotr, idąc za nim. Wszedł do grobowca i zobaczył leżące płótna;<verse eid="JHN 20:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 20:7" />I chustę, która była na jego głowie, położoną nie z płótnami, ale zwiniętą osobno na jednym miejscu.<verse eid="JHN 20:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 20:8" />Potem wszedł także ten drugi uczeń, który pierwszy przybył do grobu, zobaczył i uwierzył.<verse eid="JHN 20:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 20:9" />Jeszcze bowiem nie rozumieli Pisma, że miał zmartwychwstać.<verse eid="JHN 20:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 20:10" />Wtedy uczniowie powrócili do domu.<verse eid="JHN 20:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 20:11" />Ale Maria stała na zewnątrz przed grobem, płacząc. A gdy płakała, nachyliła się do grobowca;<verse eid="JHN 20:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 20:12" />I ujrzała dwóch aniołów w bieli, którzy siedzieli tam, gdzie było złożone ciało Jezusa, jeden u głowy, a drugi u nóg.<verse eid="JHN 20:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 20:13" />I zapytali ją: Kobieto, czemu płaczesz? Odpowiedziała im: Bo zabrali mego Pana i nie wiem, gdzie go położyli.<verse eid="JHN 20:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 20:14" />A to powiedziawszy, odwróciła się i ujrzała stojącego Jezusa, lecz nie wiedziała, że to Jezus.<verse eid="JHN 20:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 20:15" />Jezus ją zapytał: Kobieto, czemu płaczesz? Kogo szukasz? A ona, sądząc, że to ogrodnik, odpowiedziała mu: Panie, jeśli ty go wziąłeś, powiedz mi, gdzie go położyłeś, a ja go zabiorę.<verse eid="JHN 20:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 20:16" />Jezus powiedział do niej: Mario! A ona, obróciwszy się, powiedziała do niego: Rabbuni! – co się tłumaczy: Nauczycielu.<verse eid="JHN 20:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 20:17" />Jezus do niej powiedział: Nie dotykaj mnie, bo jeszcze nie wstąpiłem do mego Ojca. Ale idź do moich braci i powiedz im: Wstępuję do mego Ojca i waszego Ojca, i do mego Boga, i waszego Boga.<verse eid="JHN 20:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 20:18" />Przyszła więc Maria Magdalena, oznajmiając uczniom, że widziała Pana i że jej to powiedział.<verse eid="JHN 20:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 20:19" />A gdy był wieczór tego pierwszego dnia po szabacie, a drzwi były zamknięte tam, gdzie zgromadzili się uczniowie z obawy przed Żydami, przyszedł Jezus, stanął pośrodku i powiedział do nich: Pokój wam.<verse eid="JHN 20:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 20:20" />A to powiedziawszy, pokazał im swoje ręce i bok. I uradowali się uczniowie, ujrzawszy Pana.<verse eid="JHN 20:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 20:21" />Jezus znowu powiedział do nich: Pokój wam. Jak Ojciec mnie posłał, tak i ja was posyłam.<verse eid="JHN 20:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 20:22" />A to powiedziawszy, tchnął na nich i powiedział: Weźcie Ducha Świętego.<verse eid="JHN 20:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 20:23" />Komukolwiek przebaczycie grzechy, są im przebaczone, a komukolwiek zatrzymacie, są im zatrzymane.<verse eid="JHN 20:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 20:24" />A Tomasz, jeden z dwunastu, zwany Didymos, nie był z nimi, gdy przyszedł Jezus.<verse eid="JHN 20:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 20:25" />I powiedzieli mu inni uczniowie: Widzieliśmy Pana. Lecz on powiedział do nich: Jeśli nie zobaczę na jego rękach śladów gwoździ i nie włożę mego palca w ślady gwoździ, i nie włożę mojej ręki w jego bok, nie uwierzę.<verse eid="JHN 20:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="JHN 20:26" />A po ośmiu dniach jego uczniowie znowu byli w domu, a Tomasz z nimi. I przyszedł Jezus, gdy drzwi były zamknięte, stanął pośrodku i powiedział: Pokój wam.<verse eid="JHN 20:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 20:27" />Potem powiedział do Tomasza: Włóż tu swój palec i obejrzyj moje ręce, wyciągnij swoją rękę i włóż ją w mój bok, a nie bądź bez wiary, ale wierz.<verse eid="JHN 20:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 20:28" />Wtedy Tomasz mu odpowiedział: Mój Pan i mój Bóg!<verse eid="JHN 20:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="JHN 20:29" />Jezus mu powiedział: Tomaszu, uwierzyłeś, ponieważ mnie ujrzałeś. Błogosławieni, którzy nie widzieli, a uwierzyli.<verse eid="JHN 20:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="JHN 20:30" />I wiele innych cudów uczynił Jezus na oczach swoich uczniów, które nie są napisane w tej księdze.<verse eid="JHN 20:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 20:31" />Lecz te są napisane, abyście wierzyli, że Jezus jest Chrystusem, Synem Bożym, i abyście wierząc, mieli życie w jego imieniu.<verse eid="JHN 20:31" />
+  </para>
+  <chapter eid="JHN 20" />
+  <chapter number="21" style="c" sid="JHN 21" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 21:1" />Potem Jezus znowu ukazał się uczniom nad Morzem Tyberiadzkim. A ukazał się tak:<verse eid="JHN 21:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 21:2" />Byli razem Szymon Piotr, Tomasz, zwany Didymos, Natanael, który był z Kany Galilejskiej, synowie Zebedeusza i dwaj inni z jego uczniów.<verse eid="JHN 21:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="JHN 21:3" />Szymon Piotr powiedział do nich: Pójdę łowić ryby. Odpowiedzieli mu: Pójdziemy i my z tobą. Poszli więc i zaraz wsiedli do łodzi, ale tej nocy nic nie złowili.<verse eid="JHN 21:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="JHN 21:4" />A gdy już nastał ranek, Jezus stanął na brzegu. Uczniowie jednak nie wiedzieli, że to Jezus.<verse eid="JHN 21:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 21:5" />Wtedy Jezus zapytał ich: Dzieci, czy macie co jeść? Odpowiedzieli mu: Nie mamy.<verse eid="JHN 21:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="JHN 21:6" />A on powiedział do nich: Zarzućcie sieć po prawej stronie łodzi, a znajdziecie. Zarzucili więc i nie mogli jej wyciągnąć z powodu mnóstwa ryb.<verse eid="JHN 21:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="JHN 21:7" />Wówczas ten uczeń, którego Jezus miłował, powiedział do Piotra: To Pan. A Szymon Piotr, usłyszawszy, że to Pan, przepasał się koszulą (bo był nagi) i rzucił się w morze.<verse eid="JHN 21:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="JHN 21:8" />Pozostali uczniowie przypłynęli łodzią (bo byli niedaleko od brzegu, około dwustu łokci), ciągnąc sieć z rybami.<verse eid="JHN 21:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="JHN 21:9" />A gdy wyszli na brzeg, zobaczyli żarzące się węgle i leżącą na nich rybę oraz chleb.<verse eid="JHN 21:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="JHN 21:10" />Jezus do nich powiedział: Przynieście z tych ryb, które teraz złowiliście.<verse eid="JHN 21:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="JHN 21:11" />Poszedł więc Szymon Piotr i wyciągnął na ziemię sieć pełną wielkich ryb, których było sto pięćdziesiąt trzy, a choć było ich tak wiele, sieć się nie rozdarła.<verse eid="JHN 21:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 21:12" />Jezus im powiedział: Chodźcie, jedzcie. I żaden z uczniów nie śmiał go pytać: Kim jesteś? Wiedzieli bowiem, że to Pan.<verse eid="JHN 21:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 21:13" />Wtedy Jezus podszedł, wziął chleb i podał im, podobnie i rybę.<verse eid="JHN 21:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 21:14" />To już trzeci raz, jak Jezus ukazał się swoim uczniom po zmartwychwstaniu.<verse eid="JHN 21:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 21:15" />A gdy zjedli, Jezus zapytał Szymona Piotra: Szymonie, synu Jonasza, miłujesz mnie bardziej niż ci? Odpowiedział mu: Tak, Panie, ty wiesz, że cię miłuję. Powiedział do niego: Paś moje baranki.<verse eid="JHN 21:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 21:16" />Zapytał go znowu, po raz drugi: Szymonie, synu Jonasza, miłujesz mnie? Odpowiedział mu: Tak, Panie, ty wiesz, że cię miłuję. Powiedział mu: Paś moje owce.<verse eid="JHN 21:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 21:17" />Zapytał go po raz trzeci: Szymonie, synu Jonasza, miłujesz mnie? I zasmucił się Piotr, że go zapytał po raz trzeci: Miłujesz mnie? I odpowiedział mu: Panie, ty wszystko wiesz, ty wiesz, że cię miłuję. Jezus powiedział do niego: Paś moje owce.<verse eid="JHN 21:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 21:18" />Zaprawdę, zaprawdę powiadam ci: Gdy byłeś młodszy, opasywałeś się i chodziłeś, gdzie chciałeś. Gdy jednak się zestarzejesz, wyciągniesz swoje ręce, a inny cię opasze i poprowadzi, dokąd nie chcesz.<verse eid="JHN 21:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 21:19" />Powiedział to, dając znać, jaką śmiercią miał uwielbić Boga. A to powiedziawszy, rzekł mu: Pójdź za mną.<verse eid="JHN 21:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 21:20" />A Piotr, odwróciwszy się, zobaczył ucznia, którego Jezus miłował, idącego za nim, który też przy wieczerzy położył się na jego piersi i zapytał: Panie, kto jest tym, który cię wyda?<verse eid="JHN 21:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 21:21" />Gdy więc Piotr go zobaczył, zapytał Jezusa: Panie, a co z nim?<verse eid="JHN 21:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 21:22" />Jezus mu odpowiedział: Jeśli chcę, żeby on został, aż przyjdę, co tobie do tego? Ty pójdź za mną.<verse eid="JHN 21:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="JHN 21:23" />I rozeszła się wśród braci wieść, że ten uczeń nie umrze. Jezus jednak nie powiedział mu, że nie umrze, ale: Jeśli chcę, aby został, aż przyjdę, co tobie do tego?<verse eid="JHN 21:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 21:24" />To jest ten uczeń, który świadczy o tym i to napisał, a wiemy, że jego świadectwo jest prawdziwe.<verse eid="JHN 21:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="JHN 21:25" />Jest też jeszcze wiele innych rzeczy, których dokonał Jezus, które gdyby miały być wszystkie z osobna spisane, sądzę, że i cały świat nie mógłby pomieścić ksiąg, które byłyby napisane. Amen.<verse eid="JHN 21:25" />
+  </para>
+  <chapter eid="JHN 21" />
+</usx>

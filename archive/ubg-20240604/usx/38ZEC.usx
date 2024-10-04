@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="ZEC" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Zachariasza</para>
+  <para style="toc1">Księga Zachariasza</para>
+  <para style="toc2">Zachariasza</para>
+  <para style="toc3">Za</para>
+  <para style="mt1">Księga Zachariasza</para>
+  <chapter number="1" style="c" sid="ZEC 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 1:1" />W ósmym miesiącu drugiego roku Dariusza słowo PANA doszło do Zachariasza, syna Berechiasza, syna Iddo proroka, mówiące:<verse eid="ZEC 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 1:2" />PAN bardzo się rozgniewał na waszych ojców.<verse eid="ZEC 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 1:3" />Dlatego powiedz im: Tak mówi PAN zastępów: Powróćcie do mnie, mówi PAN zastępów, a ja powrócę do was, mówi PAN zastępów.<verse eid="ZEC 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 1:4" />Nie bądźcie jak wasi ojcowie, do których wołali dawni prorocy, mówiąc: Tak mówi PAN zastępów: Odwróćcie się teraz od waszych złych dróg i od waszych złych uczynków. Ale oni nie usłuchali ani nie zważali na mnie, mówi PAN.<verse eid="ZEC 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 1:5" />Gdzie są wasi ojcowie? A prorocy, czy żyją wiecznie?<verse eid="ZEC 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 1:6" />Czyż jednak moje słowa i ustawy, które rozkazałem moim sługom, prorokom, nie dotarły do waszych ojców? Powrócili i powiedzieli: Jak PAN zastępów zamierzył uczynić nam według naszych dróg i naszych uczynków, tak nam uczynił.<verse eid="ZEC 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 1:7" />Dnia dwudziestego czwartego, jedenastego miesiąca, czyli w miesiącu Szebat, w drugim roku Dariusza, słowo PANA doszło do Zachariasza, syna Berechiasza, syna proroka Iddo, mówiące:<verse eid="ZEC 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 1:8" />Widziałem w nocy, a oto mąż jechał na rudym koniu, który stał wśród mirtów, które były na nizinie, a za nim konie rude, pstrokate i białe.<verse eid="ZEC 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 1:9" />Wtedy zapytałem: Kim oni są, mój panie? I Anioł, który rozmawiał ze mną, odpowiedział mi: Ja ci pokażę, kim oni są.<verse eid="ZEC 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 1:10" />I mąż, który stał wśród mirtów, odpowiedział: To są ci, których PAN posłał, aby obeszli ziemię.<verse eid="ZEC 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 1:11" />I odpowiedzieli Aniołowi PANA stojącemu wśród mirtów: Obeszliśmy ziemię, a oto cała ziemia żyje bezpiecznie i zażywa pokoju.<verse eid="ZEC 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 1:12" />Wtedy Anioł PANA odpowiedział: PANIE zastępów, jak długo jeszcze nie będziesz się litował nad Jerozolimą i nad miastami Judy, na które się gniewasz już siedemdziesiąt lat?<verse eid="ZEC 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 1:13" />PAN odpowiedział Aniołowi, który rozmawiał ze mną, słowami dobrymi, słowami pociechy.<verse eid="ZEC 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="ZEC 1:14" />Potem Anioł, który rozmawiał ze mną, powiedział: Wołaj i mów: Tak mówi PAN zastępów: Zapłonąłem wielką gorliwością o Jerozolimę i o Syjon.<verse eid="ZEC 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="ZEC 1:15" />A bardzo się gniewam na te narody, które zażywają pokoju, bo gdy się trochę gniewałem, one wtedy przyczyniły się do nieszczęścia.<verse eid="ZEC 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="ZEC 1:16" />Dlatego tak mówi PAN: Zwróciłem się do Jerozolimy w miłosierdziu, mój dom zostanie w niej zbudowany, mówi PAN zastępów, i sznur będzie rozciągnięty nad Jerozolimą.<verse eid="ZEC 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="ZEC 1:17" />Wołaj jeszcze: Tak mówi PAN zastępów: Moje miasta jeszcze się rozciągną z powodu obfitości dobra, PAN jeszcze pocieszy Syjon i jeszcze wybierze Jerozolimę.<verse eid="ZEC 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="ZEC 1:18" />Wtedy podniosłem swe oczy i spojrzałem, a oto cztery rogi.<verse eid="ZEC 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="ZEC 1:19" />I zapytałem Anioła, który rozmawiał ze mną: Cóż to jest? I odpowiedział mi: To są rogi, które rozproszyły Judę, Izraela i Jerozolimę.<verse eid="ZEC 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="ZEC 1:20" />Następnie PAN ukazał mi czterech kowali.<verse eid="ZEC 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="ZEC 1:21" />I zapytałem: Co oni przyszli czynić? I odpowiedział: To są rogi, które rozproszyły Judę, tak że nikt nie mógł podnieść swojej głowy. Dlatego oni przyszli, aby je przestraszyć i strącić rogi tych narodów, które podniosły swoje rogi przeciwko ziemi Judy, aby ją rozproszyć.<verse eid="ZEC 1:21" />
+  </para>
+  <chapter eid="ZEC 1" />
+  <chapter number="2" style="c" sid="ZEC 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 2:1" />Potem znowu podniosłem swoje oczy i spojrzałem, a oto mężczyzna, w którego ręce był sznur mierniczy.<verse eid="ZEC 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 2:2" />I zapytałem: Dokąd idziesz? Odpowiedział mi: Idę zmierzyć Jerozolimę, by zobaczyć, jaka jest jej szerokość i jaka jej długość.<verse eid="ZEC 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 2:3" />A oto gdy Anioł, który rozmawiał ze mną, odchodził, inny anioł wyszedł mu naprzeciw.<verse eid="ZEC 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 2:4" />I powiedział do niego: Biegnij i powiedz temu młodzieńcowi: Jerozolima będzie zamieszkana jak miasta bez murów ze względu na mnóstwo ludu i bydła w niej.<verse eid="ZEC 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 2:5" />A ja, mówi PAN, będę dla niej murem ognistym dokoła i będę chwałą pośród niej.<verse eid="ZEC 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 2:6" />Hej, hej! Uciekajcie z ziemi północnej, mówi PAN, ponieważ rozproszyłem was na cztery strony świata, mówi PAN.<verse eid="ZEC 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 2:7" />Ratuj się, o Syjonie, który mieszkasz u córki Babilonu.<verse eid="ZEC 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 2:8" />Tak bowiem mówi PAN zastępów – posłał mnie na chwałę do tych narodów, które was ograbiły, bo kto was dotyka, dotyka źrenicy jego oka;<verse eid="ZEC 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 2:9" />Oto podniosę swoją rękę przeciwko nim i staną się łupem dla swoich sług. I poznacie, że PAN zastępów mnie posłał.<verse eid="ZEC 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 2:10" />Zaśpiewaj i raduj się, córko Syjonu, bo oto przyjdę i zamieszkam pośród ciebie, mówi PAN.<verse eid="ZEC 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 2:11" />Wiele narodów przyłączy się w tym dniu do PANA i będą moim ludem, a ja zamieszkam pośród ciebie i poznasz, że PAN zastępów posłał mnie do ciebie.<verse eid="ZEC 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 2:12" />Wtedy PAN weźmie Judę w posiadanie jako swój dział w ziemi świętej i znowu wybierze Jerozolimę.<verse eid="ZEC 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 2:13" />Niech umilknie wszelkie ciało przed PANEM. On bowiem powstał ze swego świętego przybytku.<verse eid="ZEC 2:13" />
+  </para>
+  <chapter eid="ZEC 2" />
+  <chapter number="3" style="c" sid="ZEC 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 3:1" />Potem ukazał mi Jozuego, najwyższego kapłana, który stał przed Aniołem PANA, i szatana stojącego po jego prawicy, aby mu się sprzeciwiać.<verse eid="ZEC 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 3:2" />Ale PAN powiedział do szatana: Niech cię PAN zgromi, szatanie! Niech cię skarci PAN, który wybrał Jerozolimę. Czyż nie jest on jak głownia wyrwana z ognia?<verse eid="ZEC 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 3:3" />A Jozue był ubrany w brudne szaty i stał przed Aniołem.<verse eid="ZEC 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 3:4" />Ten odezwał się do tych, którzy stali przed nim, i powiedział: Zdejmijcie z niego te brudne szaty. Do niego zaś powiedział: Oto zdjąłem z ciebie twoją nieprawość i oblekłem cię w inne szaty.<verse eid="ZEC 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 3:5" />Powiedział jeszcze: Niech włożą mu na głowę piękną mitrę. Włożyli więc piękną mitrę na jego głowę i oblekli go w szaty, a Anioł PANA stał obok.<verse eid="ZEC 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 3:6" />Potem Anioł PANA oświadczył Jozuemu:<verse eid="ZEC 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 3:7" />Tak mówi PAN zastępów: Jeśli będziesz chodził moimi drogami i jeśli będziesz przestrzegał moich ustaw, wtedy też będziesz sądził mój dom i będziesz strzegł moich dziedzińców, i pozwolę ci chodzić wśród tych, którzy tu stoją.<verse eid="ZEC 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 3:8" />Słuchaj więc teraz, Jozue, najwyższy kapłanie, ty i twoi towarzysze, którzy siedzą przed tobą. Są oni bowiem jakby ludźmi niezwykłymi, gdyż oto przywiodę swojego sługę – Latorośl.<verse eid="ZEC 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 3:9" />Oto bowiem ten kamień, który kładę przed Jozuem: na tym jednym kamieniu będzie siedmioro oczu. Oto wykonam na nim ryt, mówi PAN zastępów, i zgładzę nieprawość tej ziemi w jednym dniu.<verse eid="ZEC 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 3:10" />W tym dniu, mówi PAN zastępów, każdy wezwie swego bliźniego pod winoroślą i pod drzewem figowym.<verse eid="ZEC 3:10" />
+  </para>
+  <chapter eid="ZEC 3" />
+  <chapter number="4" style="c" sid="ZEC 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 4:1" />Potem Anioł, który rozmawiał ze mną, powrócił i obudził mnie, jak budzi się kogoś ze snu.<verse eid="ZEC 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 4:2" />I zapytał mnie: Co widzisz? Odpowiedziałem: Spojrzałem, a oto świecznik cały ze złota, a na jego szczycie jest czasza, na nim siedem lamp, a także siedem rurek do tych siedmiu lamp, które są na jego szczycie;<verse eid="ZEC 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 4:3" />Dwa drzewa oliwne obok niego, jedno po prawej stronie czaszy, a drugie po jej lewej stronie.<verse eid="ZEC 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 4:4" />Wtedy odezwałem się do Anioła, który rozmawiał ze mną, i zapytałem: Co to jest, mój Panie?<verse eid="ZEC 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 4:5" />Anioł, który rozmawiał ze mną, odpowiedział mi: Czy nie wiesz, co to jest? Odpowiedziałem: Nie wiem, mój Panie.<verse eid="ZEC 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 4:6" />Wtedy odpowiedział mi: Oto słowo PANA do Zorobabela: Nie wojskiem ani siłą, ale moim Duchem, mówi PAN zastępów.<verse eid="ZEC 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 4:7" />Czymże ty jesteś, góro wielka? Wobec Zorobabela staniesz się równiną. On bowiem wyniesie główny kamień z głośnym okrzykiem: Łaska, łaska nad nim.<verse eid="ZEC 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 4:8" />I doszło słowo PANA do mnie mówiące:<verse eid="ZEC 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 4:9" />Ręce Zorobabela położyły fundamenty tego domu, jego ręce go dokończą; a poznasz, że PAN zastępów posłał mnie do was.<verse eid="ZEC 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 4:10" />Któż bowiem wzgardził dniem małych początków? Oni bowiem będą się radować, patrząc na pion w ręku Zorobabela i na tych siedmioro oczu PANA, które przebiegają całą ziemię.<verse eid="ZEC 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 4:11" />Wtedy odezwałem się i zapytałem go: Co oznaczają te dwa drzewa oliwne po prawej i lewej stronie tego świecznika?<verse eid="ZEC 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 4:12" />I ponownie odezwałem się, i zapytałem go: Co oznaczają te dwie gałęzie oliwne, które dwiema złotymi rurkami wypuszczają z siebie złocistą oliwę?<verse eid="ZEC 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 4:13" />On zapytał: Nie wiesz, co to jest? Odpowiedziałem: Nie wiem, mój Panie.<verse eid="ZEC 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="ZEC 4:14" />Wtedy powiedział: To są dwaj pomazańcy, którzy stoją przed Panem całej ziemi.<verse eid="ZEC 4:14" />
+  </para>
+  <chapter eid="ZEC 4" />
+  <chapter number="5" style="c" sid="ZEC 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 5:1" />Potem odwróciłem się i gdy podniosłem swe oczy, spojrzałem, a oto latający zwój.<verse eid="ZEC 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 5:2" />I zapytał mnie: Co widzisz? Odpowiedziałem: Widzę latający zwój, jego długość dwadzieścia łokci, a jego szerokość dziesięć łokci.<verse eid="ZEC 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 5:3" />Wtedy powiedział do mnie: To jest przekleństwo, które wyjdzie na całą powierzchnię ziemi. Każdy złodziej bowiem zostanie wykorzeniony według przekleństwa z tej strony i każdy krzywoprzysięzca zostanie wykorzeniony według przekleństwa z drugiej strony.<verse eid="ZEC 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 5:4" />Wyprowadzę je, mówi PAN zastępów, aby weszło do domu złodzieja i do domu tego, kto krzywo przysięga na moje imię. Pozostanie w jego domu i zniszczy go wraz z jego drewnem i kamieniem.<verse eid="ZEC 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 5:5" />Wtedy wyszedł Anioł, który ze mną rozmawiał, i powiedział mi: Podnieś teraz swoje oczy i zobacz, co to jest, co wychodzi.<verse eid="ZEC 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 5:6" />Zapytałem: Co to jest? On odpowiedział: To, co wychodzi, to efa. I dodał: Taki jest ich wygląd w całej ziemi.<verse eid="ZEC 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 5:7" />A oto podniósł się talent ołowiu, a przy tym była kobieta, która siedziała wewnątrz efy.<verse eid="ZEC 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 5:8" />Wtedy Anioł powiedział: To jest bezbożność. I wrzucił ją do wnętrza efy, wrzucił także do otworu efy ten talent ołowiu.<verse eid="ZEC 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 5:9" />Potem podniosłem swoje oczy i spojrzałem, a oto wyszły dwie kobiety mające wiatr pod swoimi skrzydłami, a ich skrzydła przypominały skrzydła bocianie. I podniosły efę między ziemią i niebem.<verse eid="ZEC 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 5:10" />Wtedy zapytałem tego Anioła, który rozmawiał ze mną: Dokąd niosą tę efę?<verse eid="ZEC 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 5:11" />Powiedział mi: By zbudować dla niej dom w ziemi Szinear, a gdy będzie założony, postawią ją na jej własnej podstawie.<verse eid="ZEC 5:11" />
+  </para>
+  <chapter eid="ZEC 5" />
+  <chapter number="6" style="c" sid="ZEC 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 6:1" />Potem odwróciłem się, podniosłem swoje oczy i spojrzałem, a oto cztery rydwany wychodziły spomiędzy dwóch gór, a te góry były z miedzi.<verse eid="ZEC 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 6:2" />Przy pierwszym rydwanie były konie rude, przy drugim rydwanie – konie kare;<verse eid="ZEC 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 6:3" />Przy trzecim rydwanie – konie białe, a przy czwartym rydwanie były konie pstrokate i gniade.<verse eid="ZEC 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 6:4" />Wtedy zapytałem Anioła, który rozmawiał ze mną: Co to jest, mój Panie?<verse eid="ZEC 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 6:5" />I Anioł odpowiedział mi: To są cztery duchy nieba, wyruszają one z miejsca, gdzie stały przed Panem całej ziemi.<verse eid="ZEC 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 6:6" />Zaprzężone konie kare wyruszają do ziemi północnej, białe wyruszają za nimi, pstrokate zaś wyruszają do ziemi południowej.<verse eid="ZEC 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 6:7" />A te gniade konie wyruszyły, rwały się do biegu, aby obejść ziemię. Wtedy powiedział: Idźcie i obejdźcie ziemię! I obeszły ziemię.<verse eid="ZEC 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 6:8" />Potem zawołał mnie i powiedział: Oto te, które wyruszyły do ziemi północnej, uspokoiły mojego ducha w ziemi północnej.<verse eid="ZEC 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 6:9" />I doszło do mnie słowo PANA mówiące:<verse eid="ZEC 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 6:10" />Weź dary od tych, co byli w niewoli: od Cheldaja, od Tobiasza i od Jedajasza, którzy przybyli z Babilonu, i przyjdź w tym samym dniu, i wejdź do domu Jozjasza, syna Sofoniasza;<verse eid="ZEC 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 6:11" />Weź srebro i złoto, zrób korony i włóż je na głowę Jozuego, syna Josadaka, najwyższego kapłana.<verse eid="ZEC 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 6:12" />I powiedz do niego: Tak mówi PAN zastępów: Oto mąż, którego imię brzmi Latorośl; on wyrośnie ze swego miejsca i zbuduje świątynię PANA.<verse eid="ZEC 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 6:13" />On zbuduje świątynię PANA, będzie obdarzony chwałą, zasiądzie na swoim tronie i będzie panować na nim, i będzie on kapłanem na swoim tronie; i rada pokoju będzie między nimi oboma.<verse eid="ZEC 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="ZEC 6:14" />A te korony będą dla Chelema, Tobiasza, Jedajasza i Chena, syna Sofoniasza, jako pamiątka w świątyni PANA.<verse eid="ZEC 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="ZEC 6:15" />Przyjdą ludzie z dalekich stron i będą budować świątynię PANA, i poznacie, że PAN zastępów posłał mnie do was. A to się stanie, jeśli pilnie będziecie słuchać głosu PANA, swego Boga.<verse eid="ZEC 6:15" />
+  </para>
+  <chapter eid="ZEC 6" />
+  <chapter number="7" style="c" sid="ZEC 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 7:1" />W czwartym roku króla Dariusza słowo PANA doszło do Zachariasza, czwartego dnia dziewiątego miesiąca, to jest w miesiącu Kislew;<verse eid="ZEC 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 7:2" />Gdy lud posłał do domu Bożego Saresera i Regem-Meleka z ich ludźmi, aby się modlili przed PANEM;<verse eid="ZEC 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 7:3" />I aby zapytali kapłanów, którzy byli w domu PANA zastępów, a także proroków: Czy w piątym miesiącu mam jeszcze płakać, poświęcając się, jak to już czyniłem przez tyle lat?<verse eid="ZEC 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 7:4" />Doszło do mnie słowo PANA zastępów mówiące:<verse eid="ZEC 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 7:5" />Powiedz do całego ludu tej ziemi i do kapłanów: Gdy pościliście i płakaliście w piątym i siódmym miesiącu przez te siedemdziesiąt lat, czy pościliście dla mnie?<verse eid="ZEC 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 7:6" />A gdy jecie i pijecie, czy nie dla siebie jecie i nie dla siebie pijecie?<verse eid="ZEC 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 7:7" />Czy nie należało raczej czynić według słowa, które PAN głosił przez dawnych proroków, gdy Jerozolima była jeszcze zamieszkana i zażywała pokoju, a także jej okoliczne miasta, gdy południe i równina były zamieszkane?<verse eid="ZEC 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 7:8" />I słowo PANA doszło do Zachariasza mówiące:<verse eid="ZEC 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 7:9" />Tak mówi PAN zastępów: Sądźcie sprawiedliwie i okazujcie miłosierdzie i litość, każdy swojemu bratu.<verse eid="ZEC 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 7:10" />Nie uciskajcie wdowy i sieroty, obcego i ubogiego i nie obmyślajcie zła w swoich sercach, jedni przeciwko drugim.<verse eid="ZEC 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 7:11" />Ale oni nie chcieli słuchać i odwrócili się plecami, i zatkali swoje uszy, aby nie słyszeć.<verse eid="ZEC 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 7:12" />Zatwardzili swoje serca jak diament, aby nie słuchać prawa i słów, które posyłał PAN zastępów przez swego Ducha za pośrednictwem dawnych proroków. Dlatego nadszedł wielki gniew od PANA zastępów.<verse eid="ZEC 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 7:13" />I stało się tak, że podobnie jak gdy on wołał, a oni nie słuchali, tak też gdy oni wołali, ja ich nie wysłuchałem, mówi PAN zastępów.<verse eid="ZEC 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="ZEC 7:14" />I rozproszyłem ich wichrem pomiędzy wszystkimi narodami, których nie znali, a ta ziemia opustoszała po nich, tak że nikt nie przechodził ani nie wracał. Zamienili bowiem rozkoszną ziemię w spustoszenie.<verse eid="ZEC 7:14" />
+  </para>
+  <chapter eid="ZEC 7" />
+  <chapter number="8" style="c" sid="ZEC 8" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 8:1" />Potem doszło do mnie słowo PANA zastępów mówiące:<verse eid="ZEC 8:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 8:2" />Tak mówi PAN zastępów: Byłem zazdrosny o Syjon w wielkiej gorliwości, byłem zazdrosny w wielkim gniewie.<verse eid="ZEC 8:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 8:3" />Tak mówi PAN: Wróciłem na Syjon i zamieszkam w Jerozolimie; a Jerozolima będzie nazwana Miastem Wiernym, a góra PANA zastępów – Górą Świętą.<verse eid="ZEC 8:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 8:4" />Tak mówi PAN zastępów: Jeszcze siadać będą starcy i staruszki na ulicach Jerozolimy, każdy z nich z laską w ręku z powodu podeszłego wieku.<verse eid="ZEC 8:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 8:5" />I ulice miasta będą pełne bawiących się na nich chłopców i dziewcząt.<verse eid="ZEC 8:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 8:6" />Tak mówi PAN zastępów: Jeśli w tych dniach wyda się to niemożliwe w oczach resztki tego ludu, czy będzie to też niemożliwe w moich oczach? – mówi PAN zastępów.<verse eid="ZEC 8:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 8:7" />Tak mówi PAN zastępów: Oto wybawię swój lud z ziemi wschodniej i z ziemi zachodniej.<verse eid="ZEC 8:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 8:8" />Sprowadzę go i zamieszka w Jerozolimie, i będzie moim ludem, a ja będę jego Bogiem, w prawdzie i sprawiedliwości.<verse eid="ZEC 8:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 8:9" />Tak mówi PAN zastępów: Niech się umocnią wasze ręce, wy, którzy słuchaliście w tych dniach słów z ust proroków, którzy byli w dniu, kiedy założono fundament domu PANA zastępów, aby świątynia została odbudowana.<verse eid="ZEC 8:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 8:10" />Przed tymi dniami bowiem nie była wynagrodzona praca ludzka i praca bydląt. Dla wychodzących i wchodzących nie było pokoju z powodu wroga, bo ja podburzyłem wszystkich ludzi, jednych przeciwko drugim.<verse eid="ZEC 8:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 8:11" />Lecz teraz nie uczynię z resztką tego ludu tak jak za dawnych dni, mówi PAN zastępów.<verse eid="ZEC 8:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 8:12" />Ale siewy będą rosły w pokoju, winorośl wyda swój owoc, ziemia wyda swoje plony i niebiosa także spuszczą swoją rosę, a to wszystko dam resztce tego ludu w posiadanie.<verse eid="ZEC 8:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 8:13" />I stanie się, że jak byliście przekleństwem wśród pogan, domu Judy i domu Izraela, tak was wybawię i będziecie błogosławieństwem. Nie bójcie się i niech się umocnią wasze ręce.<verse eid="ZEC 8:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="ZEC 8:14" />Tak bowiem mówi PAN zastępów: Jak postanowiłem ukarać was, gdy wasi ojcowie pobudzali mnie do gniewu, mówi PAN zastępów – i nie żałowałem tego;<verse eid="ZEC 8:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="ZEC 8:15" />Tak znowu postanowiłem w tych dniach uczynić dobrze Jerozolimie i domowi Judy. Nie bójcie się.<verse eid="ZEC 8:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="ZEC 8:16" />To są rzeczy, które będziecie czynić: Mówcie prawdę, każdy ze swoim bliźnim, wykonujcie sprawiedliwy i spokojny sąd w waszych bramach;<verse eid="ZEC 8:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="ZEC 8:17" />Nie obmyślajcie zła w sercach waszych, jeden przeciwko drugiemu, i nie lubujcie się w krzywoprzysięstwie, gdyż tego wszystkiego nienawidzę, mówi PAN.<verse eid="ZEC 8:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="ZEC 8:18" />I doszło do mnie słowo PANA zastępów mówiące:<verse eid="ZEC 8:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="ZEC 8:19" />Tak mówi PAN zastępów: Post w czwartym, piątym, siódmym i dziesiątym miesiącu zamienią się dla domu Judy w radość i wesele, i w rozkoszne święta. Miłujcie więc prawdę i pokój.<verse eid="ZEC 8:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="ZEC 8:20" />Tak mówi PAN zastępów: Jeszcze będą przychodzić narody i mieszkańcy wielu miast.<verse eid="ZEC 8:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="ZEC 8:21" />Mieszkańcy jednego miasta pójdą do drugiego, mówiąc: Pójdźmy ochoczo przebłagać oblicze PANA i szukać PANA zastępów. Ja także pójdę.<verse eid="ZEC 8:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="ZEC 8:22" />A tak liczne ludy i potężne narody przybędą szukać PANA zastępów w Jerozolimie i przebłagać oblicze PANA.<verse eid="ZEC 8:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="ZEC 8:23" />Tak mówi PAN zastępów: W tych dniach dziesięciu ludzi ze wszystkich języków narodów uchwyci się poły jednego Żyda, mówiąc: Pójdziemy z wami, bo usłyszeliśmy, że Bóg jest z wami.<verse eid="ZEC 8:23" />
+  </para>
+  <chapter eid="ZEC 8" />
+  <chapter number="9" style="c" sid="ZEC 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 9:1" />Brzemię słowa PANA w ziemi Chadraku, a Damaszek będzie jego odpoczynkiem, gdyż PANU przypatrzą się oczy ludzi i wszystkich pokoleń Izraela;<verse eid="ZEC 9:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 9:2" />Nawet Chamat będzie miał z nim granicę, a także Tyr i Sydon, choć są bardzo mądre.<verse eid="ZEC 9:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 9:3" />Tyr bowiem zbudował sobie twierdzę i nagromadził srebra jak prochu, a złota jak błota na ulicach.<verse eid="ZEC 9:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 9:4" />Oto PAN go wypędzi i wrzuci w morze jego siłę, on sam zostanie strawiony ogniem.<verse eid="ZEC 9:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 9:5" />Ujrzy to Aszkelon i ulęknie się, podobnie Gaza – i pogrąży się w smutku; również Ekron, bo jego nadzieja zawiedzie. I zginie król z Gazy, a Aszkelon nie będzie zamieszkany.<verse eid="ZEC 9:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 9:6" />I bękart będzie mieszkał w Aszdodzie, a tak zniszczę pychę Filistynów.<verse eid="ZEC 9:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 9:7" />Usunę krew każdego z jego ust i obrzydliwości spomiędzy jego zębów. Kto pozostanie, będzie należał do naszego Boga, aby był jak książę w Judzie i Ekron, jak Jebusyta.<verse eid="ZEC 9:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 9:8" />I rozłożę obóz dokoła swego domu z powodu wojska i z powodu tych, którzy przechodzą i wracają. I już nie przejdzie przez nich żaden ciemięzca. Teraz bowiem widziały to moje oczy.<verse eid="ZEC 9:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 9:9" />Raduj się wielce, córko Syjonu! Wykrzykuj, córko Jerozolimy! Oto twój Król przychodzi do ciebie; sprawiedliwy i Zbawiciel, cichy i siedzący na ośle, na oślątku, źrebięciu oślicy.<verse eid="ZEC 9:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 9:10" />Zniszczę bowiem rydwany z Efraima i konie z Jerozolimy, a łuki wojenne będą połamane. I ogłosi pokój narodom, a jego władza będzie sięgać od morza aż do morza i od rzeki aż po krańce ziemi.<verse eid="ZEC 9:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 9:11" />A co do ciebie, ze względu na krew twego przymierza wypuściłem twoich więźniów z dołu, w którym nie ma wody.<verse eid="ZEC 9:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 9:12" />Wróćcie do twierdzy, więźniowie, którzy macie nadzieję. Dziś bowiem ogłaszam, że wynagrodzę w dwójnasób;<verse eid="ZEC 9:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 9:13" />Gdy jak łuk naciągnę Judę, a na nim nałożę Efraima; wzbudzę twoich synów, Syjonie, przeciwko twoim synom, Jawanie, i zrobię z ciebie miecz mocarza.<verse eid="ZEC 9:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="ZEC 9:14" />PAN bowiem ukaże się nad nimi i jak błyskawica wyleci jego strzała. Pan BÓG zadmie w trąbę i wyruszy w wichrach południa.<verse eid="ZEC 9:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="ZEC 9:15" />PAN zastępów będzie ochraniać swój lud; pochłoną i przemogą kamienie z procy, będą pić i krzyczeć jak od wina; i napełnią się jak czasza i jak rogi ołtarza.<verse eid="ZEC 9:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="ZEC 9:16" />W tym dniu PAN, ich Bóg, wybawi ich jak trzodę swego ludu. Będą bowiem jak kamienie w koronie, wystawieni jak sztandar w jego ziemi.<verse eid="ZEC 9:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="ZEC 9:17" />Jak wielkie bowiem jest jego błogosławieństwo! Jak wspaniałe jego piękno! Zboże pocieszy młodzieńców, a moszcz – panny.<verse eid="ZEC 9:17" />
+  </para>
+  <chapter eid="ZEC 9" />
+  <chapter number="10" style="c" sid="ZEC 10" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 10:1" />Proście PANA o deszcz w późnej porze deszczowej, a PAN stworzy chmury burzowe i da wam obfity deszcz i każdemu trawę na polu.<verse eid="ZEC 10:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 10:2" />Bożki wypowiadają bowiem słowa próżności, a wróżbici prorokują kłamstwo i opowiadają zmyślone sny, daremnie pocieszają. Dlatego błąkali się jak trzoda, byli utrapieni, bo nie było pasterza.<verse eid="ZEC 10:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 10:3" />Mój gniew zapłonął przeciwko tym pasterzom i ukarałem te kozły, ale PAN zastępów nawiedzi swoją trzodę, dom Judy, i uczyni z niej wspaniałego konia do boju.<verse eid="ZEC 10:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 10:4" />Od niego wywodzi się kamień węgielny, od niego gwóźdź, od niego łuk wojenny, od niego także wszelki poborca.<verse eid="ZEC 10:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 10:5" />I będą jak mocarze, którzy wdeptują wroga w błoto uliczne podczas bitwy. I będą walczyć, bo PAN jest z nimi; a zawstydzą jeźdźców konnych.<verse eid="ZEC 10:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 10:6" />Umocnię dom Judy, wybawię dom Józefa i sprowadzę ich z powrotem w pokoju, bo zlituję się nad nimi. I będą takimi, jak gdybym ich nie odrzucił. Ja bowiem jestem PAN, ich Bóg, i wysłucham ich.<verse eid="ZEC 10:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 10:7" />Efraimici będą jak mocarz, ich serce rozweseli się jak od wina. Ich synowie to zobaczą i będą się cieszyć, a ich serce rozraduje się w PANU.<verse eid="ZEC 10:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 10:8" />Zaświstam na nich i zgromadzę ich, bo ich odkupiłem; i będą tak liczni, jak byli dawniej.<verse eid="ZEC 10:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 10:9" />I rozsieję ich wśród narodów, aby w dalekich krajach przypomnieli sobie o mnie, a żyjąc tam ze swoimi dziećmi, nawrócą się.<verse eid="ZEC 10:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 10:10" />Wyprowadzę ich znowu z ziemi Egiptu i zgromadzę ich z Asyrii, zaprowadzę do ziemi Gilead i do Libanu, ale nie starczy dla nich miejsca.<verse eid="ZEC 10:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 10:11" />Przejdzie przez morze ucisku, rozbije fale na morzu i wyschną wszystkie głębie rzeki. Wtedy pycha Asyrii będzie poniżona, a berło Egiptu zniknie.<verse eid="ZEC 10:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 10:12" />Umocnię ich też w PANU i będą chodzić w jego imię, mówi PAN.<verse eid="ZEC 10:12" />
+  </para>
+  <chapter eid="ZEC 10" />
+  <chapter number="11" style="c" sid="ZEC 11" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 11:1" />Otwórz swe wrota, Libanie, niech ogień strawi twoje cedry.<verse eid="ZEC 11:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 11:2" />Zawódź, jodło, bo upadł cedr, bo wielcy są spustoszeni. Zawódźcie, dęby Baszanu, bo niedostępny las został wycięty.<verse eid="ZEC 11:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 11:3" />Słychać głos narzekania pasterzy, bo ich wspaniałość została zburzona; słychać głos ryku lwiąt, bo pycha Jordanu jest zburzona.<verse eid="ZEC 11:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 11:4" />Tak mówi PAN, mój Bóg: Paś owce przeznaczone na rzeź;<verse eid="ZEC 11:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 11:5" />Które kupcy zabijają, a nie czują się winni, a sprzedający je mówią: Błogosławiony PAN, że się wzbogaciłem. A ich pasterze nie mają dla nich litości.<verse eid="ZEC 11:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 11:6" />Dlatego już nie będę miał litości dla mieszkańców tej ziemi, mówi PAN. Oto wydam tych ludzi, każdego z nich, w ręce jego bliźniego i w ręce jego króla. I zniszczą ziemię, a nikogo nie wyrwę z ich rąk.<verse eid="ZEC 11:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 11:7" />Będę więc pasł owce przeznaczone na rzeź, was, mówię, biedne owce! Wziąłem sobie dwie laski, jedną nazwałem Piękno, a drugą nazwałem Więzy, i pasłem te owce.<verse eid="ZEC 11:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 11:8" />Zgładziłem trzech pasterzy w jednym miesiącu; i moja dusza czuła niechęć do nich, a ich dusza też brzydziła się mną.<verse eid="ZEC 11:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 11:9" />Wtedy powiedziałem: Nie będę was pasł. Co umiera, niech umrze, a co ma być zgładzone, niech będzie zgładzone, a ci, co pozostaną, niech każdy pożera ciało drugiego.<verse eid="ZEC 11:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 11:10" />Wziąłem więc swoją laskę, Piękno, i złamałem ją, aby zerwać swoje przymierze, które zawarłem z całym ludem.<verse eid="ZEC 11:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 11:11" />I zostało zerwane w tym dniu, a biedni spośród trzody, którzy przyglądali się mnie, poznali, że to słowo PANA.<verse eid="ZEC 11:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 11:12" />Potem powiedziałem do nich: Jeśli to jest dobre w waszych oczach, dajcie mi moją zapłatę, a jeśli nie, zaniechajcie jej. Odważyli więc moją zapłatę: trzydzieści srebrników.<verse eid="ZEC 11:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 11:13" />Potem PAN powiedział do mnie: Rzuć je przed garncarza. Wspaniała to zapłata, na jaką mnie tak drogo oszacowali! Wziąłem więc trzydzieści srebrników i rzuciłem je przed garncarza w domu PANA.<verse eid="ZEC 11:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="ZEC 11:14" />Potem złamałem swoją drugą laskę, Więzy, aby zerwać braterstwo między Judą a Izraelem.<verse eid="ZEC 11:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="ZEC 11:15" />I PAN powiedział do mnie: Weź sobie jeszcze narzędzie głupiego pasterza.<verse eid="ZEC 11:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="ZEC 11:16" />Oto bowiem wzbudzę pasterza w tej ziemi, który nie będzie troszczył się o zaginione, nie będzie szukał jagniątek, nie będzie leczyć okaleczonych i tego, co stoi, nie będzie karmił. Ale będzie jeść mięso tucznych, a ich kopyta oberwie.<verse eid="ZEC 11:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="ZEC 11:17" />Biada pasterzowi nieużytecznemu, który opuszcza trzodę! Niech spadnie miecz na jego ramię i na jego prawe oko. Jego ramię całkiem uschnie, a jego prawe oko całkiem oślepnie.<verse eid="ZEC 11:17" />
+  </para>
+  <chapter eid="ZEC 11" />
+  <chapter number="12" style="c" sid="ZEC 12" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 12:1" />Brzemię słowa PANA nad Izraelem. Tak mówi PAN, który rozpostarł niebiosa, założył fundamenty ziemi i stwarza ducha człowieka w jego wnętrzu:<verse eid="ZEC 12:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 12:2" />Oto uczynię Jerozolimę kielichem odurzenia dla wszystkich okolicznych narodów, gdy nastanie oblężenie przeciwko Judzie i przeciwko Jerozolimie.<verse eid="ZEC 12:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 12:3" />W tym dniu uczynię Jerozolimę ciężkim kamieniem dla wszystkich narodów. Wszyscy, którzy będą go dźwigać, bardzo się zranią, choćby się zgromadziły przeciwko niemu wszystkie narody ziemi.<verse eid="ZEC 12:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 12:4" />Tego dnia, mówi PAN, każdego konia porażę trwogą i jego jeźdźca – szaleństwem; ale nad domem Judy otworzę swoje oczy, a każdego konia narodów porażę ślepotą.<verse eid="ZEC 12:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 12:5" />I przywódcy Judy powiedzą w swoim sercu: Mieszkańcy Jerozolimy będą naszą siłą w PANU zastępów, swoim Bogu.<verse eid="ZEC 12:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 12:6" />W tym dniu uczynię przywódców Judy jak węgle ogniste wśród drwa i jak płonącą pochodnię pośród snopów; i pożrą wszystkie okoliczne narody na prawo i na lewo. I Jerozolima pozostanie na swoim miejscu, w Jerozolimie.<verse eid="ZEC 12:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 12:7" />I najpierw PAN wybawi namioty Judy, aby chwała domu Dawida i chwała mieszkańców Jerozolimy nie wywyższały się przeciwko Judzie.<verse eid="ZEC 12:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 12:8" />W tym dniu PAN będzie bronił mieszkańców Jerozolimy, a najsłabszy pośród nich stanie się tego dnia podobny do Dawida, a dom Dawida podobny do Boga, podobny do Anioła PANA na ich czele.<verse eid="ZEC 12:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 12:9" />I stanie się w tym dniu, że będę zmierzać do zniszczenia wszystkich narodów, które wyruszą przeciwko Jerozolimie.<verse eid="ZEC 12:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 12:10" />I wyleję na dom Dawida i na mieszkańców Jerozolimy ducha łaski i modlitwy. Będą patrzyć na mnie, którego przebili, i będą go opłakiwać, jak się opłakuje jedynaka; będą gorzko płakać nad nim, jak się płacze gorzko nad pierworodnym.<verse eid="ZEC 12:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 12:11" />W tym dniu będzie wielki lament w Jerozolimie, jak lament w Hadad-Rimmon na równinie Megiddo.<verse eid="ZEC 12:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 12:12" />Ziemia będzie lamentować, każdy ród osobno: ród domu Dawida osobno i jego kobiety osobno; ród domu Natana osobno i jego kobiety osobno;<verse eid="ZEC 12:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 12:13" />Ród domu Lewiego osobno i jego kobiety osobno; ród Szimejego osobno i jego kobiety osobno;<verse eid="ZEC 12:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="ZEC 12:14" />Wszystkie pozostałe rody, każdy ród osobno i ich kobiety osobno.<verse eid="ZEC 12:14" />
+  </para>
+  <chapter eid="ZEC 12" />
+  <chapter number="13" style="c" sid="ZEC 13" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 13:1" />W tym dniu zostanie otwarte źródło dla domu Dawida i mieszkańców Jerozolimy dla obmycia grzechu i nieczystości.<verse eid="ZEC 13:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 13:2" />I stanie się w tym dniu, mówi PAN zastępów, że wykorzenię imiona bożków z ziemi, tak że nie będą więcej wspominane. Usunę z ziemi także proroków i ducha nieczystego.<verse eid="ZEC 13:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 13:3" />A gdyby ktoś jeszcze prorokował, jego ojciec i matka, którzy go zrodzili, powiedzą mu: Nie będziesz żył, gdyż mówiłeś kłamstwo w imię PANA. I jego ojciec, i matka, którzy go zrodzili, przebiją go za to, że prorokował.<verse eid="ZEC 13:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 13:4" />I stanie się w tym dniu, że każdy z tych proroków zawstydzi się z powodu swojego widzenia, gdy prorokował, i nie oblecze się w kosmatą szatę, aby kłamać.<verse eid="ZEC 13:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 13:5" />Ale każdy powie: Nie jestem prorokiem, ale rolnikiem, bo tego mnie uczono od dzieciństwa.<verse eid="ZEC 13:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 13:6" />A jeśli ktoś go zapyta: Co to za rany na twoich rękach? Wtedy powie: Zostałem zraniony w domu moich przyjaciół.<verse eid="ZEC 13:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 13:7" />Mieczu, ocknij się przeciwko mojemu pasterzowi i przeciwko mężczyźnie, który jest moim towarzyszem, mówi PAN zastępów. Uderz pasterza, a owce zostaną rozproszone. Ja zaś zwrócę swoją rękę ku malutkim.<verse eid="ZEC 13:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 13:8" />I stanie się na całej ziemi, mówi PAN, że dwie części w niej zostaną wycięte i zginą, a trzecia część pozostanie w niej.<verse eid="ZEC 13:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 13:9" />I przeprowadzę tę trzecią część przez ogień i oczyszczę ich jak się czyści srebro, wypróbuję ich, jak się próbuje złoto. Będą wzywali mego imienia, a ja ich wysłucham. Powiem: Ty jesteś moim ludem, a on powie: PAN jest moim Bogiem.<verse eid="ZEC 13:9" />
+  </para>
+  <chapter eid="ZEC 13" />
+  <chapter number="14" style="c" sid="ZEC 14" />
+  <para style="m">
+    <verse number="1" style="v" sid="ZEC 14:1" />Oto przychodzi dzień PANA, a twój łup będzie rozdzielony pośród ciebie.<verse eid="ZEC 14:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="ZEC 14:2" />Zgromadzę bowiem do bitwy wszystkie narody przeciwko Jerozolimie, a miasto zostanie zdobyte, domy splądrowane i kobiety zgwałcone. Połowa miasta pójdzie do niewoli, a resztka ludu nie będzie wygnana z miasta.<verse eid="ZEC 14:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="ZEC 14:3" />Wtedy PAN wyruszy i będzie walczył przeciwko tym narodom, tak jak wtedy, gdy walczył w dniu bitwy.<verse eid="ZEC 14:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="ZEC 14:4" />I jego nogi staną w tym dniu na Górze Oliwnej, która leży naprzeciw Jerozolimy od strony wschodniej, a Góra Oliwna rozpadnie się na pół, na wschód i na zachód, tworząc wielką dolinę; i połowa tej góry cofnie się na północ, a połowa jej – na południe.<verse eid="ZEC 14:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="ZEC 14:5" />Wtedy będziecie uciekać do doliny tych gór, bo dolina tych gór będzie sięgać aż do Azal. Będziecie uciekać, jak uciekaliście przed trzęsieniem ziemi za dni Uzjasza, króla Judy. Potem przyjdzie PAN, mój Bóg, a z nim wszyscy święci.<verse eid="ZEC 14:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="ZEC 14:6" />A w tym dniu nie będzie wspaniałej światłości ani gęstej ciemności;<verse eid="ZEC 14:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="ZEC 14:7" />Lecz będzie to jeden dzień, który jest znany tylko PANU, nie będzie to dzień ani noc. A o wieczornej porze nastanie światło.<verse eid="ZEC 14:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="ZEC 14:8" />W tym dniu wyjdą wody żywe z Jerozolimy; połowa ich do morza wschodniego, a połowa – do morza zachodniego. Będzie to w lecie i w zimie.<verse eid="ZEC 14:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="ZEC 14:9" />A PAN będzie królem nad całą ziemią. W tym dniu jeden będzie PAN i jedno jego imię.<verse eid="ZEC 14:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="ZEC 14:10" />Cała ziemia zamieni się w równinę od Geba aż do Rimmon, na południe od Jerozolimy. Będzie wywyższona i zamieszkana na swoim miejscu, od Bramy Beniamina aż do miejsca dawnej bramy i aż do Bramy Narożnej i od Wieży Chananeela aż do tłoczni królewskich.<verse eid="ZEC 14:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="ZEC 14:11" />I będą w niej mieszkać, a nie będzie już przekleństwem. Jerozolima będzie zamieszkiwać w pokoju.<verse eid="ZEC 14:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="ZEC 14:12" />A taka będzie plaga, którą PAN dotknie wszystkie narody, które walczyły przeciwko Jerozolimie: Ich ciała będą się rozkładać, gdy jeszcze będą stać na nogach, ich oczy będą gnić w oczodołach i ich język zgnije w ustach.<verse eid="ZEC 14:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="ZEC 14:13" />W tym dniu będzie wśród nich wielkie zamieszanie od PANA, tak że jeden uchwyci rękę drugiego, a jego ręka podniesie się na rękę swego bliźniego.<verse eid="ZEC 14:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="ZEC 14:14" />Juda także będzie walczyć w Jerozolimie, a bogactwa wszystkich narodów okolicznych będą zgromadzone: złoto, srebro i szaty w wielkiej ilości.<verse eid="ZEC 14:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="ZEC 14:15" />A taka sama plaga jak tamta dotknie konie, muły, wielbłądy, osły oraz wszystkie zwierzęta, które będą w tym obozie.<verse eid="ZEC 14:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="ZEC 14:16" />Wszyscy pozostali spośród wszystkich narodów, które wyruszyły przeciwko Jerozolimie, będą przychodzić od roku do roku, by oddawać pokłon Królowi, PANU zastępów, i obchodzić Święto Namiotów;<verse eid="ZEC 14:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="ZEC 14:17" />A jeśli ktoś spośród rodów ziemi nie pójdzie do Jerozolimy, by oddawać pokłon Królowi, PANU zastępów, na tego nie będzie padać deszcz.<verse eid="ZEC 14:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="ZEC 14:18" />A jeśli ród Egiptu nie wyruszy i nie przyjdzie, choć na niego deszcz nie pada, spadnie jednak na niego ta plaga, którą PAN dotknie narody, które nie przyjdą, by obchodzić Święto Namiotów.<verse eid="ZEC 14:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="ZEC 14:19" />Taka będzie kara dla Egiptu i kara dla wszystkich narodów, które nie przychodzą na obchody Święta Namiotów.<verse eid="ZEC 14:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="ZEC 14:20" />W tym dniu na dzwoneczkach koni będzie taki napis: Świętość PANU; a kotłów w domu PANA będzie jak czasz przed ołtarzem.<verse eid="ZEC 14:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="ZEC 14:21" />Każdy kocioł w Jerozolimie i Judzie będzie poświęcony PANU zastępów. Wszyscy, którzy składają ofiary, przyjdą i będą je brali, i będą w nich gotowali. W tym dniu nie będzie już Kananejczyka w domu PANA zastępów.<verse eid="ZEC 14:21" />
+  </para>
+  <chapter eid="ZEC 14" />
+</usx>

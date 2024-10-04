@@ -1,0 +1,2816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="usx3.xsd">
+  <book code="PRO" style="id">Uwspółcześniona Biblia Gdańska</book>
+  <para style="h">Przysłów</para>
+  <para style="toc1">Księga Przysłów</para>
+  <para style="toc2">Przysłów</para>
+  <para style="toc3">Prz</para>
+  <para style="mt1">Księga Przysłów</para>
+  <chapter number="1" style="c" sid="PRO 1" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 1:1" />Przysłowia Salomona, syna Dawida, króla Izraela;<verse eid="PRO 1:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 1:2" />Do poznania mądrości i karności, do zrozumienia słów roztropnych;<verse eid="PRO 1:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 1:3" />Do zdobycia pouczenia w mądrości, w sprawiedliwości, w sądzie i w prawości;<verse eid="PRO 1:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 1:4" />Do udzielenia prostym rozwagi, a młodemu – wiedzy i roztropności.<verse eid="PRO 1:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 1:5" />Mądry posłucha i przybędzie mu wiedzy, a rozumny nabędzie rad;<verse eid="PRO 1:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 1:6" />Aby rozumieć przysłowia i ich wykładnię, słowa mądrych i ich zagadki.<verse eid="PRO 1:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 1:7" />Bojaźń PANA jest początkiem wiedzy, ale głupcy gardzą mądrością i karnością.<verse eid="PRO 1:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 1:8" />Synu mój, słuchaj pouczenia swego ojca i nie odrzucaj nauki swojej matki;<verse eid="PRO 1:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 1:9" />Bo one będą wdzięczną ozdobą na twojej głowie i kosztownym łańcuchem na szyi.<verse eid="PRO 1:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 1:10" />Synu mój, jeśli grzesznicy cię namawiają, nie pozwalaj.<verse eid="PRO 1:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 1:11" />Jeśli mówią: Chodź z nami, czyhajmy na krew, zaczajmy się na niewinnego bez powodu;<verse eid="PRO 1:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 1:12" />Pożremy ich żywcem jak grób, całych, jak zstępujących do dołu;<verse eid="PRO 1:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 1:13" />Znajdziemy wszelkie kosztowności, napełnimy swoje domy łupem;<verse eid="PRO 1:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 1:14" />Dziel z nami swój los; miejmy wszyscy jedną sakiewkę.<verse eid="PRO 1:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 1:15" />Synu mój, nie wyruszaj z nimi w drogę; powstrzymaj swoją nogę od ich ścieżki.<verse eid="PRO 1:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 1:16" />Ich nogi bowiem biegną do zła i spieszą się do przelania krwi.<verse eid="PRO 1:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 1:17" />Na próżno zastawia się sieci na oczach wszelkiego ptactwa.<verse eid="PRO 1:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 1:18" />Oni też czyhają na własną krew, czają się na własne życie.<verse eid="PRO 1:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 1:19" />Takie są ścieżki każdego, który jest chciwy zysku; swojemu właścicielowi taki zysk odbiera życie.<verse eid="PRO 1:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 1:20" />Mądrość woła na dworze, podnosi swój głos na ulicach.<verse eid="PRO 1:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 1:21" />Woła w największym zgiełku, u wrót bram, w mieście wygłasza swoje słowa:<verse eid="PRO 1:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 1:22" />Jak długo, prości, będziecie kochać głupotę, szydercy – lubować się w swoim szyderstwie, a głupi – nienawidzić wiedzy?<verse eid="PRO 1:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 1:23" />Nawróćcie się na moje upomnienie; oto wyleję na was mojego ducha, oznajmię wam moje słowa.<verse eid="PRO 1:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 1:24" />Ponieważ wołałam, a odmawialiście; wyciągałam rękę, a nikt nie zważał;<verse eid="PRO 1:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 1:25" />Owszem, odrzuciliście całą moją radę i nie chcieliście przyjąć mojego upomnienia;<verse eid="PRO 1:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 1:26" />Dlatego będę się śmiać z waszego nieszczęścia, będę szydzić z was, gdy przyjdzie to, czego się boicie.<verse eid="PRO 1:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 1:27" />Gdy nadejdzie jak spustoszenie to, czego się boicie, i gdy wasze nieszczęście nadciągnie jak wicher, gdy nadejdzie na was ucisk i cierpienie;<verse eid="PRO 1:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 1:28" />Wtedy będą mnie wzywać, a nie wysłucham; będą mnie szukać pilnie, lecz mnie nie znajdą.<verse eid="PRO 1:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 1:29" />Bo znienawidzili wiedzę i nie wybrali bojaźni PANA;<verse eid="PRO 1:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 1:30" />Ani nie chcieli mojej rady, ale gardzili każdym moim upomnieniem.<verse eid="PRO 1:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 1:31" />Dlatego spożyją owoc swoich dróg i będą nasyceni swymi radami.<verse eid="PRO 1:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 1:32" />Bo odstępstwo prostych zabije ich i szczęście głupich zgubi ich.<verse eid="PRO 1:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 1:33" />Ale kto mnie słucha, będzie mieszkać bezpiecznie i będzie wolny od strachu przed złem.<verse eid="PRO 1:33" />
+  </para>
+  <chapter eid="PRO 1" />
+  <chapter number="2" style="c" sid="PRO 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 2:1" />Synu mój, jeśli przyjmiesz moje słowa i zachowasz u siebie moje przykazania;<verse eid="PRO 2:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 2:2" />Nadstawiając swego ucha na mądrość i nakłaniając swe serce ku rozumowi;<verse eid="PRO 2:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 2:3" />Tak, jeśli przywołasz roztropność i swoim głosem wezwiesz rozum;<verse eid="PRO 2:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 2:4" />Jeśli będziesz jej szukać jak srebra i poszukiwać jej jak ukrytych skarbów;<verse eid="PRO 2:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 2:5" />Wtedy zrozumiesz bojaźń PANA i dojdziesz do poznania Boga.<verse eid="PRO 2:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 2:6" />PAN bowiem daje mądrość, z jego ust pochodzi wiedza i rozum.<verse eid="PRO 2:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 2:7" />On zachowuje prawdziwą mądrość dla prawych; on jest tarczą dla tych, którzy postępują uczciwie;<verse eid="PRO 2:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 2:8" />Strzeże ścieżek sądu i chroni drogę swoich świętych.<verse eid="PRO 2:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 2:9" />Wtedy zrozumiesz sprawiedliwość, sąd, prawość i wszelką dobrą ścieżkę.<verse eid="PRO 2:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 2:10" />Gdy mądrość wejdzie do twojego serca i wiedza będzie miła twojej duszy;<verse eid="PRO 2:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 2:11" />Wtedy rozwaga będzie cię strzegła i rozum cię zachowa.<verse eid="PRO 2:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 2:12" />By uwolnić cię od złej drogi i od człowieka, który mówi przewrotnie;<verse eid="PRO 2:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 2:13" />Od tych, którzy opuszczają ścieżki prawości, żeby chodzić drogami ciemności;<verse eid="PRO 2:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 2:14" />Którzy się radują, gdy czynią zło, a cieszą się w złośliwej przewrotności;<verse eid="PRO 2:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 2:15" />Których ścieżki są kręte i sami są przewrotni na swoich drogach;<verse eid="PRO 2:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 2:16" />Aby cię uwolnić od cudzej kobiety, od obcej, która pochlebia łagodnymi słowami;<verse eid="PRO 2:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 2:17" />Która opuszcza przewodnika swojej młodości i zapomina o przymierzu swojego Boga;<verse eid="PRO 2:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 2:18" />Bo jej dom chyli się ku śmierci, a jej ścieżki ku umarłym;<verse eid="PRO 2:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 2:19" />Nikt z tych, którzy do niej wchodzą, nie wraca ani nie trafia na ścieżkę życia;<verse eid="PRO 2:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 2:20" />Abyś chodził drogą dobrych i przestrzegał ścieżek sprawiedliwych.<verse eid="PRO 2:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 2:21" />Prawi bowiem będą mieszkali na ziemi i nienaganni na niej pozostaną;<verse eid="PRO 2:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 2:22" />Ale niegodziwi będą wykorzenieni z ziemi i przewrotni będą z niej wyrwani.<verse eid="PRO 2:22" />
+  </para>
+  <chapter eid="PRO 2" />
+  <chapter number="3" style="c" sid="PRO 3" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 3:1" />Synu mój, nie zapominaj mego prawa, a niech twoje serce strzeże moich przykazań;<verse eid="PRO 3:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 3:2" />Bo przyniosą ci długie dni i lata życia oraz pokoju.<verse eid="PRO 3:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 3:3" />Niech cię nie opuszczają miłosierdzie i prawda, przywiąż je do swojej szyi, wypisz je na tablicy swojego serca.<verse eid="PRO 3:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 3:4" />Wtedy znajdziesz łaskę i uznanie w oczach Boga i ludzi.<verse eid="PRO 3:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 3:5" />Ufaj PANU z całego swego serca i nie polegaj na swoim rozumie.<verse eid="PRO 3:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 3:6" />Zważaj na niego we wszystkich swoich drogach, a on będzie prostować twoje ścieżki.<verse eid="PRO 3:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 3:7" />Nie bądź mądrym we własnych oczach, ale bój się PANA i odstąp od zła.<verse eid="PRO 3:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 3:8" />To da twemu ciału zdrowie i pokrzepienie twoim kościom.<verse eid="PRO 3:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 3:9" />Czcij PANA swoim majątkiem i pierwocinami wszystkich twoich dochodów.<verse eid="PRO 3:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 3:10" />A twoje spichrze będą napełnione dostatkiem i twoje prasy będą przelewać się od nowego wina.<verse eid="PRO 3:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 3:11" />Synu mój, nie gardź karceniem PANA i nie zniechęcaj się jego upomnieniem.<verse eid="PRO 3:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 3:12" />Bo kogo PAN miłuje, tego karze, jak ojciec syna, którego kocha.<verse eid="PRO 3:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 3:13" />Błogosławiony człowiek, który znajduje mądrość, i człowiek, który nabiera rozumu;<verse eid="PRO 3:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 3:14" />Gdyż jego nabycie jest lepsze niż nabycie srebra, jego zdobycie bardziej pożyteczne niż złoto.<verse eid="PRO 3:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 3:15" />Jest droższa nad perły i żadna rzecz, której pragniesz, nie dorówna jej.<verse eid="PRO 3:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 3:16" />Długie dni są w jej prawej ręce, a w lewej bogactwa i chwała.<verse eid="PRO 3:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 3:17" />Jej drogi są drogami rozkoszy i wszystkie jej ścieżki spokojne.<verse eid="PRO 3:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 3:18" />Jest drzewem życia dla tych, którzy się jej chwycą; a ci, którzy się jej trzymają, są błogosławieni.<verse eid="PRO 3:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 3:19" />PAN ugruntował ziemię mądrością, a niebiosa umocnił rozumem.<verse eid="PRO 3:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 3:20" />Dzięki jego wiedzy rozstąpiły się głębiny, a obłoki spuszczają rosę.<verse eid="PRO 3:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 3:21" />Synu mój, niech one ci z oczu nie schodzą; strzeż prawdziwej mądrości i roztropności;<verse eid="PRO 3:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 3:22" />A będą życiem twojej duszy i ozdobą twojej szyi.<verse eid="PRO 3:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 3:23" />Wtedy będziesz bezpiecznie chodził swoją drogą, a noga twoja się nie potknie.<verse eid="PRO 3:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 3:24" />Gdy się położysz, nie będziesz się lękał; a gdy zaśniesz, twój sen będzie przyjemny.<verse eid="PRO 3:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 3:25" />Nie lękaj się nagłego strachu ani spustoszenia niegodziwych, gdy przyjdzie.<verse eid="PRO 3:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 3:26" />PAN bowiem będzie twoją ufnością i twojej nogi będzie strzegł od sideł.<verse eid="PRO 3:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 3:27" />Nie wzbraniaj się dobrze czynić potrzebującemu, gdy stać cię na to, aby dobrze czynić.<verse eid="PRO 3:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 3:28" />Nie mów bliźniemu: Idź i przyjdź znowu, dam ci jutro, gdy masz to u siebie.<verse eid="PRO 3:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 3:29" />Nie knuj zła przeciwko swemu bliźniemu, gdy spokojnie mieszka obok ciebie.<verse eid="PRO 3:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 3:30" />Nie spieraj się z człowiekiem bez przyczyny, jeśli ci nic złego nie wyrządził.<verse eid="PRO 3:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 3:31" />Nie zazdrość ciemięzcy i nie wybieraj żadnej z jego dróg.<verse eid="PRO 3:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 3:32" />Przewrotny bowiem budzi w PANU odrazę, ale jego tajemnica jest z prawymi.<verse eid="PRO 3:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 3:33" />Przekleństwo PANA jest w domu niegodziwego, lecz PAN błogosławi mieszkanie sprawiedliwych.<verse eid="PRO 3:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="PRO 3:34" />On szydzi z szyderców, ale daje łaskę pokornym.<verse eid="PRO 3:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="PRO 3:35" />Mądrzy odziedziczą chwałę, a głupi poniosą hańbę.<verse eid="PRO 3:35" />
+  </para>
+  <chapter eid="PRO 3" />
+  <chapter number="4" style="c" sid="PRO 4" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 4:1" />Słuchajcie, synowie, pouczenia ojca i zważajcie na to, abyście poznali roztropność;<verse eid="PRO 4:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 4:2" />Bo daję wam dobrą naukę, nie porzucajcie mego prawa.<verse eid="PRO 4:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 4:3" />Byłem bowiem synem mego ojca i miłym jedynakiem w oczach mojej matki.<verse eid="PRO 4:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 4:4" />On mnie uczył, mówiąc mi: Niech twoje serce zachowa moje słowa; strzeż moich przykazań, a będziesz żył.<verse eid="PRO 4:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 4:5" />Zdobywaj mądrość, zdobywaj roztropność; nie zapominaj i nie odstępuj od słów moich ust.<verse eid="PRO 4:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 4:6" />Nie opuszczaj jej, a będzie cię strzegła; ukochaj ją, a zachowa cię.<verse eid="PRO 4:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 4:7" />Podstawą wszystkiego jest mądrość; zdobywaj mądrość i za cały swój majątek zdobywaj roztropność.<verse eid="PRO 4:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 4:8" />Wywyższaj ją, a ona wywyższy ciebie, rozsławi cię, gdy ją przyjmiesz.<verse eid="PRO 4:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 4:9" />Wdzięczną ozdobę włoży ci na głowę, obdarzy cię koroną chwały.<verse eid="PRO 4:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 4:10" />Słuchaj, synu mój, i przyjmij moje słowa, a pomnożą się lata twojego życia.<verse eid="PRO 4:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 4:11" />Nauczyłem cię drogi mądrości, po ścieżkach prawości cię wiodłem;<verse eid="PRO 4:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 4:12" />Gdy nimi pójdziesz, twoje kroki nie będą skrępowane; a jeśli pobiegniesz, nie potkniesz się.<verse eid="PRO 4:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 4:13" />Trzymaj się karności, nie opuszczaj jej, strzeż jej, bo ona jest twoim życiem.<verse eid="PRO 4:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 4:14" />Nie chodź ścieżką niegodziwych i nie wchodź na drogę złych ludzi.<verse eid="PRO 4:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 4:15" />Unikaj jej, nie chodź po niej; odwróć się od niej i omiń ją;<verse eid="PRO 4:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 4:16" />Bo oni nie zasną, dopóki nie zrobią czegoś złego; sen ich odleci, aż przywiodą kogoś do upadku;<verse eid="PRO 4:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 4:17" />Jedzą bowiem chleb nieprawości i piją wino przemocy.<verse eid="PRO 4:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 4:18" />Ale ścieżka sprawiedliwych jest jak jasne światło, które świeci coraz jaśniej aż do dnia doskonałego.<verse eid="PRO 4:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 4:19" />Droga niegodziwych jest jak ciemność; nie wiedzą, o co mogą się potknąć.<verse eid="PRO 4:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 4:20" />Synu mój, zważaj na moje słowa; ku moim naukom nakłoń swe ucho.<verse eid="PRO 4:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 4:21" />Niech nie schodzą ci z oczu, zachowaj je w głębi twego serca.<verse eid="PRO 4:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 4:22" />Są bowiem życiem dla tych, którzy je znajdują, i lekarstwem dla całego ich ciała.<verse eid="PRO 4:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 4:23" />Strzeż twego serca z całą pilnością, bo z niego tryska życie.<verse eid="PRO 4:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 4:24" />Odsuń od siebie przewrotność ust, oddal od siebie złośliwe wargi.<verse eid="PRO 4:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 4:25" />Niech twoje oczy patrzą na wprost, a twoje powieki niech będą zwrócone przed siebie.<verse eid="PRO 4:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 4:26" />Uważaj na ścieżkę twoich nóg, aby wszystkie twoje drogi były pewne.<verse eid="PRO 4:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 4:27" />Nie zbaczaj ani na prawo, ani na lewo; odwróć twoją nogę od zła.<verse eid="PRO 4:27" />
+  </para>
+  <chapter eid="PRO 4" />
+  <chapter number="5" style="c" sid="PRO 5" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 5:1" />Synu mój, zważaj na moją mądrość i nakłoń twego ucha ku mojemu rozumowi;<verse eid="PRO 5:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 5:2" />Abyś zachował rozwagę i aby twoje wargi strzegły wiedzy.<verse eid="PRO 5:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 5:3" />Bo wargi obcej kobiety ociekają miodem, a jej usta gładsze są niż oliwa;<verse eid="PRO 5:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 5:4" />Lecz jej koniec jest gorzki jak piołun, ostry jak miecz obosieczny.<verse eid="PRO 5:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 5:5" />Jej nogi zstępują do śmierci, jej kroki prowadzą do piekła.<verse eid="PRO 5:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 5:6" />Abyś nie rozważał ścieżki życia, jej drogi są tak niestałe, że nie poznasz ich.<verse eid="PRO 5:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 5:7" />Teraz więc, synowie, słuchajcie mnie i nie odstępujcie od słów moich ust.<verse eid="PRO 5:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 5:8" />Oddal od niej swą drogę i nie zbliżaj się do drzwi jej domu;<verse eid="PRO 5:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 5:9" />Abyś nie oddał obcym twojej sławy, a twoich lat okrutnikowi;<verse eid="PRO 5:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 5:10" />Aby obcy nie nasycili się twoim dobytkiem, a twój dorobek nie został w cudzym domu;<verse eid="PRO 5:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 5:11" />I abyś nie jęczał u kresu swych dni, gdy twoja skóra i ciało będą zniszczone;<verse eid="PRO 5:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 5:12" />I nie musiał powiedzieć: O, jakże nienawidziłem karności i moje serce gardziło upomnieniem!<verse eid="PRO 5:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 5:13" />Nie słuchałem głosu moich wychowawców i nie nakłaniałem ucha ku tym, którzy mnie nauczali!<verse eid="PRO 5:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 5:14" />O mało co nie wpadłem we wszelkie nieszczęście wśród zebrania i zgromadzenia.<verse eid="PRO 5:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 5:15" />Pij wodę z własnego zdroju i wody płynące z twojego źródła!<verse eid="PRO 5:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 5:16" />Niech rozproszą się twoje źródła, a po ulicach strumienie wód.<verse eid="PRO 5:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 5:17" />Niech należą tylko do ciebie, a nie do obcych wraz z tobą.<verse eid="PRO 5:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 5:18" />Niech twój zdrój będzie błogosławiony i ciesz się żoną twojej młodości.<verse eid="PRO 5:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 5:19" />Niech będzie jak wdzięczna łania i rozkoszna sarna; niech jej piersi zawsze cię nasycają, nieustannie zachwycaj się jej miłością.<verse eid="PRO 5:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 5:20" />Dlaczego, synu mój, masz zachwycać się obcą kobietą i obejmować piersi cudzej?<verse eid="PRO 5:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 5:21" />Gdyż drogi człowieka są przed oczami PANA i waży on wszystkie jego ścieżki.<verse eid="PRO 5:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 5:22" />Niegodziwego schwytają jego własne nieprawości i uwikła się w powrozy swego grzechu.<verse eid="PRO 5:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 5:23" />Umrze z braku karności i będzie błądził z powodu swojej wielkiej głupoty.<verse eid="PRO 5:23" />
+  </para>
+  <chapter eid="PRO 5" />
+  <chapter number="6" style="c" sid="PRO 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 6:1" />Synu mój, jeśli poręczyłeś za swego bliźniego i dałeś porękę za obcego;<verse eid="PRO 6:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 6:2" />Związałeś się słowami ust twoich, schwytany jesteś mową twoich ust.<verse eid="PRO 6:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 6:3" />Uczyń więc tak, synu mój, uwolnij się, gdy wpadłeś w ręce swego bliźniego; idź, upokórz się i nalegaj na twego bliźniego.<verse eid="PRO 6:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 6:4" />Nie daj snu swoim oczom i nie pozwól powiekom drzemać.<verse eid="PRO 6:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 6:5" />Uwolnij się jak sarna z rąk myśliwego i jak ptak z ręki ptasznika.<verse eid="PRO 6:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 6:6" />Idź do mrówki, leniwcze, przypatrz się jej drogom i bądź mądry;<verse eid="PRO 6:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 6:7" />Chociaż nie ma ona wodza ani przełożonego, ani pana;<verse eid="PRO 6:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 6:8" />To w lecie przygotowuje swój pokarm i gromadzi w żniwa swą żywność.<verse eid="PRO 6:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 6:9" />Jak długo będziesz leżał, leniwcze? Kiedy wstaniesz ze swego snu?<verse eid="PRO 6:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 6:10" />Jeszcze trochę snu, trochę drzemania, trochę założenia rąk, aby zasnąć;<verse eid="PRO 6:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 6:11" />A twoje ubóstwo przyjdzie jak podróżny i twój niedostatek jak mąż uzbrojony.<verse eid="PRO 6:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 6:12" />Człowiek nikczemny i niegodziwy chodzi z przewrotnością na ustach;<verse eid="PRO 6:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 6:13" />Mruga swymi oczyma, mówi swymi nogami, wskazuje swymi palcami;<verse eid="PRO 6:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 6:14" />Przewrotność jest w jego sercu, stale knuje zło i sieje niezgodę.<verse eid="PRO 6:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 6:15" />Dlatego nagle spadnie na niego nieszczęście; nagle zostanie złamany i pozbawiony ratunku.<verse eid="PRO 6:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 6:16" />Jest sześć rzeczy, których nienawidzi PAN, siedem budzi w nim odrazę:<verse eid="PRO 6:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 6:17" />Wyniosłe oczy, kłamliwy język i ręce, które przelewają krew niewinną;<verse eid="PRO 6:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 6:18" />Serce, które knuje złe myśli; nogi, które spiesznie biegną do zła;<verse eid="PRO 6:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 6:19" />Fałszywy świadek, który mówi kłamstwa, i ten, który sieje niezgodę między braćmi.<verse eid="PRO 6:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 6:20" />Synu mój, strzeż przykazania twego ojca i nie odrzucaj prawa twojej matki.<verse eid="PRO 6:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 6:21" />Przywiąż je na zawsze do serca twego i zawieś je sobie na szyi.<verse eid="PRO 6:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 6:22" />Gdy będziesz chodził, poprowadzi cię; gdy zaśniesz, strzec cię będzie, a gdy się obudzisz, będzie mówić do ciebie;<verse eid="PRO 6:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 6:23" />Bo przykazanie jest pochodnią, prawo światłością, a upomnienia do karności są drogą życia;<verse eid="PRO 6:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 6:24" />Aby cię strzegły przed złą kobietą i przed gładkim językiem obcej kobiety.<verse eid="PRO 6:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 6:25" />Nie pożądaj w twoim sercu jej piękności i niech cię nie łowi swymi powiekami.<verse eid="PRO 6:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 6:26" />Bo dla kobiety nierządnej zubożeje człowiek o kawałek chleba, a żona cudzołożna czyha na cenne życie.<verse eid="PRO 6:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 6:27" />Czy może ktoś wziąć ogień w zanadrze, a jego szaty się nie spalą?<verse eid="PRO 6:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 6:28" />Czy może ktoś chodzić po rozżarzonych węglach, a jego nogi się nie poparzą?<verse eid="PRO 6:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 6:29" />Tak ten, kto wchodzi do żony swego bliźniego; ktokolwiek ją dotknie, nie będzie bez winy.<verse eid="PRO 6:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 6:30" />Nie pogardza się złodziejem, jeśli kradnie, by nasycić swoją duszę, będąc głodnym;<verse eid="PRO 6:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 6:31" />Ale jeśli go złapią, zwróci siedmiokrotnie albo odda cały dobytek swego domu.<verse eid="PRO 6:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 6:32" />Lecz kto cudzołoży z kobietą, jest pozbawiony rozsądku; kto tak robi, gubi swoją duszę.<verse eid="PRO 6:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 6:33" />Znajdzie chłostę i wstyd, a jego hańba nie będzie zmazana.<verse eid="PRO 6:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="PRO 6:34" />Bo zazdrość rozpala gniew mężczyzny i nie będzie pobłażał w dniu zemsty.<verse eid="PRO 6:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="PRO 6:35" />Nie będzie miał względu na żaden okup i nie przyjmie darów, choćbyś najwięcej mu dawał.<verse eid="PRO 6:35" />
+  </para>
+  <chapter eid="PRO 6" />
+  <chapter number="7" style="c" sid="PRO 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 7:1" />Synu mój, strzeż moich słów i przechowuj u siebie moje przykazania.<verse eid="PRO 7:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 7:2" />Strzeż moich przykazań, a będziesz żył; strzeż mojego prawa jak źrenicy swych oczu.<verse eid="PRO 7:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 7:3" />Przywiąż je do swoich palców, wypisz je na tablicy twego serca.<verse eid="PRO 7:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 7:4" />Mów do mądrości: Jesteś moją siostrą, a roztropność nazywaj przyjaciółką;<verse eid="PRO 7:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 7:5" />Aby cię strzegły przed cudzą żoną i przed obcą, która mówi gładkie słowa.<verse eid="PRO 7:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 7:6" />Bo z okna swego domu wyglądałem przez kratę;<verse eid="PRO 7:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 7:7" />I zobaczyłem wśród prostych, zauważyłem wśród chłopców nierozumnego młodzieńca;<verse eid="PRO 7:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 7:8" />Który przechodził ulicą blisko jej narożnika, idąc drogą do jej domu.<verse eid="PRO 7:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 7:9" />O zmierzchu, pod wieczór, w ciemności nocnej i w mroku.<verse eid="PRO 7:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 7:10" />A oto spotkała go kobieta w stroju nierządnicy, chytrego serca;<verse eid="PRO 7:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 7:11" />Wrzaskliwa i nieopanowana, której nogi nie mogą pozostać w domu:<verse eid="PRO 7:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 7:12" />Raz na dworze, raz na ulicach i czyha na każdym rogu.<verse eid="PRO 7:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 7:13" />Chwyciła go i pocałowała, z bezczelną miną powiedziała do niego:<verse eid="PRO 7:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 7:14" />U mnie są ofiary pojednawcze; spełniłam dzisiaj swoje śluby.<verse eid="PRO 7:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 7:15" />Dlatego wyszłam ci naprzeciw, szukałam pilnie twojej twarzy i znalazłam cię.<verse eid="PRO 7:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 7:16" />Obiłam kobiercami swoje łoże, przystrojone rzeźbieniem i prześcieradłami z Egiptu.<verse eid="PRO 7:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 7:17" />Skropiłam swoje posłanie mirrą, aloesem i cynamonem.<verse eid="PRO 7:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 7:18" />Chodź, upójmy się miłością aż do rana, nacieszmy się miłością.<verse eid="PRO 7:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 7:19" />Bo mojego męża nie ma w domu; pojechał w daleką drogę.<verse eid="PRO 7:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 7:20" />Wziął ze sobą worek pieniędzy; umówionego dnia wróci do domu.<verse eid="PRO 7:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 7:21" />Nakłoniła go mnóstwem swoich słów i zniewoliła go pochlebstwem swoich warg.<verse eid="PRO 7:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 7:22" />Wnet poszedł za nią jak wół prowadzony na rzeź i jak głupi na karę pęt.<verse eid="PRO 7:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 7:23" />Aż strzała przebije mu wątrobę; spieszy jak ptak w sidła, nie wiedząc, że chodzi o jego życie.<verse eid="PRO 7:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 7:24" />Więc teraz słuchajcie mnie, synowie, i zważajcie na słowa moich ust.<verse eid="PRO 7:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 7:25" />Niech twoje serce nie zbacza na jej drogi i nie tułaj się po jej ścieżkach.<verse eid="PRO 7:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 7:26" />Bo wielu zranionych strąciła i wielu mocarzy pozabijała.<verse eid="PRO 7:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 7:27" />Jej dom jest drogą do piekła, która wiedzie do komnat śmierci.<verse eid="PRO 7:27" />
+  </para>
+  <chapter eid="PRO 7" />
+  <chapter number="8" style="c" sid="PRO 8" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 8:1" />Czy mądrość nie woła i rozum nie wydaje swego głosu?<verse eid="PRO 8:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 8:2" />Stoi na szczycie wysokich miejsc, przy drodze, na rozstajach dróg.<verse eid="PRO 8:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 8:3" />Przy bramach, przy wjeździe do miasta, przy wejściu, u drzwi woła:<verse eid="PRO 8:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 8:4" />Do was wołam, o mężowie, mój głos kieruję do synów ludzkich.<verse eid="PRO 8:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 8:5" />Prości, uczcie się rozwagi, a wy, głupi, bądźcie rozumnego serca.<verse eid="PRO 8:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 8:6" />Słuchajcie, bo będę mówił o rzeczach wzniosłych, a wargi moje otworzą się, aby głosić prawość.<verse eid="PRO 8:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 8:7" />Moje usta bowiem mówią prawdę, a niegodziwością brzydzą się moje wargi.<verse eid="PRO 8:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 8:8" />Sprawiedliwe są wszystkie słowa moich ust; nie ma w nich nic fałszywego ani przewrotnego.<verse eid="PRO 8:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 8:9" />Wszystkie są jasne dla rozumnego i prawe dla tych, którzy znajdują wiedzę.<verse eid="PRO 8:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 8:10" />Przyjmijcie moje pouczenie zamiast srebra i wiedzę raczej niż wyborne złoto.<verse eid="PRO 8:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 8:11" />Lepsza bowiem jest mądrość niż perły i żadna rzecz, której pragniesz, nie dorówna jej.<verse eid="PRO 8:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 8:12" />Ja, mądrość, mieszkam z rozwagą i odkrywam wiedzę roztropności.<verse eid="PRO 8:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 8:13" />Bojaźń PANA to nienawidzić zła. Ja nienawidzę pychy, wyniosłości, złej drogi i ust przewrotnych.<verse eid="PRO 8:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 8:14" />Moja jest rada i prawdziwa mądrość, ja jestem roztropnością i moja jest moc.<verse eid="PRO 8:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 8:15" />Dzięki mnie królowie rządzą i władcy stanowią sprawiedliwość.<verse eid="PRO 8:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 8:16" />Dzięki mnie panują władcy i dostojnicy, wszyscy sędziowie ziemi.<verse eid="PRO 8:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 8:17" />Miłuję tych, którzy mnie miłują, a ci, którzy szukają mnie pilnie, znajdą mnie.<verse eid="PRO 8:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 8:18" />Przy mnie jest bogactwo i chwała, trwałe bogactwo i sprawiedliwość.<verse eid="PRO 8:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 8:19" />Mój owoc jest lepszy niż złoto, nawet najczystsze złoto, a moje plony lepsze niż wyborne srebro.<verse eid="PRO 8:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 8:20" />Prowadzę ścieżką sprawiedliwości, pośród ścieżek sądu;<verse eid="PRO 8:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 8:21" />Aby tym, którzy mnie miłują, dać w dziedzictwo majątek wieczny i napełnić ich skarbce.<verse eid="PRO 8:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 8:22" />PAN posiadł mnie na początku swej drogi, przed swymi dziełami, przed wszystkimi czasy.<verse eid="PRO 8:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 8:23" />Przed wiekami zostałam ustanowiona, od początku; zanim powstała ziemia;<verse eid="PRO 8:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 8:24" />Gdy jeszcze nie było głębin, zostałam zrodzona, kiedy jeszcze nie było źródeł obfitujących w wody.<verse eid="PRO 8:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 8:25" />Zanim góry zostały założone, nim były pagórki, zostałam zrodzona.<verse eid="PRO 8:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 8:26" />Gdy jeszcze nie stworzył ziemi ani pól, ani początku prochu okręgu ziemskiego;<verse eid="PRO 8:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 8:27" />Kiedy przygotowywał niebiosa, byłam tam; gdy odmierzał okrąg nad powierzchnią głębi;<verse eid="PRO 8:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 8:28" />Gdy w górze utwierdzał obłoki i umacniał źródła głębin;<verse eid="PRO 8:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 8:29" />Gdy wyznaczał morzu jego granice, by wody nie przekraczały jego rozkazu, kiedy ustalał fundamenty ziemi;<verse eid="PRO 8:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 8:30" />Byłam wtedy przy nim jak wychowanka i byłam jego radością każdego dnia, ciesząc się zawsze przed nim;<verse eid="PRO 8:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 8:31" />Radując się na okręgu jego ziemi, rozkoszując się synami ludzkimi.<verse eid="PRO 8:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 8:32" />Teraz więc, synowie, słuchajcie mnie, bo błogosławieni są ci, którzy strzegą moich dróg.<verse eid="PRO 8:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 8:33" />Słuchajcie pouczeń, nabądźcie mądrości i nie odrzucajcie jej.<verse eid="PRO 8:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="PRO 8:34" />Błogosławiony człowiek, który mnie słucha, czuwając u moich wrót każdego dnia i strzegąc odrzwi moich bram.<verse eid="PRO 8:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="PRO 8:35" />Bo kto mnie znajduje, znajduje życie i otrzyma łaskę od PANA.<verse eid="PRO 8:35" />
+  </para>
+  <para style="m">
+    <verse number="36" style="v" sid="PRO 8:36" />Ale kto grzeszy przeciwko mnie, wyrządza krzywdę swojej duszy; wszyscy, którzy mnie nienawidzą, miłują śmierć.<verse eid="PRO 8:36" />
+  </para>
+  <chapter eid="PRO 8" />
+  <chapter number="9" style="c" sid="PRO 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 9:1" />Mądrość zbudowała sobie dom i wyciosała siedem słupów;<verse eid="PRO 9:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 9:2" />Zabiła swoje bydło, zmieszała wino i zastawiła stół;<verse eid="PRO 9:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 9:3" />Rozesłała swoje służące, woła na szczytach najwyższych miejsc miasta:<verse eid="PRO 9:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 9:4" />Ktokolwiek jest prostym, niech wstąpi; a do nierozumnego mówi:<verse eid="PRO 9:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 9:5" />Chodźcie, jedzcie mój chleb i pijcie wino, które zmieszałam.<verse eid="PRO 9:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 9:6" />Porzućcie głupotę, a będziecie żyli, i chodźcie drogą roztropności.<verse eid="PRO 9:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 9:7" />Kto upomina szydercę, ściąga na siebie hańbę, a kto strofuje niegodziwego, ten się plami.<verse eid="PRO 9:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 9:8" />Nie strofuj szydercy, aby cię nie znienawidził; strofuj mądrego, a będzie cię miłował.<verse eid="PRO 9:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 9:9" />Upomnij mądrego, a będzie mądrzejszy; poucz sprawiedliwego, a pomnoży swą wiedzę.<verse eid="PRO 9:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 9:10" />Początkiem mądrości jest bojaźń PANA, a wiedza o tym, co święte, to rozum.<verse eid="PRO 9:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 9:11" />Bo dzięki mnie rozmnożą się twoje dni i przedłużą się lata twojego życia.<verse eid="PRO 9:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 9:12" />Jeśli będziesz mądry, tobie samemu będzie służyła twoja mądrość; a jeśli szydercą, sam poniesiesz szkodę.<verse eid="PRO 9:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 9:13" />Głupia kobieta jest wrzaskliwa, prosta i nic nie rozumie;<verse eid="PRO 9:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 9:14" />Siedzi u drzwi swego domu, na krześle, na wysokich miejscach w mieście;<verse eid="PRO 9:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 9:15" />Aby wołać na przechodzących, którzy idą prosto swoimi ścieżkami:<verse eid="PRO 9:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 9:16" />Ktokolwiek jest prosty, niech wstąpi; a do nierozumnego mówi:<verse eid="PRO 9:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 9:17" />Kradzione wody są słodkie, a chleb jedzony pokątnie smaczny.<verse eid="PRO 9:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 9:18" />Ale on nie wie, że tam są umarli, że jej zaproszeni są w głębinach piekła.<verse eid="PRO 9:18" />
+  </para>
+  <chapter eid="PRO 9" />
+  <chapter number="10" style="c" sid="PRO 10" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 10:1" />Przysłowia Salomona. Mądry syn sprawia ojcu radość, a głupi syn jest zgryzotą swojej matki.<verse eid="PRO 10:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 10:2" />Skarby niegodziwości nie przynoszą pożytku, lecz sprawiedliwość uwalnia od śmierci.<verse eid="PRO 10:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 10:3" />PAN nie pozwoli, by dusza sprawiedliwego cierpiała głód, a rozproszy majątek niegodziwych.<verse eid="PRO 10:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 10:4" />Leniwa ręka prowadzi do nędzy, a ręka pracowita ubogaca.<verse eid="PRO 10:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 10:5" />Kto zbiera w lecie, jest synem roztropnym; syn, który śpi w czasie żniwa, przynosi hańbę.<verse eid="PRO 10:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 10:6" />Błogosławieństwa są na głowie sprawiedliwego, a usta niegodziwych kryją nieprawość.<verse eid="PRO 10:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 10:7" />Pamięć sprawiedliwego jest błogosławiona, a imię niegodziwych zgnije.<verse eid="PRO 10:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 10:8" />Człowiek mądrego serca przyjmuje przykazania, a gadatliwy głupiec upadnie.<verse eid="PRO 10:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 10:9" />Kto postępuje uczciwie, postępuje bezpiecznie, a kto jest przewrotny w swoich drogach, zostanie ujawniony.<verse eid="PRO 10:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 10:10" />Kto mruga okiem, przynosi cierpienie, a gadatliwy głupiec upadnie.<verse eid="PRO 10:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 10:11" />Usta sprawiedliwego są źródłem życia, a usta niegodziwych kryją nieprawość.<verse eid="PRO 10:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 10:12" />Nienawiść wznieca kłótnie, a miłość zakrywa wszystkie grzechy.<verse eid="PRO 10:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 10:13" />Na wargach rozumnego znajduje się mądrość, a kij na grzbiecie nierozumnego.<verse eid="PRO 10:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 10:14" />Mądrzy gromadzą wiedzę, a usta głupiego grożą zniszczeniem.<verse eid="PRO 10:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 10:15" />Majątek bogacza jest jego warownym miastem, a zniszczeniem ubogich jest ich nędza.<verse eid="PRO 10:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 10:16" />Praca sprawiedliwego prowadzi do życia, a dochód niegodziwych do grzechu.<verse eid="PRO 10:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 10:17" />Kto przestrzega karności, idzie ścieżką życia, a kto gardzi upomnieniem, błądzi.<verse eid="PRO 10:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 10:18" />Kto kryje nienawiść kłamliwymi wargami i kto rozgłasza oszczerstwo, jest głupcem.<verse eid="PRO 10:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 10:19" />Wielomówność nie bywa bez grzechu, a kto powściąga swoje wargi, jest roztropny.<verse eid="PRO 10:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 10:20" />Język sprawiedliwego jest wybornym srebrem, a serce niegodziwych jest mało warte.<verse eid="PRO 10:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 10:21" />Wargi sprawiedliwego żywią wielu, a głupi umierają przez brak rozumu.<verse eid="PRO 10:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 10:22" />Błogosławieństwo PANA wzbogaca i nie przynosi ze sobą zmartwień.<verse eid="PRO 10:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 10:23" />Dla głupiego popełnić haniebny czyn to zabawa, a człowiek roztropny trzyma się mądrości.<verse eid="PRO 10:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 10:24" />Niegodziwego spotka to, czego się boi, a sprawiedliwym Bóg daje to, czego pragną.<verse eid="PRO 10:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 10:25" />Jak wicher przemija, tak niegodziwy nie przetrwa, a sprawiedliwy ma wieczny fundament.<verse eid="PRO 10:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 10:26" />Czym ocet dla zębów i dym dla oczu, tym jest leniwy dla tych, którzy go posyłają.<verse eid="PRO 10:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 10:27" />Bojaźń PANA przedłuża dni, a lata niegodziwego będą skrócone.<verse eid="PRO 10:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 10:28" />Oczekiwanie sprawiedliwych przynosi radość, a nadzieja niegodziwych zginie.<verse eid="PRO 10:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 10:29" />Droga PANA jest mocą dla prawego, a zgubą dla czyniących nieprawość.<verse eid="PRO 10:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 10:30" />Sprawiedliwy nigdy się nie zachwieje, a niegodziwi nie będą mieszkać na ziemi.<verse eid="PRO 10:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 10:31" />Usta sprawiedliwego wydają mądrość, a język przewrotny będzie wycięty.<verse eid="PRO 10:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 10:32" />Wargi sprawiedliwego wiedzą, co wypada, a usta niegodziwych są przewrotne.<verse eid="PRO 10:32" />
+  </para>
+  <chapter eid="PRO 10" />
+  <chapter number="11" style="c" sid="PRO 11" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 11:1" />Fałszywa waga budzi odrazę w PANU, ale podobają mu się uczciwe odważniki.<verse eid="PRO 11:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 11:2" />Za pychą przychodzi hańba, a u pokornych jest mądrość.<verse eid="PRO 11:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 11:3" />Uczciwość prawych poprowadzi ich, lecz grzeszników zgubi ich przewrotność.<verse eid="PRO 11:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 11:4" />Bogactwa nie pomogą w dniu gniewu, ale sprawiedliwość ocala od śmierci.<verse eid="PRO 11:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 11:5" />Sprawiedliwość nienagannego toruje mu drogę, a niegodziwy upadnie przez swoją niegodziwość.<verse eid="PRO 11:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 11:6" />Sprawiedliwość prawych ocali ich, a przewrotni będą schwytani w swojej przewrotności.<verse eid="PRO 11:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 11:7" />Gdy umiera niegodziwy, ginie jego nadzieja, a oczekiwanie niesprawiedliwych znika.<verse eid="PRO 11:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 11:8" />Sprawiedliwy bywa wybawiony z ucisku, a na jego miejsce przychodzi niegodziwy.<verse eid="PRO 11:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 11:9" />Obłudnik ustami niszczy swego bliźniego, a sprawiedliwi bywają wybawieni dzięki wiedzy.<verse eid="PRO 11:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 11:10" />Gdy sprawiedliwym się powodzi, miasto się cieszy, a gdy giną niegodziwi, panuje radość.<verse eid="PRO 11:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 11:11" />Dzięki błogosławieństwu prawych wznosi się miasto, a usta niegodziwych je burzą.<verse eid="PRO 11:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 11:12" />Nierozumny gardzi swym bliźnim, a człowiek roztropny milczy.<verse eid="PRO 11:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 11:13" />Plotkarz wyjawia tajemnice, ale człowiek wiernego serca ukrywa powierzoną sprawę.<verse eid="PRO 11:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 11:14" />Gdzie nie ma dobrej rady, lud upada, a gdzie wielu radców, tam jest wybawienie.<verse eid="PRO 11:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 11:15" />Bardzo sobie szkodzi, kto ręczy za obcego, a kto nienawidzi poręki, jest bezpieczny.<verse eid="PRO 11:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 11:16" />Miła kobieta dostępuje chwały, a mocarze zdobywają bogactwa.<verse eid="PRO 11:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 11:17" />Człowiek miłosierny czyni dobrze swej duszy, a okrutnik dręczy własne ciało.<verse eid="PRO 11:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 11:18" />Niegodziwy czyni zwodnicze dzieło, a kto sieje sprawiedliwość, ma zapłatę pewną.<verse eid="PRO 11:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 11:19" />Jak sprawiedliwość prowadzi do życia, tak do śmierci zmierza ten, kto naśladuje zło.<verse eid="PRO 11:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 11:20" />Ludzie przewrotnego serca budzą odrazę w PANU, a podobają mu się ci, których droga jest prawa.<verse eid="PRO 11:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 11:21" />Zły nie uniknie kary, choćby innych wezwał na pomoc, a potomstwo sprawiedliwych będzie ocalone.<verse eid="PRO 11:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 11:22" />Czym złoty kolczyk w ryju świni, tym piękna kobieta pozbawiona roztropności.<verse eid="PRO 11:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 11:23" />Pragnieniem sprawiedliwych jest tylko dobro, oczekiwaniem zaś niegodziwych – gniew.<verse eid="PRO 11:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 11:24" />Jeden hojnie rozdaje, a jednak mu przybywa, drugi nad miarę skąpi, a ubożeje.<verse eid="PRO 11:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 11:25" />Człowiek szczodry będzie bogatszy, a kto innych syci, sam też będzie nasycony.<verse eid="PRO 11:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 11:26" />Kto zatrzymuje zboże, tego lud przeklnie, a błogosławieństwo będzie nad głową tego, który je sprzedaje.<verse eid="PRO 11:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 11:27" />Kto pilnie szuka dobrego, zdobędzie przychylność, lecz kto szuka zła, przyjdzie ono na niego.<verse eid="PRO 11:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 11:28" />Kto ufność pokłada w swych bogactwach, ten upadnie, a sprawiedliwi będą zielenić się jak latorośl.<verse eid="PRO 11:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 11:29" />Kto niepokoi swój dom, odziedziczy wiatr, a głupi będzie sługą mądrego.<verse eid="PRO 11:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 11:30" />Owoc sprawiedliwego jest drzewem życia; a kto zyskuje dusze, jest mądry.<verse eid="PRO 11:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 11:31" />Jeśli sprawiedliwy otrzyma zapłatę na ziemi, to tym bardziej niegodziwy i grzesznik.<verse eid="PRO 11:31" />
+  </para>
+  <chapter eid="PRO 11" />
+  <chapter number="12" style="c" sid="PRO 12" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 12:1" />Kto kocha karność, kocha wiedzę, a kto nienawidzi upomnienia, jest głupi.<verse eid="PRO 12:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 12:2" />Dobry człowiek zdobędzie łaskę PANA, ale PAN potępi podstępnego.<verse eid="PRO 12:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 12:3" />Człowiek nie umocni się niegodziwością, lecz korzeń sprawiedliwych nie będzie poruszony.<verse eid="PRO 12:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 12:4" />Żona cnotliwa jest koroną swego męża, ale ta, która go hańbi, jest jak zgnilizna w jego kościach.<verse eid="PRO 12:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 12:5" />Myśli sprawiedliwych są prawe, a rady niegodziwych zdradliwe.<verse eid="PRO 12:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 12:6" />Słowa niegodziwych czyhają na krew, lecz usta prawych ocalą ich.<verse eid="PRO 12:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 12:7" />Niegodziwi zostają powaleni i już ich nie ma, a dom sprawiedliwych się ostoi.<verse eid="PRO 12:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 12:8" />Człowiek będzie chwalony za jego mądrość, a kto jest przewrotnego serca, zostanie wzgardzony.<verse eid="PRO 12:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 12:9" />Lepszy jest człowiek wzgardzony, który ma sługę, niż ten, kto się chwali, a któremu brak chleba.<verse eid="PRO 12:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 12:10" />Sprawiedliwy dba o życie swego bydła, a serce niegodziwych jest okrutne.<verse eid="PRO 12:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 12:11" />Kto uprawia swoją ziemię, nasyci się chlebem, a kto naśladuje próżnujących, jest nierozumny.<verse eid="PRO 12:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 12:12" />Niegodziwy pragnie sieci złych, a korzeń sprawiedliwych wydaje owoc.<verse eid="PRO 12:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 12:13" />Zły zostaje usidlony przez grzech swoich warg, a sprawiedliwy wyjdzie z ucisku.<verse eid="PRO 12:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 12:14" />Człowiek nasyci się dobrem z owocu swoich ust, a za dzieła swoich rąk otrzyma zapłatę.<verse eid="PRO 12:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 12:15" />Droga głupiego wydaje się słuszna w jego oczach, ale kto słucha rady, jest mądry.<verse eid="PRO 12:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 12:16" />Gniew głupiego objawia się od razu, a roztropny skrywa hańbę.<verse eid="PRO 12:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 12:17" />Kto mówi prawdę, wyraża sprawiedliwość, ale fałszywy świadek – oszustwo.<verse eid="PRO 12:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 12:18" />Znajdzie się taki, którego słowa są jak miecz przeszywający, lecz język mądrych jest lekarstwem.<verse eid="PRO 12:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 12:19" />Prawdomówne wargi będą trwać na wieki, ale język kłamliwy trwa króciutko.<verse eid="PRO 12:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 12:20" />Podstęp jest w sercu tych, którzy knują zło, lecz u doradzających pokój jest radość.<verse eid="PRO 12:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 12:21" />Sprawiedliwego nie spotka żadne zło, ale niegodziwi będą pełni nieszczęścia.<verse eid="PRO 12:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 12:22" />Wargi kłamliwe budzą odrazę w PANU, a ci, którzy postępują w prawdzie, podobają mu się.<verse eid="PRO 12:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 12:23" />Człowiek roztropny ukrywa wiedzę, a serce głupich rozgłasza głupotę.<verse eid="PRO 12:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 12:24" />Ręka pracowitych będzie panowała, a leniwa będzie płaciła daninę.<verse eid="PRO 12:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 12:25" />Troska w sercu człowieka przygnębia je, a dobre słowo je rozwesela.<verse eid="PRO 12:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 12:26" />Sprawiedliwy jest zacniejszy od swego bliźniego, a droga niegodziwych prowadzi ich na manowce.<verse eid="PRO 12:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 12:27" />Leniwy nie upiecze tego, co upolował, ale mienie człowieka pracowitego jest cenne.<verse eid="PRO 12:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 12:28" />Na ścieżce sprawiedliwości jest życie, na jej drodze nie ma śmierci.<verse eid="PRO 12:28" />
+  </para>
+  <chapter eid="PRO 12" />
+  <chapter number="13" style="c" sid="PRO 13" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 13:1" />Mądry syn przyjmuje pouczenie ojca, a szyderca nie słucha strofowania.<verse eid="PRO 13:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 13:2" />Człowiek będzie spożywać dobro z owocu swoich ust, a dusza przewrotnych będzie spożywać przemoc.<verse eid="PRO 13:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 13:3" />Kto strzeże swych ust, strzeże swojej duszy; kto szeroko otwiera swe wargi, będzie zniszczony.<verse eid="PRO 13:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 13:4" />Dusza leniwego pragnie, a nic nie ma, a dusza pracowitych zostanie obficie nasycona.<verse eid="PRO 13:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 13:5" />Sprawiedliwy nienawidzi kłamliwego słowa, a niegodziwy staje się obrzydliwy i zhańbiony.<verse eid="PRO 13:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 13:6" />Sprawiedliwość strzeże tego, który postępuje uczciwie, a niegodziwość powala grzesznika.<verse eid="PRO 13:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 13:7" />Znajduje się taki, który czyni siebie bogatym, a nie ma nic; inny czyni siebie ubogim, choć ma wiele bogactw.<verse eid="PRO 13:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 13:8" />Okupem za życie człowieka jest jego bogactwo, a ubogi nie słucha strofowania.<verse eid="PRO 13:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 13:9" />Radośnie błyszczy światło sprawiedliwych, a pochodnia niegodziwych zgaśnie.<verse eid="PRO 13:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 13:10" />Spór powstaje tylko dzięki pysze, a mądrość jest przy tych, co przyjmują radę.<verse eid="PRO 13:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 13:11" />Łatwo zdobyte bogactwo zmniejsza się, a kto je gromadzi swą ręką, pomnaża je.<verse eid="PRO 13:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 13:12" />Przedłużająca się nadzieja sprawia ból sercu, a spełnione pragnienie jest drzewem życia.<verse eid="PRO 13:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 13:13" />Kto gardzi słowem Bożym, ten zginie, a kto się boi przykazania, dostanie nagrodę.<verse eid="PRO 13:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 13:14" />Prawo mądrego jest źródłem życia, by uniknąć sideł śmierci.<verse eid="PRO 13:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 13:15" />Prawdziwy rozum daje łaskę, a droga przewrotnych jest ciężka.<verse eid="PRO 13:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 13:16" />Każdy roztropny postępuje rozważnie, a głupi ujawnia głupotę.<verse eid="PRO 13:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 13:17" />Niegodziwy posłaniec popada w zło, a wierny wysłannik jest lekarstwem.<verse eid="PRO 13:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 13:18" />Ubóstwo i hańba spadną na tego, który odrzuca karność, a kto szanuje upomnienia, dozna czci.<verse eid="PRO 13:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 13:19" />Spełnione pragnienie jest słodkie dla duszy, a odwrócenie się od zła budzi odrazę w głupcach.<verse eid="PRO 13:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 13:20" />Kto przestaje z mądrymi, będzie mądry, a towarzysz głupców będzie zniszczony.<verse eid="PRO 13:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 13:21" />Nieszczęście ściga grzeszników, a sprawiedliwych Bóg nagrodzi dobrem.<verse eid="PRO 13:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 13:22" />Dobry człowiek zostawia dziedzictwo dzieciom swoich dzieci, a majątek grzesznika jest zachowany dla sprawiedliwego.<verse eid="PRO 13:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 13:23" />Obfita żywność jest na roli ubogich, lecz i ta może niszczeć przez nieroztropność.<verse eid="PRO 13:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 13:24" />Kto oszczędza swą rózgę, nienawidzi swego syna, a kto go kocha, karze w porę.<verse eid="PRO 13:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 13:25" />Sprawiedliwy je i syci swoją duszę, a żołądek niegodziwych cierpi niedostatek.<verse eid="PRO 13:25" />
+  </para>
+  <chapter eid="PRO 13" />
+  <chapter number="14" style="c" sid="PRO 14" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 14:1" />Mądra kobieta buduje swój dom, a głupia burzy go własnymi rękami.<verse eid="PRO 14:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 14:2" />Kto postępuje w sposób prawy, boi się PANA, a przewrotny na swoich drogach gardzi nim.<verse eid="PRO 14:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 14:3" />W ustach głupiego jest rózga pychy, a mądrych strzegą ich wargi.<verse eid="PRO 14:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 14:4" />Gdzie nie ma wołów, żłób jest pusty, lecz dzięki sile wołów mnoży się obfitość zboża.<verse eid="PRO 14:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 14:5" />Wierny świadek nie kłamie, a fałszywy świadek mówi kłamstwa.<verse eid="PRO 14:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 14:6" />Szyderca szuka mądrości, a nie znajduje, lecz rozumnemu wiedza przychodzi łatwo.<verse eid="PRO 14:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 14:7" />Odsuń się od głupiego, gdyż nie znajdziesz u niego warg rozumnych.<verse eid="PRO 14:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 14:8" />Mądrość roztropnego to poznanie swojej drogi, a głupotą głupich jest oszustwo.<verse eid="PRO 14:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 14:9" />Głupcy szydzą z grzechu, a u prawych jest przychylność.<verse eid="PRO 14:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 14:10" />Serce zna własną gorycz, a obcy nie wtrąca się w jego radość.<verse eid="PRO 14:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 14:11" />Dom niegodziwych będzie zgładzony, a mieszkanie prawych zakwitnie.<verse eid="PRO 14:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 14:12" />Jest droga, która człowiekowi wydaje się słuszna, lecz końcem jej jest droga do śmierci.<verse eid="PRO 14:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 14:13" />Nawet w śmiechu serce boleje, a końcem takiej wesołości jest smutek.<verse eid="PRO 14:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 14:14" />Serce odstępcy nasyci się jego drogami, a dobry człowiek – swoimi.<verse eid="PRO 14:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 14:15" />Prosty wierzy każdemu słowu, a roztropny zważa na swoje kroki.<verse eid="PRO 14:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 14:16" />Mądry boi się i odwraca się od zła, ale głupi w swym szaleństwie jest pewny siebie.<verse eid="PRO 14:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 14:17" />Człowiek porywczy popełnia głupstwa, a podstępny jest znienawidzony.<verse eid="PRO 14:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 14:18" />Prości ludzie dziedziczą głupotę, a roztropni są koronowani wiedzą.<verse eid="PRO 14:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 14:19" />Źli kłaniają się przed dobrymi, a niegodziwi u bram sprawiedliwego.<verse eid="PRO 14:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 14:20" />Ubogi jest znienawidzony nawet przez swego bliźniego, a bogaty ma wielu przyjaciół.<verse eid="PRO 14:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 14:21" />Kto gardzi swym bliźnim, ten grzeszy, a kto lituje się nad ubogimi, jest błogosławiony.<verse eid="PRO 14:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 14:22" />Czyż nie błądzą ci, którzy obmyślają zło? Ale miłosierdzie i prawda są z tymi, którzy obmyślają dobro.<verse eid="PRO 14:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 14:23" />Każda praca przynosi pożytek, a puste słowa prowadzą do nędzy.<verse eid="PRO 14:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 14:24" />Koroną mądrych jest ich bogactwo, ale głupota głupich pozostaje głupotą.<verse eid="PRO 14:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 14:25" />Prawdomówny świadek ocala dusze, a fałszywy mówi kłamstwa.<verse eid="PRO 14:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 14:26" />W bojaźni PANA jest mocne zaufanie, a jego synowie będą mieć ucieczkę.<verse eid="PRO 14:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 14:27" />Bojaźń PANA jest źródłem życia, by uniknąć sideł śmierci.<verse eid="PRO 14:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 14:28" />Liczny lud to chwała króla, a brak ludu to zguba władcy.<verse eid="PRO 14:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 14:29" />Nieskory do gniewu jest bardzo roztropny, lecz porywczy wywyższa głupotę.<verse eid="PRO 14:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 14:30" />Zdrowe serce jest życiem ciała, a zazdrość jest zgnilizną kości.<verse eid="PRO 14:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 14:31" />Kto gnębi ubogiego, uwłacza jego Stwórcy, a czci go ten, kto lituje się nad ubogim.<verse eid="PRO 14:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 14:32" />Niegodziwy zostaje wygnany z powodu swojego zła, a sprawiedliwy ma nadzieję nawet w czasie swojej śmierci.<verse eid="PRO 14:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 14:33" />Mądrość spoczywa w sercu rozumnego, a co jest w sercu głupich, wychodzi na jaw.<verse eid="PRO 14:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="PRO 14:34" />Sprawiedliwość wywyższa naród, a grzech jest hańbą narodów.<verse eid="PRO 14:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="PRO 14:35" />Król jest przychylny dla roztropnego sługi, lecz gniewa się na tego, który przynosi hańbę.<verse eid="PRO 14:35" />
+  </para>
+  <chapter eid="PRO 14" />
+  <chapter number="15" style="c" sid="PRO 15" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 15:1" />Łagodna odpowiedź uśmierza zapalczywość, a przykre słowa wzniecają gniew.<verse eid="PRO 15:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 15:2" />Język mądrych zdobi wiedzę, ale usta głupich tryskają głupotą.<verse eid="PRO 15:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 15:3" />Oczy PANA są na każdym miejscu, upatrują złych i dobrych.<verse eid="PRO 15:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 15:4" />Zdrowy język jest drzewem życia, a jego przewrotność jest zniszczeniem dla ducha.<verse eid="PRO 15:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 15:5" />Głupi gardzi pouczeniem swego ojca, a kto przyjmuje upomnienia, jest roztropny.<verse eid="PRO 15:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 15:6" />W domu sprawiedliwego jest wielki dostatek, a w dochodach niegodziwego jest zamieszanie.<verse eid="PRO 15:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 15:7" />Wargi mądrych szerzą wiedzę, a serce głupich nie.<verse eid="PRO 15:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 15:8" />Ofiara niegodziwych budzi odrazę w PANU, a modlitwa prawych mu się podoba.<verse eid="PRO 15:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 15:9" />Droga niegodziwego wzbudza odrazę w PANU, a miłuje on tego, kto podąża za sprawiedliwością.<verse eid="PRO 15:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 15:10" />Sroga kara należy się temu, kto zbacza z drogi, a kto nienawidzi upomnień, umrze.<verse eid="PRO 15:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 15:11" />Piekło i zatracenie są przed PANEM; o ileż bardziej serca synów ludzkich.<verse eid="PRO 15:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 15:12" />Szyderca nie miłuje tego, który go strofuje, ani nie pójdzie do mądrych.<verse eid="PRO 15:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 15:13" />Radosne serce rozwesela twarz, ale gdy smutek w sercu, duch jest przygnębiony.<verse eid="PRO 15:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 15:14" />Serce rozumne szuka wiedzy, a usta głupich karmią się głupotą.<verse eid="PRO 15:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 15:15" />Wszystkie dni strapionego są złe, ale kto jest wesołego serca, ma nieustanną ucztę.<verse eid="PRO 15:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 15:16" />Lepiej mieć mało z bojaźnią PANA niż wielki skarb z kłopotem.<verse eid="PRO 15:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 15:17" />Lepsza jest potrawa z jarzyn, gdzie miłość, niż tuczny wół, gdzie panuje nienawiść.<verse eid="PRO 15:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 15:18" />Człowiek gniewny wszczyna kłótnie, a nieskory do gniewu łagodzi spory.<verse eid="PRO 15:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 15:19" />Droga leniwego jest jak płot cierniowy, a ścieżka prawych jest wyrównana.<verse eid="PRO 15:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 15:20" />Mądry syn jest radością ojca, a człowiek głupi gardzi własną matką.<verse eid="PRO 15:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 15:21" />Głupota jest radością dla nierozumnego, a człowiek roztropny postępuje uczciwie.<verse eid="PRO 15:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 15:22" />Gdzie nie ma rady, nie udają się zamysły; powiodą się zaś przy mnóstwie doradców.<verse eid="PRO 15:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 15:23" />Człowiek cieszy się z odpowiedzi swoich ust, a słowo powiedziane we właściwym czasie jakże jest dobre!<verse eid="PRO 15:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 15:24" />Droga życia dla mądrego jest w górze, aby uniknął głębokiego piekła.<verse eid="PRO 15:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 15:25" />PAN zniszczy dom pysznych, a utwierdzi granicę wdowy.<verse eid="PRO 15:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 15:26" />Myśli złego budzą odrazę w PANU, a słowa czystych są przyjemne.<verse eid="PRO 15:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 15:27" />Kto jest chciwy zysku, ściąga kłopoty na własny dom, a kto nienawidzi darów, będzie żył.<verse eid="PRO 15:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 15:28" />Serce sprawiedliwego rozmyśla nad odpowiedzią, a usta niegodziwych tryskają złymi rzeczami.<verse eid="PRO 15:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 15:29" />PAN jest daleko od niegodziwych, ale wysłuchuje modlitwy sprawiedliwych.<verse eid="PRO 15:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 15:30" />Światło oczu rozwesela serce, a dobra wieść tuczy kości.<verse eid="PRO 15:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 15:31" />Ucho, które słucha upomnienia życia, będzie mieszkać pośród mądrych.<verse eid="PRO 15:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 15:32" />Kto odrzuca karność, gardzi własną duszą, a kto przyjmuje upomnienie, nabiera rozumu.<verse eid="PRO 15:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 15:33" />Bojaźń PANA jest pouczeniem w mądrości, a pokora poprzedza chwałę.<verse eid="PRO 15:33" />
+  </para>
+  <chapter eid="PRO 15" />
+  <chapter number="16" style="c" sid="PRO 16" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 16:1" />W człowieku są zamysły serca, ale odpowiedź języka jest od PANA.<verse eid="PRO 16:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 16:2" />Wszystkie drogi człowieka są czyste w jego oczach, ale PAN waży duchy.<verse eid="PRO 16:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 16:3" />Powierz PANU swe dzieła, a twoje zamysły będą utwierdzone.<verse eid="PRO 16:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 16:4" />PAN uczynił wszystko dla samego siebie, nawet niegodziwego na dzień zła.<verse eid="PRO 16:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 16:5" />Każdy, który jest wyniosłego serca, budzi odrazę w PANU; choć weźmie innych do pomocy, nie uniknie kary.<verse eid="PRO 16:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 16:6" />Dzięki miłosierdziu i prawdzie oczyszcza się nieprawość, a w bojaźni PANA oddalamy się od zła.<verse eid="PRO 16:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 16:7" />Gdy drogi człowieka podobają się PANU, to godzi z nim nawet jego nieprzyjaciół.<verse eid="PRO 16:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 16:8" />Lepiej mieć mało ze sprawiedliwością niż wiele dochodów nieprawnych.<verse eid="PRO 16:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 16:9" />Serce człowieka obmyśla swe drogi, ale PAN kieruje jego krokami.<verse eid="PRO 16:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 16:10" />Wyrok Boży jest na wargach króla; jego usta nie błądzą w sądzie.<verse eid="PRO 16:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 16:11" />Sprawiedliwa waga i szale należą do PANA i wszystkie odważniki w worku są jego dziełem.<verse eid="PRO 16:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 16:12" />Popełnienie niegodziwości budzi odrazę w królach, bo sprawiedliwością tron jest umocniony.<verse eid="PRO 16:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 16:13" />Wargi sprawiedliwe są rozkoszą królów, kochają oni tego, który mówi to, co słuszne.<verse eid="PRO 16:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 16:14" />Gniew króla jest posłańcem śmierci, ale mądry człowiek przebłaga go.<verse eid="PRO 16:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 16:15" />W jasności twarzy króla jest życie, a jego przychylność jest jak obłok z późnym deszczem.<verse eid="PRO 16:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 16:16" />O wiele lepiej jest nabyć mądrość niż złoto; a nabyć rozum lepiej niż srebro.<verse eid="PRO 16:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 16:17" />Droga prawych to odstąpić od zła; kto strzeże swojej drogi, strzeże swej duszy.<verse eid="PRO 16:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 16:18" />Pycha poprzedza zgubę, a wyniosły duch – upadek.<verse eid="PRO 16:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 16:19" />Lepiej być uniżonego ducha z pokornymi, niż dzielić łup z pysznymi.<verse eid="PRO 16:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 16:20" />Kto zważa na słowo, znajdzie dobro, a kto ufa PANU, jest błogosławiony.<verse eid="PRO 16:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 16:21" />Kto jest mądrego serca, zwie się rozumnym, a słodycz warg pomnaża wiedzę.<verse eid="PRO 16:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 16:22" />Rozum jest zdrojem życia dla tych, którzy go mają, a pouczenie głupich jest głupotą.<verse eid="PRO 16:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 16:23" />Serce mądrego czyni jego usta roztropnymi i dodaje nauki jego wargom.<verse eid="PRO 16:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 16:24" />Miłe słowa są jak plaster miodu, słodycz dla duszy i lekarstwo dla kości.<verse eid="PRO 16:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 16:25" />Jest droga, która wydaje się człowiekowi słuszna, ale jej końcem jest droga do śmierci.<verse eid="PRO 16:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 16:26" />Robotnik pracuje dla siebie, bo usta pobudzają go do tego.<verse eid="PRO 16:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 16:27" />Człowiek nikczemny wykopuje zło, a na jego wargach jakby ogień płonący.<verse eid="PRO 16:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 16:28" />Człowiek przewrotny rozsiewa spory, a plotkarz rozdziela przyjaciół.<verse eid="PRO 16:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 16:29" />Człowiek gwałtowny zwabia swego bliźniego i wprowadza go na drogę niedobrą.<verse eid="PRO 16:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 16:30" />Mruga swymi oczami, by knuć podstępy; rusza wargami i popełnia zło.<verse eid="PRO 16:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 16:31" />Siwa głowa jest koroną chwały, zdobywa się ją na drodze sprawiedliwości.<verse eid="PRO 16:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 16:32" />Lepszy jest nieskory do gniewu niż mocarz, a kto panuje nad swym duchem, jest lepszy niż ten, kto zdobywa miasto.<verse eid="PRO 16:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 16:33" />Losy wrzuca się w zanadrze, ale całe rozstrzygnięcie ich zależy od PANA.<verse eid="PRO 16:33" />
+  </para>
+  <chapter eid="PRO 16" />
+  <chapter number="17" style="c" sid="PRO 17" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 17:1" />Lepszy jest kęs suchego chleba, a przy tym spokój, niż dom pełen bydła ofiarnego z kłótnią.<verse eid="PRO 17:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 17:2" />Sługa roztropny będzie panował nad synem, który przynosi hańbę, i wraz z jego braćmi będzie miał udział w dziedzictwie.<verse eid="PRO 17:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 17:3" />Tygiel dla srebra, piec dla złota, ale serca bada PAN.<verse eid="PRO 17:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 17:4" />Zły zważa na wargi fałszywe, a kłamca słucha przewrotnego języka.<verse eid="PRO 17:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 17:5" />Kto naśmiewa się z ubogiego, uwłacza jego Stwórcy, a kto się cieszy z nieszczęścia, nie uniknie kary.<verse eid="PRO 17:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 17:6" />Koroną starców są synowie synów, a chlubą synów są ich ojcowie.<verse eid="PRO 17:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 17:7" />Poważna mowa nie przystoi głupiemu, tym mniej kłamliwe usta dostojnikowi.<verse eid="PRO 17:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 17:8" />Dar jest jak drogocenny kamień w oczach tego, kto go posiada; gdziekolwiek z nim zmierza, ma powodzenie.<verse eid="PRO 17:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 17:9" />Kto kryje grzech, szuka miłości, a kto wyjawia sprawę, rozdziela przyjaciół.<verse eid="PRO 17:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 17:10" />Nagana lepiej działa na rozumnego niż sto razów na głupiego.<verse eid="PRO 17:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 17:11" />Zły szuka jedynie buntu; dlatego zostanie wysłany przeciw niemu okrutny posłaniec.<verse eid="PRO 17:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 17:12" />Lepiej człowiekowi spotkać się z niedźwiedzicą, której zabrano młode, niż z głupim w jego głupocie.<verse eid="PRO 17:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 17:13" />Kto odpłaca złem za dobro, temu zło z domu nie ustąpi.<verse eid="PRO 17:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 17:14" />Kto zaczyna kłótnię, jest jak ten, co puszcza wodę; dlatego zaniechaj sporu, zanim wybuchnie.<verse eid="PRO 17:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 17:15" />Kto usprawiedliwia niegodziwego i kto potępia sprawiedliwego, obaj budzą odrazę w PANU.<verse eid="PRO 17:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 17:16" />Na cóż w ręku głupiego pieniądze, by zdobyć mądrość, skoro nie ma rozumu?<verse eid="PRO 17:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 17:17" />Przyjaciel kocha w każdym czasie, a brat rodzi się w nieszczęściu.<verse eid="PRO 17:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 17:18" />Nierozumny człowiek daje porękę i ręczy na oczach przyjaciela.<verse eid="PRO 17:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 17:19" />Kto kocha grzech, kocha spór, a kto podwyższa swoją bramę, szuka zagłady.<verse eid="PRO 17:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 17:20" />Przewrotny w sercu nie znajduje dobra, a kto ma przewrotny język, wpadnie w zło.<verse eid="PRO 17:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 17:21" />Kto spłodzi głupca, zrobi to na swój smutek, a ojciec głupiego nie doznaje radości.<verse eid="PRO 17:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 17:22" />Wesołe serce działa dobrze jak lekarstwo, a przygnębiony duch wysusza kości.<verse eid="PRO 17:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 17:23" />Niegodziwy bierze dar z zanadrza, aby wypaczać ścieżki sądu.<verse eid="PRO 17:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 17:24" />Mądrość jest przed obliczem rozumnego, a oczy głupca są aż na krańcu ziemi.<verse eid="PRO 17:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 17:25" />Głupi syn jest zmartwieniem dla ojca i goryczą dla rodzicielki.<verse eid="PRO 17:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 17:26" />Zaprawdę to niedobrze wymierzyć karę sprawiedliwemu ani bić władców za prawość.<verse eid="PRO 17:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 17:27" />Kto ma wiedzę, powściąga swoje słowa, człowiek roztropny jest zacnego ducha.<verse eid="PRO 17:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 17:28" />Nawet głupi, gdy milczy, uchodzi za mądrego, a kto zamyka swoje wargi – za rozumnego.<verse eid="PRO 17:28" />
+  </para>
+  <chapter eid="PRO 17" />
+  <chapter number="18" style="c" sid="PRO 18" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 18:1" />Samolub szuka tego, co mu się podoba, i wtrąca się w każdą sprawę.<verse eid="PRO 18:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 18:2" />Głupi nie ma upodobania w rozumie, lecz w tym, co serce mu objawia.<verse eid="PRO 18:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 18:3" />Gdy przychodzi niegodziwy, przychodzi też pogarda, a z hańbą urąganie.<verse eid="PRO 18:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 18:4" />Słowa ust człowieka są jak głębokie wody, a źródło mądrości jak płynący potok.<verse eid="PRO 18:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 18:5" />Niedobrze przez wzgląd na osobę niegodziwą krzywdzić sprawiedliwego w sądzie.<verse eid="PRO 18:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 18:6" />Wargi głupiego wchodzą w spór, a jego usta wołają o razy.<verse eid="PRO 18:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 18:7" />Usta głupiego są jego zgubą, a jego wargi sidłem jego duszy.<verse eid="PRO 18:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 18:8" />Słowa plotkarza są jak rany i przenikają do głębi wnętrzności.<verse eid="PRO 18:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 18:9" />Kto jest niedbały w pracy, jest bratem marnotrawcy.<verse eid="PRO 18:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 18:10" />Imię PANA jest potężną wieżą, sprawiedliwy ucieka do niej i jest bezpieczny.<verse eid="PRO 18:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 18:11" />Zamożność bogacza jest jego warownym miastem i jak wysoki mur w jego wyobrażeniu.<verse eid="PRO 18:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 18:12" />Przed upadkiem serce człowieka jest wyniosłe, a chwałę poprzedza pokora.<verse eid="PRO 18:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 18:13" />Kto odpowiada, zanim wysłucha, ujawnia głupotę i ściąga na siebie hańbę.<verse eid="PRO 18:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 18:14" />Duch człowieka zniesie jego chorobę, ale któż zniesie strapionego ducha?<verse eid="PRO 18:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 18:15" />Serce rozumnego zdobywa wiedzę, a ucho mądrych szuka wiedzy.<verse eid="PRO 18:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 18:16" />Dar człowieka toruje mu drogę i prowadzi go przed wielkich.<verse eid="PRO 18:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 18:17" />Ten, który jest pierwszy w swojej sprawie, zdaje się sprawiedliwy, ale przychodzi jego bliźni i sprawdza go.<verse eid="PRO 18:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 18:18" />Los kładzie kres sporom i rozstrzyga między możnymi.<verse eid="PRO 18:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 18:19" />Brat obrażony trudniejszy do zdobycia niż warowne miasto, a spory są jak rygle w zamku.<verse eid="PRO 18:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 18:20" />Owocem swoich ust nasyci człowiek swoje wnętrze, nasyci się plonem swych warg.<verse eid="PRO 18:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 18:21" />Śmierć i życie są w mocy języka, a kto go miłuje, spożyje jego owoc.<verse eid="PRO 18:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 18:22" />Kto znalazł żonę, znalazł coś dobrego i dostąpił łaski od PANA.<verse eid="PRO 18:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 18:23" />Ubogi prosi pokornie, ale bogaty odpowiada surowo.<verse eid="PRO 18:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 18:24" />Człowiek, który ma przyjaciół, musi obchodzić się z nimi po przyjacielsku, a jest przyjaciel, który przylgnie bardziej niż brat.<verse eid="PRO 18:24" />
+  </para>
+  <chapter eid="PRO 18" />
+  <chapter number="19" style="c" sid="PRO 19" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 19:1" />Lepszy jest ubogi, który postępuje uczciwie, niż człowiek o przewrotnych wargach, który jest głupcem.<verse eid="PRO 19:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 19:2" />Nie jest też dobrze, by dusza nie miała wiedzy, a kto jest prędkich nóg, grzeszy.<verse eid="PRO 19:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 19:3" />Głupota człowieka wypacza jego drogę, a jego serce zapala się gniewem przeciwko PANU.<verse eid="PRO 19:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 19:4" />Bogactwo przyciąga wielu przyjaciół, ale ubogi zostaje odłączony od przyjaciela.<verse eid="PRO 19:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 19:5" />Fałszywy świadek nie uniknie kary, a kto mówi kłamstwa, nie ujdzie.<verse eid="PRO 19:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 19:6" />Wielu uprasza o przychylność dostojnika i każdy jest przyjacielem człowieka hojnego.<verse eid="PRO 19:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 19:7" />Wszyscy bracia ubogiego nienawidzą go, tym bardziej oddalają się od niego jego przyjaciele; ściga ich słowami, ale ich nie ma.<verse eid="PRO 19:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 19:8" />Kto zdobywa rozum, miłuje swoją duszę, a kto strzeże roztropności, znajdzie dobro.<verse eid="PRO 19:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 19:9" />Fałszywy świadek nie uniknie kary, a kto mówi kłamstwa, zginie.<verse eid="PRO 19:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 19:10" />Głupiemu nie przystoi życie w rozkoszach, tym mniej słudze panować nad książętami.<verse eid="PRO 19:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 19:11" />Roztropność człowieka powściąga jego gniew, a jego chwałą jest darować wykroczenie.<verse eid="PRO 19:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 19:12" />Gniew króla jest jak ryk lwa, a jego przychylność jak rosa na trawie.<verse eid="PRO 19:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 19:13" />Głupi syn jest utrapieniem dla swego ojca, a kłótliwa żona jest jak nieustanne kapanie z dachu.<verse eid="PRO 19:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 19:14" />Dom i bogactwo są dziedzictwem po ojcach, ale roztropna żona jest od PANA.<verse eid="PRO 19:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 19:15" />Lenistwo pogrąża w twardym śnie, a leniwa dusza będzie cierpieć głód.<verse eid="PRO 19:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 19:16" />Kto przestrzega przykazania, zachowuje swoją duszę, ale kto gardzi swymi drogami, zginie.<verse eid="PRO 19:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 19:17" />Kto lituje się nad ubogim, pożycza PANU, a on mu odpłaci za jego dobrodziejstwo.<verse eid="PRO 19:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 19:18" />Karz swego syna, dopóki jest nadzieja, i niech twoja dusza mu nie pobłaża z powodu jego płaczu.<verse eid="PRO 19:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 19:19" />Człowiek wielkiego gniewu poniesie karę, a jeśli go uwolnisz, znowu będziesz musiał to zrobić.<verse eid="PRO 19:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 19:20" />Posłuchaj rady i przyjmij pouczenie, abyś był mądry u kresu swych dni.<verse eid="PRO 19:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 19:21" />Wiele jest zamysłów w sercu człowieka, ale rada PANA się ostoi.<verse eid="PRO 19:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 19:22" />Pragnienie człowieka to jego dobroczynność i lepszy jest ubogi niż kłamca.<verse eid="PRO 19:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 19:23" />Bojaźń PANA prowadzi do życia, a kto ją ma, spocznie syty i nie nawiedzi go zło.<verse eid="PRO 19:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 19:24" />Leniwy kryje swą rękę pod pachę i do ust jej nie podnosi.<verse eid="PRO 19:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 19:25" />Uderz szydercę, a prosty będzie roztropniejszy; strofuj rozumnego, a pojmie wiedzę.<verse eid="PRO 19:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 19:26" />Kto trwoni dobra ojca i wypędza matkę, ten jest synem, który przynosi wstyd i hańbę.<verse eid="PRO 19:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 19:27" />Synu mój, przestań słuchać pouczeń, które cię odwodzą od słów rozumnych.<verse eid="PRO 19:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 19:28" />Nikczemny świadek naśmiewa się z sądu, a usta niegodziwych pożerają nieprawość.<verse eid="PRO 19:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 19:29" />Sądy są przygotowane dla szyderców, a razy na grzbiet głupców.<verse eid="PRO 19:29" />
+  </para>
+  <chapter eid="PRO 19" />
+  <chapter number="20" style="c" sid="PRO 20" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 20:1" />Wino jest szydercą, mocny trunek – wrzaskliwy, a każdy, kto zostaje zwiedziony przez nie, jest niemądry.<verse eid="PRO 20:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 20:2" />Strach, który budzi król, jest jak ryk lwa; kto go rozgniewa, grzeszy przeciwko swojej duszy.<verse eid="PRO 20:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 20:3" />Zaprzestać sporu jest zaszczytem dla człowieka, ale każdy głupiec się w niego wdaje.<verse eid="PRO 20:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 20:4" />Leniwy nie orze z powodu zimna; dlatego będzie żebrać we żniwa, ale nic nie otrzyma.<verse eid="PRO 20:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 20:5" />Rada w sercu człowieka jest jak głęboka woda, lecz człowiek roztropny zaczerpnie jej.<verse eid="PRO 20:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 20:6" />Większość ludzi przechwala się swoją dobrocią, ale wiernego człowieka któż znajdzie?<verse eid="PRO 20:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 20:7" />Sprawiedliwy postępuje uczciwie, błogosławione są po nim jego dzieci.<verse eid="PRO 20:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 20:8" />Król siedzący na swoim sędziowskim tronie rozprasza swoimi oczami wszelkie zło.<verse eid="PRO 20:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 20:9" />Któż może powiedzieć: Oczyściłem swoje serce, jestem czysty od swego grzechu?<verse eid="PRO 20:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 20:10" />Dwojakie odważniki i dwojaka miara – obydwa budzą odrazę w PANU.<verse eid="PRO 20:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 20:11" />Nawet dziecko poznaje się po uczynkach, czy jego czyn jest czysty i prawy.<verse eid="PRO 20:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 20:12" />Ucho, które słyszy, i oko, które widzi, oba uczynił PAN.<verse eid="PRO 20:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 20:13" />Nie kochaj spania, byś nie zubożał; otwórz oczy, a nasycisz się chlebem.<verse eid="PRO 20:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 20:14" />To liche, to liche, mówi kupujący, ale chwali się, gdy odchodzi.<verse eid="PRO 20:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 20:15" />Istnieje złoto i obfitość pereł, ale wargi rozumne są kosztownym klejnotem.<verse eid="PRO 20:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 20:16" />Zabierz szatę tego, który ręczył za obcego, a od tego, który ręczył za cudzą kobietę, zabierz zastaw.<verse eid="PRO 20:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 20:17" />Chleb oszustwa smakuje człowiekowi, ale potem jego usta będą napełnione piaskiem.<verse eid="PRO 20:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 20:18" />Zamysły są utwierdzone dzięki radzie, a wojnę prowadź z rozwagą.<verse eid="PRO 20:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 20:19" />Plotkarz zdradza tajemnice; dlatego nie zadawaj się z tym, który pochlebia wargami.<verse eid="PRO 20:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 20:20" />Kto złorzeczy swemu ojcu albo matce, tego pochodnia zgaśnie w gęstych ciemnościach.<verse eid="PRO 20:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 20:21" />Dziedzictwo prędko nabyte na początku nie będzie błogosławione na końcu.<verse eid="PRO 20:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 20:22" />Nie mów: Odpłacę złem. Czekaj na PANA, a wybawi cię.<verse eid="PRO 20:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 20:23" />Dwojakie odważniki budzą odrazę w PANU, a fałszywa waga nie jest dobra.<verse eid="PRO 20:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 20:24" />Od PANA pochodzą drogi człowieka; jakże może człowiek zrozumieć własną drogę?<verse eid="PRO 20:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 20:25" />Sidłem dla człowieka jest pożreć to, co święte, i zastanowić się dopiero po złożeniu ślubów.<verse eid="PRO 20:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 20:26" />Mądry król rozprasza niegodziwych i wywiera na nich zemstę.<verse eid="PRO 20:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 20:27" />Duch człowieka jest pochodnią PANA, która bada wszystkie skrytości wnętrza.<verse eid="PRO 20:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 20:28" />Miłosierdzie i prawda strzegą króla, a jego tron oparty jest na miłosierdziu.<verse eid="PRO 20:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 20:29" />Chlubą młodzieńców jest ich siła, a ozdobą starców – sędziwość.<verse eid="PRO 20:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 20:30" />Siność ran oczyszcza zło, a razy – głębię wnętrza.<verse eid="PRO 20:30" />
+  </para>
+  <chapter eid="PRO 20" />
+  <chapter number="21" style="c" sid="PRO 21" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 21:1" />Serce króla jest w ręku PANA jak potoki wód; kieruje je, dokąd chce.<verse eid="PRO 21:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 21:2" />Wszelka droga człowieka jest słuszna w jego oczach, ale PAN waży serca.<verse eid="PRO 21:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 21:3" />Czynienie sprawiedliwości i sądu bardziej się podobają PANU niż ofiara.<verse eid="PRO 21:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 21:4" />Wyniosłe oczy, pyszne serce i praca niegodziwych są grzechem.<verse eid="PRO 21:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 21:5" />Myśli pracowitego przynoszą pewny dostatek, a myśli każdego spieszącego się – niedostatek.<verse eid="PRO 21:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 21:6" />Gromadzenie skarbów kłamliwym językiem jest przemijającą marnością tych, którzy szukają śmierci.<verse eid="PRO 21:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 21:7" />Grabież niegodziwych zniszczy ich, bo nie chcą czynić tego, co sprawiedliwe.<verse eid="PRO 21:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 21:8" />Droga człowieka jest przewrotna i obca, ale dzieło czystego jest prawe.<verse eid="PRO 21:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 21:9" />Lepiej mieszkać w kącie dachu niż z kłótliwą żoną w przestronnym domu.<verse eid="PRO 21:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 21:10" />Dusza niegodziwego pragnie zła, a jego bliźni nie znajduje łaski w jego oczach.<verse eid="PRO 21:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 21:11" />Gdy się karze szydercę, prosty mądrzeje, a gdy uczą mądrego, przyjmuje wiedzę.<verse eid="PRO 21:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 21:12" />Sprawiedliwy zważa na dom niegodziwego, ale Bóg powala niegodziwych za ich nieprawość.<verse eid="PRO 21:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 21:13" />Kto zatyka swe ucho na wołanie ubogiego, ten sam będzie wołał, a nie zostanie wysłuchany.<verse eid="PRO 21:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 21:14" />Potajemny dar łagodzi zapalczywość i upominek w zanadrzu uspokaja wielki gniew.<verse eid="PRO 21:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 21:15" />Radością jest dla sprawiedliwego czynić sąd, a na czyniących nieprawość przyjdzie zniszczenie.<verse eid="PRO 21:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 21:16" />Człowiek, który zbacza z drogi mądrości, odpocznie w zgromadzeniu umarłych.<verse eid="PRO 21:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 21:17" />Kto kocha zabawę, zubożeje, a kto kocha wino i olejek, nie wzbogaci się.<verse eid="PRO 21:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 21:18" />Niegodziwy będzie okupem za sprawiedliwego, a przewrotny – za prawych.<verse eid="PRO 21:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 21:19" />Lepiej mieszkać na pustyni niż z kłótliwą i gniewliwą żoną.<verse eid="PRO 21:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 21:20" />Pożądany skarb i olej są w mieszkaniu mądrego, ale głupiec je trwoni.<verse eid="PRO 21:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 21:21" />Kto podąża za sprawiedliwością i miłosierdziem, znajduje życie, sprawiedliwość i chwałę.<verse eid="PRO 21:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 21:22" />Mądry wdziera się do miasta mocarzy i burzy potęgę ich ufności.<verse eid="PRO 21:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 21:23" />Kto strzeże swoich ust i języka, strzeże swojej duszy przed utrapieniem.<verse eid="PRO 21:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 21:24" />Hardy i pyszny szyderca – oto imię tego, kto działa w pysznym gniewie.<verse eid="PRO 21:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 21:25" />Pragnienie leniwego zabija go, bo jego ręce nie chcą pracować.<verse eid="PRO 21:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 21:26" />Przez cały dzień pożąda on zachłannie, a sprawiedliwy daje i nie szczędzi.<verse eid="PRO 21:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 21:27" />Ofiara niegodziwych budzi odrazę, a cóż dopiero, gdy ją w niegodziwości ofiarują.<verse eid="PRO 21:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 21:28" />Fałszywy świadek zginie, lecz kto słucha, będzie mówił nieustannie.<verse eid="PRO 21:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 21:29" />Niegodziwy ma upór na twarzy, ale prawy wytycza swoją drogę.<verse eid="PRO 21:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 21:30" />Nie ma mądrości ani rozumu, ani rady przeciwko PANU.<verse eid="PRO 21:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 21:31" />Konia przygotowują na dzień bitwy, ale wybawienie zależy od PANA.<verse eid="PRO 21:31" />
+  </para>
+  <chapter eid="PRO 21" />
+  <chapter number="22" style="c" sid="PRO 22" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 22:1" />Cenniejsze jest dobre imię niż wielkie bogactwa, a przychylność lepsza niż srebro i złoto.<verse eid="PRO 22:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 22:2" />Bogaty i ubogi spotykają się, PAN jest stwórcą obydwu.<verse eid="PRO 22:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 22:3" />Roztropny dostrzega zło i ukrywa się, ale prości idą dalej i ponoszą karę.<verse eid="PRO 22:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 22:4" />Owocem pokory i bojaźni PANA jest bogactwo, chwała i życie.<verse eid="PRO 22:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 22:5" />Ciernie i sidła są na drodze przewrotnego; kto strzeże swej duszy, trzyma się z dala od nich.<verse eid="PRO 22:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 22:6" />Pouczaj dziecko w drodze, którą ma iść, a gdy się zestarzeje, nie odstąpi od niej.<verse eid="PRO 22:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 22:7" />Bogaty panuje nad ubogimi, a ten, co pożycza, jest sługą tego, który mu pożycza.<verse eid="PRO 22:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 22:8" />Kto sieje nieprawość, będzie żąć cierpienie, a rózga jego gniewu przepadnie.<verse eid="PRO 22:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 22:9" />Kto ma dobrotliwe oko, będzie błogosławiony, bo dzieli się swym chlebem z ubogim.<verse eid="PRO 22:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 22:10" />Wyrzuć szydercę, a ustanie spór, owszem, zakończy się kłótnia i zniewaga.<verse eid="PRO 22:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 22:11" />Kto kocha czystość serca, tego wdzięk warg sprawi, że król będzie jego przyjacielem.<verse eid="PRO 22:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 22:12" />Oczy PANA strzegą wiedzy, a on obala słowa przewrotnego.<verse eid="PRO 22:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 22:13" />Leniwy mówi: Lew jest na dworze, będę zabity na środku ulicy.<verse eid="PRO 22:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 22:14" />Usta obcych kobiet są głębokim dołem; wpadnie tam ten, na kogo PAN się gniewa.<verse eid="PRO 22:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 22:15" />Głupota jest przywiązana do serca dziecka, ale rózga karności wypędzi ją z niego.<verse eid="PRO 22:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 22:16" />Kto ciemięży ubogiego, aby przysporzyć sobie bogactwa, i kto daje bogatemu, pewnie zubożeje.<verse eid="PRO 22:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 22:17" />Nadstaw ucha i słuchaj słów mędrców, i skłoń swe serce do mojej wiedzy;<verse eid="PRO 22:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 22:18" />Bo to miło, jeśli zachowasz je w swoim sercu, będą razem ułożone na wargach.<verse eid="PRO 22:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 22:19" />Oznajmiłem to dzisiaj właśnie tobie, abyś pokładał ufność w PANU.<verse eid="PRO 22:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 22:20" />Czy nie napisałem ci znamienitych rzeczy zawierających rady i wiedzę;<verse eid="PRO 22:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 22:21" />Aby dać ci poznać pewność słów prawdy; abyś umiał odpowiedzieć słowami prawdy tym, którzy do ciebie posyłają?<verse eid="PRO 22:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 22:22" />Nie okradaj nędzarza, ponieważ jest ubogi, ani nie uciskaj w bramie biednego.<verse eid="PRO 22:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 22:23" />PAN bowiem będzie bronił ich sprawy i wydrze duszę tym, którzy im wydzierają.<verse eid="PRO 22:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 22:24" />Nie przyjaźnij się z człowiekiem gniewliwym i nie obcuj z człowiekiem porywczym.<verse eid="PRO 22:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 22:25" />Byś nie przywykł do jego dróg i nie zastawił sideł na swą duszę.<verse eid="PRO 22:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 22:26" />Nie bądź z tych, którzy dają porękę, ani z tych, którzy ręczą za długi;<verse eid="PRO 22:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 22:27" />Jeśli nie masz czym zapłacić, dlaczego miałby ktoś zabrać spod ciebie posłanie?<verse eid="PRO 22:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 22:28" />Nie przesuwaj dawnej granicy, którą ustalili twoi ojcowie.<verse eid="PRO 22:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 22:29" />Widzisz człowieka pilnego w swoich sprawach? On będzie stał przed królami, nie będzie stał przed podłymi.<verse eid="PRO 22:29" />
+  </para>
+  <chapter eid="PRO 22" />
+  <chapter number="23" style="c" sid="PRO 23" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 23:1" />Gdy usiądziesz do posiłku z władcą, zważaj pilnie, co jest przed tobą;<verse eid="PRO 23:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 23:2" />I przyłóż nóż do gardła, jeśli jesteś łakomy.<verse eid="PRO 23:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 23:3" />Nie pragnij jego przysmaków, bo to pokarm zwodniczy.<verse eid="PRO 23:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 23:4" />Nie zabiegaj o bogactwo, porzuć swoją mądrość.<verse eid="PRO 23:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 23:5" />Czy obrócisz swoje oczy na to, co jest niczym? Bo bogactwa robią sobie skrzydła i ulatują do nieba jak orzeł.<verse eid="PRO 23:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 23:6" />Nie jedz chleba człowieka, który ma złe oko, ani nie pożądaj jego przysmaków.<verse eid="PRO 23:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 23:7" />Bo jak myśli w swym sercu, taki on jest. Jedz i pij – mówi do ciebie, ale jego serce nie jest z tobą.<verse eid="PRO 23:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 23:8" />Kęs, który zjadłeś, zwrócisz i utracisz swoje wdzięczne słowa.<verse eid="PRO 23:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 23:9" />Nie mów do uszu głupca, bo wzgardzi mądrością twoich słów.<verse eid="PRO 23:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 23:10" />Nie przesuwaj dawnej granicy i nie wchodź na pole sierot.<verse eid="PRO 23:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 23:11" />Bo ich obrońca jest mocny, przeprowadzi ich sprawę przeciwko tobie.<verse eid="PRO 23:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 23:12" />Nakłoń swoje serce na pouczenie, a swe uszy na słowa rozumne.<verse eid="PRO 23:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 23:13" />Nie szczędź dziecku karcenia, bo jeśli je bijesz rózgą, nie umrze.<verse eid="PRO 23:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 23:14" />Będziesz je bił rózgą, a jego duszę ocalisz od piekła.<verse eid="PRO 23:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 23:15" />Synu mój, jeśli twoje serce będzie mądre, moje serce będzie się radowało, właśnie moje;<verse eid="PRO 23:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 23:16" />I moje nerki będą się weselić, gdy twoje usta będą mówiły to, co jest prawe.<verse eid="PRO 23:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 23:17" />Niech twoje serce nie zazdrości grzesznikom, lecz każdego dnia postępuj w bojaźni PANA;<verse eid="PRO 23:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 23:18" />Bo koniec jest pewny i twoja nadzieja nie będzie zawiedziona.<verse eid="PRO 23:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 23:19" />Słuchaj, synu mój, i bądź mądry, i skieruj swoje serce na drogę.<verse eid="PRO 23:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 23:20" />Nie bywaj wśród pijaków ani wśród obżerających się mięsem;<verse eid="PRO 23:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 23:21" />Bo pijak i żarłok zubożeją, a ospały będzie chodził w łachmanach.<verse eid="PRO 23:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 23:22" />Słuchaj ojca, który cię spłodził, a nie gardź matką, gdy się zestarzeje.<verse eid="PRO 23:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 23:23" />Kupuj prawdę i nie sprzedawaj jej; kupuj mądrość, karność i rozum.<verse eid="PRO 23:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 23:24" />Ojciec sprawiedliwego będzie się wielce radował, a kto spłodzi mądrego, będzie się z niego cieszył.<verse eid="PRO 23:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 23:25" />Niech się weseli twój ojciec i matka i niech się raduje ta, która cię rodziła.<verse eid="PRO 23:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 23:26" />Synu mój, daj mi swoje serce, a niech twoje oczy strzegą moich dróg.<verse eid="PRO 23:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 23:27" />Bo nierządnica jest głębokim dołem, a cudza kobieta jest ciasną studnią.<verse eid="PRO 23:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 23:28" />Ona też czyha jak zbój i pomnaża przewrotnych wśród ludzi.<verse eid="PRO 23:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 23:29" />U kogo biada? U kogo żal? U kogo kłótnie? U kogo szemranie? Kto ma rany bez powodu? Kto ma zaczerwienione oczy?<verse eid="PRO 23:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 23:30" />Ci, którzy przesiadują przy winie; ci, którzy idą szukać zmieszanego wina.<verse eid="PRO 23:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 23:31" />Nie patrz na wino, gdy się czerwieni; gdy wydaje łunę swą w kielichu, a samo się przesuwa.<verse eid="PRO 23:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 23:32" />Na koniec ugryzie jak wąż i ukąsi jak żmija;<verse eid="PRO 23:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 23:33" />Twoje oczy będą patrzeć na cudze kobiety, a twoje serce będzie mówiło rzeczy przewrotne;<verse eid="PRO 23:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="PRO 23:34" />I będziesz jak ten, który leży na środku morza, i jak ten, który śpi na szczycie masztu;<verse eid="PRO 23:34" />
+  </para>
+  <para style="m">
+    <verse number="35" style="v" sid="PRO 23:35" />Powiesz: Bili mnie, a nie bolało, uderzyli mnie, a nic nie czułem. Gdy się obudzę, znów go poszukam.<verse eid="PRO 23:35" />
+  </para>
+  <chapter eid="PRO 23" />
+  <chapter number="24" style="c" sid="PRO 24" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 24:1" />Nie zazdrość złym ludziom ani nie pragnij z nimi przebywać;<verse eid="PRO 24:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 24:2" />Ich serce bowiem obmyśla przemoc, a ich wargi mówią o krzywdzie.<verse eid="PRO 24:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 24:3" />Dom buduje się mądrością, a umacnia się rozumem.<verse eid="PRO 24:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 24:4" />Dzięki wiedzy komory będą napełnione wszelkimi kosztownymi i przyjemnymi bogactwami.<verse eid="PRO 24:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 24:5" />Mądry człowiek jest silny, a mąż, który ma wiedzę, dodaje siły.<verse eid="PRO 24:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 24:6" />Bo dzięki mądrej radzie poprowadzisz wojnę, a mnóstwo doradców da ci wybawienie.<verse eid="PRO 24:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 24:7" />Mądrość jest dla głupca zbyt wzniosła; nie otwiera ust swoich w bramie.<verse eid="PRO 24:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 24:8" />Kto knuje zło, będzie zwany złośliwym.<verse eid="PRO 24:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 24:9" />Obmyślanie głupoty jest grzechem, a szyderca budzi odrazę w ludziach.<verse eid="PRO 24:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 24:10" />Jeśli w dniu ucisku ustaniesz, twoja siła jest słaba.<verse eid="PRO 24:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 24:11" />Jeśli odmówisz ratunku prowadzonym na śmierć i tym, którzy idą na stracenie;<verse eid="PRO 24:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 24:12" />Jeśli powiesz: Nie wiedzieliśmy o tym; czy ten, który waży serca, nie rozumie? A ten, który strzeże twojej duszy, nie pozna? I czy nie odda człowiekowi według jego uczynków?<verse eid="PRO 24:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 24:13" />Synu mój, jedz miód, bo jest dobry, i plaster miodu słodki dla twojego podniebienia.<verse eid="PRO 24:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 24:14" />Tak będzie poznanie mądrości dla twojej duszy; jeśli ją znajdziesz, będzie nagroda, a twoja nadzieja nie będzie zawiedziona.<verse eid="PRO 24:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 24:15" />Nie czyhaj, niegodziwcze, przed mieszkaniem sprawiedliwego, nie burz miejsca jego odpoczynku;<verse eid="PRO 24:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 24:16" />Bo sprawiedliwy upada siedem razy, jednak znowu powstaje; a niegodziwi popadną w nieszczęście.<verse eid="PRO 24:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 24:17" />Nie ciesz się, gdy twój nieprzyjaciel upadnie, i niech twoje serce się nie raduje, gdy się potknie;<verse eid="PRO 24:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 24:18" />Aby PAN tego nie widział i nie uznał za zło, i nie odwrócił od niego swojego gniewu.<verse eid="PRO 24:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 24:19" />Nie gniewaj się z powodu złoczyńców ani nie zazdrość niegodziwym;<verse eid="PRO 24:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 24:20" />Bo zły nie otrzyma nagrody, pochodnia niegodziwych zostanie zgaszona.<verse eid="PRO 24:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 24:21" />Synu mój, bój się PANA i króla, a nie przestawaj z chwiejnymi;<verse eid="PRO 24:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 24:22" />Bo ich nieszczęście nastąpi nagle, a któż zna upadek obydwóch?<verse eid="PRO 24:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 24:23" />I to też należy do mądrych. Niedobrze jest mieć wzgląd na osobę w sądzie.<verse eid="PRO 24:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 24:24" />Kto mówi niegodziwemu: Jesteś sprawiedliwy, tego będą ludzie przeklinać, a narody będą się nim brzydzić.<verse eid="PRO 24:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 24:25" />A ci, którzy go strofują, będą szczęśliwi i przyjdzie na nich obfite błogosławieństwo.<verse eid="PRO 24:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 24:26" />Pocałują wargi tego, który daje słuszną odpowiedź.<verse eid="PRO 24:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 24:27" />Przygotuj swoją pracę na zewnątrz, a wykonuj ją na swoim polu, a potem buduj swój dom.<verse eid="PRO 24:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 24:28" />Nie bądź bez powodu świadkiem przeciw swemu bliźniemu ani nie oszukuj swymi wargami.<verse eid="PRO 24:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 24:29" />Nie mów: Zrobię mu, jak on mi zrobił, oddam temu człowiekowi według jego uczynku.<verse eid="PRO 24:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 24:30" />Szedłem koło pola leniwego i koło winnicy nierozumnego;<verse eid="PRO 24:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 24:31" />A oto wszystko zarosło cierniem, pokrzywy pokryły wszystko, a kamienny mur był zburzony.<verse eid="PRO 24:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 24:32" />Spojrzałem i rozważałem w sercu; obejrzałem i wyciągnąłem naukę.<verse eid="PRO 24:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 24:33" />Trochę snu, trochę drzemania, trochę założenia rąk, by odpocząć;<verse eid="PRO 24:33" />
+  </para>
+  <para style="m">
+    <verse number="34" style="v" sid="PRO 24:34" />A twoje ubóstwo przyjdzie jak podróżny, a niedostatek – jak mąż uzbrojony.<verse eid="PRO 24:34" />
+  </para>
+  <chapter eid="PRO 24" />
+  <chapter number="25" style="c" sid="PRO 25" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 25:1" />To również są przysłowia Salomona, które przepisali mężowie Ezechiasza, króla Judy.<verse eid="PRO 25:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 25:2" />Chwałą Boga jest sprawę taić, ale chwałą królów – dociekać sprawy.<verse eid="PRO 25:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 25:3" />Wysokość niebios i głębia ziemi, i serca królów są niezbadane.<verse eid="PRO 25:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 25:4" />Usuń żużel ze srebra, a wyjdzie naczynie dla złotnika.<verse eid="PRO 25:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 25:5" />Usuń niegodziwego sprzed króla, a jego tron umocni się w sprawiedliwości.<verse eid="PRO 25:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 25:6" />Nie wywyższaj się przed królem i nie stawaj na miejscu wielkich;<verse eid="PRO 25:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 25:7" />Bo lepiej, żeby ci powiedziano: Podejdź tu, niż żeby cię poniżono przed księciem, którego twoje oczy widziały.<verse eid="PRO 25:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 25:8" />Nie spiesz się do kłótni, bo na końcu nie będziesz wiedział, co zrobić, gdy cię zawstydzi twój bliźni.<verse eid="PRO 25:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 25:9" />Załatw sprawę ze swoim bliźnim i nie zdradzaj tajemnicy drugiemu;<verse eid="PRO 25:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 25:10" />By ten, który słucha, nie zawstydził cię, a twoja niesława nie przylgnęła do ciebie.<verse eid="PRO 25:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 25:11" />Odpowiednio wypowiedziane słowo jest jak złote jabłko w srebrnych rzeźbach.<verse eid="PRO 25:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 25:12" />Jak złoty kolczyk i klejnot ze szczerego złota tak jest dla uszu posłusznego ten, który mądrze strofuje.<verse eid="PRO 25:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 25:13" />Czym chłód śniegu w czasie żniwa, tym wierny posłaniec dla tych, którzy go posyłają, bo pokrzepia dusze swych panów.<verse eid="PRO 25:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 25:14" />Człowiek, który się chlubi zmyślonym darem, jest jak chmury i wiatr bez deszczu.<verse eid="PRO 25:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 25:15" />Cierpliwością można przekonać władcę, a łagodny język łamie kości.<verse eid="PRO 25:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 25:16" />Czy znalazłeś miód? Zjedz tyle, ile trzeba, byś objadłszy się, nie zwrócił go.<verse eid="PRO 25:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 25:17" />Oddal nogę od domu bliźniego, by nie miał cię dość i cię nie znienawidził.<verse eid="PRO 25:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 25:18" />Kto mówi fałszywe świadectwo przeciw swemu bliźniemu, jest młotem i mieczem, i ostrą strzałą.<verse eid="PRO 25:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 25:19" />Ufność w człowieka niewiernego w dniu ucisku jest jak złamany ząb i zwichnięta noga.<verse eid="PRO 25:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 25:20" />Jak ten, kto zabiera odzienie w czasie zimy i jak ocet na saletrze taki jest ten, kto śpiewa pieśni smutnemu sercu.<verse eid="PRO 25:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 25:21" />Jeśli twój nieprzyjaciel jest głodny, nakarm go chlebem, a jeśli jest spragniony, napój go wodą;<verse eid="PRO 25:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 25:22" />Bo zgarniesz rozżarzone węgle na jego głowę, a PAN cię nagrodzi.<verse eid="PRO 25:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 25:23" />Jak północny wiatr przepędza deszcz, tak gniewna twarz przepędza plotkarski język.<verse eid="PRO 25:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 25:24" />Lepiej mieszkać w kącie pod dachem niż z kłótliwą żoną w przestronnym domu.<verse eid="PRO 25:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 25:25" />Jak zimna woda dla pragnącej duszy, tak dobra wieść z dalekiej ziemi.<verse eid="PRO 25:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 25:26" />Jak zmącone źródło i zepsuty zdrój, tak sprawiedliwy, który upada przed niegodziwym.<verse eid="PRO 25:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 25:27" />Niedobrze jest jeść za dużo miodu, a szukanie własnej chwały nie jest chwałą.<verse eid="PRO 25:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 25:28" />Człowiek, który nie panuje nad swoim duchem, jest jak miasto zburzone i bez muru.<verse eid="PRO 25:28" />
+  </para>
+  <chapter eid="PRO 25" />
+  <chapter number="26" style="c" sid="PRO 26" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 26:1" />Jak śnieg w lecie i jak deszcz we żniwa, tak głupiemu nie przystoi chwała.<verse eid="PRO 26:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 26:2" />Jak ptak się tuła i jak jaskółka lata, tak nie przyjdzie niezasłużone przekleństwo.<verse eid="PRO 26:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 26:3" />Bicz na konia, wędzidło na osła, a kij na grzbiet głupiego.<verse eid="PRO 26:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 26:4" />Nie odpowiadaj głupiemu według jego głupoty, abyś i ty nie był do niego podobny.<verse eid="PRO 26:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 26:5" />Odpowiedz głupiemu według jego głupoty, aby nie był mądry we własnych oczach.<verse eid="PRO 26:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 26:6" />Kto powierza głupiemu posłannictwo, odcina sobie nogi i pije na własną szkodę.<verse eid="PRO 26:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 26:7" />Jak nierówne są nogi chromego, tak przysłowie w ustach głupich.<verse eid="PRO 26:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 26:8" />Jaki jest ten, kto przywiązuje kamień do procy, taki ten, kto oddaje cześć głupiemu.<verse eid="PRO 26:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 26:9" />Jak cierń wbija się w rękę pijaka, tak przysłowie w ustach głupców.<verse eid="PRO 26:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 26:10" />Wielki Bóg stworzył wszystko i odpłaca głupiemu, odpłaca również przestępcom.<verse eid="PRO 26:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 26:11" />Jak pies powraca do swoich wymiocin, tak głupi powtarza swoją głupotę.<verse eid="PRO 26:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 26:12" />Widzisz człowieka, co mądry w swoich oczach? Więcej nadziei dla głupca niż dla niego.<verse eid="PRO 26:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 26:13" />Leniwy mówi: Lew na drodze, lew na ulicach.<verse eid="PRO 26:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 26:14" />Jak drzwi się obracają na swoich zawiasach, tak leniwy na swoim łóżku.<verse eid="PRO 26:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 26:15" />Leniwy kryje rękę pod pachę, a ciężko mu ją podnosić do ust.<verse eid="PRO 26:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 26:16" />Leniwy uważa się za mądrzejszego niż siedmiu odpowiadających rozsądnie.<verse eid="PRO 26:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 26:17" />Kto przechodzi i wtrąca się w cudzy spór, jest jak ten, który łapie psa za uszy.<verse eid="PRO 26:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 26:18" />Jak szalony wypuszcza iskry, strzały i śmierć;<verse eid="PRO 26:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 26:19" />Taki jest każdy, kto zwodzi swego bliźniego i mówi: Czy nie żartowałem?<verse eid="PRO 26:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 26:20" />Gdy nie ma drew, ogień gaśnie; tak gdy nie ma plotkarza, ustaje spór.<verse eid="PRO 26:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 26:21" />Jak węgiel dla żaru i drwa do ognia, tak kłótliwy człowiek do wzniecenia sporu.<verse eid="PRO 26:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 26:22" />Słowa plotkarzy są jak rany; przenikają do głębi wnętrzności.<verse eid="PRO 26:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 26:23" />Palące wargi i złe serce są jak gliniana skorupa pokryta żużlem srebrnym.<verse eid="PRO 26:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 26:24" />Ten, kto nienawidzi, udaje wargami, lecz w sercu knuje podstęp.<verse eid="PRO 26:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 26:25" />Gdy mówi miłym głosem, nie wierz mu, bo siedem obrzydliwości ma w swoim sercu.<verse eid="PRO 26:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 26:26" />Nienawiść człowieka bywa pokryta podstępem, ale jego niegodziwość będzie odkryta na zgromadzeniu.<verse eid="PRO 26:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 26:27" />Kto kopie dół, wpadnie w niego; kto kamień toczy, na niego się on obróci.<verse eid="PRO 26:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 26:28" />Kłamliwy język nienawidzi tych, których uciska, a usta pochlebcze prowadzą do zguby.<verse eid="PRO 26:28" />
+  </para>
+  <chapter eid="PRO 26" />
+  <chapter number="27" style="c" sid="PRO 27" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 27:1" />Nie chlub się dniem jutrzejszym, bo nie wiesz, co dzień przyniesie.<verse eid="PRO 27:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 27:2" />Niech inny cię chwali, a nie twoje usta; ktoś obcy, a nie twoje wargi.<verse eid="PRO 27:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 27:3" />Ciężki jest kamień i piasek waży, ale gniew głupca cięższy od obu.<verse eid="PRO 27:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 27:4" />Okrutny jest gniew i straszliwa zapalczywość, lecz któż się ostoi przed zazdrością?<verse eid="PRO 27:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 27:5" />Lepsza jest jawna nagana niż skryta miłość.<verse eid="PRO 27:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 27:6" />Rany przyjaciela są wierne, ale pocałunki wroga są zwodnicze.<verse eid="PRO 27:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 27:7" />Dusza nasycona podepcze plaster miodu, a dla głodnej duszy wszystko, co gorzkie, jest słodkie.<verse eid="PRO 27:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 27:8" />Jak ptak odlatuje od swego gniazda, tak człowiek odchodzi od swego miejsca.<verse eid="PRO 27:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 27:9" />Maść i kadzidło radują serce, tak słodycz przyjaciela dzięki radzie od serca.<verse eid="PRO 27:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 27:10" />Nie opuszczaj swego przyjaciela ani przyjaciela twego ojca, a w dniu twego nieszczęścia nie wchodź do domu twego brata, bo lepszy jest sąsiad bliski niż brat daleki.<verse eid="PRO 27:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 27:11" />Bądź mądrym, synu mój, rozwesel moje serce, abym mógł odpowiedzieć temu, który mi urąga.<verse eid="PRO 27:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 27:12" />Roztropny dostrzega zło i ukrywa się, a prości idą dalej i ponoszą karę.<verse eid="PRO 27:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 27:13" />Zabierz szatę temu, kto ręczył za obcego, i od tego, który ręczył za cudzą kobietę, weź zastaw.<verse eid="PRO 27:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 27:14" />Kto wczesnym rankiem błogosławi swemu przyjacielowi donośnym głosem, temu będzie to poczytane za przekleństwo.<verse eid="PRO 27:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 27:15" />Nieustające kapanie w dniu rzęsistego deszczu i kłótliwa żona są sobie podobne;<verse eid="PRO 27:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 27:16" />Kto ją ukrywa, ukrywa wiatr i w prawej ręce wonny olejek, który sam siebie wydaje.<verse eid="PRO 27:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 27:17" />Żelazo ostrzy się żelazem, tak człowiek zaostrza oblicze swego przyjaciela.<verse eid="PRO 27:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 27:18" />Kto strzeże drzewa figowego, spożyje jego owoc; tak kto posługuje swemu panu, dozna czci.<verse eid="PRO 27:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 27:19" />Jak w wodzie odbija się twarz, tak w sercu człowieka – człowiek.<verse eid="PRO 27:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 27:20" />Piekło i zatracenie są nienasycone, tak oczy człowieka są niesyte.<verse eid="PRO 27:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 27:21" />Czym dla srebra jest tygiel, a dla złota piec, tym dla człowieka pochwała.<verse eid="PRO 27:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 27:22" />Choćbyś zmiażdżył głupca w moździerzu tłuczkiem razem z ziarnami, nie opuści go głupota.<verse eid="PRO 27:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 27:23" />Doglądaj pilnie swego dobytku i troszcz się o swe stada.<verse eid="PRO 27:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 27:24" />Bo bogactwo nie trwa na wieki ani korona przez wszystkie pokolenia.<verse eid="PRO 27:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 27:25" />Trawa wyrasta, pojawia się zieleń, z gór zioła zbierają.<verse eid="PRO 27:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 27:26" />Owce są na twoje szaty, a kozły są zapłatą za pole.<verse eid="PRO 27:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 27:27" />I dosyć mleka koziego na pokarm dla ciebie, na wyżywienie twego domu i na utrzymanie twoich służebnic.<verse eid="PRO 27:27" />
+  </para>
+  <chapter eid="PRO 27" />
+  <chapter number="28" style="c" sid="PRO 28" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 28:1" />Niegodziwi uciekają, choć nikt ich nie goni, ale sprawiedliwi są dzielni jak lew.<verse eid="PRO 28:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 28:2" />Z powodu grzechu ziemi wielu jest jej władców, ale dzięki człowiekowi roztropnemu i rozumnemu będzie trwała.<verse eid="PRO 28:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 28:3" />Ubogi człowiek, który gnębi biednych, jest jak gwałtowny deszcz, po którym nie ma chleba.<verse eid="PRO 28:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 28:4" />Ci, którzy odstępują od prawa, chwalą niegodziwych, lecz ci, którzy przestrzegają prawa, zwalczają ich.<verse eid="PRO 28:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 28:5" />Źli ludzie nie rozumieją sądu, ale ci, którzy szukają PANA, rozumieją wszystko.<verse eid="PRO 28:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 28:6" />Lepszy jest ubogi, który postępuje uczciwie, niż człowiek przewrotny w swych drogach, chociaż jest bogaty.<verse eid="PRO 28:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 28:7" />Kto przestrzega prawa, jest rozumnym synem, a towarzysz rozwiązłych hańbi swego ojca.<verse eid="PRO 28:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 28:8" />Kto pomnaża swój majątek lichwą i odsetkami, zbiera go dla tego, kto zlituje się nad ubogimi.<verse eid="PRO 28:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 28:9" />Kto odwraca swe ucho, aby nie słyszeć prawa, nawet jego modlitwa budzi odrazę.<verse eid="PRO 28:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 28:10" />Kto sprowadza prawych na złą drogę, sam wpadnie we własny dół, ale nienaganni odziedziczą dobro.<verse eid="PRO 28:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 28:11" />Bogacz jest mądry w swoich oczach, ale rozumny biedak go bada.<verse eid="PRO 28:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 28:12" />Gdy sprawiedliwi się radują, jest wielka chwała, a gdy niegodziwi powstają, człowiek się kryje.<verse eid="PRO 28:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 28:13" />Kto ukrywa swe grzechy, nie będzie miał szczęścia, ale kto je wyznaje i porzuca, dostąpi miłosierdzia.<verse eid="PRO 28:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 28:14" />Błogosławiony człowiek, który się zawsze boi, ale kto zatwardza swoje serce, wpada w nieszczęście.<verse eid="PRO 28:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 28:15" />Jak lew ryczący i zgłodniały niedźwiedź, tak niegodziwy władca panujący nad ubogim ludem.<verse eid="PRO 28:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 28:16" />Władca bezrozumny jest wielkim ciemięzcą, a kto nienawidzi chciwości, przedłuży swoje dni.<verse eid="PRO 28:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 28:17" />Człowiek, który przeleje krew ludzką, ucieknie aż do dołu; niech nikt go nie zatrzymuje.<verse eid="PRO 28:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 28:18" />Kto postępuje uczciwie, będzie wybawiony, a przewrotny na swoich drogach nagle upadnie.<verse eid="PRO 28:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 28:19" />Kto uprawia swoją ziemię, nasyci się chlebem, a kto naśladuje próżniaków, nasyci się nędzą.<verse eid="PRO 28:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 28:20" />Wierny człowiek będzie opływał w błogosławieństwa, a kto chce się szybko wzbogacić, nie będzie bez winy.<verse eid="PRO 28:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 28:21" />Niedobrze jest mieć wzgląd na osobę, bo dla kęsa chleba niejeden popełni przestępstwo.<verse eid="PRO 28:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 28:22" />Kto chce szybko się wzbogacić, ma złe oko, a nie wie, że przyjdzie na niego bieda.<verse eid="PRO 28:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 28:23" />Kto strofuje człowieka, znajdzie potem więcej przychylności niż ten, który pochlebia językiem.<verse eid="PRO 28:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 28:24" />Kto kradnie ojcu lub matce i mówi: To nie grzech, jest towarzyszem zbójcy.<verse eid="PRO 28:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 28:25" />Człowiek wyniosły wszczyna spór, ale kto pokłada ufność w PANU, będzie nasycony.<verse eid="PRO 28:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 28:26" />Kto ufa własnemu sercu, jest głupi, a kto mądrze postępuje, będzie ocalony.<verse eid="PRO 28:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 28:27" />Kto daje ubogiemu, nie zazna braku, a na tego, kto odwraca swe oczy od niego, spadnie wiele przekleństw.<verse eid="PRO 28:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 28:28" />Gdy niegodziwi powstają, ludzie się kryją, ale gdy giną, sprawiedliwi się mnożą.<verse eid="PRO 28:28" />
+  </para>
+  <chapter eid="PRO 28" />
+  <chapter number="29" style="c" sid="PRO 29" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 29:1" />Człowiek, który czyni twardym swój kark mimo częstych nagan, zostanie nagle zniszczony i pozbawiony ratunku.<verse eid="PRO 29:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 29:2" />Gdy sprawiedliwi są u władzy, lud się weseli, a gdy panują niegodziwi, lud wzdycha.<verse eid="PRO 29:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 29:3" />Kto miłuje mądrość, raduje swego ojca, a kto zadaje się z nierządnicami, trwoni majątek.<verse eid="PRO 29:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 29:4" />Król utwierdza ziemię sądem, ale kto przyjmuje dary, burzy ją.<verse eid="PRO 29:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 29:5" />Człowiek, który pochlebia swemu bliźniemu, rozciąga sieć przed jego nogami.<verse eid="PRO 29:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 29:6" />Grzech złego człowieka jest jego sidłem, ale sprawiedliwy śpiewa i weseli się.<verse eid="PRO 29:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 29:7" />Sprawiedliwy zważa na sprawę ubogich, a niegodziwemu nie zależy na jej poznawaniu.<verse eid="PRO 29:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 29:8" />Szydercy prowadzą miasto w sidła, ale mądrzy odwracają gniew.<verse eid="PRO 29:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 29:9" />Jeśli mądry człowiek spiera się z głupim, czy się gniewa, czy się śmieje, nie ma pokoju.<verse eid="PRO 29:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 29:10" />Krwiożercy nienawidzą prawego, ale sprawiedliwi szukają jego duszy.<verse eid="PRO 29:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 29:11" />Głupi ujawnia cały swój umysł, a mądry zachowuje go na później.<verse eid="PRO 29:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 29:12" />Jeśli władca słucha kłamstw, to wszyscy jego słudzy są niegodziwi.<verse eid="PRO 29:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 29:13" />Ubogi i zdzierca spotykają się, a PAN obu oświeca oczy.<verse eid="PRO 29:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 29:14" />Tron króla, który sądzi ubogich według prawdy, będzie umocniony na wieki.<verse eid="PRO 29:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 29:15" />Rózga i upomnienia dają mądrość, a samowolne dziecko przynosi wstyd swojej matce.<verse eid="PRO 29:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 29:16" />Gdy niegodziwi się mnożą, to mnoży się i przestępstwo, lecz sprawiedliwi ujrzą ich upadek.<verse eid="PRO 29:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 29:17" />Karć swego syna, a da ci odpocząć i przyniesie rozkosz twojej duszy.<verse eid="PRO 29:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 29:18" />Gdy nie ma proroctwa, lud ginie, a kto przestrzega prawa, jest błogosławiony.<verse eid="PRO 29:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 29:19" />Sługi nie poprawi się słowami, bo choć rozumie, jednak nie odpowiada.<verse eid="PRO 29:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 29:20" />Widzisz człowieka, który jest pochopny w swoich słowach? Więcej nadziei dla głupca niż dla niego.<verse eid="PRO 29:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 29:21" />Kto czule wychowuje sługę od młodości, na ostatek będzie go miał za syna.<verse eid="PRO 29:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 29:22" />Człowiek gniewliwy wszczyna spór, a człowiek porywczy mnoży grzechy.<verse eid="PRO 29:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 29:23" />Pycha człowieka poniża go, ale pokorny w duchu dostąpi chwały.<verse eid="PRO 29:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 29:24" />Wspólnik złodzieja nienawidzi swojej duszy; słyszy przekleństwa, a nie wydaje go.<verse eid="PRO 29:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 29:25" />Strach przed człowiekiem zastawia sidła, ale kto ufa PANU, będzie bezpieczny.<verse eid="PRO 29:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 29:26" />Wielu zabiega o względy władcy, ale sąd każdego człowieka pochodzi od PANA.<verse eid="PRO 29:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 29:27" />Bezbożny budzi odrazę w sprawiedliwych, a kto postępuje uczciwie, budzi odrazę w niegodziwych.<verse eid="PRO 29:27" />
+  </para>
+  <chapter eid="PRO 29" />
+  <chapter number="30" style="c" sid="PRO 30" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 30:1" />Słowa Agura, syna Jake, proroctwo tego człowieka do Itiela, do Itiela i Ukala.<verse eid="PRO 30:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 30:2" />Zaprawdę jestem najgłupszym z ludzi i nie mam ludzkiego rozumu.<verse eid="PRO 30:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 30:3" />Ani nie nauczyłem się mądrości, ani nie mam wiedzy o tym, co święte.<verse eid="PRO 30:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 30:4" />Któż wstąpił do nieba i zstąpił? Któż zebrał wiatr w swoje garście? Któż zgarnął wody do swej szaty? Któż utwierdził wszystkie krańce ziemi? Jakie jest jego imię? A jakie jest imię jego syna? Czy wiesz?<verse eid="PRO 30:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 30:5" />Każde słowo Boga jest czyste; on jest tarczą dla tych, którzy mu ufają.<verse eid="PRO 30:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 30:6" />Nie dodawaj nic do jego słów, aby cię nie strofował i abyś nie okazał się kłamcą.<verse eid="PRO 30:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 30:7" />Proszę cię o dwie rzeczy; nie odmawiaj mi ich, zanim umrę.<verse eid="PRO 30:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 30:8" />Oddal ode mnie marność i słowo kłamliwe; nie dawaj mi ani ubóstwa, ani bogactwa; żyw mnie odpowiednim dla mnie pokarmem;<verse eid="PRO 30:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 30:9" />Abym będąc syty, nie zaparł się ciebie i nie mówił: Kim jest PAN? Albo zubożawszy, nie kradł i nie brał imienia mego Boga nadaremnie.<verse eid="PRO 30:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 30:10" />Nie oczerniaj sługi przed jego panem, aby ci nie złorzeczył i byś nie okazał się winny.<verse eid="PRO 30:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 30:11" />Jest pokolenie, które złorzeczy swemu ojcu i nie błogosławi swojej matce.<verse eid="PRO 30:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 30:12" />Jest pokolenie, które we własnych oczach jest czyste, lecz nie jest obmyte ze swego plugastwa.<verse eid="PRO 30:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 30:13" />Jest pokolenie, którego oczy są wyniosłe i powieki wzniesione.<verse eid="PRO 30:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 30:14" />Jest pokolenie, którego zęby są jak miecze, a zęby trzonowe jak noże, by pożreć ubogich na ziemi i nędzarzy spośród ludzi.<verse eid="PRO 30:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 30:15" />Pijawka ma dwie córki, które mówią: Daj, daj. Trzy są rzeczy, które nie mogą się nasycić; cztery, które nie mówią: Dość.<verse eid="PRO 30:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 30:16" />Grób, niepłodne łono, ziemia niesyta wody i ogień, który nie mówi: Dość.<verse eid="PRO 30:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 30:17" />Oko, które wyśmiewa ojca i gardzi posłuszeństwem matce, wydziobią kruki nad potokami i wyjedzą orlęta.<verse eid="PRO 30:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 30:18" />Trzy są rzeczy dla mnie zbyt zdumiewające, czterech nie znam:<verse eid="PRO 30:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 30:19" />Drogi orła w powietrzu, drogi węża na skale, drogi okrętu na środku morza i drogi mężczyzny z młodą kobietą.<verse eid="PRO 30:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 30:20" />Taka jest droga kobiety cudzołożnej: je i obciera swoje usta, i mówi: Nie zrobiłam nic złego.<verse eid="PRO 30:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 30:21" />Pod trzema rzeczami drży ziemia, czterech nie może znieść:<verse eid="PRO 30:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 30:22" />Sługi, kiedy panuje, głupca, kiedy syci się chlebem;<verse eid="PRO 30:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 30:23" />Obmierzłej kobiety, kiedy wychodzi za mąż, i służącej, kiedy dziedziczy po swojej pani.<verse eid="PRO 30:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 30:24" />Cztery są rzeczy najmniejsze na ziemi, jednak mędrsze nad mędrców:<verse eid="PRO 30:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 30:25" />Mrówki, lud słaby, a jednak w lecie przygotowują pokarm;<verse eid="PRO 30:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 30:26" />Króliki, lud słaby, a jednak budują swój dom w skale;<verse eid="PRO 30:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 30:27" />Szarańcze nie mają króla, a jednak wszystkie wyruszają chmarą;<verse eid="PRO 30:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 30:28" />Pająk pracuje rękoma, a bywa w pałacach królewskich.<verse eid="PRO 30:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 30:29" />Trzy są rzeczy, które poruszają się wspaniale, cztery kroczą dostojnie:<verse eid="PRO 30:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 30:30" />Lew, najsilniejszy wśród zwierząt, który przed nikim nie ustępuje;<verse eid="PRO 30:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 30:31" />Chart i kozioł, i król, przeciw któremu nikt nie powstaje.<verse eid="PRO 30:31" />
+  </para>
+  <para style="m">
+    <verse number="32" style="v" sid="PRO 30:32" />Jeśli głupio postąpiłeś, wynosząc się, albo jeśli pomyślałeś źle, połóż rękę na ustach.<verse eid="PRO 30:32" />
+  </para>
+  <para style="m">
+    <verse number="33" style="v" sid="PRO 30:33" />Jak ubijanie mleka daje masło i wycieranie nosa wywołuje krew, tak kto wzbudza gniew, wszczyna kłótnię.<verse eid="PRO 30:33" />
+  </para>
+  <chapter eid="PRO 30" />
+  <chapter number="31" style="c" sid="PRO 31" />
+  <para style="m">
+    <verse number="1" style="v" sid="PRO 31:1" />Słowa króla Lemuela, proroctwo, którego nauczyła go jego matka.<verse eid="PRO 31:1" />
+  </para>
+  <para style="m">
+    <verse number="2" style="v" sid="PRO 31:2" />Cóż, synu mój? Cóż, synu mojego łona? I cóż, synu moich ślubów?<verse eid="PRO 31:2" />
+  </para>
+  <para style="m">
+    <verse number="3" style="v" sid="PRO 31:3" />Nie oddawaj kobietom swej siły ani twoich dróg temu, co prowadzi do zguby królów.<verse eid="PRO 31:3" />
+  </para>
+  <para style="m">
+    <verse number="4" style="v" sid="PRO 31:4" />Nie królom, o Lemuelu, nie królom wypada pić wina i nie książętom bawić się mocnym napojem;<verse eid="PRO 31:4" />
+  </para>
+  <para style="m">
+    <verse number="5" style="v" sid="PRO 31:5" />By pijąc, nie zapomnieli praw i nie wypaczyli sprawy wszystkich ludzi uciśnionych.<verse eid="PRO 31:5" />
+  </para>
+  <para style="m">
+    <verse number="6" style="v" sid="PRO 31:6" />Dajcie mocny napój ginącym, a wino strapionym na duchu.<verse eid="PRO 31:6" />
+  </para>
+  <para style="m">
+    <verse number="7" style="v" sid="PRO 31:7" />Niech się napiją i zapomną o swoim ubóstwie, i niech nie pamiętają więcej swego utrapienia.<verse eid="PRO 31:7" />
+  </para>
+  <para style="m">
+    <verse number="8" style="v" sid="PRO 31:8" />Otwórz swe usta dla niemych w sprawie wszystkich osądzonych na śmierć.<verse eid="PRO 31:8" />
+  </para>
+  <para style="m">
+    <verse number="9" style="v" sid="PRO 31:9" />Otwórz swe usta, sądź sprawiedliwie i broń sprawy ubogiego i nędzarza.<verse eid="PRO 31:9" />
+  </para>
+  <para style="m">
+    <verse number="10" style="v" sid="PRO 31:10" />Któż znajdzie kobietę cnotliwą? Jej wartość przewyższa perły.<verse eid="PRO 31:10" />
+  </para>
+  <para style="m">
+    <verse number="11" style="v" sid="PRO 31:11" />Serce męża jej ufa i zysku mu nie zabraknie.<verse eid="PRO 31:11" />
+  </para>
+  <para style="m">
+    <verse number="12" style="v" sid="PRO 31:12" />Dobro mu będzie wyświadczać, a nie zło, po wszystkie dni swego życia.<verse eid="PRO 31:12" />
+  </para>
+  <para style="m">
+    <verse number="13" style="v" sid="PRO 31:13" />Szuka wełny i lnu i chętnie pracuje swymi rękami.<verse eid="PRO 31:13" />
+  </para>
+  <para style="m">
+    <verse number="14" style="v" sid="PRO 31:14" />Podobna jest do okrętów handlowych; przywozi żywność z daleka.<verse eid="PRO 31:14" />
+  </para>
+  <para style="m">
+    <verse number="15" style="v" sid="PRO 31:15" />Wstaje, gdy jeszcze jest noc, i daje pokarm swoim domownikom i odpowiednią porcję swym służącym.<verse eid="PRO 31:15" />
+  </para>
+  <para style="m">
+    <verse number="16" style="v" sid="PRO 31:16" />Myśli o polu i kupuje je; z zarobku swych rąk sadzi winnice.<verse eid="PRO 31:16" />
+  </para>
+  <para style="m">
+    <verse number="17" style="v" sid="PRO 31:17" />Przepasuje swe biodra siłą i umacnia swoje ramiona.<verse eid="PRO 31:17" />
+  </para>
+  <para style="m">
+    <verse number="18" style="v" sid="PRO 31:18" />Dostrzega, że jej dorobek jest dobry, a jej pochodnia w nocy nie gaśnie.<verse eid="PRO 31:18" />
+  </para>
+  <para style="m">
+    <verse number="19" style="v" sid="PRO 31:19" />Wyciąga ręce po kądziel, a dłonią chwyta wrzeciono.<verse eid="PRO 31:19" />
+  </para>
+  <para style="m">
+    <verse number="20" style="v" sid="PRO 31:20" />Otwiera dłoń przed ubogim i wyciąga swe ręce do nędzarza.<verse eid="PRO 31:20" />
+  </para>
+  <para style="m">
+    <verse number="21" style="v" sid="PRO 31:21" />Nie boi się śniegu dla swych domowników, bo wszyscy jej domownicy są ubrani w szkarłat.<verse eid="PRO 31:21" />
+  </para>
+  <para style="m">
+    <verse number="22" style="v" sid="PRO 31:22" />Robi sobie kobierce; jej ubiór jest z jedwabiu i purpury.<verse eid="PRO 31:22" />
+  </para>
+  <para style="m">
+    <verse number="23" style="v" sid="PRO 31:23" />Jej mąż jest znany w bramach, gdy siedzi wśród starszyzny ziemi.<verse eid="PRO 31:23" />
+  </para>
+  <para style="m">
+    <verse number="24" style="v" sid="PRO 31:24" />Wyrabia płótno i sprzedaje je, dostarcza pasy kupcowi.<verse eid="PRO 31:24" />
+  </para>
+  <para style="m">
+    <verse number="25" style="v" sid="PRO 31:25" />Siła i godność są jej strojem; będzie się cieszyła jeszcze w przyszłości.<verse eid="PRO 31:25" />
+  </para>
+  <para style="m">
+    <verse number="26" style="v" sid="PRO 31:26" />Otwiera swe usta mądrze i na jej języku jest prawo miłosierdzia.<verse eid="PRO 31:26" />
+  </para>
+  <para style="m">
+    <verse number="27" style="v" sid="PRO 31:27" />Dogląda spraw swego domu i nie je chleba próżniactwa.<verse eid="PRO 31:27" />
+  </para>
+  <para style="m">
+    <verse number="28" style="v" sid="PRO 31:28" />Jej dzieci powstają i błogosławią jej, mąż także ją chwali:<verse eid="PRO 31:28" />
+  </para>
+  <para style="m">
+    <verse number="29" style="v" sid="PRO 31:29" />Wiele kobiet poczynało sobie cnotliwie, ale ty przewyższasz je wszystkie.<verse eid="PRO 31:29" />
+  </para>
+  <para style="m">
+    <verse number="30" style="v" sid="PRO 31:30" />Wdzięk jest zwodniczy i piękność próżna, lecz kobieta, która się boi PANA, jest godna pochwały.<verse eid="PRO 31:30" />
+  </para>
+  <para style="m">
+    <verse number="31" style="v" sid="PRO 31:31" />Dajcie jej z owocu jej rąk i niech jej czyny chwalą ją w bramach.<verse eid="PRO 31:31" />
+  </para>
+  <chapter eid="PRO 31" />
+</usx>
